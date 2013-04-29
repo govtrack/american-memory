@@ -1,0 +1,41 @@
+[
+  {
+    "bill_number": "S. 4",
+    "chamber": "s",
+    "collection": "llsr",
+    "committees": "",
+    "congress": "019",
+    "dates": "18260124",
+    "description": "Mr. Bell, from the Joint Committee, appointed on the subject, reported the following Resolution; which was read, and passed to a second reading: Joint Resolution To provide for the care and preservation of the Capitol, and Capitol Square, in the City of Washington.",
+    "page": "",
+    "session": "001",
+    "tiff_filename": "00010000.tif",
+    "volume": "019"
+  },
+  {
+    "bill_number": "S. 4",
+    "chamber": "s",
+    "collection": "llsr",
+    "committees": "",
+    "congress": "019",
+    "dates": "18260124",
+    "description": "",
+    "page": "2",
+    "session": "001",
+    "tiff_filename": "00020002.tif",
+    "volume": "019"
+  },
+  {
+    "bill_number": "",
+    "chamber": "",
+    "collection": "",
+    "committees": "",
+    "congress": "",
+    "dates": "",
+    "description": "",
+    "page": "",
+    "session": "",
+    "tiff_filename": "",
+    "volume": ""
+  }
+]
