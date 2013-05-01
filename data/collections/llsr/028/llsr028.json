@@ -245,13 +245,13 @@
     "chamber": "s",
     "collection": "llsr",
     "committees": [
-      "at Savannah, Georgia."
+      "Committee on Military Affairs"
     ],
     "congress": "028",
     "dates": [
       "18440318"
     ],
-    "description": "Mr. Crittenden, from the Committee on Military Affairs, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution Concerning the site of Old Fort Wayne",
+    "description": "Mr. Crittenden, from the Committee on Military Affairs, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution Concerning the site of \"Old Fort Wayne,\" at Savannah, Georgia.",
     "page": "",
     "session": "001",
     "tiff_filename": "00140000.tif",
@@ -491,44 +491,5 @@
     "session": "001",
     "tiff_filename": "00270002.tif",
     "volume": "028"
-  },
-  {
-    "bill_numbers": [],
-    "chamber": "",
-    "collection": "",
-    "committees": [],
-    "congress": "",
-    "dates": [],
-    "description": "",
-    "page": "",
-    "session": "",
-    "tiff_filename": "",
-    "volume": ""
-  },
-  {
-    "bill_numbers": [],
-    "chamber": "",
-    "collection": "",
-    "committees": [],
-    "congress": "",
-    "dates": [],
-    "description": "",
-    "page": "",
-    "session": "",
-    "tiff_filename": "",
-    "volume": ""
-  },
-  {
-    "bill_numbers": [],
-    "chamber": "",
-    "collection": "",
-    "committees": [],
-    "congress": "",
-    "dates": [],
-    "description": "",
-    "page": "",
-    "session": "",
-    "tiff_filename": "",
-    "volume": ""
   }
 ]

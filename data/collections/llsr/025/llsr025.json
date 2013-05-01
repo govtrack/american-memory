@@ -333,14 +333,14 @@
     "chamber": "s",
     "collection": "llsr",
     "committees": [
-      "and insert A Bill;\" strike out the word \"Resolved"
+      "Committee on the Judiciary"
     ],
     "congress": "025",
     "dates": [
       "18381231",
       "18390125"
     ],
-    "description": "Agreeably to notice, Mr. Clay of Alabama, asked and obtained leave to bring in the following joint resolution; which was read twice, and referred to the Committee on the Judiciary, Reported with the following amendments, viz. Strike out the words Joint Resolution",
+    "description": "Agreeably to notice, Mr. Clay of Alabama, asked and obtained leave to bring in the following joint resolution; which was read twice, and referred to the Committee on the Judiciary, Reported with the following amendments, viz. Strike out the words \"Joint Resolution,\" and insert \"A Bill;\" strike out the word \"Resolved,\" and insert \"Be it enacted.\" Joint Resolution To quiet the title of bona fide purchasers under Spanish grants, permits, or orders of survey.",
     "page": "",
     "session": "003",
     "tiff_filename": "00190000.tif",
@@ -470,31 +470,5 @@
     "session": "003",
     "tiff_filename": "00260000.tif",
     "volume": "025"
-  },
-  {
-    "bill_numbers": [],
-    "chamber": "",
-    "collection": "",
-    "committees": [],
-    "congress": "",
-    "dates": [],
-    "description": "",
-    "page": "",
-    "session": "",
-    "tiff_filename": "",
-    "volume": ""
-  },
-  {
-    "bill_numbers": [],
-    "chamber": "",
-    "collection": "",
-    "committees": [],
-    "congress": "",
-    "dates": [],
-    "description": "",
-    "page": "",
-    "session": "",
-    "tiff_filename": "",
-    "volume": ""
   }
 ]

@@ -51,7 +51,7 @@
       "18500212",
       "18500227"
     ],
-    "description": "Agreeably to notice, Mr. Davis, of Mississippi, asked and obtained leave to bring in the following joint resolution; which was read twice, and referred to the Committee on Military Affairs. Reported without amendment. Joint Resolution For restoring the settlement of the three months extra pay\" claims to the accounting officers of the treasury.\"",
+    "description": "Agreeably to notice, Mr. Davis, of Mississippi, asked and obtained leave to bring in the following joint resolution; which was read twice, and referred to the Committee on Military Affairs. Reported without amendment. Joint Resolution For restoring the settlement of the \"three months extra pay\" claims to the accounting officers of the treasury.",
     "page": "",
     "session": "001",
     "tiff_filename": "00030000.tif",
@@ -553,14 +553,14 @@
     "chamber": "s",
     "collection": "llsr",
     "committees": [
-      "Arkansas"
+      "Committee on the Judiciary"
     ],
     "congress": "031",
     "dates": [
       "18510208",
       "18510212"
     ],
-    "description": "Agreeably to notice, Mr. Downs asked and obtained leave to bring in the following joint resolution; which was read twice, and referred to the Committee on the Judiciary. Reported without amendment, and adversely. Joint Resolution Explanatory of the act entitled An act to provide for the adjustment of land claims within the States of Missouri",
+    "description": "Agreeably to notice, Mr. Downs asked and obtained leave to bring in the following joint resolution; which was read twice, and referred to the Committee on the Judiciary. Reported without amendment, and adversely. Joint Resolution Explanatory of the act entitled \"An act to provide for the adjustment of land claims within the States of Missouri, Arkansas, and Louisiana, and in those parts of the States of Mississippi and Alabama, south of the thirty-first degree of north latitude, and between the Mississippi and Perdido rivers,\" approved seventeenth June, eighteen hundred and forty-four, and the act revived by said act.",
     "page": "",
     "session": "002",
     "tiff_filename": "00300000.tif",
@@ -651,57 +651,5 @@
     "session": "002",
     "tiff_filename": "00350000.tif",
     "volume": "031"
-  },
-  {
-    "bill_numbers": [],
-    "chamber": "",
-    "collection": "",
-    "committees": [],
-    "congress": "",
-    "dates": [],
-    "description": "",
-    "page": "",
-    "session": "",
-    "tiff_filename": "",
-    "volume": ""
-  },
-  {
-    "bill_numbers": [],
-    "chamber": "",
-    "collection": "",
-    "committees": [],
-    "congress": "",
-    "dates": [],
-    "description": "",
-    "page": "",
-    "session": "",
-    "tiff_filename": "",
-    "volume": ""
-  },
-  {
-    "bill_numbers": [],
-    "chamber": "",
-    "collection": "",
-    "committees": [],
-    "congress": "",
-    "dates": [],
-    "description": "",
-    "page": "",
-    "session": "",
-    "tiff_filename": "",
-    "volume": ""
-  },
-  {
-    "bill_numbers": [],
-    "chamber": "",
-    "collection": "",
-    "committees": [],
-    "congress": "",
-    "dates": [],
-    "description": "",
-    "page": "",
-    "session": "",
-    "tiff_filename": "",
-    "volume": ""
   }
 ]

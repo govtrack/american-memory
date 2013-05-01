@@ -4342,17 +4342,32 @@
     ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": [
-      "eighteen hundred and sixty-five"
-    ],
+    "committees": [],
     "congress": "042",
     "dates": [
       "18710307"
     ],
-    "description": "Mr. Sawyer asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice and ordered to be printed. A Bill Authorizing the Secretary of the Treasury to pay to the claimants the proceeds of certain cotton seized in violation of instructions from the Treasury Department, and which have been erroneously covered into the Treasury. Whereas the Secretary of the Treasury, by a circular letter of instructions to the agents of that Department, bearing date June twenty-seventh, eighteen hundred and sixty-five, prohibited the seizure of any cotton by such agents after the receipt thereof, directing the return of all property or money received or collected\" after the thirteenth day of June",
+    "description": "Mr. Sawyer asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice and ordered to be printed. A Bill Authorizing the Secretary of the Treasury to pay to the claimants the proceeds of certain cotton seized in violation of instructions from the Treasury Department, and which have been erroneously covered into the Treasury. Whereas the Secretary of the Treasury, by a circular letter of instructions to the agents of that Department, bearing date June twenty-seventh, eighteen hundred and sixty-five, prohibited the seizure of any cotton by such agents after the receipt thereof, directing the return of \"all property or money received or collected\" after the thirteenth day of June, eighteen hundred and sixty-five, east of the Mississippi River, and after the twenty-fourth of June west of said river, and terminating the existence of said agencies after the thirtieth day of June, eighteen hundred and sixty-five; and whereas certain lots of cotton were seized by such agents long after their removal from office, and without authority of law, the proceeds of which have been covered into the Treasury: Therefore,",
     "page": "",
     "session": "001",
     "tiff_filename": "02540000.tif",
+    "volume": "042"
+  },
+  {
+    "bill_numbers": [
+      "S. 26"
+    ],
+    "chamber": "s",
+    "collection": "llsb",
+    "committees": [],
+    "congress": "042",
+    "dates": [
+      "18710307"
+    ],
+    "description": "",
+    "page": "2",
+    "session": "001",
+    "tiff_filename": "02550002.tif",
     "volume": "042"
   },
   {
@@ -6715,14 +6730,12 @@
     ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": [
-      "approved July twenty-fifth, eighteen hundred and sixty-six."
-    ],
+    "committees": [],
     "congress": "042",
     "dates": [
       "18710307"
     ],
-    "description": "Mr. Harlan asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice and ordered to be printed. A Bill To amend an act entitled An act to authorize the construction of certain bridges and to establish them as post roads",
+    "description": "Mr. Harlan asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice and ordered to be printed. A Bill To amend an act entitled \"An act to authorize the construction of certain bridges and to establish them as post roads,\" approved July twenty-fifth, eighteen hundred and sixty-six.",
     "page": "",
     "session": "001",
     "tiff_filename": "03930000.tif",
@@ -6768,14 +6781,12 @@
     ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": [
-      "tenements"
-    ],
+    "committees": [],
     "congress": "042",
     "dates": [
       "18710307"
     ],
-    "description": "Mr. Wilson asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice and ordered to be printed. A Bill For the relief of the purchasers of lots and houses and lots sold by virtue of an act of Congress entitled An act providing for the sale of the lands",
+    "description": "Mr. Wilson asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice and ordered to be printed. A Bill For the relief of the purchasers of lots and houses and lots sold by virtue of an act of Congress entitled \"An act providing for the sale of the lands, tenements, and water privileges belonging to the United States at and near Harper's Ferry, in the county of Jefferson, West Virginia,\" approved December fifteenth, eighteen hundred and sixty-eight.",
     "page": "",
     "session": "001",
     "tiff_filename": "03960000.tif",
@@ -8181,14 +8192,12 @@
     ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": [
-      "approved April tenth, eighteen hundred and sixty-nine."
-    ],
+    "committees": [],
     "congress": "042",
     "dates": [
       "18710309"
     ],
-    "description": "Mr. Poll asked and, by unanimous consent, obtained leave to bring in the the following bill; which was read twice and ordered to be printed. A Bill To amend an act entitled An act to remove the charge of desertion from certain soldiers of the Thirteenth Tennessee Cavalry",
+    "description": "Mr. Poll asked and, by unanimous consent, obtained leave to bring in the the following bill; which was read twice and ordered to be printed. A Bill To amend an act entitled \"An act to remove the charge of desertion from certain soldiers of the Thirteenth Tennessee Cavalry,\" approved April tenth, eighteen hundred and sixty-nine.",
     "page": "",
     "session": "001",
     "tiff_filename": "04790000.tif",
@@ -8614,14 +8623,12 @@
     ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": [
-      "in Mr. Morton's proposed amendment, and insert the following:"
-    ],
+    "committees": [],
     "congress": "042",
     "dates": [
       "18721219"
     ],
-    "description": "Ordered to be printed. Amendment Intended to be proposed by Mr. Wright to the amendment intended to be proposed by Mr. Morton to the bill (S. 100) to provide for the adjustment and satisfaction of claims of American citizens for spoliations committed by the French prior to the thirty-first day of July, eighteen hundred and one, viz: Strike out all after the word Provided",
+    "description": "Ordered to be printed. Amendment Intended to be proposed by Mr. Wright to the amendment intended to be proposed by Mr. Morton to the bill (S. 100) to provide for the adjustment and satisfaction of claims of American citizens for spoliations committed by the French prior to the thirty-first day of July, eighteen hundred and one, viz: Strike out all after the word \"Provided,\" in Mr. Morton's proposed amendment, and insert the following:",
     "page": "",
     "session": "003",
     "tiff_filename": "05030000.tif",
@@ -10879,13 +10886,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved August eighteenth, eighteen hundred and fifty-six."
+      "Committee on Commerce"
     ],
     "congress": "042",
     "dates": [
       "18710313"
     ],
-    "description": "Mr. Vickers asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Commerce, and ordered to be printed. A Bill To amend at act entitled An act to authorize protection to be given to citizens of the United States who may discover deposits of guano",
+    "description": "Mr. Vickers asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Commerce, and ordered to be printed. A Bill To amend at act entitled \"An act to authorize protection to be given to citizens of the United States who may discover deposits of guano,\" approved August eighteenth, eighteen hundred and fifty-six.",
     "page": "",
     "session": "001",
     "tiff_filename": "06350000.tif",
@@ -10972,13 +10979,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "in alternate sections"
+      "Committee on Public Lands"
     ],
     "congress": "042",
     "dates": [
       "18710313"
     ],
-    "description": "Mr. Harlan asked and, by unanimous consent, obtained leave to bring in the following bill; which was rend twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill To amend an act entitled An act for a grant of lands to the State of Iowa",
+    "description": "Mr. Harlan asked and, by unanimous consent, obtained leave to bring in the following bill; which was rend twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill To amend an act entitled \"An act for a grant of lands to the State of Iowa, in alternate sections, to aid in the construction of a railroad in said State,\" approved May twelfth, eighteen hundred and sixty-four; and to grant lands to aid in the construction of a railroad from O'Brien County, Iowa, to the Missouri River.",
     "page": "",
     "session": "001",
     "tiff_filename": "06400000.tif",
@@ -12232,13 +12239,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "That William P. Thomasson"
+      "Committee on Claims"
     ],
     "congress": "042",
     "dates": [
       "18710313"
     ],
-    "description": "Mr. Pratt asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Claims. and ordered to be printed. A Bill For the relief of those suffering from the destruction of the salt works near Manchester, Kentucky, pursuant to the orders of Major General Carlos Buell. Whereas, on the sixteenth day of February, eighteen hundred and sixty-three, the Adjutant General, by order of the Secretary of War, made the following order: Ordered",
+    "description": "Mr. Pratt asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Claims. and ordered to be printed. A Bill For the relief of those suffering from the destruction of the salt works near Manchester, Kentucky, pursuant to the orders of Major General Carlos Buell. Whereas, on the sixteenth day of February, eighteen hundred and sixty-three, the Adjutant General, by order of the Secretary of War, made the following order: \"Ordered, That William P. Thomasson, esquire, of Louisville, Kentucky, be, and he is hereby, authorized to investigate and report to this Department, the value of the Goose Creek Salt Mills, destroyed by the order of Major General Buell, in Kentucky; that he give notice to the proprietors or their agents of the time and place at which he will receive testimony; and that he take such further testimony on the part of the Government as may be necessary to protect the rights and interests of the Government, as well upon the point of value as of the loyalty of the proprietors to the Government of the United States.\" And whereas the said commissioner, on the thirteenth day of May following, submitted his report to the Secretary of War, in which he estimated the injuries done to the several salt wells, their pumps and pipes, the deterioration to the furnaces and fixtures, and the value of the salt and salt barrels destroyed and in which, also, he estimated and allowed such sums as would have been realized from the production of salt, but for such destruction, for the period of eight months succeeding the date of destruction. And whereas he classified in his schedule his allowances, as follows, to wit:--Case number one: The United States to T. T. Garrard, debtor, for injury to well, pump, pipe, and so forth, five hundred dollars; for one hundred and twenty four salt barrels, at forty cents each, forty-nine dollars and sixty cents; for six thousand three hundred bushels of salt destroyed, at fifty cents per bushel, three thousand one hundred and fifty dollars; for deterioration of furnace and fixtures by non-usage, five hundred dollars; for nine thousand two hundred bushels salt, the anticipated yield for eight months, at fifty cents, nine thousand six hundred dollars, making a total of thirteen thousand seven hundred and ninety-nine dollars and sixty cents. Case number two: The United States to James W. Reid, debtor, for injury to well, pump, pipe, and so forth, five hundred dollars; for five thousand bushels salt destroyed, two thousand five hundred dollars; for deterioration of furnaces and fixtures, five hundred dollars; for eleven thousand two hundred bushels salt, the anticipated yield for eight months, five thousand six hundred dollars, making a total of nine thousand one hundred dollars. Case number three: The United States to White, Horton and Garrard, debtor, for injury to well, pump, pipe, and so forth, five hundred dollars; for two thousand bushels of salt destroyed, one thousand dollars; for deterioration of furnace and fixtures by non-usage, five hundred and fifty dollars; for sixteen thousand bushels salt, the anticipated yield for eight months, eight thousand dollars, making a total of ten thousand and fifty dollars. Case number four: The United States to Gilson and Chastam, debtor, for injury to well, pump, pipe, and so forth, five hundred dollars; for eight thousand bushels salt destroyed, four thousand dollars; for deterioration by non-usage of furnace and fixtures, five hundred dollars; for nine thousand six hundred bushels salt, the anticipated yield for eight months, four thousand eight hundred dollars, making a total of nine thousand eight hundred dollars. Case number five: The United States to I. and D. White, debtor, for injury to wells, pumps, pipes, and so forth, one thousand dollars; for injury to water-pipe, furnace, and so forth, one thousand dollars; for nine thousand bushels salt destroyed, at fifty cents per bushel, four thousand five hundred dollars; for deterioration by non-usage to furnace and fixtures, five hundred and fifty dollars; for twenty thousand bushels salt, the anticipated yield for eight months, ten thousand dollars, making a total of seventeen thousand and fifty dollars. Case number six: The United States to I. and D. White, survivors, for injury to well, pump, and pipe, five hundred dollars. And whereas said report, under a call of the House of Representatives at the first session of the Thirty-eighth Congress, was furnished by the Secretary of War and printed as Executive Document twenty-nine. And whereas said report of the commissioner has never been acted upon, and the said parties, in favor of whom said allowances were made, were in some cases proprietors and in others lessees, and changes by death, assignment, or otherwise may have occurred during the time which has elapsed since said report was made, and it is desirable that the parties entitled to the sums hereinafter named on account of the injuries and losses aforesaid should be paid: Now, therefore,",
     "page": "",
     "session": "001",
     "tiff_filename": "07100000.tif",
@@ -12488,13 +12495,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and for other purposes"
+      "Committee on the Pacific Railroad"
     ],
     "congress": "042",
     "dates": [
       "18710313"
     ],
-    "description": "Mr. Kellogg asked, and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Pacific Railroad, and ordered to be printed. A Bill To amend an act entitled An act to incorporate the Texas Pacific Railroad Company and to aid in the construction of its road",
+    "description": "Mr. Kellogg asked, and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Pacific Railroad, and ordered to be printed. A Bill To amend an act entitled \"An act to incorporate the Texas Pacific Railroad Company and to aid in the construction of its road, and for other purposes,\" approved March third, eighteen hundred and seventy-one.",
     "page": "",
     "session": "001",
     "tiff_filename": "07240000.tif",
@@ -12852,13 +12859,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "which"
+      "Committee on Public Lands"
     ],
     "congress": "042",
     "dates": [
       "18710314"
     ],
-    "description": "Mr. Nye asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill To aid in the construction of the Sutro tunnel from the proceeds of the sale of mineral lands. Whereas our public lands contain mines of the precious metals which are unsurpassed in richness, and can with proper development he made speedily to enhance the value of all property, and thereby relieve the burdens of the people; and whereas a wise policy indicates that the revenue derived from our mineral lands should, to some extent, be devoted again to the much-needed development of that important interest; and whereas Congress, by an act approved July twenty-fifth, eighteen hundred and sixty-six, authorized the construction of a draining and exploring tunnel to the Comstock lode, in the State of Nevada, and granted to Adolph Sutro certain rights and privileges, which have been assigned, transferred, and set over to a corporation duly organized under the laws of the State of California, and known as the Sutro Tunnel Company;\" and whereas great benefits will accrue to the people of the United States from the construction of said tunnel",
+    "description": "Mr. Nye asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill To aid in the construction of the Sutro tunnel from the proceeds of the sale of mineral lands. Whereas our public lands contain mines of the precious metals which are unsurpassed in richness, and can with proper development he made speedily to enhance the value of all property, and thereby relieve the burdens of the people; and whereas a wise policy indicates that the revenue derived from our mineral lands should, to some extent, be devoted again to the much-needed development of that important interest; and whereas Congress, by an act approved July twenty-fifth, eighteen hundred and sixty-six, authorized the construction of a draining and exploring tunnel to the Comstock lode, in the State of Nevada, and granted to Adolph Sutro certain rights and privileges, which have been assigned, transferred, and set over to a corporation duly organized under the laws of the State of California, and known as the \"Sutro Tunnel Company;\" and whereas great benefits will accrue to the people of the United States from the construction of said tunnel, which, as a great geological survey, penetrating into the very bowels of an argentiferous mountain to a greater depth than",
     "page": "",
     "session": "001",
     "tiff_filename": "07440000.tif",
@@ -13295,13 +13302,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and to provide for the circulation and redemption thereof"
+      "Committee on Banking and Currency"
     ],
     "congress": "042",
     "dates": [
       "18720214"
     ],
-    "description": "Read twice, referred to the Committee on Banking and Currency, and ordered to be printed. An Act To amend an act entitled An act to provide a national currency secured by pledge of United States bonds",
+    "description": "Read twice, referred to the Committee on Banking and Currency, and ordered to be printed. An Act To amend an act entitled \"An act to provide a national currency secured by pledge of United States bonds, and to provide for the circulation and redemption thereof,\" approved June third, eighteen hundred and sixty-four.",
     "page": "",
     "session": "002",
     "tiff_filename": "07690000.tif",
@@ -13333,13 +13340,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and for other purposes"
+      "Committee on Commerce"
     ],
     "congress": "042",
     "dates": [
       "18710314"
     ],
-    "description": "Mr. Hamilton asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Commerce; and ordered to be printed. A Bill To amend an act entitled An act to provide for the better security of life on board of vessels propelled in whole or in part by steam",
+    "description": "Mr. Hamilton asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Commerce; and ordered to be printed. A Bill To amend an act entitled \"An act to provide for the better security of life on board of vessels propelled in whole or in part by steam, and for other purposes,\" approved February twenty-eighth, eighteen hundred and seventy-one.",
     "page": "",
     "session": "001",
     "tiff_filename": "07710000.tif",
@@ -14562,13 +14569,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved February twenty-fifth, eighteen hundred and sixty-five."
+      "Committee on Pensions"
     ],
     "congress": "042",
     "dates": [
       "18710315"
     ],
-    "description": "Mr. Sawyer asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Pensions, and ordered to be printed. A Bill To amend an act entitled An act for the relief of Rebecca S. Harrison",
+    "description": "Mr. Sawyer asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Pensions, and ordered to be printed. A Bill To amend an act entitled \"An act for the relief of Rebecca S. Harrison,\" approved February twenty-fifth, eighteen hundred and sixty-five.",
     "page": "",
     "session": "001",
     "tiff_filename": "08400000.tif",
@@ -15051,13 +15058,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "in alternate sections"
+      "Committee on Public Lands"
     ],
     "congress": "042",
     "dates": [
       "18710316"
     ],
-    "description": "Mr. Wright asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill To amend an act entitled An act for a grant of lands to the State of Iowa",
+    "description": "Mr. Wright asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill To amend an act entitled \"An act for a grant of lands to the State of Iowa, in alternate sections, to aid in the construction of a railroad in said State,\" approved May twelfth, eighteen hundred and sixty-four.",
     "page": "",
     "session": "001",
     "tiff_filename": "08670000.tif",
@@ -15087,13 +15094,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved January twenty-second, eighteen hundred and sixty-seven."
+      "Committee on Privileges and Elections"
     ],
     "congress": "042",
     "dates": [
       "18710316"
     ],
-    "description": "Mr. Wright, asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Privileges and Elections, and ordered to be printed. A Bill To repeal an act entitled An act to fix the times for the regular meetings of Congress",
+    "description": "Mr. Wright, asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Privileges and Elections, and ordered to be printed. A Bill To repeal an act entitled \"An act to fix the times for the regular meetings of Congress,\" approved January twenty-second, eighteen hundred and sixty-seven.",
     "page": "",
     "session": "001",
     "tiff_filename": "08690000.tif",
@@ -15835,13 +15842,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "Mobile and Chattanooga Railroad Company"
+      "Committee on Commerce"
     ],
     "congress": "042",
     "dates": [
       "18710317"
     ],
-    "description": "Mr. Spencer asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Commerce, and ordered to be printed. A Bill To amend an act entitled An act to establish and declare the railroad and bridges of the New Orleans",
+    "description": "Mr. Spencer asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Commerce, and ordered to be printed. A Bill To amend an act entitled \"An act to establish and declare the railroad and bridges of the New Orleans, Mobile and Chattanooga Railroad Company, as hereafter constructed, a post road, and for other purposes,\" approved March second, eighteen hundred and sixty-eight.",
     "page": "",
     "session": "001",
     "tiff_filename": "09110000.tif",
@@ -18070,13 +18077,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "executive"
+      "Committee on the Judiciary"
     ],
     "congress": "042",
     "dates": [
       "18710324"
     ],
-    "description": "Mr. Sawyer asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To repeal part of a clause in the first section of An act making appropriations for the legislative",
+    "description": "Mr. Sawyer asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To repeal part of a clause in the first section of \"An act making appropriations for the legislative, executive, and judicial expenses of the Government for the year ending June thirtieth, eighteen hundred and seventy-one,\" approved July twelfth, eighteen hundred and seventy.",
     "page": "",
     "session": "001",
     "tiff_filename": "10360000.tif",
@@ -20101,14 +20108,12 @@
     ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": [
-      "and the widows of deceased soldiers"
-    ],
+    "committees": [],
     "congress": "042",
     "dates": [
       "18711205"
     ],
-    "description": "Mr. Cooper asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice and ordered to be printed. A Bill To amend an act entitled An act granting pensions to certain soldiers and sailors of the war of eighteen hundred and twelve",
+    "description": "Mr. Cooper asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice and ordered to be printed. A Bill To amend an act entitled \"An act granting pensions to certain soldiers and sailors of the war of eighteen hundred and twelve, and the widows of deceased soldiers,\" approved February fourteenth, eighteen hundred and seventy-one.",
     "page": "",
     "session": "002",
     "tiff_filename": "11520000.tif",
@@ -22240,14 +22245,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "on the ninth day of October"
+      "Committee on the Judiciary"
     ],
     "congress": "042",
     "dates": [
       "18711211",
       "18720115"
     ],
-    "description": "Mr. Trumbull asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. Reported by Mr. Trumbull, with amendments, viz: Strike out the parts in [brackets] and insert the parts printed in italics. A Bill To amend An act relating to records of the courts of the United States and restore the records of the United States courts in the northern district of Illinois.\" [Whereas the records and files of the circuit and the district courts of the United States for the northern district of Illinois were totally destroyed by fire",
+    "description": "Mr. Trumbull asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. Reported by Mr. Trumbull, with amendments, viz: Strike out the parts in [brackets] and insert the parts printed in italics. A Bill To amend \"An act relating to records of the courts of the United States and restore the records of the United States courts in the northern district of Illinois.\" [Whereas the records and files of the circuit and the district courts of the United States for the northern district of Illinois were totally destroyed by fire, on the ninth day of October, anno Domini eighteen hundred and seventy-one: Therefore,]",
     "page": "",
     "session": "002",
     "tiff_filename": "12750000.tif",
@@ -23260,13 +23265,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and for other purposes"
+      "Committee on Finance"
     ],
     "congress": "042",
     "dates": [
       "18720116"
     ],
-    "description": "Ordered to be printed. Amendment Intended to be proposed by Mr. Logan to the amendment reported from the Committee on Finance to the bill (S. 362) declaratory of an act entitled An act to reduce internal taxes",
+    "description": "Ordered to be printed. Amendment Intended to be proposed by Mr. Logan to the amendment reported from the Committee on Finance to the bill (S. 362) declaratory of an act entitled \"An act to reduce internal taxes, and for other purposes,\" approved July fourteenth eighteen hundred and seventy, namely: Insert at the end of the amendment reported the following:",
     "page": "",
     "session": "002",
     "tiff_filename": "13320000.tif",
@@ -23279,13 +23284,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and for other purposes"
+      "Committee on Finance"
     ],
     "congress": "042",
     "dates": [
       "18720116"
     ],
-    "description": "Ordered to be printed. Amendment Reported by Mr. Scott, from the Committee on Finance, and proposed to the reported amendment to the bill (S. 362) declaratory of an act entitled An act to reduce internal taxes",
+    "description": "Ordered to be printed. Amendment Reported by Mr. Scott, from the Committee on Finance, and proposed to the reported amendment to the bill (S. 362) declaratory of an act entitled \"An act to reduce internal taxes, and for other purposes,\" approved July fourteenth, eighteen hundred and seventy, viz:",
     "page": "",
     "session": "002",
     "tiff_filename": "13330000.tif",
@@ -23297,14 +23302,12 @@
     ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": [
-      "and for other purposes"
-    ],
+    "committees": [],
     "congress": "042",
     "dates": [
       "18720129"
     ],
-    "description": "Ordered to be printed. Amendment Intended to be proposed by Mr. Scott, as a substitute, to the bill (S. 362) declaratory of an act entitled An act to reduce internal taxes",
+    "description": "Ordered to be printed. Amendment Intended to be proposed by Mr. Scott, as a substitute, to the bill (S. 362) declaratory of an act entitled \"An act to reduce internal taxes, and for other purposes,\" approved July fourteenth, eighteen hundred and seventy.",
     "page": "",
     "session": "002",
     "tiff_filename": "13340000.tif",
@@ -23643,13 +23646,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and for other purposes"
+      "Committee on the Judiciary"
     ],
     "congress": "042",
     "dates": [
       "18711212"
     ],
-    "description": "Mr. Conkling asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To amend an act entitled An act regulating proceedings in criminal cases",
+    "description": "Mr. Conkling asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To amend an act entitled \"An act regulating proceedings in criminal cases, and for other purposes,\" approved March third, eighteen hundred and sixty-five.",
     "page": "",
     "session": "002",
     "tiff_filename": "13530000.tif",
@@ -25030,13 +25033,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "anno Domini eighteen hundred and sixty-four"
+      "Committee on Public Lands"
     ],
     "congress": "042",
     "dates": [
       "18711218"
     ],
-    "description": "Mr. Stewart asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill To amend an act entitled An act supplementary to an act approved July first",
+    "description": "Mr. Stewart asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill To amend an act entitled \"An act supplementary to an act approved July first, anno Domini eighteen hundred and sixty-four, for the disposal of coal-lands and town-property in the public domain,\" approved March third, eighteen hundred and sixty-five.",
     "page": "",
     "session": "002",
     "tiff_filename": "14310000.tif",
@@ -27069,13 +27072,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "eighteen hundred and seventy"
+      "Committee on the Judiciary"
     ],
     "congress": "042",
     "dates": [
       "18720109"
     ],
-    "description": "Mr. Frelinghuysen asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill Supplementary to an act entitled An act to amend an act approved May thirty-first",
+    "description": "Mr. Frelinghuysen asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill Supplementary to an act entitled \"An act to amend an act approved May thirty-first, eighteen hundred and seventy, entitled 'An act to enforce the rights of citizens of the United States to vote in the several States of this Union, and for other purposes,'\" passed February twenty-eighth, eighteen hundred and seventy-one.",
     "page": "",
     "session": "002",
     "tiff_filename": "15450000.tif",
@@ -27145,13 +27148,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "the pension and revenue officers"
+      "Committee on Public Buildings and Grounds"
     ],
     "congress": "042",
     "dates": [
       "18720109"
     ],
-    "description": "Mr. Stockton asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Buildings and Grounds, and ordered to be printed. A Bill Supplementary to an act entitled An act to provide for a building suited to the use of the post-office",
+    "description": "Mr. Stockton asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Buildings and Grounds, and ordered to be printed. A Bill Supplementary to an act entitled \"An act to provide for a building suited to the use of the post-office, the pension and revenue officers, and the judicial officers of the United States, in the city of Trenton, New Jersey,\" approved March third, eighteen hundred and seventy-one. Whereas it has been reported by the Secretary of the Treasury that it is impossible to erect the building required by the act to which this is a supplement for the sum of one hundred thousand dollars, appropriated for that purpose: Therefore,",
     "page": "",
     "session": "002",
     "tiff_filename": "15490000.tif",
@@ -27164,14 +27167,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "the pension and revenue officers"
+      "Committee on Public Buildings and Grounds"
     ],
     "congress": "042",
     "dates": [
       "18720109",
       "18720205"
     ],
-    "description": "Mr. Stockton asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Buildings and Grounds, and ordered to be printed. Reported by Mr. Stockton, with amendments, viz: Strike out the parts in [brackets] and insert the parts printed in italics. A Bill [Supplementary] to amend an act entitled An act to provide for a building suited to the use of the post-office",
+    "description": "Mr. Stockton asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Buildings and Grounds, and ordered to be printed. Reported by Mr. Stockton, with amendments, viz: Strike out the parts in [brackets] and insert the parts printed in italics. A Bill [Supplementary] to amend an act entitled \"An act to provide for a building suited to the use of the post-office, the pension and revenue officers, and the judicial officers of the United States, in the city of Trenton, New Jersey,\" approved March third, eighteen hundred and seventy-one. [Whereas it has been reported by the Secretary of the Treasury that it is impossible to erect the building required by the act to which this is a supplement for the sum of one hundred thousand dollars, appropriated for that purpose: Therefore,]",
     "page": "",
     "session": "002",
     "tiff_filename": "15500000.tif",
@@ -27367,13 +27370,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and the several acts amendatory thereof."
+      "Committee on the Judiciary"
     ],
     "congress": "042",
     "dates": [
       "18720109"
     ],
-    "description": "Mr. Trumbull asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To amend an act entitled An act to establish a uniform system of bankruptcy throughout the United States",
+    "description": "Mr. Trumbull asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To amend an act entitled \"An act to establish a uniform system of bankruptcy throughout the United States,\" and the several acts amendatory thereof.",
     "page": "",
     "session": "002",
     "tiff_filename": "15610000.tif",
@@ -27403,14 +27406,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and the several acts amendatory thereof."
+      "Committee on the Judiciary"
     ],
     "congress": "042",
     "dates": [
       "18730109",
       "18720521"
     ],
-    "description": "Mr. Trumbull asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. Reported by Mr. Carpenter with amendments, viz: Insert the parts printed in italics. A Bill To amend an act entitled An act to establish a uniform system of bankruptcy throughout the United States",
+    "description": "Mr. Trumbull asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. Reported by Mr. Carpenter with amendments, viz: Insert the parts printed in italics. A Bill To amend an act entitled \"An act to establish a uniform system of bankruptcy throughout the United States,\" and the several acts amendatory thereof.",
     "page": "",
     "session": "002",
     "tiff_filename": "15630000.tif",
@@ -27478,13 +27481,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved February twenty-second, eighteen hundred and sixty-seven."
+      "Committee on Military Affairs"
     ],
     "congress": "042",
     "dates": [
       "18720109"
     ],
-    "description": "Mr. Wilson asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. A Bill To amend an act entitled An act to establish and to protect national cemeteries",
+    "description": "Mr. Wilson asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. A Bill To amend an act entitled \"An act to establish and to protect national cemeteries,\" approved February twenty-second, eighteen hundred and sixty-seven.",
     "page": "",
     "session": "002",
     "tiff_filename": "15670000.tif",
@@ -28267,13 +28270,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved August eighteenth, eighteen hundred and fifty-six."
+      "Committee on Commerce"
     ],
     "congress": "042",
     "dates": [
       "18720110"
     ],
-    "description": "Mr. Nye asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Commerce, and ordered to be printed. A Bill To amend an act entitled An act to authorize protection to be given to citizens of the United States who may discover deposits of guano",
+    "description": "Mr. Nye asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Commerce, and ordered to be printed. A Bill To amend an act entitled \"An act to authorize protection to be given to citizens of the United States who may discover deposits of guano,\" approved August eighteenth, eighteen hundred and fifty-six.",
     "page": "",
     "session": "002",
     "tiff_filename": "16110000.tif",
@@ -28729,13 +28732,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved June thirtieth, eighteen hundred and seventy."
+      "Committee on Military Affairs"
     ],
     "congress": "042",
     "dates": [
       "18720116"
     ],
-    "description": "Mr. Blair asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. A Bill To amend an act entitled An act supplementary to an act to provide for furnishing artificial limbs to disabled soldiers",
+    "description": "Mr. Blair asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. A Bill To amend an act entitled \"An act supplementary to an act to provide for furnishing artificial limbs to disabled soldiers,\" approved June thirtieth, eighteen hundred and seventy.",
     "page": "",
     "session": "002",
     "tiff_filename": "16360000.tif",
@@ -28765,14 +28768,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved June thirtieth, eighteen hundred and seventy."
+      "Committee on Military Affairs"
     ],
     "congress": "042",
     "dates": [
       "18720510",
       "18720511"
     ],
-    "description": "Referred with amendment of the House of Representatives to the Committee on Military Affairs. Reported by Mr. Wilson, with the recommendation that the Senate agree to the amendment of the House of Representatives. An Act To amend an act entitled An act supplementary to an act to provide for furnishing artificial limbs to disabled soldiers",
+    "description": "Referred with amendment of the House of Representatives to the Committee on Military Affairs. Reported by Mr. Wilson, with the recommendation that the Senate agree to the amendment of the House of Representatives. An Act To amend an act entitled \"An act supplementary to an act to provide for furnishing artificial limbs to disabled soldiers,\" approved June thirtieth, eighteen hundred and seventy.",
     "page": "",
     "session": "002",
     "tiff_filename": "16380000.tif",
@@ -28821,13 +28824,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "passed August eighteenth, eighteen hundred and fifty-six, and for other purposes."
+      "Committee on Commerce"
     ],
     "congress": "042",
     "dates": [
       "18720116"
     ],
-    "description": "Mr. Spencer asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Commerce, and ordered to be printed. A Bill To amend an act entitled An act to regulate the diplomatic and consular systems of the United States",
+    "description": "Mr. Spencer asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Commerce, and ordered to be printed. A Bill To amend an act entitled \"An act to regulate the diplomatic and consular systems of the United States,\" passed August eighteenth, eighteen hundred and fifty-six, and for other purposes.",
     "page": "",
     "session": "002",
     "tiff_filename": "16410000.tif",
@@ -29061,14 +29064,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "passed August eighteenth, eighteen hundred and fifty-six, and for other purposes."
+      "Committee on Commerce"
     ],
     "congress": "042",
     "dates": [
       "18720116",
       "18720229"
     ],
-    "description": "Mr. Spencer asked and, by unanimous consent, obtained leave to bring in the following bill, which was read twice, referred to the Committee on Commerce, and ordered to be printed. Reported by Mr. Spencer, with amendments, viz: Strike out the parts in [brackets] and insert the parts printed in italics. A Bill To amend an act entitled An act to regulate the diplomatic and consular systems of the United States",
+    "description": "Mr. Spencer asked and, by unanimous consent, obtained leave to bring in the following bill, which was read twice, referred to the Committee on Commerce, and ordered to be printed. Reported by Mr. Spencer, with amendments, viz: Strike out the parts in [brackets] and insert the parts printed in italics. A Bill To amend an act entitled \"An act to regulate the diplomatic and consular systems of the United States,\" passed August eighteenth, eighteen hundred and fifty-six, and for other purposes.",
     "page": "",
     "session": "002",
     "tiff_filename": "16550000.tif",
@@ -29351,13 +29354,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "passed August eighteenth, eighteen hundred and fifty-six, and for other purposes."
+      "Committee on Foreign Affairs"
     ],
     "congress": "042",
     "dates": [
       "18720405"
     ],
-    "description": "Read twice, referred to the Committee on Foreign Affairs, and ordered to be printed. An Act To amend an act entitled An act to regulate the diplomatic and consular systems of the United States",
+    "description": "Read twice, referred to the Committee on Foreign Affairs, and ordered to be printed. An Act To amend an act entitled \"An act to regulate the diplomatic and consular systems of the United States,\" passed August eighteenth, eighteen hundred and fifty-six, and for other purposes.",
     "page": "",
     "session": "002",
     "tiff_filename": "16710000.tif",
@@ -29591,14 +29594,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "passed August eighteenth, eighteen hundred and fifty-six, and for other purposes."
+      "Committee on Foreign Affairs"
     ],
     "congress": "042",
     "dates": [
       "18720405",
       "18731216"
     ],
-    "description": "Read twice, referred to the Committee on Foreign Affairs, and ordered to be printed. Reported by Mr. Banks, from the Committee on Foreign Affairs, and ordered to be printed and recommitted to the committee. An Act To amend an act entitled An act to regulate the diplomatic and consular systems of the United States",
+    "description": "Read twice, referred to the Committee on Foreign Affairs, and ordered to be printed. Reported by Mr. Banks, from the Committee on Foreign Affairs, and ordered to be printed and recommitted to the committee. An Act To amend an act entitled \"An act to regulate the diplomatic and consular systems of the United States,\" passed August eighteenth, eighteen hundred and fifty-six, and for other purposes.",
     "page": "",
     "session": "003",
     "tiff_filename": "16850000.tif",
@@ -30761,13 +30764,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "judgments"
+      "Committee on the Judiciary"
     ],
     "congress": "042",
     "dates": [
       "18720116"
     ],
-    "description": "Mr. Kellogg asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To declare the true intent, meaning, and effect of the act entitled An act to provide for the suits",
+    "description": "Mr. Kellogg asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To declare the true intent, meaning, and effect of the act entitled \"An act to provide for the suits, judgments, and business of the United States provisional court for the State of Louisiana,\" approved July twenty-eighth, eighteen hundred and sixty-six.",
     "page": "",
     "session": "002",
     "tiff_filename": "17510000.tif",
@@ -30797,13 +30800,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and for other purposes"
+      "Committee on Privileges and Elections"
     ],
     "congress": "042",
     "dates": [
       "18720116"
     ],
-    "description": "Mr. Kellogg asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Privileges and Elections, and ordered to be printed. A Bill To amend an act entitled An act to amend the naturalization laws and to punish crimes against the same",
+    "description": "Mr. Kellogg asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Privileges and Elections, and ordered to be printed. A Bill To amend an act entitled \"An act to amend the naturalization laws and to punish crimes against the same, and for other purposes,\" approved July fourteenth, eighteen hundred and seventy.",
     "page": "",
     "session": "002",
     "tiff_filename": "17530000.tif",
@@ -31604,13 +31607,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and to amend the same."
+      "Committee on Public Lands"
     ],
     "congress": "042",
     "dates": [
       "18720122"
     ],
-    "description": "Mr. Blair asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill In regard to entries by pre-emption under the act of Congress, approved September fourth, eighteen hundred and forty-one, entitled An act to appropriate the proceeds of the sales of the public lands and to grant pre-emption rights",
+    "description": "Mr. Blair asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill In regard to entries by pre-emption under the act of Congress, approved September fourth, eighteen hundred and forty-one, entitled \"An act to appropriate the proceeds of the sales of the public lands and to grant pre-emption rights,\" and to amend the same.",
     "page": "",
     "session": "002",
     "tiff_filename": "17980000.tif",
@@ -32022,13 +32025,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "in the years eighteen hundred and fifty-five and eighteen hundred and fifty-six"
+      "Committee on Military Affairs"
     ],
     "congress": "042",
     "dates": [
       "18720122"
     ],
-    "description": "Mr. Corbett asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. A Bill To amend an act entitled An act to provide for the payment of expenses incurred by the Territories of Washington and Oregon in the suppression of Indian hostilities",
+    "description": "Mr. Corbett asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. A Bill To amend an act entitled \"An act to provide for the payment of expenses incurred by the Territories of Washington and Oregon in the suppression of Indian hostilities, in the years eighteen hundred and fifty-five and eighteen hundred and fifty-six,\" approved March second, eighteen hundred and sixty-one.",
     "page": "",
     "session": "002",
     "tiff_filename": "18210000.tif",
@@ -32058,14 +32061,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved March second, eighteen hundred and sixty-one."
+      "Committee on Military Affairs"
     ],
     "congress": "042",
     "dates": [
       "18720122",
       "18720416"
     ],
-    "description": "Mr. Corbett asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. Reported by Mr. Ames with an amendment, viz: Insert the words printed in italics. A Bill To amend an act entitled An act to provide for the payment of expenses incurred by the Territories of Washington and Oregon in the suppression of Indian hostilities therein in the years eighteen hundred and fifty-five and eighteen hundred and fifty-six",
+    "description": "Mr. Corbett asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. Reported by Mr. Ames with an amendment, viz: Insert the words printed in italics. A Bill To amend an act entitled \"An act to provide for the payment of expenses incurred by the Territories of Washington and Oregon in the suppression of Indian hostilities therein in the years eighteen hundred and fifty-five and eighteen hundred and fifty-six,\" approved March second, eighteen hundred and sixty-one.",
     "page": "",
     "session": "002",
     "tiff_filename": "18230000.tif",
@@ -32579,13 +32582,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "in the State of Missouri"
+      "Committee on Public Lands"
     ],
     "congress": "042",
     "dates": [
       "18720123"
     ],
-    "description": "Mr. Blair asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill Supplemental to an act entitled An act making a grant of lands in alternate sections to aid in the construction and extension of the Iron Mountain Railroad from Pilot Knob",
+    "description": "Mr. Blair asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill Supplemental to an act entitled \"An act making a grant of lands in alternate sections to aid in the construction and extension of the Iron Mountain Railroad from Pilot Knob, in the State of Missouri, to Helena, in Arkansas,\" approved July fourth, eighteen hundred and sixty-six.",
     "page": "",
     "session": "002",
     "tiff_filename": "18520000.tif",
@@ -32615,14 +32618,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "in the State of Missouri"
+      "Committee on Public Lands"
     ],
     "congress": "042",
     "dates": [
       "18720123",
       "18720405"
     ],
-    "description": "Mr. Blair asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. Reported by Mr. Pomeroy with an amendment, viz: Insert the part printed in italics. A Bill Supplemental to an act entitled An act making a grant of lands in alternate sections to aid in the construction and extension of the Iron Mountain Railroad from Pilot Knob",
+    "description": "Mr. Blair asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. Reported by Mr. Pomeroy with an amendment, viz: Insert the part printed in italics. A Bill Supplemental to an act entitled \"An act making a grant of lands in alternate sections to aid in the construction and extension of the Iron Mountain Railroad from Pilot Knob, in the State of Missouri, to Helena, in Arkansas,\" approved July fourth, eighteen hundred and sixty-six.",
     "page": "",
     "session": "002",
     "tiff_filename": "18540000.tif",
@@ -33933,13 +33936,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "eighteen hundred and forty-one;\" and Whereas the settlers upon said tract of land have not been permitted to prove up and purchase the lands settled upon and occupied by them because of the refusal of the local land-officers to receive filings for any of the lands in said tract: Therefore"
+      "Committee on the Judiciary"
     ],
     "congress": "042",
     "dates": [
       "18720130"
     ],
-    "description": "Mr. Pomeroy asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill For the relief of actual settlers upon the Cherokee neutral land in Kansas. Whereas the tract of land in the State of Kansas known as the Cherokee neutral land was held by the Cherokee Nation of Indians, under letters-patent dated December thirty-first, eighteen hundred and thirty-eight, upon condition that if the said Cherokee Nation should become extinct, or abandon the same, the lands thereby granted should revert to the United States; and Whereas the said Cherokee Nation did abandon the said lands on the seventh day of October, anno Domini eighteen hundred and sixty-one, by ceding the same to the late so-called southern confederacy, and ceasing to occupy the said land ever since; and Whereas by section twelve of the act of Congress approved July twenty-second, eighteen hundred and fifty-four, it was enacted that all the lands to which the Indian title has been or shall be extinguished within said Territories of Kansas and Nebraska shall be subject to the operations of the pre-emption act of fourth of September",
+    "description": "Mr. Pomeroy asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill For the relief of actual settlers upon the Cherokee neutral land in Kansas. Whereas the tract of land in the State of Kansas known as the Cherokee neutral land was held by the Cherokee Nation of Indians, under letters-patent dated December thirty-first, eighteen hundred and thirty-eight, upon condition that if the said Cherokee Nation should become extinct, or abandon the same, the lands thereby granted should revert to the United States; and Whereas the said Cherokee Nation did abandon the said lands on the seventh day of October, anno Domini eighteen hundred and sixty-one, by ceding the same to the late so-called southern confederacy, and ceasing to occupy the said land ever since; and Whereas by section twelve of the act of Congress approved July twenty-second, eighteen hundred and fifty-four, it was enacted \"that all the lands to which the Indian title has been or shall be extinguished within said Territories of Kansas and Nebraska shall be subject to the operations of the pre-emption act of fourth of September, eighteen hundred and forty-one;\" and Whereas the settlers upon said tract of land have not been permitted to prove up and purchase the lands settled upon and occupied by them because of the refusal of the local land-officers to receive filings for any of the lands in said tract: Therefore,",
     "page": "",
     "session": "002",
     "tiff_filename": "19260000.tif",
@@ -34984,13 +34987,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "consolidate"
+      "Committee on Patents"
     ],
     "congress": "042",
     "dates": [
       "18720205"
     ],
-    "description": "Mr. Morrill, of Vermont, asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Patents, and ordered to be printed. A Bill To amend an act entitled An act to revise",
+    "description": "Mr. Morrill, of Vermont, asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Patents, and ordered to be printed. A Bill To amend an act entitled \"An act to revise, consolidate, and amend the statutes relating to patents and copyrights,\" approved July eighth, eighteen hundred and seventy.",
     "page": "",
     "session": "002",
     "tiff_filename": "19840000.tif",
@@ -35022,13 +35025,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved July second, eighteen hundred and sixty-two, and acts amendatory thereto."
+      "Committee on Public Lands"
     ],
     "congress": "042",
     "dates": [
       "18720205"
     ],
-    "description": "Mr. Kelly asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill Amendatory of an act entitled An act donating public lands to the several States and Territories which may provide colleges for the benefit of agricultural and mechanic arts",
+    "description": "Mr. Kelly asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill Amendatory of an act entitled \"An act donating public lands to the several States and Territories which may provide colleges for the benefit of agricultural and mechanic arts,\" approved July second, eighteen hundred and sixty-two, and acts amendatory thereto.",
     "page": "",
     "session": "002",
     "tiff_filename": "19860000.tif",
@@ -35111,13 +35114,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and for an increase of national bank notes"
+      "Committee on Finance"
     ],
     "congress": "042",
     "dates": [
       "18720206"
     ],
-    "description": "Mr. Sherman, from the Committee on Finance, reported the following bill; which was read and passed to a second reading. A Bill To amend an act entitled An act to provide for the redemption of the three per centum temporary loan certificates",
+    "description": "Mr. Sherman, from the Committee on Finance, reported the following bill; which was read and passed to a second reading. A Bill To amend an act entitled \"An act to provide for the redemption of the three per centum temporary loan certificates, and for an increase of national bank notes,\" approved July twelfth, eighteen hundred and seventy.",
     "page": "",
     "session": "002",
     "tiff_filename": "19910000.tif",
@@ -35147,13 +35150,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved July twelfth, eighteen hundred and seventy."
+      "Committee on Banking and Currency"
     ],
     "congress": "042",
     "dates": [
       "18720212"
     ],
-    "description": "Read twice, referred to the Committee on Banking and Currency, and ordered to be printed. An Act To amend an act entitled An act to provide for the redemption of the three per centum temporary loan certificates and for an increase of national bank notes",
+    "description": "Read twice, referred to the Committee on Banking and Currency, and ordered to be printed. An Act To amend an act entitled \"An act to provide for the redemption of the three per centum temporary loan certificates and for an increase of national bank notes,\" approved July twelfth, eighteen hundred and seventy.",
     "page": "",
     "session": "002",
     "tiff_filename": "19930000.tif",
@@ -35870,13 +35873,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved July second, eighteen hundred and sixty-two, until the said indebtedness shall be paid, or by an act of Congress he shall be authorized and directed to receive, in lieu thereof, the funded bonds of the present government of the said State, which are ready to be issued, to the full extent of the principal and interest due upon the bonds hereinbefore first mentioned: Therefore,"
+      "Committee on Indian Affairs"
     ],
     "congress": "042",
     "dates": [
       "18720206"
     ],
-    "description": "Mr. Clayton asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Indian Affairs, and ordered to be printed. A Bill To authorize the Secretary of the Interior to receive the funded bonds of the State of Arkansas in exchange for certain bonds now held by him in trust for the Chickasaw Indians, and to issue the agricultural college scrip apportioned to that State and held by him as security for the payment of the said bonds. Whereas the State of Arkansas is indebted to the national fund of the Chickasaw tribe of Indians in the sum of two hundred and fifty-two thousand dollars, principal and interest due and unpaid, upon certain bonds of the said State of Arkansas, held by the Secretary of the Department of the Interior in trust for the said tribe of Indians, which bonds were given as security for a loan from the said fund to the State of Arkansas, and are that portion of the securities belonging to the said fund that were transferred to the Secretary of the Interior by the Secretary of the Treasury, under an act of Congress approved July twenty-seventh, eighteen hundred and sixty-eight, and for the payment of the interest on which bonds no provision is made by the laws of the said State now in force; and Whereas the Secretary of the Department of the Interior refuses to issue the agricultural college scrip apportioned to the said State, under an act of Congress entitled An act donating public lands to the several States and Territories which may provide colleges for the benefit of agriculture and the mechanic arts",
+    "description": "Mr. Clayton asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Indian Affairs, and ordered to be printed. A Bill To authorize the Secretary of the Interior to receive the funded bonds of the State of Arkansas in exchange for certain bonds now held by him in trust for the Chickasaw Indians, and to issue the agricultural college scrip apportioned to that State and held by him as security for the payment of the said bonds. Whereas the State of Arkansas is indebted to the national fund of the Chickasaw tribe of Indians in the sum of two hundred and fifty-two thousand dollars, principal and interest due and unpaid, upon certain bonds of the said State of Arkansas, held by the Secretary of the Department of the Interior in trust for the said tribe of Indians, which bonds were given as security for a loan from the said fund to the State of Arkansas, and are that portion of the securities belonging to the said fund that were transferred to the Secretary of the Interior by the Secretary of the Treasury, under an act of Congress approved July twenty-seventh, eighteen hundred and sixty-eight, and for the payment of the interest on which bonds no provision is made by the laws of the said State now in force; and Whereas the Secretary of the Department of the Interior refuses to issue the agricultural college scrip apportioned to the said State, under an act of Congress entitled \"An act donating public lands to the several States and Territories which may provide colleges for the benefit of agriculture and the mechanic arts,\" approved July second, eighteen hundred and sixty-two, until the said indebtedness shall be paid, or by an act of Congress he shall be authorized and directed to receive, in lieu thereof, the funded bonds of the present government of the said State, which are ready to be issued, to the full extent of the principal and interest due upon the bonds hereinbefore first mentioned: Therefore,",
     "page": "",
     "session": "002",
     "tiff_filename": "20340000.tif",
@@ -36972,13 +36975,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "in the State of Kansas, said settlers having moved thereon since the date of said treaty, and for the purpose of facilitating the sale of said lands: Therefore,"
+      "Committee on Indian Affairs"
     ],
     "congress": "042",
     "dates": [
       "18720212"
     ],
-    "description": "Mr. Pomeroy asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Indian Affairs, and ordered to be printed. A Bill To carry out certain provisions of the Cherokee treaty of eighteen hundred and sixty-six, and for the relief of settlers on the Cherokee lands in the State of Kansas. Whereas in order that certain provisions of the treaty of July nineteenth, eighteen hundred and sixty-six, between the United States and the Cherokee Nation, may be rendered clearer and made more satisfactory to settlers upon the lands known as the Cherokee strip",
+    "description": "Mr. Pomeroy asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Indian Affairs, and ordered to be printed. A Bill To carry out certain provisions of the Cherokee treaty of eighteen hundred and sixty-six, and for the relief of settlers on the Cherokee lands in the State of Kansas. Whereas in order that certain provisions of the treaty of July nineteenth, eighteen hundred and sixty-six, between the United States and the Cherokee Nation, may be rendered clearer and made more satisfactory to settlers upon the lands known as \"the Cherokee strip,\" in the State of Kansas, said settlers having moved thereon since the date of said treaty, and for the purpose of facilitating the sale of said lands: Therefore,",
     "page": "",
     "session": "002",
     "tiff_filename": "20950000.tif",
@@ -37353,7 +37356,7 @@
     "dates": [
       "18720212"
     ],
-    "description": "Mr. Hithcock asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill To extend the provisions of an act entitled An act to enable the State of Arkansas and other States to reclaim the swamplands within their limits \"to the State of Nebraska.\"",
+    "description": "Mr. Hithcock asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill To extend the provisions of an act entitled \"An act to enable the State of Arkansas and other States to reclaim the swamplands within their limits \"to the State of Nebraska.",
     "page": "",
     "session": "002",
     "tiff_filename": "21160000.tif",
@@ -37619,13 +37622,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved July twenty-seventh, eighteen hundred and sixty-six."
+      "Committee on the Judiciary"
     ],
     "congress": "042",
     "dates": [
       "18720213"
     ],
-    "description": "Mr. Spencer asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To amend an act entitled An act for the removal of certain cases from State courts",
+    "description": "Mr. Spencer asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To amend an act entitled \"An act for the removal of certain cases from State courts,\" approved July twenty-seventh, eighteen hundred and sixty-six.",
     "page": "",
     "session": "002",
     "tiff_filename": "21310000.tif",
@@ -38336,13 +38339,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "on the Missouri River"
+      "Committee on Public Lands"
     ],
     "congress": "042",
     "dates": [
       "18720215"
     ],
-    "description": "Mr. Hitchcock asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill To confirm the title to certain lands on the Fort Kearney military reservation in Fremont County, Iowa. Whereas the following described entries at the Council Bluffs land district, in the State of Iowa, were made on lands which bad been reserved for military purposes for the use of Fort Kearney, by order of the President of the United States, dated the ninth of April, eighteen hundred and forty-six, and therefore illegal, viz: First, the west half of northwest quarter of section thirty, township sixty-eight north, range forty-three west, by John Boulware, per cash certificate number twelve hundred and fifty-six, dated January second, eighteen hundred and fifty-four; secondly, the northwest quarter of southeast quarter of section thirty, township sixty-eight north, range forty-three west, by William C. Fowlkes, per cash certificate number twenty-six hundred and ninety, dated June first, eighteen hundred and fifty-four; thirdly, the southeast quarter of northwest quarter and northeast quarter of south west quarter of section thirty, township sixty-eight, range forty-three west, by William C. Fowlkes, per cash certificate number eighteen hundred and twenty-nine, dated April thirteenth, eighteen hundred and fifty-four; fourthly, the southeast quarter of southwest quarter of section thirty, township sixty-eight, range forty-three west, by Alien A. Brodford, per cash certificate number twenty-six hundred and ninety-one, dated June twenty-first, eighteen hundred and fifty-four; fifthly, lot number one of section thirty-one, township sixty-eight, range forty-three west, by William C. Fowlkes, per cash certificate number six hundred and twenty-three, dated July twenty-seventh, eighteen hundred and fifty-three; sixthly, lots number two, three, and four, of section thirty-one, township sixty-eight, range forty-three west, by Simeon Hargis, per cash certificate number eighteen hundred and thirty, dated April thirteenth, eighteen hundred and fifty-four; seventhly, lot number one, of section thirty-two, township sixty-eight, range forty-three west, by Simeon Hargis, per cash certificate number eighteen hundred and thirty-one, dated April thirteenth, eighteen hundred and fifty-four; eighthly, lot number one, in section twenty-four, township sixty-eight, range forty-four west, by George W. Boulware, per cash certificate number nine hundred and thirteen, dated September twenty-sixth, eighteen hundred and fifty-three; ninthly, lots one and two, of section twenty-five, township sixty-eight, range forty-four west, by George W. Boulware, per cash certificate number nine hundred and twelve, dated September twenty-sixth, eighteen hundred and fifty-three; tenthly, lot number one, of section thirty-six, township sixty-eight, range forty-four west, by George W. Boulware, per cash certificate number nine hundred and fourteen, dated September twenty-sixth, eighteen hundred and fifty-three; eleventh, the southeast quarter of section, twenty-five, township sixty-eight, range forty-four west, by George W. Boulware, per cash certificate number three hundred and four, dated July ninth, eighteen hundred and fifty-three; twelfthly, the west half of southwest quarter of section thirty, township sixty-eight, range forty-three west, selected as swamp-land; and Whereas the Secretary of War, by letter under date of the eleventh of March, eighteen hundred and seventy, advised the Secretary of the Interior that the United States military reservation at Fort Kearney",
+    "description": "Mr. Hitchcock asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill To confirm the title to certain lands on the Fort Kearney military reservation in Fremont County, Iowa. Whereas the following described entries at the Council Bluffs land district, in the State of Iowa, were made on lands which bad been reserved for military purposes for the use of Fort Kearney, by order of the President of the United States, dated the ninth of April, eighteen hundred and forty-six, and therefore illegal, viz: First, the west half of northwest quarter of section thirty, township sixty-eight north, range forty-three west, by John Boulware, per cash certificate number twelve hundred and fifty-six, dated January second, eighteen hundred and fifty-four; secondly, the northwest quarter of southeast quarter of section thirty, township sixty-eight north, range forty-three west, by William C. Fowlkes, per cash certificate number twenty-six hundred and ninety, dated June first, eighteen hundred and fifty-four; thirdly, the southeast quarter of northwest quarter and northeast quarter of south west quarter of section thirty, township sixty-eight, range forty-three west, by William C. Fowlkes, per cash certificate number eighteen hundred and twenty-nine, dated April thirteenth, eighteen hundred and fifty-four; fourthly, the southeast quarter of southwest quarter of section thirty, township sixty-eight, range forty-three west, by Alien A. Brodford, per cash certificate number twenty-six hundred and ninety-one, dated June twenty-first, eighteen hundred and fifty-four; fifthly, lot number one of section thirty-one, township sixty-eight, range forty-three west, by William C. Fowlkes, per cash certificate number six hundred and twenty-three, dated July twenty-seventh, eighteen hundred and fifty-three; sixthly, lots number two, three, and four, of section thirty-one, township sixty-eight, range forty-three west, by Simeon Hargis, per cash certificate number eighteen hundred and thirty, dated April thirteenth, eighteen hundred and fifty-four; seventhly, lot number one, of section thirty-two, township sixty-eight, range forty-three west, by Simeon Hargis, per cash certificate number eighteen hundred and thirty-one, dated April thirteenth, eighteen hundred and fifty-four; eighthly, lot number one, in section twenty-four, township sixty-eight, range forty-four west, by George W. Boulware, per cash certificate number nine hundred and thirteen, dated September twenty-sixth, eighteen hundred and fifty-three; ninthly, lots one and two, of section twenty-five, township sixty-eight, range forty-four west, by George W. Boulware, per cash certificate number nine hundred and twelve, dated September twenty-sixth, eighteen hundred and fifty-three; tenthly, lot number one, of section thirty-six, township sixty-eight, range forty-four west, by George W. Boulware, per cash certificate number nine hundred and fourteen, dated September twenty-sixth, eighteen hundred and fifty-three; eleventh, the southeast quarter of section, twenty-five, township sixty-eight, range forty-four west, by George W. Boulware, per cash certificate number three hundred and four, dated July ninth, eighteen hundred and fifty-three; twelfthly, the west half of southwest quarter of section thirty, township sixty-eight, range forty-three west, selected as swamp-land; and Whereas the Secretary of War, by letter under date of the eleventh of March, eighteen hundred and seventy, advised the Secretary of the Interior \"that the United States military reservation at Fort Kearney, on the Missouri River, is no longer required for military purposes;\" and Whereas the register and the receiver at Council Bluffs, Iowa, have reported, under date of May twenty-third, eighteen hundred and seventy, to the General Land-Office, that, due notice having been given to all persons having any interest in the same to appear before them on the eighteenth day of May, eighteen hundred, and seventy, and show cause why the above-named entries should not be confirmed by act of Congress, no adverse claimants appeared before them: Therefore,",
     "page": "",
     "session": "002",
     "tiff_filename": "21720000.tif",
@@ -39852,13 +39855,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "were granted to Nehemiah Hodge, late of North Adams, in the State of Massachusetts, deceased, on the second day of October, eighteen hundred and forty-nine, which letters-patent were extended in due form of law by the Commissioner of Patents for seven years from the second day of October, eighteen hundred and sixty-three; and Whereas the invention and improvement set forth in the said letters-patent are of very great value and importance to the public, and have been for many years in extensive use upon the railroads of the United States; and Whereas the said Nehemiah Hodge in his life-time, and his heirs since his death, have, without neglect or fault on their part, failed to realize a reasonable remuneration from the said invention; and Whereas the said Abbott L. Hodge, and Amelia S. Hodge, now Mrs. George Packard, are the sole surviving representatives of the said Nehemiah Hodge: Therefore,"
+      "Committee on Patents"
     ],
     "congress": "042",
     "dates": [
       "18720219"
     ],
-    "description": "Mr. Carpenter asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Patents, and ordered to be printed. A Bill For the relief of Abbott L. Hodge, the son, and Amelia S. Hodge, now Mrs. George Packard, formerly the widow, of Nehemiah Hodge, deceased. Whereas letters-patent of the United States, entitled for an Improvement in the mode of operating brakes for cars",
+    "description": "Mr. Carpenter asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Patents, and ordered to be printed. A Bill For the relief of Abbott L. Hodge, the son, and Amelia S. Hodge, now Mrs. George Packard, formerly the widow, of Nehemiah Hodge, deceased. Whereas letters-patent of the United States, entitled for an \"Improvement in the mode of operating brakes for cars,\" were granted to Nehemiah Hodge, late of North Adams, in the State of Massachusetts, deceased, on the second day of October, eighteen hundred and forty-nine, which letters-patent were extended in due form of law by the Commissioner of Patents for seven years from the second day of October, eighteen hundred and sixty-three; and Whereas the invention and improvement set forth in the said letters-patent are of very great value and importance to the public, and have been for many years in extensive use upon the railroads of the United States; and Whereas the said Nehemiah Hodge in his life-time, and his heirs since his death, have, without neglect or fault on their part, failed to realize a reasonable remuneration from the said invention; and Whereas the said Abbott L. Hodge, and Amelia S. Hodge, now Mrs. George Packard, are the sole surviving representatives of the said Nehemiah Hodge: Therefore,",
     "page": "",
     "session": "002",
     "tiff_filename": "22570000.tif",
@@ -40488,13 +40491,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "eighteen hundred and seventy-one.\""
+      "Committee on the Judiciary"
     ],
     "congress": "042",
     "dates": [
       "18720220"
     ],
-    "description": "Mr. Lewis asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To amend the act entitled An act to divide the State of Virginia into two judicial districts.\" approved February third",
+    "description": "Mr. Lewis asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To amend the act entitled \"An act to divide the State of Virginia into two judicial districts.\" approved February third, eighteen hundred and seventy-one.",
     "page": "",
     "session": "002",
     "tiff_filename": "22930000.tif",
@@ -41499,13 +41502,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "lying"
+      "Committee on Public Lands"
     ],
     "congress": "042",
     "dates": [
       "18720226"
     ],
-    "description": "Mr. Pratt asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill To release the title of the United States to certain lands in Michigan City, Indiana. Whereas Isaac C. Elston, on the twenty-fifth day of June, eighteen hundred and thirty-five, agreed to donate to the United States a piece or parcel of ground in Michigan City, in the State of Indiana, for a light-house, said piece or parcel of land to be two hundred and sixty feet long and one hundred and seventy-five feet wide, the courses of the lines to run parallel to the streets in said city. That on that day the said Elston, intending to convey the land so donated, executed a deed to the United States for a piece or parcel of ground, and by mistake described it as follows: All that tract or parcel of land situate",
+    "description": "Mr. Pratt asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill To release the title of the United States to certain lands in Michigan City, Indiana. Whereas Isaac C. Elston, on the twenty-fifth day of June, eighteen hundred and thirty-five, agreed to donate to the United States a piece or parcel of ground in Michigan City, in the State of Indiana, for a light-house, said piece or parcel of land to be two hundred and sixty feet long and one hundred and seventy-five feet wide, the courses of the lines to run parallel to the streets in said city. That on that day the said Elston, intending to convey the land so donated, executed a deed to the United States for a piece or parcel of ground, and by mistake described it as follows: \"All that tract or parcel of land situate, lying, and being in the county of Laporte, in the State of Indiana, and in and part of section twenty-nine in township thirty-eight north, range four west, bounded as follows, namely: beginning at a point twenty feet west of a stake stuck for the site of a light-house, and from thence south one hundred and thirty feet to a stake, and from thence east one hundred and seventy-five feet to a stake, and from thence north to Lake Michigan two hundred and sixty feet; thence west with the margin of the lake one hundred and seventy-five feet, and from thence south to the place of beginning.\" That the United States soon after the execution of said deed took possession of the ground first above described and so intended to be conveyed, and built a light-house thereon, inclosed it with a fence, and thence hitherto have held the exclusive possession thereof, and have never asserted title to any other property under said deed; and Whereas the said Elston was the owner of all the land adjoining said ground and retained possession thereof, and afterward sold and conveyed the same to innocent purchasers, who, or those claiming under such conveyances, caused the same to be platted and laid out into town lots as an addition to Michgan City, and which said town lots were laid out with reference to the land so taken possession of and fenced by the United States, and which said land and town lots are now held and possessed in good faith by the remote vendees of said Elston: Now therefore, For the purpose of correcting said mistake and releasing all right, title, or interest which the United States may have by virtue of the error in said deed of said Elston: Therefore,",
     "page": "",
     "session": "002",
     "tiff_filename": "23490000.tif",
@@ -41843,13 +41846,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved July twenty-sixth, eighteen hundred and sixty-six."
+      "Committee on Military Affairs"
     ],
     "congress": "042",
     "dates": [
       "18720226"
     ],
-    "description": "Mr. Rice asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. A Bill Explanatory of joint resolution approved July eleventh, eighteen hundred and seventy, entitled Joint resolution amendatory of joint resolution for the relief of certain officers of the Army",
+    "description": "Mr. Rice asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. A Bill Explanatory of joint resolution approved July eleventh, eighteen hundred and seventy, entitled \"Joint resolution amendatory of joint resolution for the relief of certain officers of the Army,\" approved July twenty-sixth, eighteen hundred and sixty-six.",
     "page": "",
     "session": "002",
     "tiff_filename": "23680000.tif",
@@ -41879,14 +41882,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved July twenty-sixth, eighteen hundred and sixty-six."
+      "Committee on Military Affairs"
     ],
     "congress": "042",
     "dates": [
       "18720226",
       "18720321"
     ],
-    "description": "Mr. Rice asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. Reported by Mr. West with amendments, viz: Strike out the words in [brackets] and insert the words printed in italics. A Bill Explanatory of joint resolution approved July eleventh, eighteen hundred and seventy, entitled Joint resolution amendatory of joint resolution for the relief of certain officers of the Army",
+    "description": "Mr. Rice asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. Reported by Mr. West with amendments, viz: Strike out the words in [brackets] and insert the words printed in italics. A Bill Explanatory of joint resolution approved July eleventh, eighteen hundred and seventy, entitled \"Joint resolution amendatory of joint resolution for the relief of certain officers of the Army,\" approved July twenty-sixth, eighteen hundred and sixty-six.",
     "page": "",
     "session": "002",
     "tiff_filename": "23700000.tif",
@@ -42789,13 +42792,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and to aid in the construction of its road"
+      "Committee on the Pacific Railroad"
     ],
     "congress": "042",
     "dates": [
       "18720228"
     ],
-    "description": "Mr. Scott asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Pacific Railroad, and ordered to be printed. A Bill Supplementary to an act entitled An act to incorporate the Texas Pacific Railroad Company",
+    "description": "Mr. Scott asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Pacific Railroad, and ordered to be printed. A Bill Supplementary to an act entitled \"An act to incorporate the Texas Pacific Railroad Company, and to aid in the construction of its road, and for other purposes,\" approved March third, eighteen hundred and seventy-one.",
     "page": "",
     "session": "002",
     "tiff_filename": "24210000.tif",
@@ -42859,14 +42862,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and to aid in the construction of its road"
+      "Committee on the Pacific Railroad"
     ],
     "congress": "042",
     "dates": [
       "18720228",
       "18720301"
     ],
-    "description": "Mr. Scott asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Pacific Railroad, and ordered to be printed. Reported by Mr. Scott with amendments, viz: Strike out the parts in [brackets] and insert the parts printed in italics. A Bill Supplementary to an act entitled An act to incorporate the Texas Pacific Railroad Company",
+    "description": "Mr. Scott asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Pacific Railroad, and ordered to be printed. Reported by Mr. Scott with amendments, viz: Strike out the parts in [brackets] and insert the parts printed in italics. A Bill Supplementary to an act entitled \"An act to incorporate the Texas Pacific Railroad Company, and to aid in the construction of its road, and for other purposes,\" approved March third, eighteen hundred and seventy-one.",
     "page": "",
     "session": "002",
     "tiff_filename": "24250000.tif",
@@ -42951,14 +42954,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and to aid in the construction of its road"
+      "Committee on the Pacific Railroad"
     ],
     "congress": "042",
     "dates": [
       "18720228",
       "18720419"
     ],
-    "description": "Mr. Scott asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Pacific Railroad, and ordered to be printed. Ordered to be printed with amendments reported and recommended by the Committee on the Pacific Railroad, viz: Strike out the parts in [brackets] and insert the parts printed in italics. A Bill Supplementary to an act entitled An act to incorporate the Texas Pacific Railroad Company",
+    "description": "Mr. Scott asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Pacific Railroad, and ordered to be printed. Ordered to be printed with amendments reported and recommended by the Committee on the Pacific Railroad, viz: Strike out the parts in [brackets] and insert the parts printed in italics. A Bill Supplementary to an act entitled \"An act to incorporate the Texas Pacific Railroad Company, and to aid in the construction of its road, and for other purposes,\" approved March third, eighteen hundred and seventy-one.",
     "page": "",
     "session": "002",
     "tiff_filename": "24300000.tif",
@@ -43060,14 +43063,12 @@
     ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": [
-      "and to aid in the construction of its road"
-    ],
+    "committees": [],
     "congress": "042",
     "dates": [
       "18720422"
     ],
-    "description": "Ordered to be printed. An Act Supplementary to an act entitled An act to incorporate the Texas Pacific Railroad Company",
+    "description": "Ordered to be printed. An Act Supplementary to an act entitled \"An act to incorporate the Texas Pacific Railroad Company, and to aid in the construction of its road, and for other purposes,\" approved March third, eighteen hundred and seventy-one.",
     "page": "",
     "session": "002",
     "tiff_filename": "24360000.tif",
@@ -43147,15 +43148,13 @@
     ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": [
-      "and to aid in the construction of its road"
-    ],
+    "committees": [],
     "congress": "042",
     "dates": [
       "18720422",
       "18720425"
     ],
-    "description": "Ordered to be printed. Ordered to be printed with proposed amendments. Insert the parts in italics. An Act Supplementary to an act entitled An act to incorporate the Texas Pacific Railroad Company",
+    "description": "Ordered to be printed. Ordered to be printed with proposed amendments. Insert the parts in italics. An Act Supplementary to an act entitled \"An act to incorporate the Texas Pacific Railroad Company, and to aid in the construction of its road, and for other purposes,\" approved March third, eighteen hundred and seventy-one.",
     "page": "",
     "session": "002",
     "tiff_filename": "24410000.tif",
@@ -43257,14 +43256,12 @@
     ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": [
-      "and to aid in the construction of its road"
-    ],
+    "committees": [],
     "congress": "042",
     "dates": [
       "18720301"
     ],
-    "description": "Ordered, to be printed. Amendment Intended to be proposed by Mr. Kellogg to the bill (S. 724) supplementary to an act entitled An act to incorporate the Texas Pacific Railroad Company",
+    "description": "Ordered, to be printed. Amendment Intended to be proposed by Mr. Kellogg to the bill (S. 724) supplementary to an act entitled \"An act to incorporate the Texas Pacific Railroad Company, and to aid in the construction of its road, and for other purposes,\" approved March third, eighteen hundred and seventy-one, namely:",
     "page": "",
     "session": "002",
     "tiff_filename": "24470000.tif",
@@ -43276,14 +43273,12 @@
     ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": [
-      "and to aid in the construction of its road"
-    ],
+    "committees": [],
     "congress": "042",
     "dates": [
       "18720401"
     ],
-    "description": "Ordered to be printed. Amendment Intended to be proposed by Mr. Kellogg to the bill (S. 724) supplementary to an act entitled An act to incorporate the Texas Pacific Railroad Company",
+    "description": "Ordered to be printed. Amendment Intended to be proposed by Mr. Kellogg to the bill (S. 724) supplementary to an act entitled \"An act to incorporate the Texas Pacific Railroad Company, and to aid in the construction of its road, and for other purposes,\" approved March third, eighteen hundred and seventy-one, viz: Insert at the end of section five the following:",
     "page": "",
     "session": "002",
     "tiff_filename": "24480000.tif",
@@ -43295,14 +43290,12 @@
     ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": [
-      "and to aid in the construction of its road"
-    ],
+    "committees": [],
     "congress": "042",
     "dates": [
       "18720416"
     ],
-    "description": "Ordered to be printed. Amendment Intended to be proposed by Mr. Hamilton, of Texas, to the bill (S. 724) supplementary to an act entitled An act to incorporate the Texas Pacific Raiload Company",
+    "description": "Ordered to be printed. Amendment Intended to be proposed by Mr. Hamilton, of Texas, to the bill (S. 724) supplementary to an act entitled \"An act to incorporate the Texas Pacific Raiload Company, and to aid in the construction of its road, and for other purposes,\" approved March third, eighteen hundred and seventy-one.",
     "page": "",
     "session": "002",
     "tiff_filename": "24490000.tif",
@@ -43333,14 +43326,12 @@
     ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": [
-      "and to aid in the construction of its road"
-    ],
+    "committees": [],
     "congress": "042",
     "dates": [
       "18720419"
     ],
-    "description": "Ordered to be printed. Amendment Intended to be proposed by Mr. Cole to the bill (S. 724) supplementary to an act entitled An act to incorporate the Texas Pacific Railroad Company",
+    "description": "Ordered to be printed. Amendment Intended to be proposed by Mr. Cole to the bill (S. 724) supplementary to an act entitled \"An act to incorporate the Texas Pacific Railroad Company, and to aid in the construction of its road, and for other purposes,\" approved March third, eighteen hundred and seventy-one, namely: Insert the following:",
     "page": "",
     "session": "002",
     "tiff_filename": "24510000.tif",
@@ -43369,14 +43360,12 @@
     ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": [
-      "and to aid in the construction of its road"
-    ],
+    "committees": [],
     "congress": "042",
     "dates": [
       "18720405"
     ],
-    "description": "Ordered to be printed. Amendment Intended to be proposed by Mr. Kellogg to the bill (S. 724) supplementary to an act entitled An act to incorporate the Texas Pacific Railroad Company",
+    "description": "Ordered to be printed. Amendment Intended to be proposed by Mr. Kellogg to the bill (S. 724) supplementary to an act entitled \"An act to incorporate the Texas Pacific Railroad Company, and to aid in the construction of its road, and for other purposes,\" approved March third, eighteen hundred and seventy-one, namely:",
     "page": "",
     "session": "002",
     "tiff_filename": "24530000.tif",
@@ -43388,14 +43377,12 @@
     ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": [
-      "and to aid in the construction of its road"
-    ],
+    "committees": [],
     "congress": "042",
     "dates": [
       "18720419"
     ],
-    "description": "Ordered to be printed. Amendment Intended to be proposed by Mr. Morton to the bill (S. 724) supplementary to an act entitled An act to incorporate the Texas Pacific Railroad Company",
+    "description": "Ordered to be printed. Amendment Intended to be proposed by Mr. Morton to the bill (S. 724) supplementary to an act entitled \"An act to incorporate the Texas Pacific Railroad Company, and to aid in the construction of its road, and for other purposes,\" approved March third, eighteen hundred and seventy-one, namely: Insert at end of section 2 the following proviso:",
     "page": "",
     "session": "002",
     "tiff_filename": "24540000.tif",
@@ -43641,13 +43628,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "eighteen hundred and seventy-one"
+      "Committee on Military Affairs"
     ],
     "congress": "042",
     "dates": [
       "18720229"
     ],
-    "description": "Mr. Cole asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. A Bill Amending an act entitled An act making appropriations for the support of the Army for the year ending June thirtieth",
+    "description": "Mr. Cole asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. A Bill Amending an act entitled \"An act making appropriations for the support of the Army for the year ending June thirtieth, eighteen hundred and seventy-one, and for other purposes,\" approved July fifteenth, eighteen hundred and seventy.",
     "page": "",
     "session": "002",
     "tiff_filename": "24680000.tif",
@@ -44116,13 +44103,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "commerce"
+      "Committee on Commerce"
     ],
     "congress": "042",
     "dates": [
       "18720301"
     ],
-    "description": "Mr. Chandler, from the Committee on Commerce, reported the following bill; which was read and passed to a second reading. A Bill To amend an act entitled An act to extend the laws of the United States relating to customs",
+    "description": "Mr. Chandler, from the Committee on Commerce, reported the following bill; which was read and passed to a second reading. A Bill To amend an act entitled \"An act to extend the laws of the United States relating to customs, commerce, and navigation, over the territory ceded to the United States by Russia. to establish a collection district therein, and for other purposes,\" passed July twenty-seventh, eighteen hundred and sixty-eight.",
     "page": "",
     "session": "002",
     "tiff_filename": "24950000.tif",
@@ -45730,13 +45717,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved March second, eighteen hundred and sixty-seven."
+      "Committee on the Judiciary"
     ],
     "congress": "042",
     "dates": [
       "18720308"
     ],
-    "description": "Mr. Goldthwaite asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To declare the true intent and meaning of section two of an act entitled An act to establish a uniform system of bankruptcy throughout the United States",
+    "description": "Mr. Goldthwaite asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To declare the true intent and meaning of section two of an act entitled \"An act to establish a uniform system of bankruptcy throughout the United States,\" approved March second, eighteen hundred and sixty-seven.",
     "page": "",
     "session": "002",
     "tiff_filename": "25840000.tif",
@@ -46858,13 +46845,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved February eighteenth, eighteen hundred and seventy-one."
+      "Committee on Private Land Claims"
     ],
     "congress": "042",
     "dates": [
       "18720311"
     ],
-    "description": "Mr. Blair asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Private Land Claims, and ordered to be printed. A Bill To extend the provisions of an act entitled An act for the relief of certain purchasers of lands from the legal representatives of Bartholomew Cousin",
+    "description": "Mr. Blair asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Private Land Claims, and ordered to be printed. A Bill To extend the provisions of an act entitled \"An act for the relief of certain purchasers of lands from the legal representatives of Bartholomew Cousin,\" approved February eighteenth, eighteen hundred and seventy-one.",
     "page": "",
     "session": "002",
     "tiff_filename": "26470000.tif",
@@ -47091,14 +47078,12 @@
     ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": [
-      "eighteen hundred and seventy"
-    ],
+    "committees": [],
     "congress": "042",
     "dates": [
       "18720506"
     ],
-    "description": "Ordered to be printed. Amendment Intended to be proposed by Mr. Kellogg to the bill (S. 791) to amend an act entitled An act to amend an act approved May thirty-first",
+    "description": "Ordered to be printed. Amendment Intended to be proposed by Mr. Kellogg to the bill (S. 791) to amend an act entitled \"An act to amend an act approved May thirty-first, eighteen hundred and seventy, entitled 'An act to enforce the rights of citizens of the United States to vote in the several States of the Union, and for other purposes,'\" viz: Insert the following:",
     "page": "",
     "session": "002",
     "tiff_filename": "26600000.tif",
@@ -47127,14 +47112,12 @@
     ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": [
-      "eighteen hundred and seventy"
-    ],
+    "committees": [],
     "congress": "042",
     "dates": [
       "18720511"
     ],
-    "description": "Ordered to be printed. Amendment Proposed by Mr. Casserly to the bill (S. 791) to amend an act entitled An act to amend an act approved May thirty-first",
+    "description": "Ordered to be printed. Amendment Proposed by Mr. Casserly to the bill (S. 791) to amend an act entitled \"An act to amend an act approved May thirty-first, eighteen hundred and seventy, entitled 'An act to enforce the rights of citizens of the United States to vote in the several States of the Union, and for other purposes,'\" viz: Insert the following:",
     "page": "",
     "session": "002",
     "tiff_filename": "26620000.tif",
@@ -47181,13 +47164,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "' approved July twenty-seventh"
+      "Committee on the Judiciary"
     ],
     "congress": "042",
     "dates": [
       "18720311"
     ],
-    "description": "Mr. Edmunds asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill In addition to an act entitled An act to amend an act entitled 'An act for the removal of causes in certain cases from State courts",
+    "description": "Mr. Edmunds asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill In addition to an act entitled \"An act to amend an act entitled 'An act for the removal of causes in certain cases from State courts,' approved July twenty-seventh, eighteen hundred and sixty-six,\" approved March second, eighteen hundred and sixty-seven.",
     "page": "",
     "session": "002",
     "tiff_filename": "26650000.tif",
@@ -47452,13 +47435,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "northeastern"
+      "Committee on Commerce"
     ],
     "congress": "042",
     "dates": [
       "18720412"
     ],
-    "description": "Ordered to be printed. Amendment Reported by Mr. Kellogg, from the Committee on Commerce, to the bill (S. 799) to amend an act entitled An act to regulate the foreign and coasting trade on the northern",
+    "description": "Ordered to be printed. Amendment Reported by Mr. Kellogg, from the Committee on Commerce, to the bill (S. 799) to amend an act entitled \"An act to regulate the foreign and coasting trade on the northern, northeastern, and northwestern frontiers of the United States, and for other purposes,\" viz: Strike out all after the enacting clause and insert the following:",
     "page": "",
     "session": "002",
     "tiff_filename": "26800000.tif",
@@ -47857,13 +47840,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "' approved July second"
+      "Committee on Education and Labor"
     ],
     "congress": "042",
     "dates": [
       "18720314"
     ],
-    "description": "Mr. Morton asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Education and Labor, and ordered to be printed. A Bill To amend an act entitled An act to amend the fifth section of an act entitled 'An act donating public lands to the several States and Territories which may provide colleges for the benefit of agriculture and the mechanic arts",
+    "description": "Mr. Morton asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Education and Labor, and ordered to be printed. A Bill To amend an act entitled \"An act to amend the fifth section of an act entitled 'An act donating public lands to the several States and Territories which may provide colleges for the benefit of agriculture and the mechanic arts,' approved July second, eighteen hundred and sixty-two, so as to extend the time within which the provisions of said act shall be accepted and such colleges established,\" approved July twenty-third, eighteen hundred and sixty-six.",
     "page": "",
     "session": "002",
     "tiff_filename": "27030000.tif",
@@ -48179,13 +48162,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved January twenty-third, eighteen hundred and forty-five."
+      "Committee on the Judiciary"
     ],
     "congress": "042",
     "dates": [
       "18720314"
     ],
-    "description": "Mr. Flanagan asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To amend an act entitled An act to establish a uniform time for holding elections for electors of President and Vice-President for all the States",
+    "description": "Mr. Flanagan asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To amend an act entitled \"An act to establish a uniform time for holding elections for electors of President and Vice-President for all the States,\" approved January twenty-third, eighteen hundred and forty-five.",
     "page": "",
     "session": "002",
     "tiff_filename": "27210000.tif",
@@ -48198,14 +48181,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved January twenty-third, eighteen hundred and forty-five."
+      "Committee on the Judiciary"
     ],
     "congress": "042",
     "dates": [
       "18720314",
       "18720411"
     ],
-    "description": "Mr. Flanagan asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. Reported by Mr. Trumbull with amendments, viz: Strike out the part in [brackets] and insert the part printed in italics. A Bill To amend an act entitled An act to establish a uniform time for holding elections for electors of President and Vice-President for all the States",
+    "description": "Mr. Flanagan asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. Reported by Mr. Trumbull with amendments, viz: Strike out the part in [brackets] and insert the part printed in italics. A Bill To amend an act entitled \"An act to establish a uniform time for holding elections for electors of President and Vice-President for all the States,\" approved January twenty-third, eighteen hundred and forty-five.",
     "page": "",
     "session": "002",
     "tiff_filename": "27220000.tif",
@@ -48619,13 +48602,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and to prevent the building or operating of steam-railways in said District without the consent of Congress."
+      "Committee on the District of Columbia"
     ],
     "congress": "042",
     "dates": [
       "18720318"
     ],
-    "description": "Mr. Edmunds asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the District of Columbia, and ordered to be printed. A Bill To annul an act of the legislative assembly of the District of Columbia entitled An act to incorporate the rational Junction Railroad Company",
+    "description": "Mr. Edmunds asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the District of Columbia, and ordered to be printed. A Bill To annul an act of the legislative assembly of the District of Columbia entitled \"An act to incorporate the rational Junction Railroad Company,\" and to prevent the building or operating of steam-railways in said District without the consent of Congress.",
     "page": "",
     "session": "002",
     "tiff_filename": "27450000.tif",
@@ -49131,13 +49114,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "' approved July second"
+      "Committee on Education and Labor"
     ],
     "congress": "042",
     "dates": [
       "18720318"
     ],
-    "description": "Mr. Osborn asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Education and Labor, and ordered to be printed. A Bill To amend an act entitled An act to amend the fifth section of an act entitled 'An act donating public lands to the several States and Territories which may provide colleges for the benefit of agriculture and the mechanic arts",
+    "description": "Mr. Osborn asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Education and Labor, and ordered to be printed. A Bill To amend an act entitled \"An act to amend the fifth section of an act entitled 'An act donating public lands to the several States and Territories which may provide colleges for the benefit of agriculture and the mechanic arts,' approved July second, eighteen hundred and sixty-two, so as to extend the time within which the provisions of said act shall be accepted and such colleges established,\" approved July twenty-third, eighteen hundred and sixty-six.",
     "page": "",
     "session": "002",
     "tiff_filename": "27740000.tif",
@@ -51900,13 +51883,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "bearing date subsequent to the day (twenty-fifth of September) when the minister and subscriber to said treaty on the part of the United States proposed to the government of Mexico to terminate the question of boundary"
+      "Committee on Private Land-Claims"
     ],
     "congress": "042",
     "dates": [
       "18720401"
     ],
-    "description": "Mr. Bayard asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Private Land-Claims, and ordered to be printed. A Bill In relation to Mexican titles to land within the Territory of Arizona. Whereas by article one of the treaty between the United States of America and the Republic of Mexico, concluded and signed at the city of Mexico, on the thirtieth day of December, eighteen hundred and fifty-three, the line separating the territory of the United States of America from that of the Republic of Mexico has been established, and certain territory ceded by the Mexican government to that of the United States of America, which territory is now known by the name of Arizona; and Whereas article six of the treaty above referred to provides that no grants of land within the territory ceded by the first article of said treaty",
+    "description": "Mr. Bayard asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Private Land-Claims, and ordered to be printed. A Bill In relation to Mexican titles to land within the Territory of Arizona. Whereas by article one of the treaty between the United States of America and the Republic of Mexico, concluded and signed at the city of Mexico, on the thirtieth day of December, eighteen hundred and fifty-three, the line separating the territory of the United States of America from that of the Republic of Mexico has been established, and certain territory ceded by the Mexican government to that of the United States of America, which territory is now known by the name of Arizona; and Whereas article six of the treaty above referred to provides that \"no grants of land within the territory ceded by the first article of said treaty, bearing date subsequent to the day (twenty-fifth of September) when the minister and subscriber to said treaty on the part of the United States proposed to the government of Mexico to terminate the question of boundary, will be considered valid, or be recognized by the United States, or will any grants made previously be respected or considered as obligatory, which have not been located and duly recorded in the archives of Mexico:\" Now, therefore,",
     "page": "",
     "session": "002",
     "tiff_filename": "29290000.tif",
@@ -52211,13 +52194,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved February third, eighteen hundred and seventy-one."
+      "Committee on the Judiciary"
     ],
     "congress": "042",
     "dates": [
       "18720402"
     ],
-    "description": "Mr. Lewis asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To amend an act entitled An act to divide the State of Virginia into two judicial districts",
+    "description": "Mr. Lewis asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To amend an act entitled \"An act to divide the State of Virginia into two judicial districts,\" approved February third, eighteen hundred and seventy-one.",
     "page": "",
     "session": "002",
     "tiff_filename": "29460000.tif",
@@ -54454,13 +54437,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and the widows of deceased soldiers"
+      "Committee on Pensions"
     ],
     "congress": "042",
     "dates": [
       "18720411"
     ],
-    "description": "Mr. Vickers asked and, by unanimous consent, obtained leave to bring in the following bill, which was read twice, referred to the Committee on Pensions, and ordered to be printed. A Bill Supplemental to an act entitled An act granting pensions to certain soldiers and sailors of the war of eighteen hundred and twelve",
+    "description": "Mr. Vickers asked and, by unanimous consent, obtained leave to bring in the following bill, which was read twice, referred to the Committee on Pensions, and ordered to be printed. A Bill Supplemental to an act entitled \"An act granting pensions to certain soldiers and sailors of the war of eighteen hundred and twelve, and the widows of deceased soldiers,\" passed February fourteenth, eighteen hundred and seventy-one.",
     "page": "",
     "session": "002",
     "tiff_filename": "30710000.tif",
@@ -54685,13 +54668,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "' approved July second"
+      "Committee on Education and Labor"
     ],
     "congress": "042",
     "dates": [
       "18720412"
     ],
-    "description": "Mr. Sawyer, from the Committee on Education and Labor, reported the following bill; which was read and passed to a second reading. A Bill To amend an act entitled An act to amend the fifth section of an act entitled 'An act donating public lands to the several States and Territories which may provide colleges for the benefit of agriculture and the mechanic arts",
+    "description": "Mr. Sawyer, from the Committee on Education and Labor, reported the following bill; which was read and passed to a second reading. A Bill To amend an act entitled \"An act to amend the fifth section of an act entitled 'An act donating public lands to the several States and Territories which may provide colleges for the benefit of agriculture and the mechanic arts,' approved July second, eighteen hundred and sixty-two, so as to extend the time within which the provisions of said act shall be accepted and such colleges established,\" approved July twenty-third, eighteen hundred and sixty-six.",
     "page": "",
     "session": "002",
     "tiff_filename": "30840000.tif",
@@ -54740,13 +54723,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and to secure to the Government the use of the same for postal"
+      "Committee on the Pacific Railroad"
     ],
     "congress": "042",
     "dates": [
       "18720412"
     ],
-    "description": "Mr. Cole asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Pacific Railroad, and ordered to be printed. A Bill To amend an act entitled An act to aid in the construction of a railroad and telegraph line from the Missouri River to the Pacific Ocean",
+    "description": "Mr. Cole asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Pacific Railroad, and ordered to be printed. A Bill To amend an act entitled \"An act to aid in the construction of a railroad and telegraph line from the Missouri River to the Pacific Ocean, and to secure to the Government the use of the same for postal, military, and other purposes,\" approved July first, eighteen hundred and sixty-two, and to establish the point for the western terminus of said railroad.",
     "page": "",
     "session": "002",
     "tiff_filename": "30870000.tif",
@@ -55946,13 +55929,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "eighteen hundred and seventy"
+      "Committee on Military Affairs"
     ],
     "congress": "042",
     "dates": [
       "18720418"
     ],
-    "description": "Mr. Ames asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. A Bill To repeal so much of section six of an act entitled An act making appropriations for the support of the Army for the year ending June thirtieth",
+    "description": "Mr. Ames asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. A Bill To repeal so much of section six of an act entitled \"An act making appropriations for the support of the Army for the year ending June thirtieth, eighteen hundred and seventy, and for other purposes,\" approved March third, eighteen hundred and sixty-nine, as prohibits promotions in the staff departments of the Army.",
     "page": "",
     "session": "002",
     "tiff_filename": "31540000.tif",
@@ -55965,14 +55948,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "eighteen hundred and seventy"
+      "Committee on Military Affairs"
     ],
     "congress": "042",
     "dates": [
       "18720418",
       "18720424"
     ],
-    "description": "Mr. Ames asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. Reported by Mr. Ames with an amendment, viz: Insert the words printed in italics. A Bill To repeal so much of section six of an act entitled An act making appropriations for the support of the Army for the year ending June thirtieth",
+    "description": "Mr. Ames asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. Reported by Mr. Ames with an amendment, viz: Insert the words printed in italics. A Bill To repeal so much of section six of an act entitled \"An act making appropriations for the support of the Army for the year ending June thirtieth, eighteen hundred and seventy, and for other purposes,\" approved March third, eighteen hundred and sixty-nine, as prohibits promotions in the staff departments of the Army.",
     "page": "",
     "session": "002",
     "tiff_filename": "31550000.tif",
@@ -58373,13 +58356,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "passed on the day of eighteen hundred and seventy-two, are desirous, under the powers which they claim to be vested in them by the provisions of the before-recited act, to construct their main road to the city of Washington, in the District of Columbia: Therefore,"
+      "Committee on the District of Columbia"
     ],
     "congress": "042",
     "dates": [
       "18720430"
     ],
-    "description": "Mr. Hamilton, of Maryland, asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the District of Columbia, and ordered to be printed. A Bill To authorize the extension and use of the National Railroad of Maryland into and within the District of Columbia. Whereas it is represented that the National Railroad Company of Maryland, incorporated by an act of the general assembly of Maryland, entitled An act to incorporate the National Railroad Company of Maryland",
+    "description": "Mr. Hamilton, of Maryland, asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the District of Columbia, and ordered to be printed. A Bill To authorize the extension and use of the National Railroad of Maryland into and within the District of Columbia. Whereas it is represented that the National Railroad Company of Maryland, incorporated by an act of the general assembly of Maryland, entitled \"An act to incorporate the National Railroad Company of Maryland,\" passed on the day of eighteen hundred and seventy-two, are desirous, under the powers which they claim to be vested in them by the provisions of the before-recited act, to construct their main road to the city of Washington, in the District of Columbia: Therefore,",
     "page": "",
     "session": "002",
     "tiff_filename": "32880000.tif",
@@ -58426,14 +58409,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "passed on the first day of April, eighteen hundred and seventy-two, are desirous, under the powers which they claim to be vested in them by the provisions of the before-recited act, to construct their main road to the city of Washington, in the District of Columbia: Therefore,"
+      "Committee on the District of Columbia"
     ],
     "congress": "042",
     "dates": [
       "18720430",
       "18720531"
     ],
-    "description": "Mr. Hamilton, of Maryland, asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the District of Columbia, and ordered to be printed. Reported by Mr. Vickers with amendments, viz: Insert the words printed in italics. A Bill To authorize the extension and use of the rational Railroad of Maryland into and within the District of Columbia. Whereas it is represented that the National Railroad Company of Maryland, incorporated by an act of the general assembly of Maryland, entitled An act to incorporate the National Railroad Company of Maryland",
+    "description": "Mr. Hamilton, of Maryland, asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the District of Columbia, and ordered to be printed. Reported by Mr. Vickers with amendments, viz: Insert the words printed in italics. A Bill To authorize the extension and use of the rational Railroad of Maryland into and within the District of Columbia. Whereas it is represented that the National Railroad Company of Maryland, incorporated by an act of the general assembly of Maryland, entitled \"An act to incorporate the National Railroad Company of Maryland,\" passed on the first day of April, eighteen hundred and seventy-two, are desirous, under the powers which they claim to be vested in them by the provisions of the before-recited act, to construct their main road to the city of Washington, in the District of Columbia: Therefore,",
     "page": "",
     "session": "002",
     "tiff_filename": "32910000.tif",
@@ -61915,14 +61898,12 @@
     ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": [
-      "and to furnish the means for their vindication"
-    ],
+    "committees": [],
     "congress": "042",
     "dates": [
       "18720510"
     ],
-    "description": "Mr. Sumner asked and, by unanimous consent, obtained leave to bring in the following bill; which was read the first and second times and ordered to be printed. A Bill Supplementary to an act entitled An act to protect all citizens of the United States in their civil rights",
+    "description": "Mr. Sumner asked and, by unanimous consent, obtained leave to bring in the following bill; which was read the first and second times and ordered to be printed. A Bill Supplementary to an act entitled \"An act to protect all citizens of the United States in their civil rights, and to furnish the means for their vindication,\" passed April ninth, eighteen hundred and sixty-six.",
     "page": "",
     "session": "002",
     "tiff_filename": "34800000.tif",
@@ -62406,13 +62387,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "eighteen hundred and seventy-two"
+      "Committee on Claims"
     ],
     "congress": "042",
     "dates": [
       "18720518"
     ],
-    "description": "Mr. Pomeroy asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Claims, and ordered to be printed. A Bill To amend an act entitled An act making appropriations for the support of the Army for the year ending June thirtieth",
+    "description": "Mr. Pomeroy asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Claims, and ordered to be printed. A Bill To amend an act entitled \"An act making appropriations for the support of the Army for the year ending June thirtieth, eighteen hundred and seventy-two,\" approved March third, eighteen hundred and seventy-one.",
     "page": "",
     "session": "002",
     "tiff_filename": "35070000.tif",
@@ -65239,13 +65220,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and for other purposes"
+      "Committee on Finance"
     ],
     "congress": "042",
     "dates": [
       "18721210"
     ],
-    "description": "Mr. Anthony asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Finance, and ordered to be printed. A Bill To amend an act entitled An act to reduce internal taxes",
+    "description": "Mr. Anthony asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Finance, and ordered to be printed. A Bill To amend an act entitled \"An act to reduce internal taxes, and for other purposes,\" approved July fourteenth, eighteen hundred and seventy.",
     "page": "",
     "session": "003",
     "tiff_filename": "36640000.tif",
@@ -65334,13 +65315,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      ",Committee on Military Affairs\""
+      "Committee on Military Affairs"
     ],
     "congress": "042",
     "dates": [
       "18721210"
     ],
-    "description": "Mr. Buckingham asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. A Bill Relating to the payment of bounties to the Fifth Regiment Connecticut Volunteers. Whereas certain members of the Fifth Connecticut Volunteer Infantry, in good faith, enlisted for three years' service prior to July twenty-second, eighteen hundred and sixty-one, for the purpose of offering their services to the United States, but were not mustered into the service of the United States until July twenty-third, eighteen hundred and sixty-one; and Whereas there was no agreement between the United States and the State that they should be recognized as in the service of the United States from the dates of their enlistment under the State, thus depriving them of the benefits of the act of April twenty-second, eighteen hundred and seventy-two, entitled An act in relation to bounties:\" Therefore",
+    "description": "Mr. Buckingham asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. A Bill Relating to the payment of bounties to the Fifth Regiment Connecticut Volunteers. Whereas certain members of the Fifth Connecticut Volunteer Infantry, in good faith, enlisted for three years' service prior to July twenty-second, eighteen hundred and sixty-one, for the purpose of offering their services to the United States, but were not mustered into the service of the United States until July twenty-third, eighteen hundred and sixty-one; and Whereas there was no agreement between the United States and the State that they should be recognized as in the service of the United States from the dates of their enlistment under the State, thus depriving them of the benefits of the act of April twenty-second, eighteen hundred and seventy-two, entitled \"An act in relation to bounties:\" Therefore,",
     "page": "",
     "session": "003",
     "tiff_filename": "36690000.tif",
@@ -65370,14 +65351,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      ",Committee on Military Affairs\""
+      "Committee on Military Affairs"
     ],
     "congress": "042",
     "dates": [
       "18721210",
       "18730214"
     ],
-    "description": "Mr. Buckingham asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. Reported by Mr. Morrill, of Maine, with an amendment, viz: Insert the part printed in italics. A Bill Relating to the payment of bounties to the Fifth Regiment Connecticut Volunteers. Whereas certain members of the Fifth Connecticut Volunteer Infantry, in good faith, enlisted for three years' service prior to July twenty-second, eighteen hundred and sixty-one, for the purpose of offering their services to the United States, but were not mustered into the service of the United States until July twenty-third, eighteen hundred and sixty-one; and Whereas there was no agreement between the United States and the State that they should be recognized as in the service of the United States from the dates of their enlistment under the State, thus depriving them of the benefits of the act of April twenty-second, eighteen hundred and seventy-two, entitled An act in relation to bounties:\" Therefore",
+    "description": "Mr. Buckingham asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. Reported by Mr. Morrill, of Maine, with an amendment, viz: Insert the part printed in italics. A Bill Relating to the payment of bounties to the Fifth Regiment Connecticut Volunteers. Whereas certain members of the Fifth Connecticut Volunteer Infantry, in good faith, enlisted for three years' service prior to July twenty-second, eighteen hundred and sixty-one, for the purpose of offering their services to the United States, but were not mustered into the service of the United States until July twenty-third, eighteen hundred and sixty-one; and Whereas there was no agreement between the United States and the State that they should be recognized as in the service of the United States from the dates of their enlistment under the State, thus depriving them of the benefits of the act of April twenty-second, eighteen hundred and seventy-two, entitled \"An act in relation to bounties:\" Therefore,",
     "page": "",
     "session": "003",
     "tiff_filename": "36710000.tif",
@@ -65531,13 +65512,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "Idaho and Montana Railroad Company"
+      "Committee on Public Lands"
     ],
     "congress": "042",
     "dates": [
       "18721210"
     ],
-    "description": "Mr. Windom asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill Amending an act entitled An act granting right of way to the Utah",
+    "description": "Mr. Windom asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill Amending an act entitled \"An act granting right of way to the Utah, Idaho and Montana Railroad Company,\" approved June first, eighteen hundred and seventy-two.",
     "page": "",
     "session": "003",
     "tiff_filename": "36800000.tif",
@@ -65624,13 +65605,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "the Secretary of the Interior was authorized to sell a portion of the lands of the Otoe Indians, the consent of said Indians being first obtained in open council; and Whereas said Otoe Indians have in council refused to give such consent, but have expressed their desire to sell the whole of said reservation and to remove to the Indian Territory, and have during the past season sent a delegation of said tribe to said Territory for the purpose of examining the country and selecting for themselves a home; and Whereas the cultivation, settlement, and improvement of these lands, and the consequent development and prosperity of that portion of the West, would be best attained by giving these lands into the possession of actual settlers rather than speculators: Therefore,"
+      "Committee on Indian Affairs"
     ],
     "congress": "042",
     "dates": [
       "18721211"
     ],
-    "description": "Mr. Hitchcock asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Indian Affairs, and ordered to be printed. A Bill To provide for the removal of the Otoe Indians of Nebraska to the Indian Territory. Whereas by act of Congress approved June tenth, eighteen hundred and seventy-two, entitled An act for the relief of certain tribes of Indians in the Northern superintendency",
+    "description": "Mr. Hitchcock asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Indian Affairs, and ordered to be printed. A Bill To provide for the removal of the Otoe Indians of Nebraska to the Indian Territory. Whereas by act of Congress approved June tenth, eighteen hundred and seventy-two, entitled \"An act for the relief of certain tribes of Indians in the Northern superintendency,\" the Secretary of the Interior was authorized to sell a portion of the lands of the Otoe Indians, the consent of said Indians being first obtained in open council; and Whereas said Otoe Indians have in council refused to give such consent, but have expressed their desire to sell the whole of said reservation and to remove to the Indian Territory, and have during the past season sent a delegation of said tribe to said Territory for the purpose of examining the country and selecting for themselves a home; and Whereas the cultivation, settlement, and improvement of these lands, and the consequent development and prosperity of that portion of the West, would be best attained by giving these lands into the possession of actual settlers rather than speculators: Therefore,",
     "page": "",
     "session": "003",
     "tiff_filename": "36850000.tif",
@@ -68363,13 +68344,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and for other purposes"
+      "Committee on Finance"
     ],
     "congress": "042",
     "dates": [
       "18721219"
     ],
-    "description": "Mr. Anthony asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Finance, and ordered to be printed. A Bill To amend an act entitled An act to reduce internal taxes",
+    "description": "Mr. Anthony asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Finance, and ordered to be printed. A Bill To amend an act entitled \"An act to reduce internal taxes, and for other purposes,\" approved July fourteenth, eighteen hundred and seventy.",
     "page": "",
     "session": "003",
     "tiff_filename": "38380000.tif",
@@ -68454,13 +68435,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and for other purposes"
+      "Committee on Public Lands"
     ],
     "congress": "042",
     "dates": [
       "18721219"
     ],
-    "description": "Mr. Cobrett asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill To amend an act entitled An act granting the right of way to the Walla-Walla and Columbia River Railroad Company",
+    "description": "Mr. Cobrett asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill To amend an act entitled \"An act granting the right of way to the Walla-Walla and Columbia River Railroad Company, and for other purposes,\" approved March third, eighteen hundred and sixty-nine.",
     "page": "",
     "session": "003",
     "tiff_filename": "38430000.tif",
@@ -69217,13 +69198,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "for two thousand three hundred and sixty-three acres and twenty-six hundredths of an acre was issued to the State of Iowa under the act of second March, eighteen hundred and fifty-five, and on the fifteenth day of April, eighteen hundred and seventy-two, swamp indemnity scrip number ninety-three was also issued for thirty-six acres and thirty-six hundredths of an acre, all for swamp-lands in Lucas County, State of Iowa, and located with land-warrants after the passage of the act of twenty-eighth September, eighteen hundred and fifty; and it further appearing that according to the laws of the State of Iowa the said Robert Coles is duly authorized to locate said scrip on behalf of the same; and it further appearing that at the time said contract was entered into between the board of supervisors and Robert Coles, as above stated, there were large quantities of unsold public lands in the State of Iowa; and it appearing that at this time, and ever since said scrip was issued, there are no public lands in said State of Iowa upon which the same can be located: Therefore,"
+      "Committee on Public Lands"
     ],
     "congress": "042",
     "dates": [
       "18730106"
     ],
-    "description": "Mr. Wright asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill To authorize Robert Coles to locate certain swamp-land indemnity scrip therein named. Whereas it appearing that in accordance with the laws of the State of Iowa the board of supervisors of Lucas County, in said State, on the second day of November, eighteen hundred and sixty-two, entered into a contract with Robert Coles, conveying to him all the right, title, and interest which may accrue to Lucas County under the laws of the State of Iowa to the swamp-lands situated in said county, or indemnification for lands sold for cash, or located with land-warrants after the passage of the act of twenty-eighth September, eighteen hundred and fifty, under the act of March second, eighteen hundred and fifty-five; and it further appearing that the necessary proof to secure said indemnification was on file in the General Land-Office as early as the month of June, eighteen hundred and sixty, and action was not had thereon, owing to the failure of the surveyor-general to certify up the list of swamp selections made by the proper agent, as required by the Secretary of the Interior, until after the passage of the act of March fifth, eighteen hundred and seventy-two, for the relief of Lucas and other counties in the State of Iowa, when on the twenty-eighth day of March, eighteen hundred and seventy-two, swamp indemnity scrip number ninety-two",
+    "description": "Mr. Wright asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill To authorize Robert Coles to locate certain swamp-land indemnity scrip therein named. Whereas it appearing that in accordance with the laws of the State of Iowa the board of supervisors of Lucas County, in said State, on the second day of November, eighteen hundred and sixty-two, entered into a contract with Robert Coles, conveying to him all the right, title, and interest which may accrue to Lucas County under the laws of the State of Iowa to the swamp-lands situated in said county, or indemnification for lands sold for cash, or located with land-warrants after the passage of the act of twenty-eighth September, eighteen hundred and fifty, under the act of March second, eighteen hundred and fifty-five; and it further appearing that the necessary proof to secure said indemnification was on file in the General Land-Office as early as the month of June, eighteen hundred and sixty, and action was not had thereon, owing to the failure of the surveyor-general to certify up the list of swamp selections made by the proper agent, as required by the Secretary of the Interior, until after the passage of the act of March fifth, eighteen hundred and seventy-two, for the relief of Lucas and other counties in the State of Iowa, when on the twenty-eighth day of March, eighteen hundred and seventy-two, \"swamp indemnity scrip number ninety-two,\" for two thousand three hundred and sixty-three acres and twenty-six hundredths of an acre was issued to the State of Iowa under the act of second March, eighteen hundred and fifty-five, and on the fifteenth day of April, eighteen hundred and seventy-two, swamp indemnity scrip number ninety-three was also issued for thirty-six acres and thirty-six hundredths of an acre, all for swamp-lands in Lucas County, State of Iowa, and located with land-warrants after the passage of the act of twenty-eighth September, eighteen hundred and fifty; and it further appearing that according to the laws of the State of Iowa the said Robert Coles is duly authorized to locate said scrip on behalf of the same; and it further appearing that at the time said contract was entered into between the board of supervisors and Robert Coles, as above stated, there were large quantities of unsold public lands in the State of Iowa; and it appearing that at this time, and ever since said scrip was issued, there are no public lands in said State of Iowa upon which the same can be located: Therefore,",
     "page": "",
     "session": "003",
     "tiff_filename": "38850000.tif",
@@ -69686,14 +69667,12 @@
     ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": [
-      "and to provide for the circulation and redemption thereof"
-    ],
+    "committees": [],
     "congress": "042",
     "dates": [
       "18730107"
     ],
-    "description": "Mr. Buckingham asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice and ordered to be printed. A Bill Supplementary to an act entitled An act to provide a national currency secured by a pledge of United States bonds",
+    "description": "Mr. Buckingham asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice and ordered to be printed. A Bill Supplementary to an act entitled \"An act to provide a national currency secured by a pledge of United States bonds, and to provide for the circulation and redemption thereof,\" approved June third, eighteen hundred and sixty-four, and to secure an elastic currency, to appreciate national obligations, and to reach specie payments without commercial embarrassment.",
     "page": "",
     "session": "003",
     "tiff_filename": "39110000.tif",
@@ -70870,13 +70849,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved June tenth, eighteen hundred and seventy-two."
+      "Committee on Indian Affairs"
     ],
     "congress": "042",
     "dates": [
       "18730109"
     ],
-    "description": "Mr. Harlan asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Indian Affairs, and ordered to be printed. A Bill To amend an act entitled An act for the relief of certain tribes of Indians in the Northern superintendency",
+    "description": "Mr. Harlan asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Indian Affairs, and ordered to be printed. A Bill To amend an act entitled \"An act for the relief of certain tribes of Indians in the Northern superintendency,\" approved June tenth, eighteen hundred and seventy-two.",
     "page": "",
     "session": "003",
     "tiff_filename": "39780000.tif",
@@ -70906,14 +70885,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved June tenth, eighteen hundred and seventy-two."
+      "Committee on Indian Affairs"
     ],
     "congress": "042",
     "dates": [
       "18730109",
       "18730217"
     ],
-    "description": "Mr. Harlan asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Indian Affairs, and ordered to be printed. Reported by Mr. Corbett with amendments, viz: Strike out the words in [brackets] and insert the words printed in italics. A Bill To amend an act entitled An act for the relief of certain tribes of Indians in the Northern superintendency",
+    "description": "Mr. Harlan asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Indian Affairs, and ordered to be printed. Reported by Mr. Corbett with amendments, viz: Strike out the words in [brackets] and insert the words printed in italics. A Bill To amend an act entitled \"An act for the relief of certain tribes of Indians in the Northern superintendency,\" approved June tenth, eighteen hundred and seventy-two.",
     "page": "",
     "session": "003",
     "tiff_filename": "39800000.tif",
@@ -70944,13 +70923,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and for other purposes."
+      "Committee on the Judiciary"
     ],
     "congress": "042",
     "dates": [
       "18730109"
     ],
-    "description": "Mr. Stewart asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To amend the act entitled An act to further the administration of justice",
+    "description": "Mr. Stewart asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To amend the act entitled \"An act to further the administration of justice,\" and for other purposes.",
     "page": "",
     "session": "003",
     "tiff_filename": "39820000.tif",
@@ -71605,13 +71584,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved July twenty-eighth, eighteen hundred and sixty-six, as authorizes regimental adjutants and quartermasters to be extra lieutenants."
+      "Committee on Military Affairs"
     ],
     "congress": "042",
     "dates": [
       "18730113"
     ],
-    "description": "Mr. Logan asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. A Bill To repeal so much of the act entitled. An act to increase and fix the military peace establishment of the United States",
+    "description": "Mr. Logan asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. A Bill To repeal so much of the act entitled. \"An act to increase and fix the military peace establishment of the United States,\" approved July twenty-eighth, eighteen hundred and sixty-six, as authorizes regimental adjutants and quartermasters to be extra lieutenants.",
     "page": "",
     "session": "003",
     "tiff_filename": "40190000.tif",
@@ -72407,13 +72386,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and to provide for the payment of certain demands for quartermaster's stores and subsistence supplies furnished to the Army of the United States"
+      "Committee on Military Affairs"
     ],
     "congress": "042",
     "dates": [
       "18730114"
     ],
-    "description": "Mr. Hamilton, of Maryland, asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. A Bill To amend an act entitled An act to restrict the.jurisdiction of the Court of Claims",
+    "description": "Mr. Hamilton, of Maryland, asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. A Bill To amend an act entitled \"An act to restrict the.jurisdiction of the Court of Claims, and to provide for the payment of certain demands for quartermaster's stores and subsistence supplies furnished to the Army of the United States,\" approved July fourth, eighteen hundred and sixty-four.",
     "page": "",
     "session": "003",
     "tiff_filename": "40630000.tif",
@@ -72498,13 +72477,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "consolidate"
+      "Committee on the Library"
     ],
     "congress": "042",
     "dates": [
       "18730115"
     ],
-    "description": "Mr. Morrill, of Maine, asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Library, and ordered to be printed. A Bill To amend an act entitled An act to revise",
+    "description": "Mr. Morrill, of Maine, asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Library, and ordered to be printed. A Bill To amend an act entitled \"An act to revise, consolidate, and amend the statutes relating to patents and copyrights,\" approved July eighth, eighteen hundred and seventy.",
     "page": "",
     "session": "003",
     "tiff_filename": "40680000.tif",
@@ -72517,14 +72496,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "consolidate"
+      "Committee on the Library"
     ],
     "congress": "042",
     "dates": [
       "18730115",
       "18730203"
     ],
-    "description": "Mr. Morrill, of Maine, asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Library, and ordered to be printed. Reported by Mr. Morrill, of Maine, with amendments, viz: Strike out the parts in [brackets] and insert the parts printed in italics. A Bill To amend an act entitled An act to revise",
+    "description": "Mr. Morrill, of Maine, asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Library, and ordered to be printed. Reported by Mr. Morrill, of Maine, with amendments, viz: Strike out the parts in [brackets] and insert the parts printed in italics. A Bill To amend an act entitled \"An act to revise, consolidate, and amend the statutes relating to patents and copyrights,\" approved July eighth, eighteen hundred and seventy.",
     "page": "",
     "session": "003",
     "tiff_filename": "40690000.tif",
@@ -72627,13 +72606,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and for other purposes.\" Whereas the Secretary of War was directed and authorized by the act of Congress approved March third"
+      "Committee on the Judiciary"
     ],
     "congress": "042",
     "dates": [
       "18730115"
     ],
-    "description": "Mr. Alcorn asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To extend the provisions of an act approved March third, eighteen hundred and seventy-one, entitled An act to provide for the collection of debts due from southern railroads",
+    "description": "Mr. Alcorn asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To extend the provisions of an act approved March third, eighteen hundred and seventy-one, entitled \"An act to provide for the collection of debts due from southern railroads, and for other purposes.\" Whereas the Secretary of War was directed and authorized by the act of Congress approved March third, eighteen hundred and seventy-one, to compromise certain suits instituted by the United States against certain railroad corporations which purchased material from the Quartermaster's Department, under the provisions of executive orders of August eighth and October fourteenth, eighteen hundred and sixty-five; and Whereas issues have been raised and are pending in the settlement of the accounts of other railroad corporations which made purchases under said orders, and against which the Government has not been forced to institute suit: Therefore,",
     "page": "",
     "session": "003",
     "tiff_filename": "40750000.tif",
@@ -73332,13 +73311,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved Jane tenth, eighteen hundred and seventy-two."
+      "Committee on Indian Affairs"
     ],
     "congress": "042",
     "dates": [
       "18730222"
     ],
-    "description": "Referred with the amendment of the House of Representatives to the Committee on Indian Affairs and ordered to be printed. Strike out the words in [brackets] and insert the words in italics. An Act Repealing an act entitled An act for the relief of certain Indians in the Central superintendency",
+    "description": "Referred with the amendment of the House of Representatives to the Committee on Indian Affairs and ordered to be printed. Strike out the words in [brackets] and insert the words in italics. An Act Repealing an act entitled \"An act for the relief of certain Indians in the Central superintendency,\" approved Jane tenth, eighteen hundred and seventy-two.",
     "page": "",
     "session": "003",
     "tiff_filename": "41140000.tif",
@@ -74422,13 +74401,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "therefore"
+      "Committee on the District of Columbia"
     ],
     "congress": "042",
     "dates": [
       "18730121"
     ],
-    "description": "Mr. Hamlin asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the District of Columbia, and ordered to be printed. A Bill To provide for the better education of the indigent blind in the District of Columbia. Whereas the Secretary of the Interior is authorized by law to educate the indigent blind of the District of Columbia in some State institution for the blind; and Whereas the legislature of the District of Columbia has authorized the establishing of a school for the blind in the District, under the title of The Columbia Institution for the Blind:\" Now",
+    "description": "Mr. Hamlin asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the District of Columbia, and ordered to be printed. A Bill To provide for the better education of the indigent blind in the District of Columbia. Whereas the Secretary of the Interior is authorized by law to educate the indigent blind of the District of Columbia in some State institution for the blind; and Whereas the legislature of the District of Columbia has authorized the establishing of a school for the blind in the District, under the title of \"The Columbia Institution for the Blind:\" Now, therefore,",
     "page": "",
     "session": "003",
     "tiff_filename": "41740000.tif",
@@ -74728,13 +74707,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and to aid in the construction of its road"
+      "Committee on the Pacific Railroad"
     ],
     "congress": "042",
     "dates": [
       "18730121"
     ],
-    "description": "Mr. Stewart asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Pacific Railroad, and ordered to be printed. A Bill Supplemental to an act entitled An act to incorporate the Texas Pacific Railroad Company",
+    "description": "Mr. Stewart asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Pacific Railroad, and ordered to be printed. A Bill Supplemental to an act entitled \"An act to incorporate the Texas Pacific Railroad Company, and to aid in the construction of its road, and for other purposes,\" approved March third, eighteen hundred and seventy-one.",
     "page": "",
     "session": "003",
     "tiff_filename": "41910000.tif",
@@ -77113,13 +77092,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved June fourth, eighteen hundred and seventy-two."
+      "Committee on Post-Offices and Post-Roads"
     ],
     "congress": "042",
     "dates": [
       "18730128"
     ],
-    "description": "Mr. Wisdom asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Post-Offices and Post-Roads, and ordered to be printed. A Bill To repeal an act entitled An act further regulating the construction of bridges across the Mississippi River",
+    "description": "Mr. Wisdom asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Post-Offices and Post-Roads, and ordered to be printed. A Bill To repeal an act entitled \"An act further regulating the construction of bridges across the Mississippi River,\" approved June fourth, eighteen hundred and seventy-two.",
     "page": "",
     "session": "003",
     "tiff_filename": "43240000.tif",
@@ -77132,13 +77111,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "at or near the town of Clinton"
+      "Committee on Post-Offices and Post-Roads"
     ],
     "congress": "042",
     "dates": [
       "18730128"
     ],
-    "description": "Mr. Windom asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Post-Offices and Post-Roads, and ordered to be printed. A Bill To amend the eighth section of an act entitled An act to authorize the construction of a bridge across the Mississippi River",
+    "description": "Mr. Windom asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Post-Offices and Post-Roads, and ordered to be printed. A Bill To amend the eighth section of an act entitled \"An act to authorize the construction of a bridge across the Mississippi River, at or near the town of Clinton, in the State of Iowa, and other bridges across said river, and to establish them as post-roads,\" approved April first, eighteen hundred and seventy-two.",
     "page": "",
     "session": "003",
     "tiff_filename": "43250000.tif",
@@ -77542,7 +77521,7 @@
     "dates": [
       "18730129"
     ],
-    "description": "Mr. Wright asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To extend State laws on the subject of occupying claimants\" to actions tried in the courts of the United States.\"",
+    "description": "Mr. Wright asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To extend State laws on the subject of \"occupying claimants\" to actions tried in the courts of the United States.",
     "page": "",
     "session": "003",
     "tiff_filename": "43470000.tif",
@@ -77555,13 +77534,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved January twenty-second, eighteen hundred and seventy-three."
+      "Committee on the District of Columbia"
     ],
     "congress": "042",
     "dates": [
       "18730129"
     ],
-    "description": "Mr. Patterson asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the District of Columbia, and ordered to be printed. A Bill Supplementary to an act entitled An act to authorize the Washington City and Point Lookout Railroad Company to extend a railroad into and within the District of Columbia",
+    "description": "Mr. Patterson asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the District of Columbia, and ordered to be printed. A Bill Supplementary to an act entitled \"An act to authorize the Washington City and Point Lookout Railroad Company to extend a railroad into and within the District of Columbia,\" approved January twenty-second, eighteen hundred and seventy-three.",
     "page": "",
     "session": "003",
     "tiff_filename": "43480000.tif",
@@ -77608,14 +77587,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved January twenty-second, eighteen hundred and seventy-three."
+      "Committee on the District of Columbia"
     ],
     "congress": "042",
     "dates": [
       "18730129",
       "18730210"
     ],
-    "description": "Mr. Patterson asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the District of Columbia, and ordered to be printed. Reported by Mr. Sawyer with amendments, viz: Strike out the parts in [brackets] and insert the parts printed in italics. A Bill Supplementary to an act entitled An act to authorize the Washington City and Point Lockout Railroad Company to extend a railroad into and within the District of Columbia",
+    "description": "Mr. Patterson asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the District of Columbia, and ordered to be printed. Reported by Mr. Sawyer with amendments, viz: Strike out the parts in [brackets] and insert the parts printed in italics. A Bill Supplementary to an act entitled \"An act to authorize the Washington City and Point Lockout Railroad Company to extend a railroad into and within the District of Columbia,\" approved January twenty-second, eighteen hundred and seventy-three.",
     "page": "",
     "session": "003",
     "tiff_filename": "43510000.tif",
@@ -78017,13 +77996,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved February twenty-second, eighteen hundred and sixty-seven, and the act amendatory thereof, approved June eighth, eighteen hundred and seventy-two."
+      "Committee on Military Affairs"
     ],
     "congress": "042",
     "dates": [
       "18730131"
     ],
-    "description": "Mr. Hamilton, of Maryland, asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. A Bill To amend the act entitled An act to establish and protect national cemetries",
+    "description": "Mr. Hamilton, of Maryland, asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. A Bill To amend the act entitled \"An act to establish and protect national cemetries,\" approved February twenty-second, eighteen hundred and sixty-seven, and the act amendatory thereof, approved June eighth, eighteen hundred and seventy-two.",
     "page": "",
     "session": "003",
     "tiff_filename": "43740000.tif",
@@ -79426,13 +79405,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and for other purposes"
+      "Committee on Finance"
     ],
     "congress": "042",
     "dates": [
       "18730204"
     ],
-    "description": "Mr. Casserly asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Finance, and ordered to be printed. A Bill Amendatory of and supplementary to an act entitled An act to reduce duties on imports and to reduce internal taxes",
+    "description": "Mr. Casserly asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Finance, and ordered to be printed. A Bill Amendatory of and supplementary to an act entitled \"An act to reduce duties on imports and to reduce internal taxes, and for other purposes,\" approved June sixth, eighteen hundred and seventy-two.",
     "page": "",
     "session": "003",
     "tiff_filename": "44530000.tif",
@@ -79462,14 +79441,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and for other purposes"
+      "Committee on Finance"
     ],
     "congress": "042",
     "dates": [
       "18730204",
       "18730218"
     ],
-    "description": "Mr. Casserly asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Finance, and ordered to be printed. Reported by Mr. Sherman with an amendment, viz: Strike out the part in [brackets.] A Bill Amendatory of and supplementary to an act entitled An act to reduce duties on imports and to reduce internal taxes",
+    "description": "Mr. Casserly asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Finance, and ordered to be printed. Reported by Mr. Sherman with an amendment, viz: Strike out the part in [brackets.] A Bill Amendatory of and supplementary to an act entitled \"An act to reduce duties on imports and to reduce internal taxes, and for other purposes,\" approved June sixth, eighteen hundred and seventy-two.",
     "page": "",
     "session": "003",
     "tiff_filename": "44550000.tif",
@@ -80296,13 +80275,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and to aid in the construction of its road"
+      "Committee on the Pacific Railroad"
     ],
     "congress": "042",
     "dates": [
       "18730205"
     ],
-    "description": "Mr. Scott asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Pacific Railroad, and ordered to be printed. A Bill Supplemental to an act entitled An act to incorporate the Texas Pacific Railroad Company",
+    "description": "Mr. Scott asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Pacific Railroad, and ordered to be printed. A Bill Supplemental to an act entitled \"An act to incorporate the Texas Pacific Railroad Company, and to aid in the construction of its road, and for other purposes,\" approved March third, eighteen hundred and seventy-one.",
     "page": "",
     "session": "003",
     "tiff_filename": "45010000.tif",
@@ -80332,14 +80311,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and to aid in the construction of its road"
+      "Committee on the Pacific Railroad"
     ],
     "congress": "042",
     "dates": [
       "18730205",
       "18730219"
     ],
-    "description": "Mr. Scott asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Pacific Railroad, and ordered to be printed. Reported by Mr. Stewart with amendments, viz: Strike out all after the enacting clause and insert the part printed in italics. A Bill Supplemental to an act entitled An act to incorporate the Texas Pacific Railroad Company",
+    "description": "Mr. Scott asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Pacific Railroad, and ordered to be printed. Reported by Mr. Stewart with amendments, viz: Strike out all after the enacting clause and insert the part printed in italics. A Bill Supplemental to an act entitled \"An act to incorporate the Texas Pacific Railroad Company, and to aid in the construction of its road, and for other purposes,\" approved March third, eighteen hundred and seventy-one.",
     "page": "",
     "session": "003",
     "tiff_filename": "45030000.tif",
@@ -82198,13 +82177,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved April twenty-second, eighteen hundred and seventy-two."
+      "Committee on the Judiciary"
     ],
     "congress": "042",
     "dates": [
       "18730210"
     ],
-    "description": "Mr. Wright asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To amend an act entitled An act in relation to bounties",
+    "description": "Mr. Wright asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To amend an act entitled \"An act in relation to bounties,\" approved April twenty-second, eighteen hundred and seventy-two.",
     "page": "",
     "session": "003",
     "tiff_filename": "46070000.tif",
@@ -83139,13 +83118,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved December twenty-first, eighteen hundred and sixty-one."
+      "Committee on Naval Affairs"
     ],
     "congress": "042",
     "dates": [
       "18730212"
     ],
-    "description": "Mr. Sawyer asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Naval Affairs, and ordered to be printed. A Bill To amend an act entitled An act to further promote the efficiency of the Navy",
+    "description": "Mr. Sawyer asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Naval Affairs, and ordered to be printed. A Bill To amend an act entitled \"An act to further promote the efficiency of the Navy,\" approved December twenty-first, eighteen hundred and sixty-one.",
     "page": "",
     "session": "003",
     "tiff_filename": "46570000.tif",
@@ -83747,13 +83726,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved March second, eighteen hundred and sixty-seven, and the several acts amendatory thereof."
+      "Committee on the Judiciary"
     ],
     "congress": "042",
     "dates": [
       "18730214"
     ],
-    "description": "Mr. Wright asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To amend an act entitled An act to establish a uniform system of bankruptcy throughout the United States",
+    "description": "Mr. Wright asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To amend an act entitled \"An act to establish a uniform system of bankruptcy throughout the United States,\" approved March second, eighteen hundred and sixty-seven, and the several acts amendatory thereof.",
     "page": "",
     "session": "003",
     "tiff_filename": "46900000.tif",
@@ -84164,13 +84143,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and for other purposes"
+      "Committee on Military Affairs"
     ],
     "congress": "042",
     "dates": [
       "18730215"
     ],
-    "description": "Mr. Morton asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. A Bill To amend the twenty-fifth section of an act entitled An act to increase the present military establishment of the United States",
+    "description": "Mr. Morton asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. A Bill To amend the twenty-fifth section of an act entitled \"An act to increase the present military establishment of the United States, and for other purposes,\" approved July fifth, eighteen hundred and thirty-eight.",
     "page": "",
     "session": "003",
     "tiff_filename": "47130000.tif",
@@ -84350,13 +84329,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved July twenty-seventh, eighteen hundred and sixty-eight."
+      "Committee on the District of Columbia"
     ],
     "congress": "042",
     "dates": [
       "18730218"
     ],
-    "description": "Mr. Sawyer asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the District of Columbia, and ordered to be printed. A Bill To amend an act entitled An act relating to the Alexandria Canal",
+    "description": "Mr. Sawyer asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on the District of Columbia, and ordered to be printed. A Bill To amend an act entitled \"An act relating to the Alexandria Canal,\" approved July twenty-seventh, eighteen hundred and sixty-eight.",
     "page": "",
     "session": "003",
     "tiff_filename": "47230000.tif",
@@ -85039,13 +85018,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "approved June tenth, eighteen hundred and seventy-two."
+      "Committee on Public Lands"
     ],
     "congress": "042",
     "dates": [
       "18730221"
     ],
-    "description": "Mr. Ferry, of Michigan, asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill To amend an act entitled An act for the restoration of certain lands in Michigan",
+    "description": "Mr. Ferry, of Michigan, asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill To amend an act entitled \"An act for the restoration of certain lands in Michigan,\" approved June tenth, eighteen hundred and seventy-two.",
     "page": "",
     "session": "003",
     "tiff_filename": "47620000.tif",
