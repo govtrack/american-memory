@@ -1,11 +1,17 @@
 [
   {
-    "bill_number": "S. 1",
+    "bill_numbers": [
+      "S. 1"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Finance",
+    "committees": [
+      "Committee on Finance"
+    ],
     "congress": "022",
-    "dates": "18320213",
+    "dates": [
+      "18320213"
+    ],
     "description": "Mr. Smith, from the Committee on Finance, reported the following resolution; which was read, and passed to a second reading: Joint Resolution To authorize the Secretary of the Navy to allow interest in certain cases.",
     "page": "",
     "session": "001",
@@ -13,12 +19,12 @@
     "volume": "022"
   },
   {
-    "bill_number": "",
+    "bill_numbers": [],
     "chamber": "",
     "collection": "",
-    "committees": "",
+    "committees": [],
     "congress": "",
-    "dates": "",
+    "dates": [],
     "description": "",
     "page": "",
     "session": "",
@@ -26,12 +32,12 @@
     "volume": ""
   },
   {
-    "bill_number": "",
+    "bill_numbers": [],
     "chamber": "",
     "collection": "",
-    "committees": "",
+    "committees": [],
     "congress": "",
-    "dates": "",
+    "dates": [],
     "description": "",
     "page": "",
     "session": "",

@@ -1,11 +1,17 @@
 [
   {
-    "bill_number": "1",
+    "bill_numbers": [
+      "1"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18021220",
+    "dates": [
+      "18021220"
+    ],
     "description": "Read the first and second time, and committed to a Committee of the whole House on Thursday next. A Bill, For the relief of Insolvent Debtors within the District of Columbia.",
     "page": "",
     "session": "002",
@@ -13,12 +19,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "1",
+    "bill_numbers": [
+      "1"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18021220",
+    "dates": [
+      "18021220"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -26,12 +36,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "1",
+    "bill_numbers": [
+      "1"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18021220",
+    "dates": [
+      "18021220"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -39,12 +53,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "1",
+    "bill_numbers": [
+      "1"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18021220",
+    "dates": [
+      "18021220"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -52,12 +70,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "1",
+    "bill_numbers": [
+      "1"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18021220",
+    "dates": [
+      "18021220"
+    ],
     "description": "",
     "page": "5",
     "session": "002",
@@ -65,12 +87,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "1",
+    "bill_numbers": [
+      "1"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18021220",
+    "dates": [
+      "18021220"
+    ],
     "description": "",
     "page": "6",
     "session": "002",
@@ -78,12 +104,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "1",
+    "bill_numbers": [
+      "1"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18021220",
+    "dates": [
+      "18021220"
+    ],
     "description": "",
     "page": "7",
     "session": "002",
@@ -91,12 +121,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "1",
+    "bill_numbers": [
+      "1"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18021220",
+    "dates": [
+      "18021220"
+    ],
     "description": "",
     "page": "8",
     "session": "002",
@@ -104,12 +138,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "2",
+    "bill_numbers": [
+      "2"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18021221",
+    "dates": [
+      "18021221"
+    ],
     "description": "Read the first and second time, and committed to a Committee of the whole House To-morrow. A Bill, To allow a drawback of duties on goods exported to New Orleans; and therein to amend the act intituled ''An act to regulate the collection of duties on imports and tonnage.''",
     "page": "",
     "session": "002",
@@ -117,12 +157,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "3",
+    "bill_numbers": [
+      "3"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030103",
+    "dates": [
+      "18030103"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House To-morrow. A Bill, Making a partial appropriation for the Naval service, during the year one thousand eight hundred and three.",
     "page": "",
     "session": "002",
@@ -130,12 +176,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "4",
+    "bill_numbers": [
+      "4"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030103",
+    "dates": [
+      "18030103"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House To-morrow. A Bill, Making appropriations for the Military establishment of the United States, in the year one thousand eight hundred and three.",
     "page": "",
     "session": "002",
@@ -143,12 +195,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "4",
+    "bill_numbers": [
+      "4"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030103",
+    "dates": [
+      "18030103"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -156,12 +212,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "5",
+    "bill_numbers": [
+      "5"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030111",
+    "dates": [
+      "18030111"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Thursday next. A Bill, For the relief of Insolvent Debtors, within the District of Columbia.",
     "page": "",
     "session": "002",
@@ -169,12 +231,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "5",
+    "bill_numbers": [
+      "5"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030111",
+    "dates": [
+      "18030111"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -182,12 +248,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "5",
+    "bill_numbers": [
+      "5"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030111",
+    "dates": [
+      "18030111"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -195,12 +265,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "5",
+    "bill_numbers": [
+      "5"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030111",
+    "dates": [
+      "18030111"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -208,12 +282,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "5",
+    "bill_numbers": [
+      "5"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030111",
+    "dates": [
+      "18030111"
+    ],
     "description": "",
     "page": "5",
     "session": "002",
@@ -221,12 +299,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "5",
+    "bill_numbers": [
+      "5"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030111",
+    "dates": [
+      "18030111"
+    ],
     "description": "",
     "page": "6",
     "session": "002",
@@ -234,12 +316,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "5",
+    "bill_numbers": [
+      "5"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030111",
+    "dates": [
+      "18030111"
+    ],
     "description": "",
     "page": "7",
     "session": "002",
@@ -247,12 +333,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "5",
+    "bill_numbers": [
+      "5"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030111",
+    "dates": [
+      "18030111"
+    ],
     "description": "",
     "page": "8",
     "session": "002",
@@ -260,12 +350,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "6",
+    "bill_numbers": [
+      "6"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030113",
+    "dates": [
+      "18030113"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House to-morrow. A Bill, For the relief of Henry Messonnier.",
     "page": "",
     "session": "002",
@@ -273,12 +369,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "7",
+    "bill_numbers": [
+      "7"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030113",
+    "dates": [
+      "18030113"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Monday next. A Bill, For incorporating an Insurance Company in the City of Washington.",
     "page": "",
     "session": "002",
@@ -286,12 +388,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "7",
+    "bill_numbers": [
+      "7"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030113",
+    "dates": [
+      "18030113"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -299,12 +405,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "7",
+    "bill_numbers": [
+      "7"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030113",
+    "dates": [
+      "18030113"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -312,12 +422,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "7",
+    "bill_numbers": [
+      "7"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030113",
+    "dates": [
+      "18030113"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -325,12 +439,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "7",
+    "bill_numbers": [
+      "7"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030113",
+    "dates": [
+      "18030113"
+    ],
     "description": "",
     "page": "5",
     "session": "002",
@@ -338,12 +456,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "7",
+    "bill_numbers": [
+      "7"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030113",
+    "dates": [
+      "18030113"
+    ],
     "description": "",
     "page": "6",
     "session": "002",
@@ -351,12 +473,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "7",
+    "bill_numbers": [
+      "7"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030113",
+    "dates": [
+      "18030113"
+    ],
     "description": "",
     "page": "7",
     "session": "002",
@@ -364,12 +490,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "7",
+    "bill_numbers": [
+      "7"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030113",
+    "dates": [
+      "18030113"
+    ],
     "description": "",
     "page": "8",
     "session": "002",
@@ -377,12 +507,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "7",
+    "bill_numbers": [
+      "7"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030113",
+    "dates": [
+      "18030113"
+    ],
     "description": "",
     "page": "9",
     "session": "002",
@@ -390,12 +524,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "7",
+    "bill_numbers": [
+      "7"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030113",
+    "dates": [
+      "18030113"
+    ],
     "description": "",
     "page": "10",
     "session": "002",
@@ -403,12 +541,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "7",
+    "bill_numbers": [
+      "7"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030113",
+    "dates": [
+      "18030113"
+    ],
     "description": "",
     "page": "11",
     "session": "002",
@@ -416,12 +558,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "8",
+    "bill_numbers": [
+      "8"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030113",
+    "dates": [
+      "18030113"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House to-morrow. A Bill, For the relief of Hugh Alexander, and others.",
     "page": "",
     "session": "002",
@@ -429,12 +577,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "8",
+    "bill_numbers": [
+      "8"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030113",
+    "dates": [
+      "18030113"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -442,12 +594,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "9",
+    "bill_numbers": [
+      "9"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030114",
+    "dates": [
+      "18030114"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Tuesday next. A Bill, Additional to and amendatory of an act, intituled, ''An act to incorporate the inhabitants of the city of Washington, in the district of Columbia.''",
     "page": "",
     "session": "002",
@@ -455,12 +613,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "9",
+    "bill_numbers": [
+      "9"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030114",
+    "dates": [
+      "18030114"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -468,12 +630,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "9",
+    "bill_numbers": [
+      "9"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030114",
+    "dates": [
+      "18030114"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -481,12 +647,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "9",
+    "bill_numbers": [
+      "9"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030114",
+    "dates": [
+      "18030114"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -494,12 +664,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "9",
+    "bill_numbers": [
+      "9"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030114",
+    "dates": [
+      "18030114"
+    ],
     "description": "",
     "page": "5",
     "session": "002",
@@ -507,12 +681,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "10",
+    "bill_numbers": [
+      "10"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030114",
+    "dates": [
+      "18030114"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Tuesday next. A Bill, To lay out and open a new public road in the county of Washington, in the District of Columbia.",
     "page": "",
     "session": "002",
@@ -520,12 +700,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "10",
+    "bill_numbers": [
+      "10"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030114",
+    "dates": [
+      "18030114"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -533,12 +717,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "11",
+    "bill_numbers": [
+      "11"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030114",
+    "dates": [
+      "18030114"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Monday next. A Bill, For the relief of the sufferers by fire, in the town of Portsmouth.",
     "page": "",
     "session": "002",
@@ -546,12 +736,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "12",
+    "bill_numbers": [
+      "12"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030119",
+    "dates": [
+      "18030119"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Monday next. A Bill, For the importation of Ordnance, Arms, &c.",
     "page": "",
     "session": "002",
@@ -559,12 +755,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "13",
+    "bill_numbers": [
+      "13"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030119",
+    "dates": [
+      "18030119"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Monday next. A Bill, For the encouragement of Learning, and for the promotion of Useful Arts.",
     "page": "",
     "session": "002",
@@ -572,12 +774,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "13",
+    "bill_numbers": [
+      "13"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030119",
+    "dates": [
+      "18030119"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -585,12 +791,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "13",
+    "bill_numbers": [
+      "13"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030119",
+    "dates": [
+      "18030119"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -598,12 +808,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "13",
+    "bill_numbers": [
+      "13"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030119",
+    "dates": [
+      "18030119"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -611,12 +825,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "13",
+    "bill_numbers": [
+      "13"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030119",
+    "dates": [
+      "18030119"
+    ],
     "description": "",
     "page": "5",
     "session": "002",
@@ -624,12 +842,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "13",
+    "bill_numbers": [
+      "13"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030119",
+    "dates": [
+      "18030119"
+    ],
     "description": "",
     "page": "6",
     "session": "002",
@@ -637,12 +859,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "13",
+    "bill_numbers": [
+      "13"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030119",
+    "dates": [
+      "18030119"
+    ],
     "description": "",
     "page": "7",
     "session": "002",
@@ -650,12 +876,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "13",
+    "bill_numbers": [
+      "13"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030119",
+    "dates": [
+      "18030119"
+    ],
     "description": "",
     "page": "8",
     "session": "002",
@@ -663,12 +893,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "13",
+    "bill_numbers": [
+      "13"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030119",
+    "dates": [
+      "18030119"
+    ],
     "description": "",
     "page": "9",
     "session": "002",
@@ -676,12 +910,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "13",
+    "bill_numbers": [
+      "13"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030119",
+    "dates": [
+      "18030119"
+    ],
     "description": "",
     "page": "10",
     "session": "002",
@@ -689,12 +927,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "13",
+    "bill_numbers": [
+      "13"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030119",
+    "dates": [
+      "18030119"
+    ],
     "description": "",
     "page": "11",
     "session": "002",
@@ -702,12 +944,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "13",
+    "bill_numbers": [
+      "13"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030119",
+    "dates": [
+      "18030119"
+    ],
     "description": "",
     "page": "12",
     "session": "002",
@@ -715,12 +961,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "13",
+    "bill_numbers": [
+      "13"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030119",
+    "dates": [
+      "18030119"
+    ],
     "description": "",
     "page": "13",
     "session": "002",
@@ -728,12 +978,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "13",
+    "bill_numbers": [
+      "13"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030119",
+    "dates": [
+      "18030119"
+    ],
     "description": "",
     "page": "14",
     "session": "002",
@@ -741,12 +995,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "13",
+    "bill_numbers": [
+      "13"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030119",
+    "dates": [
+      "18030119"
+    ],
     "description": "",
     "page": "15",
     "session": "002",
@@ -754,12 +1012,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "14",
+    "bill_numbers": [
+      "14"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030124",
+    "dates": [
+      "18030124"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Thursday next. A Bill, Supplementary to the ''Act concerning Consuls and Vice-Consuls,'' and for the further protection of American Seaman.",
     "page": "",
     "session": "002",
@@ -767,12 +1031,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "14",
+    "bill_numbers": [
+      "14"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030124",
+    "dates": [
+      "18030124"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -780,12 +1048,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "14",
+    "bill_numbers": [
+      "14"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030124",
+    "dates": [
+      "18030124"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -793,12 +1065,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "14",
+    "bill_numbers": [
+      "14"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030124",
+    "dates": [
+      "18030124"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -806,12 +1082,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "14",
+    "bill_numbers": [
+      "14"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030124",
+    "dates": [
+      "18030124"
+    ],
     "description": "",
     "page": "5",
     "session": "002",
@@ -819,12 +1099,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "14",
+    "bill_numbers": [
+      "14"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030124",
+    "dates": [
+      "18030124"
+    ],
     "description": "",
     "page": "6",
     "session": "002",
@@ -832,12 +1116,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "15",
+    "bill_numbers": [
+      "15"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030125",
+    "dates": [
+      "18030125"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Monday next. A Bill, Making an appropriation for the preservation of Timber on the public Navy Yards, and for the improvement of the same.",
     "page": "",
     "session": "002",
@@ -845,12 +1135,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "16",
+    "bill_numbers": [
+      "16"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030125",
+    "dates": [
+      "18030125"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House to-morrow. A Bill, To make provisions for persons that have been disabled by known wounds received in the service of the United States, during the Revolutionary War.",
     "page": "",
     "session": "002",
@@ -858,12 +1154,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "16",
+    "bill_numbers": [
+      "16"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030125",
+    "dates": [
+      "18030125"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -871,12 +1171,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "17",
+    "bill_numbers": [
+      "17"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030126",
+    "dates": [
+      "18030126"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House to-morrow. A Bill, For the relief of William Ray, and John Follawell.",
     "page": "",
     "session": "002",
@@ -884,12 +1190,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "18",
+    "bill_numbers": [
+      "18"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030126",
+    "dates": [
+      "18030126"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House to-morrow. A Bill, In addition to an Act, intituled ''An Act fixing the Military peace establishment of the United States.''",
     "page": "",
     "session": "002",
@@ -897,12 +1209,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "18",
+    "bill_numbers": [
+      "18"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030126",
+    "dates": [
+      "18030126"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -910,12 +1226,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "19",
+    "bill_numbers": [
+      "19"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030126",
+    "dates": [
+      "18030126"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Friday next. A Bill, For the relief of the proprietors of the Salem Turnpike road in Massachusetts.",
     "page": "",
     "session": "002",
@@ -923,12 +1245,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "19",
+    "bill_numbers": [
+      "19"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030126",
+    "dates": [
+      "18030126"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -936,12 +1262,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "20",
+    "bill_numbers": [
+      "20"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030126",
+    "dates": [
+      "18030126"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Monday next. A Bill, To prevent the importation of Certain Persons, whose admission is prohibited by certain laws of the State Government.",
     "page": "",
     "session": "002",
@@ -949,12 +1281,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "20",
+    "bill_numbers": [
+      "20"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030126",
+    "dates": [
+      "18030126"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -962,12 +1298,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "20",
+    "bill_numbers": [
+      "20"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030126",
+    "dates": [
+      "18030126"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -975,12 +1315,19 @@
     "volume": "021"
   },
   {
-    "bill_number": "21",
+    "bill_numbers": [
+      "21"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030126,18030204",
+    "dates": [
+      "18030126",
+      "18030204"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Monday next. Amended, and ordered to be engrossed. A Bill, To prevent the importation of Certain Persons, whose admission is prohibited by certain laws of the State Governments.",
     "page": "",
     "session": "002",
@@ -988,12 +1335,17 @@
     "volume": "021"
   },
   {
-    "bill_number": "21",
+    "bill_numbers": [
+      "21"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030126,18030204",
+    "dates": [
+      "18030126",
+      "18030204"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1001,12 +1353,17 @@
     "volume": "021"
   },
   {
-    "bill_number": "21",
+    "bill_numbers": [
+      "21"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030126,18030204",
+    "dates": [
+      "18030126",
+      "18030204"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -1014,12 +1371,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "22",
+    "bill_numbers": [
+      "22"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030127",
+    "dates": [
+      "18030127"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House to-morrow. A Bill, To amend an Act, intituled, ''An Act to amend the Judicial System of the United States.''",
     "page": "",
     "session": "002",
@@ -1027,12 +1390,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "22",
+    "bill_numbers": [
+      "22"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030127",
+    "dates": [
+      "18030127"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1040,12 +1407,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "23",
+    "bill_numbers": [
+      "23"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030128",
+    "dates": [
+      "18030128"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Monday next. A Bill, To provide an additional Armament for the protection of the Seaman and Commerce of the United States.",
     "page": "",
     "session": "002",
@@ -1053,12 +1426,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "23",
+    "bill_numbers": [
+      "23"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030128",
+    "dates": [
+      "18030128"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1066,12 +1443,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "24",
+    "bill_numbers": [
+      "24"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030201",
+    "dates": [
+      "18030201"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House to-morrow. A Bill, To prolong, the continuance of the Mint of Philadelphia.",
     "page": "",
     "session": "002",
@@ -1079,12 +1462,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "25",
+    "bill_numbers": [
+      "25"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030202",
+    "dates": [
+      "18030202"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House to-morrow. A Bill, For the relief of Moses White.",
     "page": "",
     "session": "002",
@@ -1092,12 +1481,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "25",
+    "bill_numbers": [
+      "25"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030202",
+    "dates": [
+      "18030202"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1105,12 +1498,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "26",
+    "bill_numbers": [
+      "26"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030203",
+    "dates": [
+      "18030203"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Saturday next. A Bill, To provide for the granting of Clearances to Ships or Vessels of the United States, lying in the river Mississippi, south of the southern boundary of the United States, and therein to amend an act, intituled, ''An Act to regulate the Collection of Duties on Imports and Tonnage,'' and for other purposes.",
     "page": "",
     "session": "002",
@@ -1118,12 +1517,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "26",
+    "bill_numbers": [
+      "26"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030203",
+    "dates": [
+      "18030203"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1131,12 +1534,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "26",
+    "bill_numbers": [
+      "26"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030203",
+    "dates": [
+      "18030203"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -1144,12 +1551,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "26",
+    "bill_numbers": [
+      "26"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030203",
+    "dates": [
+      "18030203"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -1157,12 +1568,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "27",
+    "bill_numbers": [
+      "27"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030203",
+    "dates": [
+      "18030203"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Saturday next. A Bill, Supplementary to the Act intituled ''An Act providing passports for the ships and vessels of the United States.''",
     "page": "",
     "session": "002",
@@ -1170,12 +1587,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "27",
+    "bill_numbers": [
+      "27"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030203",
+    "dates": [
+      "18030203"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1183,12 +1604,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "28",
+    "bill_numbers": [
+      "28"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030207",
+    "dates": [
+      "18030207"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Wednesday next. A Bill, To make provision for Person that have been Disabled by known Wounds received in the actual service of the United States, during the Revolutionary War.",
     "page": "",
     "session": "002",
@@ -1196,12 +1623,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "28",
+    "bill_numbers": [
+      "28"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030207",
+    "dates": [
+      "18030207"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1209,12 +1640,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "28",
+    "bill_numbers": [
+      "28"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030207",
+    "dates": [
+      "18030207"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -1222,12 +1657,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "28",
+    "bill_numbers": [
+      "28"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030207",
+    "dates": [
+      "18030207"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -1235,12 +1674,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "29",
+    "bill_numbers": [
+      "29"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030207",
+    "dates": [
+      "18030207"
+    ],
     "description": "Read the first and second time, and referred to the committee of the whole House, to whom was, this day, committed ''so much of the message of the President of the United States, of the 15th December last, as relates to the Militia Institution of the United States.'' A Bill, In addition to an act, intituled, ''An Act more effectually to provide for the National defence, by establishing an Uniform Militia throughout the United States.''",
     "page": "",
     "session": "002",
@@ -1248,12 +1693,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "29",
+    "bill_numbers": [
+      "29"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030207",
+    "dates": [
+      "18030207"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1261,12 +1710,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "30",
+    "bill_numbers": [
+      "30"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030208",
+    "dates": [
+      "18030208"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Friday next. A Bill, Further to alter and establish certain Post Roads, and for other purposes.",
     "page": "",
     "session": "002",
@@ -1274,12 +1729,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "30",
+    "bill_numbers": [
+      "30"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030208",
+    "dates": [
+      "18030208"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1287,12 +1746,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "30",
+    "bill_numbers": [
+      "30"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030208",
+    "dates": [
+      "18030208"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -1300,12 +1763,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "31",
+    "bill_numbers": [
+      "31"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030210",
+    "dates": [
+      "18030210"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Monday next. A Bill, For establishing the Government of the Territory of Columbia.",
     "page": "",
     "session": "002",
@@ -1313,12 +1782,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "31",
+    "bill_numbers": [
+      "31"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030210",
+    "dates": [
+      "18030210"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1326,12 +1799,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "31",
+    "bill_numbers": [
+      "31"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030210",
+    "dates": [
+      "18030210"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -1339,12 +1816,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "31",
+    "bill_numbers": [
+      "31"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030210",
+    "dates": [
+      "18030210"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -1352,12 +1833,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "31",
+    "bill_numbers": [
+      "31"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030210",
+    "dates": [
+      "18030210"
+    ],
     "description": "",
     "page": "5",
     "session": "002",
@@ -1365,12 +1850,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "31",
+    "bill_numbers": [
+      "31"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030210",
+    "dates": [
+      "18030210"
+    ],
     "description": "",
     "page": "6",
     "session": "002",
@@ -1378,12 +1867,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "31",
+    "bill_numbers": [
+      "31"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030210",
+    "dates": [
+      "18030210"
+    ],
     "description": "",
     "page": "7",
     "session": "002",
@@ -1391,12 +1884,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "31",
+    "bill_numbers": [
+      "31"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030210",
+    "dates": [
+      "18030210"
+    ],
     "description": "",
     "page": "8",
     "session": "002",
@@ -1404,12 +1901,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "31",
+    "bill_numbers": [
+      "31"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030210",
+    "dates": [
+      "18030210"
+    ],
     "description": "",
     "page": "9",
     "session": "002",
@@ -1417,12 +1918,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "31",
+    "bill_numbers": [
+      "31"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030210",
+    "dates": [
+      "18030210"
+    ],
     "description": "",
     "page": "10",
     "session": "002",
@@ -1430,12 +1935,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "32",
+    "bill_numbers": [
+      "32"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030210",
+    "dates": [
+      "18030210"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Monday next. A Bill, To prevent the importation of certain Persons into certain States, where, by the laws thereof, their admission is prohibited",
     "page": "",
     "session": "002",
@@ -1443,12 +1954,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "32",
+    "bill_numbers": [
+      "32"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030210",
+    "dates": [
+      "18030210"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1456,12 +1971,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "32",
+    "bill_numbers": [
+      "32"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030210",
+    "dates": [
+      "18030210"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -1469,12 +1988,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "33",
+    "bill_numbers": [
+      "33"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030211",
+    "dates": [
+      "18030211"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House to-morrow. A Bill, For the relief of Samuel Corp.",
     "page": "",
     "session": "002",
@@ -1482,12 +2007,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "33",
+    "bill_numbers": [
+      "33"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030211",
+    "dates": [
+      "18030211"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1495,12 +2024,19 @@
     "volume": "021"
   },
   {
-    "bill_number": "34",
+    "bill_numbers": [
+      "34"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House~Committee of Commerce and Manufactures",
+    "committees": [
+      "Committee of the Whole House",
+      "Committee of Commerce and Manufactures"
+    ],
     "congress": "007",
-    "dates": "18030212",
+    "dates": [
+      "18030212"
+    ],
     "description": "Read the first and second time, and ordered to be committed to the Committee of the whole House, to whom was this day referred, the report of the Committee of Commerce and Manufactures, on the Petition of Thomas Storm, and others, Sugar Refiners of the City of New York. A Bill, To allow a drawback of Duty on Sugar Refined within the United States.",
     "page": "",
     "session": "002",
@@ -1508,12 +2044,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "34",
+    "bill_numbers": [
+      "34"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030212",
+    "dates": [
+      "18030212"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1521,12 +2061,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "34",
+    "bill_numbers": [
+      "34"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030212",
+    "dates": [
+      "18030212"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -1534,12 +2078,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "34",
+    "bill_numbers": [
+      "34"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030212",
+    "dates": [
+      "18030212"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -1547,12 +2095,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "34",
+    "bill_numbers": [
+      "34"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030212",
+    "dates": [
+      "18030212"
+    ],
     "description": "",
     "page": "5",
     "session": "002",
@@ -1560,12 +2112,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "34",
+    "bill_numbers": [
+      "34"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030212",
+    "dates": [
+      "18030212"
+    ],
     "description": "",
     "page": "6",
     "session": "002",
@@ -1573,12 +2129,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "35",
+    "bill_numbers": [
+      "35"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House to-morrow. A Bill, Concerning the insurance of buildings, goods, and furniture, in the county of Alexandria, in the territory of Columbia.",
     "page": "",
     "session": "002",
@@ -1586,12 +2148,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "35",
+    "bill_numbers": [
+      "35"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1599,12 +2165,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Thursday next. A Bill, More effectually to provide for the organization of the Militia of the District of Columbia.",
     "page": "",
     "session": "002",
@@ -1612,12 +2184,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1625,12 +2201,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -1638,12 +2218,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -1651,12 +2235,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "5",
     "session": "002",
@@ -1664,12 +2252,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "6",
     "session": "002",
@@ -1677,12 +2269,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "7",
     "session": "002",
@@ -1690,12 +2286,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "8",
     "session": "002",
@@ -1703,12 +2303,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "9",
     "session": "002",
@@ -1716,12 +2320,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "10",
     "session": "002",
@@ -1729,12 +2337,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "11",
     "session": "002",
@@ -1742,12 +2354,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "12",
     "session": "002",
@@ -1755,12 +2371,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "13",
     "session": "002",
@@ -1768,12 +2388,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "14",
     "session": "002",
@@ -1781,12 +2405,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "15",
     "session": "002",
@@ -1794,12 +2422,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "16",
     "session": "002",
@@ -1807,12 +2439,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "17",
     "session": "002",
@@ -1820,12 +2456,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "18",
     "session": "002",
@@ -1833,12 +2473,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "19",
     "session": "002",
@@ -1846,12 +2490,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "20",
     "session": "002",
@@ -1859,12 +2507,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "21",
     "session": "002",
@@ -1872,12 +2524,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "22",
     "session": "002",
@@ -1885,12 +2541,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "23",
     "session": "002",
@@ -1898,12 +2558,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "24",
     "session": "002",
@@ -1911,12 +2575,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "25",
     "session": "002",
@@ -1924,12 +2592,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "26",
     "session": "002",
@@ -1937,12 +2609,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "27",
     "session": "002",
@@ -1950,12 +2626,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "28",
     "session": "002",
@@ -1963,12 +2643,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "36",
+    "bill_numbers": [
+      "36"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "29",
     "session": "002",
@@ -1976,12 +2660,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "37",
+    "bill_numbers": [
+      "37"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "Read the first and second time, and committed to a Committee of the whole House on Wednesday next. A Bill, In addition to the Act, intituled, ''An Act concerning the registering and recording of ships and vessels of the United States,'' and to the Act, intituled, ''An Act to regulate the collection of duties on imports and tonnage.''",
     "page": "",
     "session": "002",
@@ -1989,12 +2679,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "37",
+    "bill_numbers": [
+      "37"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2002,12 +2696,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "37",
+    "bill_numbers": [
+      "37"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030214",
+    "dates": [
+      "18030214"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -2015,12 +2713,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "38",
+    "bill_numbers": [
+      "38"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030215",
+    "dates": [
+      "18030215"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the Whole House on Friday next. A Bill, Making an appropriation for the support of the Navy of the United States, for the year one thousand eight hundred and three.",
     "page": "",
     "session": "002",
@@ -2028,12 +2732,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "38",
+    "bill_numbers": [
+      "38"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030215",
+    "dates": [
+      "18030215"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2041,12 +2749,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "38",
+    "bill_numbers": [
+      "38"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030215",
+    "dates": [
+      "18030215"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -2054,12 +2766,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "38",
+    "bill_numbers": [
+      "38"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030215",
+    "dates": [
+      "18030215"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -2067,12 +2783,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "39",
+    "bill_numbers": [
+      "39"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030215",
+    "dates": [
+      "18030215"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Thursday next. A Bill, For continuing in force a law, entitle ''An Act for establishing Trading houses with the Indian tribes.''",
     "page": "",
     "session": "002",
@@ -2080,12 +2802,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "39",
+    "bill_numbers": [
+      "39"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030215",
+    "dates": [
+      "18030215"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2093,12 +2819,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "40",
+    "bill_numbers": [
+      "40"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030215",
+    "dates": [
+      "18030215"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Thursday next. A Bill, For erecting a Light-house at the entrance of Penobscot Bay, or any other place in its vicinity, that may be deemed preferable by the Secretary of the Treasury.",
     "page": "",
     "session": "002",
@@ -2106,12 +2838,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "40",
+    "bill_numbers": [
+      "40"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030215",
+    "dates": [
+      "18030215"
+    ],
     "description": "",
     "page": "",
     "session": "002",
@@ -2119,12 +2855,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "41",
+    "bill_numbers": [
+      "41"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030216",
+    "dates": [
+      "18030216"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Friday next. A Bill, to establish a Building and Fire Insurance Company in the City of Washington.",
     "page": "",
     "session": "002",
@@ -2132,12 +2874,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "41",
+    "bill_numbers": [
+      "41"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030216",
+    "dates": [
+      "18030216"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2145,12 +2891,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "41",
+    "bill_numbers": [
+      "41"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030216",
+    "dates": [
+      "18030216"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -2158,12 +2908,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "41",
+    "bill_numbers": [
+      "41"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030216",
+    "dates": [
+      "18030216"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -2171,12 +2925,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "41",
+    "bill_numbers": [
+      "41"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030216",
+    "dates": [
+      "18030216"
+    ],
     "description": "",
     "page": "5",
     "session": "002",
@@ -2184,12 +2942,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "41",
+    "bill_numbers": [
+      "41"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030216",
+    "dates": [
+      "18030216"
+    ],
     "description": "",
     "page": "6",
     "session": "002",
@@ -2197,12 +2959,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "41",
+    "bill_numbers": [
+      "41"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030216",
+    "dates": [
+      "18030216"
+    ],
     "description": "",
     "page": "7",
     "session": "002",
@@ -2210,12 +2976,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "42",
+    "bill_numbers": [
+      "42"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030216",
+    "dates": [
+      "18030216"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House To-morrow. A Bill, To revive and continue in force, an act in addition to an act, intituled, ''An act in addition to an act, regulating the grants of lands appropriated for military services, and for the society of the United Brethren, for propagating the Gospel among the Heathen.''",
     "page": "",
     "session": "002",
@@ -2223,12 +2995,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "42",
+    "bill_numbers": [
+      "42"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030216",
+    "dates": [
+      "18030216"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2236,12 +3012,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "42",
+    "bill_numbers": [
+      "42"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030216",
+    "dates": [
+      "18030216"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -2249,12 +3029,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "43",
+    "bill_numbers": [
+      "43"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030216",
+    "dates": [
+      "18030216"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Saturday next. A Bill, Making appropriations for the support of government, for the year one thousand eight hundred and three.",
     "page": "",
     "session": "002",
@@ -2262,12 +3048,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "43",
+    "bill_numbers": [
+      "43"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030216",
+    "dates": [
+      "18030216"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2275,12 +3065,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "43",
+    "bill_numbers": [
+      "43"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030216",
+    "dates": [
+      "18030216"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -2288,12 +3082,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "43",
+    "bill_numbers": [
+      "43"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030216",
+    "dates": [
+      "18030216"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -2301,12 +3099,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "43",
+    "bill_numbers": [
+      "43"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030216",
+    "dates": [
+      "18030216"
+    ],
     "description": "",
     "page": "5",
     "session": "002",
@@ -2314,12 +3116,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "43",
+    "bill_numbers": [
+      "43"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030216",
+    "dates": [
+      "18030216"
+    ],
     "description": "",
     "page": "6",
     "session": "002",
@@ -2327,12 +3133,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "43",
+    "bill_numbers": [
+      "43"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030216",
+    "dates": [
+      "18030216"
+    ],
     "description": "",
     "page": "7",
     "session": "002",
@@ -2340,12 +3150,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "43",
+    "bill_numbers": [
+      "43"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030216",
+    "dates": [
+      "18030216"
+    ],
     "description": "",
     "page": "8",
     "session": "002",
@@ -2353,12 +3167,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "43",
+    "bill_numbers": [
+      "43"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030216",
+    "dates": [
+      "18030216"
+    ],
     "description": "",
     "page": "9",
     "session": "002",
@@ -2366,12 +3184,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "43",
+    "bill_numbers": [
+      "43"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030216",
+    "dates": [
+      "18030216"
+    ],
     "description": "",
     "page": "10",
     "session": "002",
@@ -2379,12 +3201,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "43",
+    "bill_numbers": [
+      "43"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030216",
+    "dates": [
+      "18030216"
+    ],
     "description": "",
     "page": "11",
     "session": "002",
@@ -2392,12 +3218,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "43",
+    "bill_numbers": [
+      "43"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030216",
+    "dates": [
+      "18030216"
+    ],
     "description": "",
     "page": "12",
     "session": "002",
@@ -2405,12 +3235,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "44",
+    "bill_numbers": [
+      "44"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030217",
+    "dates": [
+      "18030217"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House to-morrow. A Bill, In addition to an Act, intituled, ''An Act to establish an uniform rule of naturalization, and to repeal the acts heretofore passed on that subject.''",
     "page": "",
     "session": "002",
@@ -2418,12 +3254,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "45",
+    "bill_numbers": [
+      "45"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030218",
+    "dates": [
+      "18030218"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House to-morrow. A Bill, To make Beaufort and Passamaquoddy, ports of entry and delivery; to make Easton, Nanjemoy, and Tiverton, ports of delivery; to change the name of the District of Nanjemoy to that of Saint Mary's; to authorize the establishment of a new collection District on Lake Ontario; and the appointment of a Surveyor at Nanjemoy.",
     "page": "",
     "session": "002",
@@ -2431,12 +3273,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "45",
+    "bill_numbers": [
+      "45"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030218",
+    "dates": [
+      "18030218"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2444,12 +3290,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "45",
+    "bill_numbers": [
+      "45"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030218",
+    "dates": [
+      "18030218"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -2457,12 +3307,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "46",
+    "bill_numbers": [
+      "46"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030218",
+    "dates": [
+      "18030218"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House to-morrow. A Bill, In addition to, and in modification of the propositions contained in the act, intituled, ''An Act to enable the people of the eastern division of the Territory north west of the river Ohio, to form a constitution and state government, and for the admission of such state into the Union, on an equal footing with the original states, and for other purposes.''",
     "page": "",
     "session": "002",
@@ -2470,12 +3326,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "46",
+    "bill_numbers": [
+      "46"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030218",
+    "dates": [
+      "18030218"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2483,12 +3343,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "46",
+    "bill_numbers": [
+      "46"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030218",
+    "dates": [
+      "18030218"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -2496,12 +3360,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "46",
+    "bill_numbers": [
+      "46"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030218",
+    "dates": [
+      "18030218"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -2509,12 +3377,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "46",
+    "bill_numbers": [
+      "46"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030218",
+    "dates": [
+      "18030218"
+    ],
     "description": "",
     "page": "5",
     "session": "002",
@@ -2522,12 +3394,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "46",
+    "bill_numbers": [
+      "46"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030218",
+    "dates": [
+      "18030218"
+    ],
     "description": "",
     "page": "6",
     "session": "002",
@@ -2535,12 +3411,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "47",
+    "bill_numbers": [
+      "47"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030218",
+    "dates": [
+      "18030218"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Monday next. A Bill, to reduce the Marine Corps of the United States.",
     "page": "",
     "session": "002",
@@ -2548,12 +3430,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "47",
+    "bill_numbers": [
+      "47"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030218",
+    "dates": [
+      "18030218"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2561,12 +3447,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "48",
+    "bill_numbers": [
+      "48"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030218",
+    "dates": [
+      "18030218"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Monday next. A Bill, For the relief of Joshua Harvey, and others.",
     "page": "",
     "session": "002",
@@ -2574,12 +3466,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "48",
+    "bill_numbers": [
+      "48"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030218",
+    "dates": [
+      "18030218"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2587,12 +3483,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "49",
+    "bill_numbers": [
+      "49"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030219",
+    "dates": [
+      "18030219"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Monday next. A Bill, Concerning the Salt Springs on the waters of the Wabash River.",
     "page": "",
     "session": "002",
@@ -2600,12 +3502,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "50",
+    "bill_numbers": [
+      "50"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030219",
+    "dates": [
+      "18030219"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Tuesday next. A Bill, Regulating the grants of land, and providing for the disposal of the lands of the United States, south of the State of Tennessee.",
     "page": "",
     "session": "002",
@@ -2613,12 +3521,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "50",
+    "bill_numbers": [
+      "50"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030219",
+    "dates": [
+      "18030219"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2626,12 +3538,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "50",
+    "bill_numbers": [
+      "50"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030219",
+    "dates": [
+      "18030219"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -2639,12 +3555,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "50",
+    "bill_numbers": [
+      "50"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030219",
+    "dates": [
+      "18030219"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -2652,12 +3572,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "50",
+    "bill_numbers": [
+      "50"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030219",
+    "dates": [
+      "18030219"
+    ],
     "description": "",
     "page": "5",
     "session": "002",
@@ -2665,12 +3589,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "50",
+    "bill_numbers": [
+      "50"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030219",
+    "dates": [
+      "18030219"
+    ],
     "description": "",
     "page": "6",
     "session": "002",
@@ -2678,12 +3606,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "50",
+    "bill_numbers": [
+      "50"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030219",
+    "dates": [
+      "18030219"
+    ],
     "description": "",
     "page": "7",
     "session": "002",
@@ -2691,12 +3623,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "50",
+    "bill_numbers": [
+      "50"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030219",
+    "dates": [
+      "18030219"
+    ],
     "description": "",
     "page": "8",
     "session": "002",
@@ -2704,12 +3640,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "50",
+    "bill_numbers": [
+      "50"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030219",
+    "dates": [
+      "18030219"
+    ],
     "description": "",
     "page": "9",
     "session": "002",
@@ -2717,12 +3657,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "50",
+    "bill_numbers": [
+      "50"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030219",
+    "dates": [
+      "18030219"
+    ],
     "description": "",
     "page": "10",
     "session": "002",
@@ -2730,12 +3674,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "50",
+    "bill_numbers": [
+      "50"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030219",
+    "dates": [
+      "18030219"
+    ],
     "description": "",
     "page": "11",
     "session": "002",
@@ -2743,12 +3691,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "50",
+    "bill_numbers": [
+      "50"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030219",
+    "dates": [
+      "18030219"
+    ],
     "description": "",
     "page": "12",
     "session": "002",
@@ -2756,12 +3708,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "50",
+    "bill_numbers": [
+      "50"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030219",
+    "dates": [
+      "18030219"
+    ],
     "description": "",
     "page": "13",
     "session": "002",
@@ -2769,12 +3725,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "51",
+    "bill_numbers": [
+      "51"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030219",
+    "dates": [
+      "18030219"
+    ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Tuesday next. A Bill, for settling sundry claims to public lands of the United States, south of the State of Tennessee.",
     "page": "",
     "session": "002",
@@ -2782,12 +3744,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "51",
+    "bill_numbers": [
+      "51"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030219",
+    "dates": [
+      "18030219"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2795,12 +3761,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "51",
+    "bill_numbers": [
+      "51"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030219",
+    "dates": [
+      "18030219"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -2808,12 +3778,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "51",
+    "bill_numbers": [
+      "51"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030219",
+    "dates": [
+      "18030219"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -2821,12 +3795,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "51",
+    "bill_numbers": [
+      "51"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030219",
+    "dates": [
+      "18030219"
+    ],
     "description": "",
     "page": "5",
     "session": "002",
@@ -2834,12 +3812,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "51",
+    "bill_numbers": [
+      "51"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030219",
+    "dates": [
+      "18030219"
+    ],
     "description": "",
     "page": "6",
     "session": "002",
@@ -2847,12 +3829,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "51",
+    "bill_numbers": [
+      "51"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030219",
+    "dates": [
+      "18030219"
+    ],
     "description": "",
     "page": "7",
     "session": "002",
@@ -2860,12 +3846,19 @@
     "volume": "021"
   },
   {
-    "bill_number": "52",
+    "bill_numbers": [
+      "52"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030219,18030221",
+    "dates": [
+      "18030219",
+      "18030221"
+    ],
     "description": "Received, and ordered to lie on the Table. Read the first and second time, and ordered to be committed to a Committee of the whole House on Thursday next. A Bill, To Incorporate the Director of the Columbian Library Company.",
     "page": "",
     "session": "002",
@@ -2873,12 +3866,17 @@
     "volume": "021"
   },
   {
-    "bill_number": "52",
+    "bill_numbers": [
+      "52"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030219,18030221",
+    "dates": [
+      "18030219",
+      "18030221"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2886,12 +3884,17 @@
     "volume": "021"
   },
   {
-    "bill_number": "52",
+    "bill_numbers": [
+      "52"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030219,18030221",
+    "dates": [
+      "18030219",
+      "18030221"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -2899,12 +3902,17 @@
     "volume": "021"
   },
   {
-    "bill_number": "52",
+    "bill_numbers": [
+      "52"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030219,18030221",
+    "dates": [
+      "18030219",
+      "18030221"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -2912,12 +3920,17 @@
     "volume": "021"
   },
   {
-    "bill_number": "52",
+    "bill_numbers": [
+      "52"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030219,18030221",
+    "dates": [
+      "18030219",
+      "18030221"
+    ],
     "description": "",
     "page": "5",
     "session": "002",
@@ -2925,12 +3938,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "53",
+    "bill_numbers": [
+      "53"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030225",
+    "dates": [
+      "18030225"
+    ],
     "description": "Read the first and second time, and committed to the Committee of the whole House, to whom was this day referred, the report of a Committee appointed on the 15th instant on the subject of quarantine of vessels within the district of Columbia. A Bill, To regulate the Quarantine of ships and vessels in the port of Alexandria.",
     "page": "",
     "session": "002",
@@ -2938,12 +3957,16 @@
     "volume": "021"
   },
   {
-    "bill_number": "53",
+    "bill_numbers": [
+      "53"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "",
+    "committees": [],
     "congress": "007",
-    "dates": "18030225",
+    "dates": [
+      "18030225"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2951,12 +3974,18 @@
     "volume": "021"
   },
   {
-    "bill_number": "54",
+    "bill_numbers": [
+      "54"
+    ],
     "chamber": "h",
     "collection": "llhb",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "007",
-    "dates": "18030126",
+    "dates": [
+      "18030126"
+    ],
     "description": "Mr. Jones's Motion. Referred to the Committee of the whole House, to whom was committed on the 10th instant, the report of the Committee of Commerce and Manufactures, on so much of the Message from the President of the United States of the 15th ultimo, as ''Relates to discriminating and countervailing duties, and the act of the British Parliament on that subject.''",
     "page": "",
     "session": "002",

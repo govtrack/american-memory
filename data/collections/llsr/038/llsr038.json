@@ -1,11 +1,19 @@
 [
   {
-    "bill_number": "S.R. 1",
+    "bill_numbers": [
+      "S.R. 1"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the Library",
+    "committees": [
+      "Committee on the Library"
+    ],
     "congress": "038",
-    "dates": "18631209,18631214,18640112",
+    "dates": [
+      "18631209",
+      "18631214",
+      "18640112"
+    ],
     "description": "Mr. Wade asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read and passed to a second reading. Read the second time and referred to the Committee on the Library. Reported by Mr. Collamer without amendment, and adversely. Joint Resolution Allowing the use of the congressional library to the justices of the supreme court of the District of Columbia.",
     "page": "",
     "session": "001",
@@ -13,12 +21,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 2",
+    "bill_numbers": [
+      "S.R. 2"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18631214,18640108",
+    "dates": [
+      "18631214",
+      "18640108"
+    ],
     "description": "Mr. Wilson asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Military Affairs and the Militia. Reported by Mr. Wilson without amendment. Joint Resolution Expressive of the thanks of Congress to Major General Nathaniel P. Banks and the officers and soldiers under his command at Port Hudson.",
     "page": "",
     "session": "001",
@@ -26,12 +41,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 3",
+    "bill_numbers": [
+      "S.R. 3"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18631214,18640108",
+    "dates": [
+      "18631214",
+      "18640108"
+    ],
     "description": "Mr. Wilson asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Military Affairs and the Militia. Reported by Mr. Wilson without amendment. Joint Resolution Expressive of the thanks of Congress to Major General Joseph Hooker and Major General George G. Meade and the officers and soldiers of the army of the Potomac.",
     "page": "",
     "session": "001",
@@ -39,12 +61,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 4",
+    "bill_numbers": [
+      "S.R. 4"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18631215,18631223",
+    "dates": [
+      "18631215",
+      "18631223"
+    ],
     "description": "Mr. Lane, of Kansas, asked, and, by unanimous consent, obtained leave to bring in the following joint resolution; which was read the first and second times, and ordered to lie on the table. Referred to the Committee on Military Affairs and the Militia, and ordered to be printed. Joint Resolution Authorizing the Secretary of War to appoint a board of officers to audit the accounts of the citizens of Lawrence, Kansas.",
     "page": "",
     "session": "001",
@@ -52,12 +81,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 5",
+    "bill_numbers": [
+      "S.R. 5"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18631215",
+    "dates": [
+      "18631215"
+    ],
     "description": "Mr. Anthony asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice, referred to the Committee on Military Affairs and the Militia, and ordered to be printed. Joint Resolution Of thanks to Major General Ambrose E. Burnside, and the officers and men who fought under his command.",
     "page": "",
     "session": "001",
@@ -65,12 +100,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 8",
+    "bill_numbers": [
+      "S.R. 8"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Claims",
+    "committees": [
+      "Committee on Claims"
+    ],
     "congress": "038",
-    "dates": "18631222,18640415",
+    "dates": [
+      "18631222",
+      "18640415"
+    ],
     "description": "Agreeably to notice, Mr. Howe asked and obtained leave to bring in the following joint resolution; which was read twice and referred to the Committee on Claims. Reported by Mr. Hendricks, with an amendment, viz: Strike out all after the word ''That,'' in line 3, section 1, to the end of the resolution, and insert in lieu thereof what follows printed in italics; and accompanied by a report, (No. 50.) Joint Resolution For the relief of the State of Wisconsin.",
     "page": "",
     "session": "001",
@@ -78,12 +120,17 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 8",
+    "bill_numbers": [
+      "S.R. 8"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18631222,18640415",
+    "dates": [
+      "18631222",
+      "18640415"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -91,12 +138,17 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 8",
+    "bill_numbers": [
+      "S.R. 8"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18631222,18640415",
+    "dates": [
+      "18631222",
+      "18640415"
+    ],
     "description": "",
     "page": "3",
     "session": "001",
@@ -104,12 +156,17 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 8",
+    "bill_numbers": [
+      "S.R. 8"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18631222,18640415",
+    "dates": [
+      "18631222",
+      "18640415"
+    ],
     "description": "",
     "page": "4",
     "session": "001",
@@ -117,12 +174,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 9",
+    "bill_numbers": [
+      "S.R. 9"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18640106",
+    "dates": [
+      "18640106"
+    ],
     "description": "Mr. Wilson, from the Committee on Military Affairs and the Militia, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution To extend the time for paying bounties to veteran and other volunteers.",
     "page": "",
     "session": "001",
@@ -130,12 +193,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 9",
+    "bill_numbers": [
+      "S.R. 9"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640106",
+    "dates": [
+      "18640106"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -143,12 +210,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 10",
+    "bill_numbers": [
+      "S.R. 10"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18640107",
+    "dates": [
+      "18640107"
+    ],
     "description": "Mr. Howe asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice, and referred to the Committee on Military Affairs and the Militia, and ordered to be printed. Joint Resolution For the relief of the officers and soldiers of the United States now held captives in the rebel prisons at Richmond and vicinity. Whereas persons in authority under the traitorous organization which, for the last three years, has made relentless war upon the people of the United States and their government, now hold in barbarous captivity many officers and soldiers of the United States, and refuse to exchange them, except upon condition that they are allowed to retain such of our soldiers as they call negroes, and such of our officers as have commanded negro troops, and upon the further condition that we will also release upon parole all the excess of rebel prisoners now in the hands of our government, amounting to many thousands; and whereas those same persons are unable or unwilling to make suitable, or even tolerable, provision for the support of their captives, thereby rendering their imprisonment as gross an outrage upon the dictates of humanity and the laws of war, as it is upon the laws of the United",
     "page": "",
     "session": "001",
@@ -156,12 +229,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 10",
+    "bill_numbers": [
+      "S.R. 10"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640107",
+    "dates": [
+      "18640107"
+    ],
     "description": "States, and upon their duty as the legitimate subjects of those laws; and whereas they have denied to the charity of the loyal people of the United States the privilege of supplying the most pressing necessities of their brethren in those prisons, and have recently refused even to receive a flag of truce from the authorities of the United States, unless it is forwarded by an officer of their approval; and whereas it does not become twenty-two millions of people, having the right of, and ability for, self government, to allow rebellious subjects to dictate to them what agents or officers they shall employ, nor does it become them to feed plentifully at home, while their brethren starve within one hundred miles of their own capital: Therefore--",
     "page": "2",
     "session": "001",
@@ -169,12 +246,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 10",
+    "bill_numbers": [
+      "S.R. 10"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640107",
+    "dates": [
+      "18640107"
+    ],
     "description": "",
     "page": "3",
     "session": "001",
@@ -182,12 +263,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 11",
+    "bill_numbers": [
+      "S.R. 11"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18640108,18640119",
+    "dates": [
+      "18640108",
+      "18640119"
+    ],
     "description": "Mr. Nesmith asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Military Affairs and the Militia. Reported by Mr. Nesmith without amendment. Joint Resolution Of thanks to Major General George H. Thomas and the officers and men who fought under his command at the battle of Chickamauga.",
     "page": "",
     "session": "001",
@@ -195,12 +283,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 12",
+    "bill_numbers": [
+      "S.R. 12"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Foreign Relations",
+    "committees": [
+      "Committee on Foreign Relations"
+    ],
     "congress": "038",
-    "dates": "18640108,18641220",
+    "dates": [
+      "18640108",
+      "18641220"
+    ],
     "description": "Mr. Morrill asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice, and referred to the Committee on Foreign Relations. On motion by Mr. Sumner, Committee discharged. Joint Resolution Requiring the President of the United States to give the government of Great Britain the notice required for the termination of the reciprocity treaty of the fifth of June, eighteen hundred and fifty-four.",
     "page": "",
     "session": "002",
@@ -208,12 +303,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 13",
+    "bill_numbers": [
+      "S.R. 13"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Foreign Relations",
+    "committees": [
+      "Committee on Foreign Relations"
+    ],
     "congress": "038",
-    "dates": "18640111",
+    "dates": [
+      "18640111"
+    ],
     "description": "Mr. McDougall asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice, referred to the Committee on Foreign Relations, and ordered to be printed. Joint Resolution In relation to the occupation of Mexico.",
     "page": "",
     "session": "001",
@@ -221,12 +322,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 13",
+    "bill_numbers": [
+      "S.R. 13"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640111",
+    "dates": [
+      "18640111"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -234,12 +339,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 14",
+    "bill_numbers": [
+      "S.R. 14"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18640111",
+    "dates": [
+      "18640111"
+    ],
     "description": "Mr. Morgan asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Military Affairs and the Militia. Reported by Mr. Morgan without amendment. Joint Resolution Presenting the thanks of Congress to Cornelius Vanderbilt for a gift of the steamship Vanderbilt. Whereas Cornelius Vanderbilt, of New York, did, during the spring of eighteen hundred and sixty-two, make a free gift to his imperiled country of his new and staunch steamship Vanderbilt, of five thousand tons burden, built by him with the greatest care, of the best material, at a cost of eight hundred thousand dollars, which steamship has ever since been actively employed in the service of the republic against the rebel devastations of her commerce; and whereas the said Cornelius Vanderbilt has in no manner sought any requital of this magnificent gift, nor any official recognition thereof: Therefore,",
     "page": "",
     "session": "001",
@@ -247,12 +358,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 14",
+    "bill_numbers": [
+      "S.R. 14"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640111",
+    "dates": [
+      "18640111"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -260,12 +375,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 19",
+    "bill_numbers": [
+      "S.R. 19"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Naval Affairs",
+    "committees": [
+      "Committee on Naval Affairs"
+    ],
     "congress": "038",
-    "dates": "18640118,18640119",
+    "dates": [
+      "18640118",
+      "18640119"
+    ],
     "description": "Mr. Johnson asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Naval Affairs. Reported by Mr. Hicks without amendment. Joint Resolution Tendering the thanks of Congress to Commodore Cadwallader Ringgold, the officers and crew of the United States ship ''Sabine''.",
     "page": "",
     "session": "001",
@@ -273,12 +395,17 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 19",
+    "bill_numbers": [
+      "S.R. 19"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640118,18640119",
+    "dates": [
+      "18640118",
+      "18640119"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -286,12 +413,21 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 20",
+    "bill_numbers": [
+      "S.R. 20"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the Judiciary~Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on the Judiciary",
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18640119,18640120,18640127",
+    "dates": [
+      "18640119",
+      "18640120",
+      "18640127"
+    ],
     "description": "Mr. Wilkinson asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on the Judiciary. Discharged, and referred to the Committee on Military Affairs and the Militia. Reported by Mr. Wilson without amendment. Joint Resolution Extending the benefits of the bounty granted by the act of July twenty-two, eighteen hundred and sixty-one, to certain soldiers who entered the service of the United States prior to May three, eighteen hundred and sixty-one.",
     "page": "",
     "session": "001",
@@ -299,12 +435,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 20",
+    "bill_numbers": [
+      "S.R. 20"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640119,18640120,18640127",
+    "dates": [
+      "18640119",
+      "18640120",
+      "18640127"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -312,12 +454,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 21",
+    "bill_numbers": [
+      "S.R. 21"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18640126,18640127",
+    "dates": [
+      "18640126",
+      "18640127"
+    ],
     "description": "Mr. Wilson asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Military Affairs and the Militia. Reported by Mr. Wilson without amendment. Joint Resolution To provide for the printing of official reports of the operations of the armies of the United States.",
     "page": "",
     "session": "001",
@@ -325,12 +474,17 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 21",
+    "bill_numbers": [
+      "S.R. 21"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640126,18640127",
+    "dates": [
+      "18640126",
+      "18640127"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -338,12 +492,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 22",
+    "bill_numbers": [
+      "S.R. 22"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "038",
-    "dates": "18640203,18640525",
+    "dates": [
+      "18640203",
+      "18640525"
+    ],
     "description": "Mr. Trumbull asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Public Lands. Reported by Mr. Harlan without amendment, and that the resolution be postponed indefinitely. Joint Resolution In reference to lands belonging to certain States. Whereas by the act of Congress approved September twenty-eight, eighteen hundred and fifty, entitled ''An act to enable the State of Arkansas and other States to reclaim the swamp and overflowed lands within their limits,'' and by another act of Congress approved March two, eighteen hundred and fifty-five, entitled ''An act for the relief of purchasers and locators of swamp lands,'' it was provided that where any of such lands were purchased from the government, that any State should be allowed to locate a like quantity upon any of the public lands subject to private entry; and whereas since the passage of the last-named act the government has sold all the public lands in certain State or States out of which to satisfy these just claimants: Therefore--",
     "page": "",
     "session": "001",
@@ -351,12 +512,17 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 22",
+    "bill_numbers": [
+      "S.R. 22"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640203,18640525",
+    "dates": [
+      "18640203",
+      "18640525"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -364,12 +530,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 23",
+    "bill_numbers": [
+      "S.R. 23"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18640203",
+    "dates": [
+      "18640203"
+    ],
     "description": "Mr. Wilson, from the Committee on Military Affairs and the Militia, reported the following joint resolution; which was read the first and second times. Joint Resolution To equalize the pay of soldiers in the United States army.",
     "page": "",
     "session": "001",
@@ -377,12 +549,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 24",
+    "bill_numbers": [
+      "S.R. 24"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "038",
-    "dates": "18640208,18640210",
+    "dates": [
+      "18640208",
+      "18640210"
+    ],
     "description": "Mr. Sumner asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on the Judiciary. Reported by Mr. Trumbull without amendment, and adversely. Joint Resolution To provide for submitting to the several States an amendment of the Constitution of the United States.",
     "page": "",
     "session": "001",
@@ -390,12 +569,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 25",
+    "bill_numbers": [
+      "S.R. 25"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "038",
-    "dates": "18640208,18640511",
+    "dates": [
+      "18640208",
+      "18640511"
+    ],
     "description": "Mr. Anthony asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on the Judiciary. On motion by Mr. Trumbull, committee discharged. Joint Resolution Repealing a joint resolution to amend the Constitution of the United States.",
     "page": "",
     "session": "001",
@@ -403,12 +589,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 26",
+    "bill_numbers": [
+      "S.R. 26"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "038",
-    "dates": "18640209",
+    "dates": [
+      "18640209"
+    ],
     "description": "Mr. Powell asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. Joint Resolution Proposing certain amendments to the Constitution of the United States.",
     "page": "",
     "session": "001",
@@ -416,12 +608,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 26",
+    "bill_numbers": [
+      "S.R. 26"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640209",
+    "dates": [
+      "18640209"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -429,12 +625,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 26",
+    "bill_numbers": [
+      "S.R. 26"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640209",
+    "dates": [
+      "18640209"
+    ],
     "description": "",
     "page": "3",
     "session": "001",
@@ -442,12 +642,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 26",
+    "bill_numbers": [
+      "S.R. 26"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640209",
+    "dates": [
+      "18640209"
+    ],
     "description": "",
     "page": "4",
     "session": "001",
@@ -455,12 +659,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 26",
+    "bill_numbers": [
+      "S.R. 26"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640209",
+    "dates": [
+      "18640209"
+    ],
     "description": "",
     "page": "5",
     "session": "001",
@@ -468,12 +676,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 26",
+    "bill_numbers": [
+      "S.R. 26"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640209",
+    "dates": [
+      "18640209"
+    ],
     "description": "",
     "page": "6",
     "session": "001",
@@ -481,12 +693,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 28",
+    "bill_numbers": [
+      "S.R. 28"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18640223",
+    "dates": [
+      "18640223"
+    ],
     "description": "Mr. Carlile asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice, referred to the Committee on Military Affairs and the Militia, and ordered to be printed. Joint Resolution Declaring the objects of the war.",
     "page": "",
     "session": "001",
@@ -494,12 +712,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 28",
+    "bill_numbers": [
+      "S.R. 28"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640223",
+    "dates": [
+      "18640223"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -507,12 +729,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 28",
+    "bill_numbers": [
+      "S.R. 28"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18640223,18640309",
+    "dates": [
+      "18640223",
+      "18640309"
+    ],
     "description": "Mr. Carlile asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice, referred to the Committee on Military Affairs and the Militia, and ordered to be printed. Reported by Mr. Wilson, with an amendment, viz: Strike out all after the word ''that'' in line three, section one, and insert what follows printed in italics. Joint Resolution Declaring the objects of the war.",
     "page": "",
     "session": "001",
@@ -520,12 +749,17 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 28",
+    "bill_numbers": [
+      "S.R. 28"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640223,18640309",
+    "dates": [
+      "18640223",
+      "18640309"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -533,12 +767,17 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 28",
+    "bill_numbers": [
+      "S.R. 28"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640223,18640309",
+    "dates": [
+      "18640223",
+      "18640309"
+    ],
     "description": "",
     "page": "3",
     "session": "001",
@@ -546,12 +785,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 29",
+    "bill_numbers": [
+      "S.R. 29"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Foreign Relations",
+    "committees": [
+      "Committee on Foreign Relations"
+    ],
     "congress": "038",
-    "dates": "18640301",
+    "dates": [
+      "18640301"
+    ],
     "description": "Mr. Sumner, from the Committee on Foreign Relations, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution Giving the assent of Congress to the acceptance of a watch from the British Privy Council of Trade, by the master of the American schooner Highlander.",
     "page": "",
     "session": "001",
@@ -559,12 +804,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 31",
+    "bill_numbers": [
+      "S.R. 31"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Commerce",
+    "committees": [
+      "Committee on Commerce"
+    ],
     "congress": "038",
-    "dates": "18640303,18640309",
+    "dates": [
+      "18640303",
+      "18640309"
+    ],
     "description": "Mr. Ten Eyck asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Commerce. Reported by Mr. Chandler without amendment. Joint Resolution Authorizing the issue of a register to the steamer Mohawk.",
     "page": "",
     "session": "001",
@@ -572,12 +824,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 33",
+    "bill_numbers": [
+      "S.R. 33"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "038",
-    "dates": "18640309,18641220",
+    "dates": [
+      "18640309",
+      "18641220"
+    ],
     "description": "Mr. Conness asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Public Lands. Reported by Mr. Pomeroy without amendment. Joint Resolution To enable the Secretary of the Treasury to obtain the title to certain property in Carson City, and Territory of Nevada, for the purposes of a branch mint located in said place. Whereas the Secretary of the Treasury of the United States, in order to carry into effect an act entitled ''An act to establish a branch mint of the United States in the Territory of Nevada,'' approved March third, eighteen hundred and sixty-three, has purchased of Moses Job, and Margaret, his wife, and James L. Riddle, the pre-emptors and occupants thereof, certain city or town lots in said Carson City, together with all the valuable improvements thereon; and whereas it is highly important for the interest of the government to obtain at an early day the use and possession of said property to establish and open said branch mint: Therefore--",
     "page": "",
     "session": "002",
@@ -585,12 +844,17 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 33",
+    "bill_numbers": [
+      "S.R. 33"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640309,18641220",
+    "dates": [
+      "18640309",
+      "18641220"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -598,12 +862,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 43",
+    "bill_numbers": [
+      "S.R. 43"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18640415,18640623",
+    "dates": [
+      "18640415",
+      "18640623"
+    ],
     "description": "Mr. Foster asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Military Affairs and the Militia. Reported by Mr. Nesmith without amendment. Joint Resolution Authorizing the settlement of the accounts of the late Captain Daniel Hebard, of the United States volunteers.",
     "page": "",
     "session": "001",
@@ -611,12 +882,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 44",
+    "bill_numbers": [
+      "S.R. 44"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Naval Affairs",
+    "committees": [
+      "Committee on Naval Affairs"
+    ],
     "congress": "038",
-    "dates": "18640416",
+    "dates": [
+      "18640416"
+    ],
     "description": "Mr. Hale, from the Committee on Naval Affairs, reported the following joint resolution; which was read and passed to a second reading, (Mis. Doc. No. 105.) Joint Resolution For the relief of clerks at the Kittery and Philadelphia navy yards.",
     "page": "",
     "session": "001",
@@ -624,12 +901,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 45",
+    "bill_numbers": [
+      "S.R. 45"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "038",
-    "dates": "18640420,18640525",
+    "dates": [
+      "18640420",
+      "18640525"
+    ],
     "description": "Mr. Harris asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on the Judiciary. Reported by Mr. Trumbull without amendment. Joint Resolution In relation to the taking of a census in the year eighteen hundred and sixty-five.",
     "page": "",
     "session": "001",
@@ -637,12 +921,17 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 45",
+    "bill_numbers": [
+      "S.R. 45"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640420,18640525",
+    "dates": [
+      "18640420",
+      "18640525"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -650,12 +939,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 46",
+    "bill_numbers": [
+      "S.R. 46"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18640425,18640512",
+    "dates": [
+      "18640425",
+      "18640512"
+    ],
     "description": "Mr. Sumner asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Military Affairs and the Militia. Reported by Mr. Wilson, without amendment. Joint Resolution To facilitate commercial, postal and military communications among the several States. Whereas the Constitution of the United States confers upon Congress, in express terms, the power to regulate commerce among the several States, to establish post roads and to raise and support armies: Therefore,",
     "page": "",
     "session": "001",
@@ -663,12 +959,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 47",
+    "bill_numbers": [
+      "S.R. 47"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Finance",
+    "committees": [
+      "Committee on Finance"
+    ],
     "congress": "038",
-    "dates": "18640426,18640502",
+    "dates": [
+      "18640426",
+      "18640502"
+    ],
     "description": "Mr. Wilson asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Finance. On motion by Mr. Fessenden, committee discharged. Joint Resolution To appropriate twenty-five millions of dollars for the subsistence and pay of militia called out by the President.",
     "page": "",
     "session": "001",
@@ -676,12 +979,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 48",
+    "bill_numbers": [
+      "S.R. 48"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18640430,18640621",
+    "dates": [
+      "18640430",
+      "18640621"
+    ],
     "description": "Mr. Wilson asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice, and referred to the Committee on Military Affairs and the Militia. On motion by Mr. Wilson, committee discharged. Joint Resolution Concerning appointments in the military service.",
     "page": "",
     "session": "001",
@@ -689,12 +999,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 49",
+    "bill_numbers": [
+      "S.R. 49"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18640502,18640621",
+    "dates": [
+      "18640502",
+      "18640621"
+    ],
     "description": "Mr. Wilson asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Military Affairs and the Militia. On motion by Mr. Wilson, committee discharged. Joint Resolution To provide additional ground for a cemetery at the Soldiers' Home.",
     "page": "",
     "session": "001",
@@ -702,12 +1019,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 50",
+    "bill_numbers": [
+      "S.R. 50"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Naval Affairs",
+    "committees": [
+      "Committee on Naval Affairs"
+    ],
     "congress": "038",
-    "dates": "18640504",
+    "dates": [
+      "18640504"
+    ],
     "description": "Mr. Hale, from the Committee on Naval Affairs, submitted a report, (No. 61,) accompanied by the following joint resolution; which was read and passed to a second reading. Joint Resolution For the relief of the contractors for the machinery of the side-wheel gunboats known as ''double-enders.''",
     "page": "",
     "session": "001",
@@ -715,12 +1038,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 50",
+    "bill_numbers": [
+      "S.R. 50"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640504",
+    "dates": [
+      "18640504"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -728,12 +1055,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 51",
+    "bill_numbers": [
+      "S.R. 51"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Foreign Relations",
+    "committees": [
+      "Committee on Foreign Relations"
+    ],
     "congress": "038",
-    "dates": "18640505",
+    "dates": [
+      "18640505"
+    ],
     "description": "Mr. Sumner, from the Committee on Foreign Relations, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution Authorizing the acceptance of a certain testimonial from the government of Great Britain.",
     "page": "",
     "session": "001",
@@ -741,12 +1074,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 52",
+    "bill_numbers": [
+      "S.R. 52"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Indian Affairs",
+    "committees": [
+      "Committee on Indian Affairs"
+    ],
     "congress": "038",
-    "dates": "18640505",
+    "dates": [
+      "18640505"
+    ],
     "description": "Mr. Doolittle, from the Committee on Indian Affairs, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution To appoint commissioners to the hostile tribes of Indians from the Upper Missouri.",
     "page": "",
     "session": "001",
@@ -754,12 +1093,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 53",
+    "bill_numbers": [
+      "S.R. 53"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "038",
-    "dates": "18640516,18640525",
+    "dates": [
+      "18640516",
+      "18640525"
+    ],
     "description": "Mr. Wilson asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on the Judiciary. On motion by Mr. Trumbull, committee discharged. Joint Resolution Providing for the taking of a census of the United States.",
     "page": "",
     "session": "001",
@@ -767,12 +1113,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 55",
+    "bill_numbers": [
+      "S.R. 55"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18640518",
+    "dates": [
+      "18640518"
+    ],
     "description": "Mr. Wilson asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice, referred to the Committee on Military Affairs and the Militia, and ordered to be printed. Joint Resolution To encourage enlistments and to promote the efficiency of the military forces of the United States.",
     "page": "",
     "session": "001",
@@ -780,12 +1132,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 55",
+    "bill_numbers": [
+      "S.R. 55"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640518",
+    "dates": [
+      "18640518"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -793,12 +1149,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 56",
+    "bill_numbers": [
+      "S.R. 56"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18640520,18640621",
+    "dates": [
+      "18640520",
+      "18640621"
+    ],
     "description": "Mr. Wilson asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Military Affairs and the Militia. On motion by Mr. Wilson, committee discharged. Joint Resolution To authorize the President to call out men by draft for one year.",
     "page": "",
     "session": "001",
@@ -806,12 +1169,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 57",
+    "bill_numbers": [
+      "S.R. 57"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the District of Columbia~Committee of the Whole",
+    "committees": [
+      "Committee on the District of Columbia",
+      "Committee of the Whole"
+    ],
     "congress": "038",
-    "dates": "18640524",
+    "dates": [
+      "18640524"
+    ],
     "description": "Mr. Wade, from the Committee on the District of Columbia, reported the following joint resolution; which was read twice, considered as in Committee of the Whole, and postponed to to-morrow. Joint Resolution To amend the charter of the city of Washington.",
     "page": "",
     "session": "001",
@@ -819,12 +1189,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 57",
+    "bill_numbers": [
+      "S.R. 57"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640524",
+    "dates": [
+      "18640524"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -832,12 +1206,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 58",
+    "bill_numbers": [
+      "S.R. 58"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18640525,18640601",
+    "dates": [
+      "18640525",
+      "18640601"
+    ],
     "description": "Mr. Harris asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Military Affairs and the Militia. Reported by Mr. Wilson without amendment. Joint Resolution In relation to the professors of the Military Academy at West Point.",
     "page": "",
     "session": "001",
@@ -845,12 +1226,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 59",
+    "bill_numbers": [
+      "S.R. 59"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the District of Columbia",
+    "committees": [
+      "Committee on the District of Columbia"
+    ],
     "congress": "038",
-    "dates": "18640526",
+    "dates": [
+      "18640526"
+    ],
     "description": "Mr. Morrill, from the Committee on the District of Columbia, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution To provide for the revision of the laws of the District of Columbia. Whereas the revised code of the District of Columbia, prepared under the authority of Congress, entitled ''An act to improve the laws of the District of Columbia, and to codify the same,'' approved March third, eighteen hundred and fifty-five, and which was published by order of Congress in the year eighteen hundred and fifty-seven; and whereas said code is believed to have been a comprehensive, complete, and accurate compilation of the laws of said District at the period of its execution, and that measures should be taken to have the work brought down to the present time and perfected: Therefore--",
     "page": "",
     "session": "001",
@@ -858,12 +1245,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 59",
+    "bill_numbers": [
+      "S.R. 59"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640526",
+    "dates": [
+      "18640526"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -871,12 +1262,20 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 60",
+    "bill_numbers": [
+      "S.R. 60"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18640528,18640531,18640601",
+    "dates": [
+      "18640528",
+      "18640531",
+      "18640601"
+    ],
     "description": "Mr. Doolittle asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and ordered to lie on the table. Referred to the Committee on Military Affairs and the Militia. Reported by Mr. Wilson, with an amendment, viz: Strike out all after the enacting clause, and in lieu thereof insert what follows printed in italics. Joint Resolution Tendering the thanks of Congress and for the presentation of a medal to Lieutenant Colonel Joseph Bailey, of the fourth regiment of Wisconsin volunteers.",
     "page": "",
     "session": "001",
@@ -884,12 +1283,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 60",
+    "bill_numbers": [
+      "S.R. 60"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640528,18640531,18640601",
+    "dates": [
+      "18640528",
+      "18640531",
+      "18640601"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -897,12 +1302,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 61",
+    "bill_numbers": [
+      "S.R. 61"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18640610,18650222",
+    "dates": [
+      "18640610",
+      "18650222"
+    ],
     "description": "Mr. Wilkinson asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice, referred to the Committee on Military Affairs and the Militia. On motion by Mr. Wilson, committee discharged. Joint Resolution Amendatory of an act entitled ''An act to provide for the protection of overland emigration to the States and Territories of the Pacific,'' approved March third, eighteen hundred and sixty-four.",
     "page": "",
     "session": "002",
@@ -910,12 +1322,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 62",
+    "bill_numbers": [
+      "S.R. 62"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640610",
+    "dates": [
+      "18640610"
+    ],
     "description": "Mr. Lane, of Kansas, asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read, passed to a second reading, and ordered to be printed. Joint Resolution For the recognition of the free State government of the State of Arkansas. Whereas the President of the United States, by proclamation of the first of January, anno Domini eighteen hundred and sixty-three, did, among other things, proclaim and declare that the ''people'' of Arkansas ''are this day in rebellion'' against the United States; and whereas the loyal people of the State of Arkansas have, since that time, by a free and untrammelled vote, organized and have in operation a State government upon a free basis and republican in form; and whereas, pending the organization of said government, the President of the United States did, by proclamation of the eighth day of December, anno Domini eighteen hundred and sixty-three, invite, among others, the people of Arkansas to organize a loyal State government upon a free basis; and whereas the President of the United States approved said organization in the State of Arkansas and officially recognized the same: Therefore,",
     "page": "",
     "session": "001",
@@ -923,12 +1339,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 62",
+    "bill_numbers": [
+      "S.R. 62"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640610",
+    "dates": [
+      "18640610"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -936,12 +1356,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 63",
+    "bill_numbers": [
+      "S.R. 63"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Printing",
+    "committees": [
+      "Committee on Printing"
+    ],
     "congress": "038",
-    "dates": "18640613,18650301",
+    "dates": [
+      "18640613",
+      "18650301"
+    ],
     "description": "Mr. Wilkinson asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Printing. On motion by Mr. Powell, committee discharged. Joint Resolution Repealing the joint resolution of Congress providing for the distribution of certain public books and documents.",
     "page": "",
     "session": "002",
@@ -949,12 +1376,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 67",
+    "bill_numbers": [
+      "S.R. 67"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Indian Affairs",
+    "committees": [
+      "Committee on Indian Affairs"
+    ],
     "congress": "038",
-    "dates": "18640616",
+    "dates": [
+      "18640616"
+    ],
     "description": "Mr. Wilkinson, from the Committee on Indian Affairs, reported the following joint resolution; which was read and passed to a second reading, (S. Mis. Doc. No.--.) Joint Resolution For the relief of Thomas J. Galbraith.",
     "page": "",
     "session": "001",
@@ -962,12 +1395,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 67",
+    "bill_numbers": [
+      "S.R. 67"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640616",
+    "dates": [
+      "18640616"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -975,12 +1412,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 73",
+    "bill_numbers": [
+      "S.R. 73"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18640624,18640627",
+    "dates": [
+      "18640624",
+      "18640627"
+    ],
     "description": "Mr. Riddle asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Military Affairs and the Militia. Reported by Mr. Wilson without amendment and adversely. Joint Resolution To allow senators and representatives to visit forts, military prisons, and hospitals within their respective States.",
     "page": "",
     "session": "001",
@@ -988,12 +1432,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 74",
+    "bill_numbers": [
+      "S.R. 74"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640628",
+    "dates": [
+      "18640628"
+    ],
     "description": "Mr. Harlan asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and ordered to be printed. Joint Resolution Requesting the President to appoint a day for national humiliation and prayer.",
     "page": "",
     "session": "001",
@@ -1001,12 +1449,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 74",
+    "bill_numbers": [
+      "S.R. 74"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18640628",
+    "dates": [
+      "18640628"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -1014,12 +1466,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 81",
+    "bill_numbers": [
+      "S.R. 81"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18641212",
+    "dates": [
+      "18641212"
+    ],
     "description": "Agreeably to notice, Mr. Davis asked, and obtained, leave to bring in the following joint resolution; which was read, passed to a second reading, and ordered to be printed. Joint Resolution For the restoration of peace and the Union, the vindication of the Constitution, and the construction of additional and adequate guaranties of the rights and liberties of the people of the United States.",
     "page": "",
     "session": "002",
@@ -1027,12 +1483,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 81",
+    "bill_numbers": [
+      "S.R. 81"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18641212",
+    "dates": [
+      "18641212"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1040,12 +1500,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 81",
+    "bill_numbers": [
+      "S.R. 81"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18641212",
+    "dates": [
+      "18641212"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -1053,12 +1517,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 81",
+    "bill_numbers": [
+      "S.R. 81"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18641212",
+    "dates": [
+      "18641212"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -1066,12 +1534,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 81",
+    "bill_numbers": [
+      "S.R. 81"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18641212",
+    "dates": [
+      "18641212"
+    ],
     "description": "",
     "page": "5",
     "session": "002",
@@ -1079,12 +1551,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 81",
+    "bill_numbers": [
+      "S.R. 81"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18641212",
+    "dates": [
+      "18641212"
+    ],
     "description": "",
     "page": "6",
     "session": "002",
@@ -1092,12 +1568,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 81",
+    "bill_numbers": [
+      "S.R. 81"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18641212",
+    "dates": [
+      "18641212"
+    ],
     "description": "",
     "page": "7",
     "session": "002",
@@ -1105,12 +1585,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 81",
+    "bill_numbers": [
+      "S.R. 81"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18641212",
+    "dates": [
+      "18641212"
+    ],
     "description": "",
     "page": "8",
     "session": "002",
@@ -1118,12 +1602,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 82",
+    "bill_numbers": [
+      "S.R. 82"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18641213",
+    "dates": [
+      "18641213"
+    ],
     "description": "Mr. Wilson asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice, referred to the Committee on Military Affairs and the Militia, and ordered to be printed. Joint Resolution To encourage enlistments and to promote the efficiency of the military forces of the United States.",
     "page": "",
     "session": "002",
@@ -1131,12 +1621,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 82",
+    "bill_numbers": [
+      "S.R. 82"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18641213",
+    "dates": [
+      "18641213"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1144,12 +1638,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 85",
+    "bill_numbers": [
+      "S.R. 85"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Indian Affairs",
+    "committees": [
+      "Committee on Indian Affairs"
+    ],
     "congress": "038",
-    "dates": "18641219,18650202",
+    "dates": [
+      "18641219",
+      "18650202"
+    ],
     "description": "Mr. Lane, of Kansas, asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Indian Affairs. Reported by Mr. Doolittle with amendments, viz: Strike out the words within [brackets] and insert the words printed in italics. Joint Resolution Authorizing the Secretary of the Treasury to issue certain bonds to the Secretary of the Interior for feeding the refugee Indians. Whereas the Choctaw tribe, a nation of Indians, have become allies of the rebels against the United States, and have been at war against them for more than three years, during which time the most cruel and barbarous acts were perpetrated upon the friendly Indians hereinafter mentioned.",
     "page": "",
     "session": "002",
@@ -1157,12 +1658,17 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 85",
+    "bill_numbers": [
+      "S.R. 85"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18641219,18650202",
+    "dates": [
+      "18641219",
+      "18650202"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1170,12 +1676,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 86",
+    "bill_numbers": [
+      "S.R. 86"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18641219",
+    "dates": [
+      "18641219"
+    ],
     "description": "Mr. Henderson asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice, referred to the Committee on Military Affairs and the Militia, and ordered to be printed. Joint Resolution To provide against periodical rebel invasions into Missouri, and to protect the interests of the government on the western border.",
     "page": "",
     "session": "002",
@@ -1183,12 +1695,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 86",
+    "bill_numbers": [
+      "S.R. 86"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18641219",
+    "dates": [
+      "18641219"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1196,12 +1712,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 89",
+    "bill_numbers": [
+      "S.R. 89"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Indian Affairs",
+    "committees": [
+      "Committee on Indian Affairs"
+    ],
     "congress": "038",
-    "dates": "18650109,18650111",
+    "dates": [
+      "18650109",
+      "18650111"
+    ],
     "description": "Mr. Doolittle asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Indian Affairs. Reported by Mr. Doolittle without amendment. Joint Resolution Directing inquiry into the condition of the Indian tribes, and their treatment by the civil and military authorities.",
     "page": "",
     "session": "002",
@@ -1209,12 +1732,17 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 89",
+    "bill_numbers": [
+      "S.R. 89"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650109,18650111",
+    "dates": [
+      "18650109",
+      "18650111"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1222,12 +1750,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 90",
+    "bill_numbers": [
+      "S.R. 90"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18650110,18650116",
+    "dates": [
+      "18650110",
+      "18650116"
+    ],
     "description": "Mr. Wilson asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Military Affairs and the Militia. Reported by Mr. Wilson, with an amendment, viz: Strike out all of the original resolution, and in lieu thereof insert what follows, printed in italics. Joint Resolution [To authorized and direct an inventory of articles in the arsenals of the United States.",
     "page": "",
     "session": "002",
@@ -1235,12 +1770,17 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 90",
+    "bill_numbers": [
+      "S.R. 90"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650110,18650116",
+    "dates": [
+      "18650110",
+      "18650116"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1248,12 +1788,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 92",
+    "bill_numbers": [
+      "S.R. 92"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Indian Affairs",
+    "committees": [
+      "Committee on Indian Affairs"
+    ],
     "congress": "038",
-    "dates": "18650111",
+    "dates": [
+      "18650111"
+    ],
     "description": "Mr. Doolittle, from the Committee on Indian Affairs, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution To postpone and prevent the sale, for less than their appraised value, of certain Indian lands in Minnesota.",
     "page": "",
     "session": "002",
@@ -1261,12 +1807,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 92",
+    "bill_numbers": [
+      "S.R. 92"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650111",
+    "dates": [
+      "18650111"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1274,12 +1824,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 93",
+    "bill_numbers": [
+      "S.R. 93"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Indian Affairs",
+    "committees": [
+      "Committee on Indian Affairs"
+    ],
     "congress": "038",
-    "dates": "18650112",
+    "dates": [
+      "18650112"
+    ],
     "description": "Mr. Harlan, from the Committee on Indian Affairs, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution In relation to the massacre of the Cheyenne Indians.",
     "page": "",
     "session": "002",
@@ -1287,12 +1843,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 93",
+    "bill_numbers": [
+      "S.R. 93"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650112",
+    "dates": [
+      "18650112"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1300,12 +1860,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 95",
+    "bill_numbers": [
+      "S.R. 95"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18650116,18650118",
+    "dates": [
+      "18650116",
+      "18650118"
+    ],
     "description": "Mr. Wade asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Military Affairs and the Militia. On motion by Mr. Howard, committee discharged. Joint Resolution Regulating the treatment of confederate prisoners in custody of the authorities of the United States.",
     "page": "",
     "session": "002",
@@ -1313,12 +1880,17 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 95",
+    "bill_numbers": [
+      "S.R. 95"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650116,18650118",
+    "dates": [
+      "18650116",
+      "18650118"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1326,12 +1898,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 97",
+    "bill_numbers": [
+      "S.R. 97"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18650118",
+    "dates": [
+      "18650118"
+    ],
     "description": "Mr. Howard, from the Committee on Military Affairs and the Militia, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution Advising retaliation for the cruel treatment of prisoners by the insurgents. Whereas it has come to the knowledge of Congress that great numbers of our soldiers who have fallen as prisoners of war into the hands of the insurgents, have been subjected to treatment unexampled for cruelty in the history of civilized war, and finding its parallels only in the conduct of savage tribes; a treatment resulting in the death of multitudes by the slow, but designed process of starvation and by mortal diseases occasioned by insufficient and unhealthy food, by wanton exposure of their persons to the inclemency of the weather, and by deliberate assassination of innocent and unoffending men; and the murder in cold blood of prisoners after surrender; and whereas a continuance of these barbarities, in contempt of the laws of war and in disregard of the remonstrances of the national authorities, has presented to us the alternative of suffering our brave soldiers thus to be destroyed, or to apply the principle of retaliation for their protection: Therefore,",
     "page": "",
     "session": "002",
@@ -1339,12 +1917,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 97",
+    "bill_numbers": [
+      "S.R. 97"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650118",
+    "dates": [
+      "18650118"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1352,12 +1934,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 97",
+    "bill_numbers": [
+      "S.R. 97"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650118",
+    "dates": [
+      "18650118"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -1365,12 +1951,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 97",
+    "bill_numbers": [
+      "S.R. 97"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650126",
+    "dates": [
+      "18650126"
+    ],
     "description": "Ordered to be printed. Mr. Wade submitted the following amendment: Strike out the parts within [brackets] and insert the words printed in italics. Joint Resolution Advising retaliation for the cruel treatment of prisoners by the insurgents. Whereas it has come to the knowledge of Congress that great numbers of our soldiers who have fallen as prisoners of war into the hands of the insurgents, have been subjected to treatment unexampled for cruelty in the history of civilized war, and finding its parallels only in the conduct of savage tribes; a treatment resulting in the death of multitudes by the slow but designed process of starvation and by mortal diseases occasioned by insufficient and unhealthy food, by wanton exposure of their persons to the inclemency of the weather and by deliberate assassination of innocent and unoffending men; and the murder in cold blood of prisoners after surrender; and whereas a continuance of these barbarities, in contempt of the laws of war and in disregard of the remonstrances of the national authorities, has presented to us the alternative of suffering our brave soldiers thus to be destroyed, or to apply the principle of retaliation for their protection: Therefore,",
     "page": "",
     "session": "002",
@@ -1378,12 +1968,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 97",
+    "bill_numbers": [
+      "S.R. 97"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650126",
+    "dates": [
+      "18650126"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1391,12 +1985,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 97",
+    "bill_numbers": [
+      "S.R. 97"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650126",
+    "dates": [
+      "18650126"
+    ],
     "description": "",
     "page": "",
     "session": "002",
@@ -1404,12 +2002,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 101",
+    "bill_numbers": [
+      "S.R. 101"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "038",
-    "dates": "18650123,18650222",
+    "dates": [
+      "18650123",
+      "18650222"
+    ],
     "description": "Mr. Dixon asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on the Judiciary. Reported by Mr. Trumbull without amendment and adversely. Joint Resolution Proposing an amendment to the Constitution of the United States. At the second session begun and held at the city of Washington, in the District of Columbia, on Monday the fifth day of December, eighteen hundred and sixty-four:",
     "page": "",
     "session": "002",
@@ -1417,12 +2022,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 102",
+    "bill_numbers": [
+      "S.R. 102"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650123",
+    "dates": [
+      "18650123"
+    ],
     "description": "Mr. Clark asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice, ordered to lie on the table, and be printed. Joint Resolution Declaratory of the sense of Congress upon negotiations and terms of settlement with the rebels.",
     "page": "",
     "session": "002",
@@ -1430,12 +2039,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 104",
+    "bill_numbers": [
+      "S.R. 104"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650127",
+    "dates": [
+      "18650127"
+    ],
     "description": "Mr. Pomeroy asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice, ordered to lie on the table and be printed. Joint Resolution For the return of Arkansas to the Union. Whereas the President of the United States, by a proclamation bearing date the sixteenth day of August, one thousand eight hundred and sixty-one, did, among other things, declare that the inhabitants of the State of Arkansas were in a condition of insurrection against the United States, and that all commercial intercourse between the said State, and the inhabitants thereof, and the citizens of other States, and other parts of the United States, was and would remain unlawful, until such insurrection should cease or be suppressed; and whereas, by their own act, the citizens of a portion of the said State met in convention, at Fort Smith, on the thirtieth day of October, anno Domini eighteen hundred and sixty-three, and passed resolutions recommending the choosing of delegates to a State convention; the vigorous prosecution of the war, as long as rebels in arms against the government of the United States could be found, and the abolition of the institution of slavery, and announcing further the determination to support the administration in its efforts to suppress the existing rebellion; and which movement was heartily seconded by thousands of the loyal citizens of the State, who, without knowledge that an amnesty proclamation was about to be promulgated, were earnestly desirous of being recognized again by the general government; and whereas, under the President's proclamation of December eight, eighteen hundred and sixty-three, and his instructions to Major General Steele, then commanding the department of Arkansas, bearing date January twenty, eighteen hundred and sixty-four, a State government was duly, and without military restraint, organized on the fourteenth, fifteenth, and sixteenth days of March, anno Domini eighteen hundred and sixty-four, and a constitution republican in form and forever prohibiting slavery and involuntary servitude, except for the punishment of crime, was ratified by a vote of twelve thousand two hundred and twenty-six for, to one hundred and seventy-seven against it; and whereas the progress of our arms has been such in Arkansas as to justify the re-establishment of a State government therein, and the evidences of the loyalty of the people of this State, evinced by their united and cordial support and adherence to this constitution and the laws made made under it, and by furnishing over six full regiments and a battery for the cause of the Union in this national conflict are sufficient to entitle their claim for the recognition of their present State government to the favorable action of Congress: Therefore,",
     "page": "",
     "session": "002",
@@ -1443,12 +2056,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 104",
+    "bill_numbers": [
+      "S.R. 104"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650127",
+    "dates": [
+      "18650127"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1456,12 +2073,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 104",
+    "bill_numbers": [
+      "S.R. 104"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650127",
+    "dates": [
+      "18650127"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -1469,12 +2090,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 108",
+    "bill_numbers": [
+      "S.R. 108"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "038",
-    "dates": "18650206,18650222",
+    "dates": [
+      "18650206",
+      "18650222"
+    ],
     "description": "Mr. Sumner asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice, and referred to the Committee on the Judiciary. Reported by Mr. Trumbull without amendment, and adversely. Joint Resolution To provide for submitting to the several States an amendment of the Constitution of the United States.",
     "page": "",
     "session": "002",
@@ -1482,12 +2110,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 109",
+    "bill_numbers": [
+      "S.R. 109"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Claims",
+    "committees": [
+      "Committee on Claims"
+    ],
     "congress": "038",
-    "dates": "18650211",
+    "dates": [
+      "18650211"
+    ],
     "description": "Mr. Pomeroy, from the Committee on Claims, submitted a report, (No. 118,) accompanied by the following joint resolution; which was read and passed to a second reading. Joint Resolution Authorizing the adjustment of the claim of George J. Stubblefield, for chewing tobacco furnished to the United States.",
     "page": "",
     "session": "002",
@@ -1495,12 +2129,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 109",
+    "bill_numbers": [
+      "S.R. 109"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650211",
+    "dates": [
+      "18650211"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1508,12 +2146,20 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 110",
+    "bill_numbers": [
+      "S.R. 110"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Claims~Committee on Damages",
+    "committees": [
+      "Committee on Claims",
+      "Committee on Damages"
+    ],
     "congress": "038",
-    "dates": "18650211,18650301",
+    "dates": [
+      "18650211",
+      "18650301"
+    ],
     "description": "Mr. Morrill asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Claims. Reported by Mr. Howe without amendment. Joint Resolutions Creating a Committee on Damages.",
     "page": "",
     "session": "002",
@@ -1521,12 +2167,17 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 110",
+    "bill_numbers": [
+      "S.R. 110"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650211,18650301",
+    "dates": [
+      "18650211",
+      "18650301"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1534,12 +2185,17 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 110",
+    "bill_numbers": [
+      "S.R. 110"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650211,18650301",
+    "dates": [
+      "18650211",
+      "18650301"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -1547,12 +2203,17 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 110",
+    "bill_numbers": [
+      "S.R. 110"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650211,18650301",
+    "dates": [
+      "18650211",
+      "18650301"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -1560,12 +2221,17 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 110",
+    "bill_numbers": [
+      "S.R. 110"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650211,18650301",
+    "dates": [
+      "18650211",
+      "18650301"
+    ],
     "description": "",
     "page": "5",
     "session": "002",
@@ -1573,12 +2239,17 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 110",
+    "bill_numbers": [
+      "S.R. 110"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650211,18650301",
+    "dates": [
+      "18650211",
+      "18650301"
+    ],
     "description": "",
     "page": "6",
     "session": "002",
@@ -1586,12 +2257,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 111",
+    "bill_numbers": [
+      "S.R. 111"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18650214",
+    "dates": [
+      "18650214"
+    ],
     "description": "Mr. Wilson, from the Committee on Military Affairs and the Militia, submitted a report, (No. 122,) accompanied by the following joint resolution; which was read and passed to a second reading. Joint Resolution To encourage the employment of disabled and discharged soldiers.",
     "page": "",
     "session": "002",
@@ -1599,12 +2276,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 111",
+    "bill_numbers": [
+      "S.R. 111"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650214",
+    "dates": [
+      "18650214"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1612,12 +2293,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 112",
+    "bill_numbers": [
+      "S.R. 112"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "038",
-    "dates": "18650217",
+    "dates": [
+      "18650217"
+    ],
     "description": "Mr. Foster, from the Committee on Pensions, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution For the relief of James B. Royce. Whereas, James B. Royce, of the town of Shrewsbury and State of Vermont, entered the service of the United States as a private in company I, seventh regiment of Vermont volunteers, on the tenth day of February, eighteen hundred and sixty-two, and continued to serve in said company and regiment until the tenth day of February, eighteen hundred and sixty-three, on which day, at Fort Barrancas, Florida, by the premature discharge of a cannon at which he was engaged in target practice, he received injuries which resulted in the loss of his left arm and left eye, by reason of which disabilities he was discharged from the service on the fourth of December, eighteen hundred and sixty-three, having served twenty-one months and twenty-two days; and whereas, by reason of not having been discharged for wounds actually received in battle, he is not entitled to the benefit of the act entitled ''An act to amend an act entitled 'An act to authorize the employment of volunteers to aid in enforcing the laws and protecting public property,' approved July twenty-two, eighteen hundred and sixty-one,'' approved March third, eighteen hundred and sixty-three; and whereas his case comes within the spirit and intent of said act: Therefore,",
     "page": "",
     "session": "002",
@@ -1625,12 +2312,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 112",
+    "bill_numbers": [
+      "S.R. 112"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650217",
+    "dates": [
+      "18650217"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1638,12 +2329,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 115",
+    "bill_numbers": [
+      "S.R. 115"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Finance~Committee of the Whole",
+    "committees": [
+      "Committee on Finance",
+      "Committee of the Whole"
+    ],
     "congress": "038",
-    "dates": "18650218",
+    "dates": [
+      "18650218"
+    ],
     "description": "Mr. Sherman, from the Committee on Finance, reported the following joint resolution; which was read twice, considered as in Committee of the Whole, amended, postponed to to-morrow, and ordered to be printed as amended. Joint Resolution Providing for the appointment of a commission upon the subject of raising revenue by taxation.",
     "page": "",
     "session": "002",
@@ -1651,12 +2349,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 116",
+    "bill_numbers": [
+      "S.R. 116"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee of the Whole",
+    "committees": [
+      "Committee of the Whole"
+    ],
     "congress": "038",
-    "dates": "18650218",
+    "dates": [
+      "18650218"
+    ],
     "description": "Mr. Howard asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice, considered as in Committee of the Whole, and postponed to to-morrow. Joint Resolution For the relief of Mrs. Lucy A. Rice, late of Richmond, Virginia. Whereas Mrs. Lucy A. Rice, late of Richmond, Virginia, by her courage and patriotic devotion in saving Colonel Streight and his party, and enabling them to make their escape from the hands of the rebels, has deserved well of the country:",
     "page": "",
     "session": "002",
@@ -1664,12 +2368,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 117",
+    "bill_numbers": [
+      "S.R. 117"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "038",
-    "dates": "18650218",
+    "dates": [
+      "18650218"
+    ],
     "description": "Mr. Trumbull, from the Committee on the Judiciary, submitted a report (No. 127) accompanied by the following joint resolution; which was read and passed to a second reading. Joint Resolution Recognizing the government of the State of Louisiana.",
     "page": "",
     "session": "002",
@@ -1677,12 +2387,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 118",
+    "bill_numbers": [
+      "S.R. 118"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18650222",
+    "dates": [
+      "18650222"
+    ],
     "description": "Mr. Wilson, from the Committee on Military Affairs and the Militia, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution To authorize surveys to be made with a view to the construction of a ship canal around the Falls of Niagara, to deepen and enlarge the Illinois and Michigan canal, and improve the navigation of the Illinois river, to improve the upper rapids and lower or Des Moines rapids of the Mississippi river, and to improve the navigation of the Fox and Wisconsin rivers.",
     "page": "",
     "session": "002",
@@ -1690,12 +2406,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 118",
+    "bill_numbers": [
+      "S.R. 118"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650222",
+    "dates": [
+      "18650222"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1703,12 +2423,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 119",
+    "bill_numbers": [
+      "S.R. 119"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Naval Affairs",
+    "committees": [
+      "Committee on Naval Affairs"
+    ],
     "congress": "038",
-    "dates": "18650222",
+    "dates": [
+      "18650222"
+    ],
     "description": "Mr. Hendricks, from the Committee on Naval Affairs, submitted a report (No. 130) accompanied by the following joint resolution; which was read and passed to a second reading. Joint Resolution For the relief of Paul S. Forbes and others.",
     "page": "",
     "session": "002",
@@ -1716,12 +2442,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 119",
+    "bill_numbers": [
+      "S.R. 119"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650222",
+    "dates": [
+      "18650222"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1729,12 +2459,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 121",
+    "bill_numbers": [
+      "S.R. 121"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Post Offices and Post Roads",
+    "committees": [
+      "Committee on Post Offices and Post Roads"
+    ],
     "congress": "038",
-    "dates": "18650223",
+    "dates": [
+      "18650223"
+    ],
     "description": "Mr. Collamer, from the Committee on Post Offices and Post Roads, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution To purchase mail pouches or boxes of Marshall Smith's patent for the postal service, and for other purposes.",
     "page": "",
     "session": "002",
@@ -1742,12 +2478,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 122",
+    "bill_numbers": [
+      "S.R. 122"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Foreign Relations",
+    "committees": [
+      "Committee on Foreign Relations"
+    ],
     "congress": "038",
-    "dates": "18650223",
+    "dates": [
+      "18650223"
+    ],
     "description": "Mr. Sumner, from the Committee on Foreign Relations, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution Relating to international exhibitions at Bergen, in Norway, and Oporto, in Portugal, during the summer of eighteen hundred and sixty-five. Whereas the governments of the Kingdom of Sweden and Norway, and of the Kingdom of Portugal, have communicated to the government of the United States the programmes of two international exhibitions to be held respectively at Bergen, in Norway, and at Oporto, in Portugal, during the summer of eighteen hundred and sixty-five: Therefore,",
     "page": "",
     "session": "002",
@@ -1755,12 +2497,20 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 124",
+    "bill_numbers": [
+      "S.R. 124"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the Pacific Railroad~Committee of the Whole",
+    "committees": [
+      "Committee on the Pacific Railroad",
+      "Committee of the Whole"
+    ],
     "congress": "038",
-    "dates": "18650224,18650301",
+    "dates": [
+      "18650224",
+      "18650301"
+    ],
     "description": "Mr. Farwell asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which were read twice and referred to the Committee on the Pacific Railroad. Reported by Mr. Howard without amendment, considered as in Committee of the Whole, and postponed to the first Monday in December next. Joint Resolutions Authorizing the Northern Pacific Railroad Company to invest its funds in government securities for certain purposes. Whereas the Northern Pacific Railroad Company, a corporation created by act of Congress of the United States approved July two, eighteen hundred and sixty-four, has been duly organized by the choice of a board of directors and officers for the management of its affairs, in accordance with the requirements of its charter; and whereas the said board of directors, in order to safety and speed in carrying on the great work devolved upon it, has, among other things, resolved: ''That certificates for shares of the capital stock of the company, paid up in full, may be issued, bearing interest at the rate of six per centum per annum from their date, payable on the fifteenth day of January, eighteen hundred and sixty-six, and semi-annually on the fifteenth days of July and January thereafter, until the fifteenth day of January, eighteen hundred and seventy-five, after which interest thereon shall cease, and thenceforth the dividends on said stock shall depend on the earnings of the company; ''That the moneys arising from the sale of the capital stock above authorized, except so far as may be necessary for the current expenses and contracts of the company, shall as they accrue, at least to the extent of eighty-three and one-half per centum of such moneys, be invested, under the direction of the executive committee, in United States government securities, bearing interest, there to remain at interest until required for the purpose of meeting the engagements of the company; and the interest accruing from such government securities is hereby appropriated to the payment of the interest upon the stock: Provided, That at least fifty per centum of the proceeds of all such stock in such government securities be deposited, as it accrues, in some government or other safe depository or depositories, as permanent security for the payment of said interest:'' Now, therefore, in order to facilitate the objects of said Northern Pacific Railroad Company in the policy above set forth; to provide a safe depository for the keeping of the government securities in which the proceeds of the sale of its stock may from time to time be invested; to give assurance to the holders of such stock that the interest therein is amply secured; and to enable the said company the more speedily to complete the railroad and telegraph line authorized by its charter--",
     "page": "",
     "session": "002",
@@ -1768,12 +2518,17 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 124",
+    "bill_numbers": [
+      "S.R. 124"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650224,18650301",
+    "dates": [
+      "18650224",
+      "18650301"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1781,12 +2536,17 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 124",
+    "bill_numbers": [
+      "S.R. 124"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650224,18650301",
+    "dates": [
+      "18650224",
+      "18650301"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -1794,12 +2554,17 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 124",
+    "bill_numbers": [
+      "S.R. 124"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650224,18650301",
+    "dates": [
+      "18650224",
+      "18650301"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -1807,12 +2572,18 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 126",
+    "bill_numbers": [
+      "S.R. 126"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "038",
-    "dates": "18650228",
+    "dates": [
+      "18650228"
+    ],
     "description": "Mr. Wilson, from the Committee on Military Affairs and the Militia, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution To provide for the payment of colored volunteers recruited in South Carolina.",
     "page": "",
     "session": "002",
@@ -1820,12 +2591,16 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 126",
+    "bill_numbers": [
+      "S.R. 126"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "038",
-    "dates": "18650228",
+    "dates": [
+      "18650228"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1833,12 +2608,19 @@
     "volume": "038"
   },
   {
-    "bill_number": "S.R. 127",
+    "bill_numbers": [
+      "S.R. 127"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the District of Columbia",
+    "committees": [
+      "Committee on the District of Columbia"
+    ],
     "congress": "038",
-    "dates": "18650228,18650301",
+    "dates": [
+      "18650228",
+      "18650301"
+    ],
     "description": "Mr. Morrill asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on the District of Columbia. Reported by Mr. Dixon without amendment. Joint Resolution Authorizing that the time for revision of the laws of the District of Columbia be extended for and during the thirty-ninth Congress.",
     "page": "",
     "session": "002",
@@ -1846,12 +2628,12 @@
     "volume": "038"
   },
   {
-    "bill_number": "",
+    "bill_numbers": [],
     "chamber": "",
     "collection": "",
-    "committees": "",
+    "committees": [],
     "congress": "",
-    "dates": "",
+    "dates": [],
     "description": "",
     "page": "",
     "session": "",
@@ -1859,12 +2641,12 @@
     "volume": ""
   },
   {
-    "bill_number": "",
+    "bill_numbers": [],
     "chamber": "",
     "collection": "",
-    "committees": "",
+    "committees": [],
     "congress": "",
-    "dates": "",
+    "dates": [],
     "description": "",
     "page": "",
     "session": "",

@@ -1,11 +1,17 @@
 [
   {
-    "bill_number": "S. 6",
+    "bill_numbers": [
+      "S. 6"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Joint Library Committee",
+    "committees": [
+      "Joint Library Committee"
+    ],
     "congress": "023",
-    "dates": "18340506",
+    "dates": [
+      "18340506"
+    ],
     "description": "Mr. Robbins, from the Joint Library Committee, reported the following resolution; which was read, and passed to a second reading: Joint Resolution To purchase five hundred copies of the History of Congress, by Carey, Lea, and Blanchard.",
     "page": "",
     "session": "001",
@@ -13,12 +19,18 @@
     "volume": "023"
   },
   {
-    "bill_number": "S. 7",
+    "bill_numbers": [
+      "S. 7"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Joint Library Committee",
+    "committees": [
+      "Joint Library Committee"
+    ],
     "congress": "023",
-    "dates": "18340506",
+    "dates": [
+      "18340506"
+    ],
     "description": "Mr. Robbins, from the Joint Library Committee, reported the following resolution; which was read, and passed to a second reading: Joint Resolution To supply deficiencies in the reports of the decisions of the Supreme Court, the acts of Congress, the public documents furnished to Judges of Territories and other officers.",
     "page": "",
     "session": "001",
@@ -26,12 +38,18 @@
     "volume": "023"
   },
   {
-    "bill_number": "S. 14",
+    "bill_numbers": [
+      "S. 14"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Naval Affairs",
+    "committees": [
+      "Committee on Naval Affairs"
+    ],
     "congress": "023",
-    "dates": "18340616",
+    "dates": [
+      "18340616"
+    ],
     "description": "Mr. Robbins, from the Committee on Naval Affairs, reported the following resolution; which was read, and passed to a second reading: Joint Resolution Directing the adjustment of the claims of the heirs of the late Robert Fulton.",
     "page": "",
     "session": "001",
@@ -39,12 +57,16 @@
     "volume": "023"
   },
   {
-    "bill_number": "S. 14",
+    "bill_numbers": [
+      "S. 14"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "023",
-    "dates": "18340616",
+    "dates": [
+      "18340616"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -52,12 +74,19 @@
     "volume": "023"
   },
   {
-    "bill_number": "S. 4",
+    "bill_numbers": [
+      "S. 4"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the Library",
+    "committees": [
+      "Committee on the Library"
+    ],
     "congress": "023",
-    "dates": "18341215,18350112",
+    "dates": [
+      "18341215",
+      "18350112"
+    ],
     "description": "Agreeably to notice, Mr. Robbins asked and obtained leave to introduce the following resolution; which was read twice, and referred to the Committee on the Library. Joint Resolution To purchase five hundred copies of the History of Congress, by Carey, Lea, and Blanchard.",
     "page": "",
     "session": "002",
@@ -65,12 +94,20 @@
     "volume": "023"
   },
   {
-    "bill_number": "S. 17",
+    "bill_numbers": [
+      "S. 17"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "023",
-    "dates": "18350202,18350203,18350211",
+    "dates": [
+      "18350202",
+      "18350203",
+      "18350211"
+    ],
     "description": "Introduced, on leave, by Mr. Benton; read, and passed to a second reading. Read a second time, and referred to the Committee on the Judiciary. Committee discharged from the further consideration of this resolution. A Joint Resolution To repeal the resolutions heretofore adopted for the election of public printers.",
     "page": "",
     "session": "002",
@@ -78,12 +115,12 @@
     "volume": "023"
   },
   {
-    "bill_number": "",
+    "bill_numbers": [],
     "chamber": "",
     "collection": "",
-    "committees": "",
+    "committees": [],
     "congress": "",
-    "dates": "",
+    "dates": [],
     "description": "",
     "page": "",
     "session": "",
@@ -91,12 +128,12 @@
     "volume": ""
   },
   {
-    "bill_number": "",
+    "bill_numbers": [],
     "chamber": "",
     "collection": "",
-    "committees": "",
+    "committees": [],
     "congress": "",
-    "dates": "",
+    "dates": [],
     "description": "",
     "page": "",
     "session": "",

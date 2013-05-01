@@ -1,11 +1,15 @@
 [
   {
-    "bill_number": "S. 2",
+    "bill_numbers": [
+      "S. 2"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "018",
-    "dates": "18250113",
+    "dates": [
+      "18250113"
+    ],
     "description": "Joint Resolution Directing the Librarian to furnish the several Committee Rooms of Congress with copies of the Laws of the United States.",
     "page": "",
     "session": "002",
@@ -13,12 +17,12 @@
     "volume": "018"
   },
   {
-    "bill_number": "",
+    "bill_numbers": [],
     "chamber": "",
     "collection": "",
-    "committees": "",
+    "committees": [],
     "congress": "",
-    "dates": "",
+    "dates": [],
     "description": "",
     "page": "",
     "session": "",
@@ -26,12 +30,12 @@
     "volume": ""
   },
   {
-    "bill_number": "",
+    "bill_numbers": [],
     "chamber": "",
     "collection": "",
-    "committees": "",
+    "committees": [],
     "congress": "",
-    "dates": "",
+    "dates": [],
     "description": "",
     "page": "",
     "session": "",

@@ -1,11 +1,19 @@
 [
   {
-    "bill_number": "S. 1",
+    "bill_numbers": [
+      "S. 1"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18301209,18301211,18301216",
+    "dates": [
+      "18301209",
+      "18301211",
+      "18301216"
+    ],
     "description": "Agreeably to notice given, Mr. Foot asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read a second time, and referred to the Committee on Pensions. Reported without amendment. A Bill For the relief of Ransom Mix and Edmund Smith.",
     "page": "",
     "session": "002",
@@ -13,12 +21,20 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 2",
+    "bill_numbers": [
+      "S. 2"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "021",
-    "dates": "18301213,18301214,18301228",
+    "dates": [
+      "18301213",
+      "18301214",
+      "18301228"
+    ],
     "description": "Agreeably to notice given, Mr. Knight asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read second time, and referred to Committee on the Judiciary. Reported without amendment. A Bill To provide for the further compensation of the Marshal of the District of Rhode Island.",
     "page": "",
     "session": "002",
@@ -26,12 +42,19 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 3",
+    "bill_numbers": [
+      "S. 3"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Finance",
+    "committees": [
+      "Committee on Finance"
+    ],
     "congress": "021",
-    "dates": "18301213,18301216",
+    "dates": [
+      "18301213",
+      "18301216"
+    ],
     "description": "Agreeably to notice given, Mr. Sprague asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Finance. Reported without amendment, and, with special report, ordered to be printed A Bill For the relief of Simeon C. Whittieer.",
     "page": "",
     "session": "002",
@@ -39,12 +62,17 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 3",
+    "bill_numbers": [
+      "S. 3"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301213,18301216",
+    "dates": [
+      "18301213",
+      "18301216"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -52,12 +80,20 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 4",
+    "bill_numbers": [
+      "S. 4"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Military Affairs",
+    "committees": [
+      "Committee on Military Affairs"
+    ],
     "congress": "021",
-    "dates": "18301214,18301215,18301216",
+    "dates": [
+      "18301214",
+      "18301215",
+      "18301216"
+    ],
     "description": "Agreeably to notice given, Mr. Benton asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read a second time, and referred to the Committee on Military Affairs. Reported without amendment. A Bill To authorize the mounting and equipment of a part of the army of the United States.",
     "page": "",
     "session": "002",
@@ -65,12 +101,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 4",
+    "bill_numbers": [
+      "S. 4"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301214,18301215,18301216",
+    "dates": [
+      "18301214",
+      "18301215",
+      "18301216"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -78,12 +120,20 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 5",
+    "bill_numbers": [
+      "S. 5"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Commerce",
+    "committees": [
+      "Committee on Commerce"
+    ],
     "congress": "021",
-    "dates": "18301214,18301215,18310112",
+    "dates": [
+      "18301214",
+      "18301215",
+      "18310112"
+    ],
     "description": "Agreeably to notice given, Mr. Woodbury and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read second time, and referred to the Committee on Commerce. Reported without amendment. A Bill Extending further the right of debenture to the port of Key West, and altering the limits of the district of Key West.",
     "page": "",
     "session": "002",
@@ -91,12 +141,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 5",
+    "bill_numbers": [
+      "S. 5"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301214,18301215,18310112",
+    "dates": [
+      "18301214",
+      "18301215",
+      "18310112"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -104,12 +160,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 6",
+    "bill_numbers": [
+      "S. 6"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301215",
+    "dates": [
+      "18301215"
+    ],
     "description": "Mr. Sanford, from the Select Committee to whom the subject was referred, reported the following bill; which was read, and passed to a second reading. A Bill Concerning the gold coins of the United States.",
     "page": "",
     "session": "002",
@@ -117,12 +177,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 6",
+    "bill_numbers": [
+      "S. 6"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301215",
+    "dates": [
+      "18301215"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -130,12 +194,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 6",
+    "bill_numbers": [
+      "S. 6"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee of the Whole House on the state of the Union",
+    "committees": [
+      "Committee of the Whole House on the state of the Union"
+    ],
     "congress": "021",
-    "dates": "18310222",
+    "dates": [
+      "18310222"
+    ],
     "description": "Read, and, with the bill, (S. No. 6,) committed to the Committee of the Whole House on the state of the Union. Mr. White, of New York, from the select committee to which was referred the bill from the Senate (No. 6) concerning the gold coins of the United States, reported the same with the following amendment: Amendment To the bill from the Senate ''concerning the gold coins of the United States.'' Strike out all after the word ''eagle'' in the fourth line, and insert--Strike out second section, and insert--",
     "page": "",
     "session": "002",
@@ -143,12 +213,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 6",
+    "bill_numbers": [
+      "S. 6"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310222",
+    "dates": [
+      "18310222"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -156,12 +230,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 7",
+    "bill_numbers": [
+      "S. 7"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee of Claims",
+    "committees": [
+      "Committee of Claims"
+    ],
     "congress": "021",
-    "dates": "18301215",
+    "dates": [
+      "18301215"
+    ],
     "description": "Mr. Bell, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading. A Bill For the relief of the legal representatives of General Moses Hazen deceased.",
     "page": "",
     "session": "002",
@@ -169,12 +249,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 7",
+    "bill_numbers": [
+      "S. 7"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301215",
+    "dates": [
+      "18301215"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -182,12 +266,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 7",
+    "bill_numbers": [
+      "S. 7"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Revolutionary Claims",
+    "committees": [
+      "Committee on Revolutionary Claims"
+    ],
     "congress": "021",
-    "dates": "18310226",
+    "dates": [
+      "18310226"
+    ],
     "description": "Mr. Burges, from the Committee on Revolutionary Claims, to which was referred the bill from the Senate entitled ''An act for the relief of the legal representatives of General Moses Hazen, deceased,'' reported the same with the following amendments, viz: Strike out from the word ''Hazen,'' in the sixth line, first section, to the word ''the,'' where it first occurs, in the fifth line of the second section. Strike out the word ''sixth,'' in the eighth line, second section, and, in lien thereof insert the word ''fifth.'' An Act For the relief of the legal representatives of General Moses Hazen, deceased. Note.--The parts to be stricken out are printed in brackets, the matter to be inserted, in italics.",
     "page": "",
     "session": "002",
@@ -195,12 +285,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 7",
+    "bill_numbers": [
+      "S. 7"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310226",
+    "dates": [
+      "18310226"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -208,12 +302,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 8",
+    "bill_numbers": [
+      "S. 8"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee of Claims",
+    "committees": [
+      "Committee of Claims"
+    ],
     "congress": "021",
-    "dates": "18301215",
+    "dates": [
+      "18301215"
+    ],
     "description": "Mr. Bell, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading. A Bill For the relief of Lucien Harper.",
     "page": "",
     "session": "002",
@@ -221,12 +321,20 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 9",
+    "bill_numbers": [
+      "S. 9"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Commerce",
+    "committees": [
+      "Committee on Commerce"
+    ],
     "congress": "021",
-    "dates": "18301215,18301216,18301224",
+    "dates": [
+      "18301215",
+      "18301216",
+      "18301224"
+    ],
     "description": "Agreeably to notice given, Mr. Johnston asked and obtained leave to bring in the following bill. Read second time, and referred to Committee on Commerce. Reported with amendments, viz: Strike out the words or harbor there to be constructed,'' in first section, and the words ''or harbor,'' in second section, both included within brackets, and add new section three. A Bill To establish a port of delivery at Port Pontchartrain.",
     "page": "",
     "session": "002",
@@ -234,12 +342,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 9",
+    "bill_numbers": [
+      "S. 9"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301215,18301216,18301224",
+    "dates": [
+      "18301215",
+      "18301216",
+      "18301224"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -247,12 +361,20 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 10",
+    "bill_numbers": [
+      "S. 10"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Military Affairs",
+    "committees": [
+      "Committee on Military Affairs"
+    ],
     "congress": "021",
-    "dates": "18301215,18301216,18310128",
+    "dates": [
+      "18301215",
+      "18301216",
+      "18310128"
+    ],
     "description": "Agreeably to notice given, Mr. Benton asked and obtained leave to bring in the following bill; which was read, and passed to a Second reading. Read a second time, and referred to the Committee on Military Affairs. Reported with an amendment, to wit: Strike out that part included within brackets, and insert what follows in italics. A Bill For the relief of Don Carlos Dehault Delassus.",
     "page": "",
     "session": "002",
@@ -260,12 +382,20 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 11",
+    "bill_numbers": [
+      "S. 11"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "021",
-    "dates": "18301215,18301216,18310105",
+    "dates": [
+      "18301215",
+      "18301216",
+      "18310105"
+    ],
     "description": "Agreeably to notice, Mr. Johnston asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read second time, and referred to the Committee on the Judiciary. Reported without amendment. A Bill For the relief of George Johnston.",
     "page": "",
     "session": "002",
@@ -273,12 +403,22 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 12",
+    "bill_numbers": [
+      "S. 12"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Roads and Canals~Committee on Commerce",
+    "committees": [
+      "Committee on Roads and Canals",
+      "Committee on Commerce"
+    ],
     "congress": "021",
-    "dates": "18301215,18301216,18310126,18310201",
+    "dates": [
+      "18301215",
+      "18301216",
+      "18310126",
+      "18310201"
+    ],
     "description": "Agreeably to notice given, Mr. Marks asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read a second time, and referred to the Committee on Roads and Canals. Committee on Roads and Canals discharged, and referred to Committee on Commerce. Reported without amendment. A Bill To improve the navigation of the Monongahela and Alleghany rivers.",
     "page": "",
     "session": "002",
@@ -286,12 +426,20 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 13",
+    "bill_numbers": [
+      "S. 13"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Claims",
+    "committees": [
+      "Committee on Claims"
+    ],
     "congress": "021",
-    "dates": "18301215,18301216,18301217",
+    "dates": [
+      "18301215",
+      "18301216",
+      "18301217"
+    ],
     "description": "Agreeably to notice, Mr. Foot asked and obtained leave to bring in the following. bill; which was read, and passed to a second reading. Read second time, and referred to Committee on Claims. Reported without amendment, and, with special report, ordered to be printed. A Bill For the relief of John Brunson.",
     "page": "",
     "session": "002",
@@ -299,12 +447,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 16",
+    "bill_numbers": [
+      "S. 16"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18301216",
+    "dates": [
+      "18301216"
+    ],
     "description": "Mr. Holmes, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Aaron Fitzgerald.",
     "page": "",
     "session": "002",
@@ -312,12 +466,19 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 17",
+    "bill_numbers": [
+      "S. 17"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committed on Public Lands",
+    "committees": [
+      "Committed on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18301216,18310110",
+    "dates": [
+      "18301216",
+      "18310110"
+    ],
     "description": "Agreeably to notice given, Mr. Noble asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committed on Public Lands. Reported with an amendment, viz: Strike out all after the enacting clause, (in brackets,) and insert what follows (in italics.) A Bill Authorizing the sale of a tract of land therein named.",
     "page": "",
     "session": "002",
@@ -325,12 +486,17 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 17",
+    "bill_numbers": [
+      "S. 17"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301216,18310110",
+    "dates": [
+      "18301216",
+      "18310110"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -338,12 +504,19 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 18",
+    "bill_numbers": [
+      "S. 18"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18301216,18301220",
+    "dates": [
+      "18301216",
+      "18301220"
+    ],
     "description": "Agreeably to notice given, Mr. Noble asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Pensions. Reported without amendment. A Bill For the relief of Thomas Fitzgerald.",
     "page": "",
     "session": "002",
@@ -351,12 +524,20 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 19",
+    "bill_numbers": [
+      "S. 19"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "021",
-    "dates": "18301216,18301217,18310104",
+    "dates": [
+      "18301216",
+      "18301217",
+      "18310104"
+    ],
     "description": "Agreeably to notice, Mr. Silsbee asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read a second time, and referred to Committee on the Judiciary. Reported without amendment. A Bill For the relief of Joseph E. Sprague.",
     "page": "",
     "session": "002",
@@ -364,12 +545,20 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 20",
+    "bill_numbers": [
+      "S. 20"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Finance",
+    "committees": [
+      "Committee on Finance"
+    ],
     "congress": "021",
-    "dates": "18301216,18301217,18301230",
+    "dates": [
+      "18301216",
+      "18301217",
+      "18301230"
+    ],
     "description": "Agreeably to notice given, Mr. Silscee asked and obtained leave to bring in the following bill: which was read, and passed to a second reading. Read a second time, and referred to the Committee on Finance. Reported without amendment. A Bill For the relief of Ebenezer Rollins.",
     "page": "",
     "session": "002",
@@ -377,12 +566,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 20",
+    "bill_numbers": [
+      "S. 20"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310104",
+    "dates": [
+      "18310104"
+    ],
     "description": "Printed by order of the House of Representatives. An Act For the relief of Ebenezer Rollins.",
     "page": "",
     "session": "002",
@@ -390,12 +583,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 21",
+    "bill_numbers": [
+      "S. 21"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18301216",
+    "dates": [
+      "18301216"
+    ],
     "description": "Mr. Marks, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill Granting a pension to Judah Roberts.",
     "page": "",
     "session": "002",
@@ -403,12 +602,21 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 22",
+    "bill_numbers": [
+      "S. 22"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Finance",
+    "committees": [
+      "Committee on Finance"
+    ],
     "congress": "021",
-    "dates": "18291216,18301217,18310110,18310127",
+    "dates": [
+      "18291216",
+      "18301217",
+      "18310110",
+      "18310127"
+    ],
     "description": "Agreeably to notice given, Mr. Johnston asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read a second time, and referred to the Committee on Finance. Committee on Finance discharged, and referred to the Committee on the Judiciary. Reported without amendment. A Bill For the relief of Beverly Chew, the heirs of William Emerson, deceased, and the heirs of Edwin Lorraine, deceased. Whereas the bring Josepha Secunda was condemned, in the name of the United States, in the district court of the United States for the Louisiana district, in the year one thousand eight hundred and eighteen, on the seizure and prosecution, and at the sole expense, of Beverly Chew, Collector of the district of Mississippi, William Emerson, deceased, Surveyor, and Edwin Lorraine, deceased, naval officer of the port of New Orleans; for an infraction of the slave laws: And Whereas the one half of the proceeds of the said brig and her cargo are now deposited, subject to the order of the said court, which half would have been payable to the said Beverly Chew, William Emerson, and Edwin Lorraine, but for an omission in the laws heretofore passed on that subject: Therefore,",
     "page": "",
     "session": "002",
@@ -416,12 +624,19 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 22",
+    "bill_numbers": [
+      "S. 22"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18291216,18301217,18310110,18310127",
+    "dates": [
+      "18291216",
+      "18301217",
+      "18310110",
+      "18310127"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -429,12 +644,20 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 23",
+    "bill_numbers": [
+      "S. 23"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "021",
-    "dates": "18291216,18301217,18310127",
+    "dates": [
+      "18291216",
+      "18301217",
+      "18310127"
+    ],
     "description": "Agreeably to notice given, Mr. Dickerson asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read the second time, and referred to the Committee on the Judiciary. Reported without amendment. A Bill For the relief of Thomas Cooper, of South Carolina.",
     "page": "",
     "session": "002",
@@ -442,12 +665,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 23",
+    "bill_numbers": [
+      "S. 23"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18291216,18301217,18310127",
+    "dates": [
+      "18291216",
+      "18301217",
+      "18310127"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -455,12 +684,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 24",
+    "bill_numbers": [
+      "S. 24"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Indian Affairs",
+    "committees": [
+      "Committee on Indian Affairs"
+    ],
     "congress": "021",
-    "dates": "18301217",
+    "dates": [
+      "18301217"
+    ],
     "description": "Mr. Hendricks, from the Committee on Indian Affairs, reported the following bill; which was read, and passed to a second reading. A Bill Making appropriations for carrying into effect certain Indian treaties.",
     "page": "",
     "session": "002",
@@ -468,12 +703,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 24",
+    "bill_numbers": [
+      "S. 24"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301217",
+    "dates": [
+      "18301217"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -481,12 +720,20 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 25",
+    "bill_numbers": [
+      "S. 25"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18301217,18301220,18301224",
+    "dates": [
+      "18301217",
+      "18301220",
+      "18301224"
+    ],
     "description": "Agreeably to notice given, Mr. Kane asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read second time, and referred to Committee on Public Lands. Reported without amendment. A Bill To amend an act, entitled ''An act to provide for paying to the State of Illinois three per cent. of the nett proceeds arising from the sale of the public lands within the same.''",
     "page": "",
     "session": "002",
@@ -494,12 +741,20 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 26",
+    "bill_numbers": [
+      "S. 26"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18301217,18301220,18301224",
+    "dates": [
+      "18301217",
+      "18301220",
+      "18301224"
+    ],
     "description": "Agreeably to notice given, Mr. Kane asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read second time, and referred to Committee on Public Lands. Reported without amendment. A Bill To authorize the State of Illinois to surrender a township of land granted to said State for a seminary of learning, and to locate other lands in lieu thereof.",
     "page": "",
     "session": "002",
@@ -507,12 +762,19 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 27",
+    "bill_numbers": [
+      "S. 27"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18301217,18301221",
+    "dates": [
+      "18301217",
+      "18301221"
+    ],
     "description": "Agreeably to notice given, Mr. Holmes asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Pensions. Reported without amendment. A Bill For the relief of Henry Becker.",
     "page": "",
     "session": "002",
@@ -520,12 +782,20 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 28",
+    "bill_numbers": [
+      "S. 28"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18301217,18301220,18301227",
+    "dates": [
+      "18301217",
+      "18301220",
+      "18301227"
+    ],
     "description": "Read, and passed to a second reading. Read a second time, and referred to the Committee on Public Lands. Reported without amendment. A Bill For the relief of John Brahan and John Read.",
     "page": "",
     "session": "002",
@@ -533,12 +803,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 28",
+    "bill_numbers": [
+      "S. 28"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301217,18301220,18301227",
+    "dates": [
+      "18301217",
+      "18301220",
+      "18301227"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -546,12 +822,20 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 29",
+    "bill_numbers": [
+      "S. 29"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee of Claims",
+    "committees": [
+      "Committee of Claims"
+    ],
     "congress": "021",
-    "dates": "18301217,18301220,18310212",
+    "dates": [
+      "18301217",
+      "18301220",
+      "18310212"
+    ],
     "description": "Agreeably to notice given, Mr. King asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read a second time, and referred to the Committee of Claims. Reported without amendment. A Bill For the relief of John M'Cartney.",
     "page": "",
     "session": "002",
@@ -559,12 +843,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 31",
+    "bill_numbers": [
+      "S. 31"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301221",
+    "dates": [
+      "18301221"
+    ],
     "description": "Mr. Livingston, from the select committee appointed on the subject, reported the following bill; which was read, and passed to a second reading: A Bill To provide for the satisfaction of claims due to certain American citizens, for spoliations committed on their commerce prior to the thirtieth day of September, one thousand, eight hundred.",
     "page": "",
     "session": "002",
@@ -572,12 +860,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 31",
+    "bill_numbers": [
+      "S. 31"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301221",
+    "dates": [
+      "18301221"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -585,12 +877,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 31",
+    "bill_numbers": [
+      "S. 31"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301221",
+    "dates": [
+      "18301221"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -598,12 +894,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 31",
+    "bill_numbers": [
+      "S. 31"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301221",
+    "dates": [
+      "18301221"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -611,12 +911,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 31",
+    "bill_numbers": [
+      "S. 31"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301221",
+    "dates": [
+      "18301221"
+    ],
     "description": "",
     "page": "5",
     "session": "002",
@@ -624,12 +928,20 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 33",
+    "bill_numbers": [
+      "S. 33"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18301221,18311222,18310119",
+    "dates": [
+      "18301221",
+      "18311222",
+      "18310119"
+    ],
     "description": "Agreeably to notice, Mr. Johnston asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read a second time, and referred to the Committee on Public Lands. Reported without amendment. A Bill To authorize the inhabitants of the State of Louisiana to enter the back lands.",
     "page": "",
     "session": "002",
@@ -637,12 +949,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 33",
+    "bill_numbers": [
+      "S. 33"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301221,18311222,18310119",
+    "dates": [
+      "18301221",
+      "18311222",
+      "18310119"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -650,12 +968,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 33",
+    "bill_numbers": [
+      "S. 33"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301221,18311222,18310119",
+    "dates": [
+      "18301221",
+      "18311222",
+      "18310119"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -663,12 +987,20 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 35",
+    "bill_numbers": [
+      "S. 35"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Commerce",
+    "committees": [
+      "Committee on Commerce"
+    ],
     "congress": "021",
-    "dates": "18301222,18301223,18301228",
+    "dates": [
+      "18301222",
+      "18301223",
+      "18301228"
+    ],
     "description": "Agreeably to notice given, Mr. Silsbee asked and obtained leave to bring in the following bill, which was read; and passed to a second reading. Read second time, and referred to Committee on Commerce. Reported without amendment. A Bill In addition to an act, passed the first of March, one thousand eight hundred and twenty-three, entitled ''An act supplementary to and to amend an act to regulate the collection of duties on imports and tonnage, passed second of March, one thousand seven hundred and ninety-nine,'' and for other purposes.",
     "page": "",
     "session": "002",
@@ -676,12 +1008,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 35",
+    "bill_numbers": [
+      "S. 35"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301222,18301223,18301228",
+    "dates": [
+      "18301222",
+      "18301223",
+      "18301228"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -689,12 +1027,19 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 36",
+    "bill_numbers": [
+      "S. 36"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18301224,18310119",
+    "dates": [
+      "18301224",
+      "18310119"
+    ],
     "description": "Agreeably to notice given, Mr. Noble asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Public Lands. Reported without amendment. A Bill For the relief of Henry Case.",
     "page": "",
     "session": "002",
@@ -702,12 +1047,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 37",
+    "bill_numbers": [
+      "S. 37"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18301224",
+    "dates": [
+      "18301224"
+    ],
     "description": "Mr. Kane, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill To establish two land district in Illinois.",
     "page": "",
     "session": "002",
@@ -715,12 +1066,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 37",
+    "bill_numbers": [
+      "S. 37"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301224",
+    "dates": [
+      "18301224"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -728,12 +1083,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 39",
+    "bill_numbers": [
+      "S. 39"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18301224",
+    "dates": [
+      "18301224"
+    ],
     "description": "Mr. Ellis, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the benefit of schools in Lawrence county, Mississippi.",
     "page": "",
     "session": "002",
@@ -741,12 +1102,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 40",
+    "bill_numbers": [
+      "S. 40"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Private Land Claims",
+    "committees": [
+      "Committee on Private Land Claims"
+    ],
     "congress": "021",
-    "dates": "18301224",
+    "dates": [
+      "18301224"
+    ],
     "description": "Mr. Poindexter, from the Committee on Private Land Claims, reported the following bill; which was read, and passed to a second reading. A Bill For the relief of the legal representatives of Peter Celestino Walker and John Peter Walker, deceased, and of Joseph Walker, of the State of Mississippi.",
     "page": "",
     "session": "002",
@@ -754,12 +1121,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 40",
+    "bill_numbers": [
+      "S. 40"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301224",
+    "dates": [
+      "18301224"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -767,12 +1138,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 41",
+    "bill_numbers": [
+      "S. 41"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18301224",
+    "dates": [
+      "18301224"
+    ],
     "description": "Mr. Barton, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill Concerning the town and village commons in Missouri.",
     "page": "",
     "session": "002",
@@ -780,12 +1157,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 42",
+    "bill_numbers": [
+      "S. 42"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18301227",
+    "dates": [
+      "18301227"
+    ],
     "description": "Mr. Chase, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Jonathan Croker.",
     "page": "",
     "session": "002",
@@ -793,12 +1176,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 43",
+    "bill_numbers": [
+      "S. 43"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18301227",
+    "dates": [
+      "18301227"
+    ],
     "description": "Mr. McKinley, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading. A Bill Supplemental to an act, passed on the thirty-first March, one thousand eight hundred and thirty, entitled ''An act for the relief of purchasers of public lands, and for the suppression of fraudulent practices at the public sales of lands of the United States.''",
     "page": "",
     "session": "002",
@@ -806,12 +1195,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 43",
+    "bill_numbers": [
+      "S. 43"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301227",
+    "dates": [
+      "18301227"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -819,12 +1212,20 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 44",
+    "bill_numbers": [
+      "S. 44"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "021",
-    "dates": "18301227,18301229,18300113",
+    "dates": [
+      "18301227",
+      "18301229",
+      "18300113"
+    ],
     "description": "Introduced by Mr. Johnston, of Louisiana, on leave, and read. Read second time, and referred to the Committee on the Judiciary. Reported without amendment. A Bill To provide for the legal adjudication and settlement of the claims to land therein mentioned.",
     "page": "",
     "session": "002",
@@ -832,12 +1233,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 44",
+    "bill_numbers": [
+      "S. 44"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301227,18301229,18300113",
+    "dates": [
+      "18301227",
+      "18301229",
+      "18300113"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -845,12 +1252,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 44",
+    "bill_numbers": [
+      "S. 44"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301227,18301229,18300113",
+    "dates": [
+      "18301227",
+      "18301229",
+      "18300113"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -858,12 +1271,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 44",
+    "bill_numbers": [
+      "S. 44"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301227,18301229,18300113",
+    "dates": [
+      "18301227",
+      "18301229",
+      "18300113"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -871,12 +1290,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 45",
+    "bill_numbers": [
+      "S. 45"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "021",
-    "dates": "18301228",
+    "dates": [
+      "18301228"
+    ],
     "description": "Mr. McKinley, from the Committee on the Judiciary, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Thomas L. Winthrop and others, Directors of an association called the New England Mississippi Land Company.",
     "page": "",
     "session": "002",
@@ -884,12 +1309,19 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 46",
+    "bill_numbers": [
+      "S. 46"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18301228,18310103",
+    "dates": [
+      "18301228",
+      "18310103"
+    ],
     "description": "Agreeably to notice, Mr. Chase asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Pensions. Reported without amendment. A Bill For the relief of John Riddle.",
     "page": "",
     "session": "002",
@@ -897,12 +1329,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 47",
+    "bill_numbers": [
+      "S. 47"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18301228",
+    "dates": [
+      "18301228"
+    ],
     "description": "Mr. Barton, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading. A Bill To amend the act entitled ''An act to quiet the titles of certain purchasers of lands between the lines of Ludlow and Roberts, in the State of Ohio,'' approved the twenty-sixth of May, in the year eighteen hundred and thirty.",
     "page": "",
     "session": "002",
@@ -910,12 +1348,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 47",
+    "bill_numbers": [
+      "S. 47"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301228",
+    "dates": [
+      "18301228"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -923,12 +1365,19 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 49",
+    "bill_numbers": [
+      "S. 49"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "021",
-    "dates": "18301219,18310131",
+    "dates": [
+      "18301219",
+      "18310131"
+    ],
     "description": "Agreeably to notice given, Mr. Hayne asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on the Judiciary. Reported without amendment. A Bill For the relief of J. N. Cardozo.",
     "page": "",
     "session": "002",
@@ -936,12 +1385,19 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 50",
+    "bill_numbers": [
+      "S. 50"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Finance",
+    "committees": [
+      "Committee on Finance"
+    ],
     "congress": "021",
-    "dates": "18301229,18301230",
+    "dates": [
+      "18301229",
+      "18301230"
+    ],
     "description": "Read twice, and referred to the Committee on Finance. Reported without amendment. Agreeably to notice given, Mr. King asked and obtained leave to bring in the following bill; which was read twice by unanimous consent, and referred to the Committee on Finance: A Bill To authorize the Secretary of the Navy to make compensation to the heirs of Taliaferro Livingston and Francis W. Armstrong, for the maintenance of fifteen Africans illegally imported into the United States.",
     "page": "",
     "session": "002",
@@ -949,12 +1405,17 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 50",
+    "bill_numbers": [
+      "S. 50"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18301229,18301230",
+    "dates": [
+      "18301229",
+      "18301230"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -962,12 +1423,20 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 51",
+    "bill_numbers": [
+      "S. 51"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18301230,18301231,18310103",
+    "dates": [
+      "18301230",
+      "18301231",
+      "18310103"
+    ],
     "description": "Agreeably to notice, Mr. King asked leave to bring in the following bill; which was read, and passed to a second reading. Read a second time, and referred to the Committee on Public Lands. Reported with an amendment, to wit: strike out the words within brackets. A Bill To amend an act, entitled ''An act to provide for paying to the States of Missouri, Mississippi, and Alabama, three per centum of the nett proceeds arising from the sale of the public lands within the same.''",
     "page": "",
     "session": "002",
@@ -975,12 +1444,19 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 52",
+    "bill_numbers": [
+      "S. 52"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Commerce",
+    "committees": [
+      "Committee on Commerce"
+    ],
     "congress": "021",
-    "dates": "18301231,18310112",
+    "dates": [
+      "18301231",
+      "18310112"
+    ],
     "description": "Read second time, and referred to Committee on Commerce. Reported without amendment. A Bill To make an appropriation for the improvement of Black creek.",
     "page": "",
     "session": "002",
@@ -988,12 +1464,19 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 53",
+    "bill_numbers": [
+      "S. 53"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee of Claims",
+    "committees": [
+      "Committee of Claims"
+    ],
     "congress": "021",
-    "dates": "18301231,18310104",
+    "dates": [
+      "18301231",
+      "18310104"
+    ],
     "description": "Agreeably to notice, Mr. Livingston asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee of Claims. Reported without amendment. A Bill For the relief of Francis Larche, of New Orleans.",
     "page": "",
     "session": "002",
@@ -1001,12 +1484,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 54",
+    "bill_numbers": [
+      "S. 54"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Finance",
+    "committees": [
+      "Committee on Finance"
+    ],
     "congress": "021",
-    "dates": "18310103",
+    "dates": [
+      "18310103"
+    ],
     "description": "Mr. Smith, of Maryland, from the Committee on Finance, reported the following bill; which was read, and passed to a second reading: A Bill To repeal the charges imposed on passports and clearances, and the duties on spices.",
     "page": "",
     "session": "002",
@@ -1014,12 +1503,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 55",
+    "bill_numbers": [
+      "S. 55"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18310103",
+    "dates": [
+      "18310103"
+    ],
     "description": "Mr. Holmes, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading. A Bill For the relief of William Christy.",
     "page": "",
     "session": "002",
@@ -1027,12 +1522,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 56",
+    "bill_numbers": [
+      "S. 56"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310103",
+    "dates": [
+      "18310103"
+    ],
     "description": "Mr. Barton, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill Supplementary to the several laws for the sale of public lands.",
     "page": "",
     "session": "002",
@@ -1040,12 +1541,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 56",
+    "bill_numbers": [
+      "S. 56"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310103",
+    "dates": [
+      "18310103"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1053,12 +1558,20 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 57",
+    "bill_numbers": [
+      "S. 57"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Roads and Canals",
+    "committees": [
+      "Committee on Roads and Canals"
+    ],
     "congress": "021",
-    "dates": "18310104,18310105,18310129",
+    "dates": [
+      "18310104",
+      "18310105",
+      "18310129"
+    ],
     "description": "Agreeably to notice given, Mr. King asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read second time, and referred to the Committee on Roads and Canals. Reported without amendment. A Bill For the improvement of the mail road between Louisville and St. Louis.",
     "page": "",
     "session": "002",
@@ -1066,12 +1579,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 58",
+    "bill_numbers": [
+      "S. 58"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee of Claims",
+    "committees": [
+      "Committee of Claims"
+    ],
     "congress": "021",
-    "dates": "18310104",
+    "dates": [
+      "18310104"
+    ],
     "description": "Mr. Ruggles, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of James Thomas, late Quartermaster General of the Army of the United States.",
     "page": "",
     "session": "002",
@@ -1079,12 +1598,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 59",
+    "bill_numbers": [
+      "S. 59"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Indian Affairs",
+    "committees": [
+      "Committee on Indian Affairs"
+    ],
     "congress": "021",
-    "dates": "18310104",
+    "dates": [
+      "18310104"
+    ],
     "description": "Mr. White, from the Committee on Indian Affairs, reported the following bill; which was read, and passed to a second reading: A Bill To enable the President to extinguish Indian title within the State of Indiana.",
     "page": "",
     "session": "002",
@@ -1092,12 +1617,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 60",
+    "bill_numbers": [
+      "S. 60"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Indian Affairs",
+    "committees": [
+      "Committee on Indian Affairs"
+    ],
     "congress": "021",
-    "dates": "18310104",
+    "dates": [
+      "18310104"
+    ],
     "description": "Mr. White, from the Committee on Indian Affairs, reported the following bill; which was read, and passed to a second reading: A Bill To provide for the payment of Joshua Kennedy, of Alabama, for the losses sustained by him by the destruction of his property, in the year one thousand eight hundred and thirteen, by the hostile Creek Indians, in consequence of its having been occupied as a fort or garrison by the troops of the United States.",
     "page": "",
     "session": "002",
@@ -1105,12 +1636,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 61",
+    "bill_numbers": [
+      "S. 61"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310104",
+    "dates": [
+      "18310104"
+    ],
     "description": "Mr. Barton, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading. A Bill To reduce the price of a portion of the public lands heretofore in market, and to grant a preference to actual settlers.",
     "page": "",
     "session": "002",
@@ -1118,12 +1655,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 61",
+    "bill_numbers": [
+      "S. 61"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310104",
+    "dates": [
+      "18310104"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1131,12 +1672,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 61",
+    "bill_numbers": [
+      "S. 61"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310104",
+    "dates": [
+      "18310104"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -1144,12 +1689,20 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 62",
+    "bill_numbers": [
+      "S. 62"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310104,18310105,18310110",
+    "dates": [
+      "18310104",
+      "18310105",
+      "18310110"
+    ],
     "description": "Read, and passed to a second reading. Read second time, and referred to the Committee on Public Lands. Reported without amendment. A Bill For the relief of Woodson Wren, of Mississippi.",
     "page": "",
     "session": "002",
@@ -1157,12 +1710,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 62",
+    "bill_numbers": [
+      "S. 62"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310104,18310105,18310110",
+    "dates": [
+      "18310104",
+      "18310105",
+      "18310110"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1170,12 +1729,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 63",
+    "bill_numbers": [
+      "S. 63"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310105",
+    "dates": [
+      "18310105"
+    ],
     "description": "Mr. Kane, from the Committee on Public Lands, reported the followings bill; which was read, and passed to a second reading. A Bill To establish a town at St. Marks, and at the mouth of Appalachicola river, in Florida.",
     "page": "",
     "session": "002",
@@ -1183,12 +1748,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 63",
+    "bill_numbers": [
+      "S. 63"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310105",
+    "dates": [
+      "18310105"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1196,12 +1765,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 63",
+    "bill_numbers": [
+      "S. 63"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310105",
+    "dates": [
+      "18310105"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -1209,12 +1782,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 64",
+    "bill_numbers": [
+      "S. 64"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310109",
+    "dates": [
+      "18310109"
+    ],
     "description": "Mr. Kane, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill Supplemental to the act ''granting the right of pre-emption to settlers on the public lands,'' approved the twenty-ninth day of May, eighteen hundred and thirty.",
     "page": "",
     "session": "002",
@@ -1222,12 +1801,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 64",
+    "bill_numbers": [
+      "S. 64"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310109",
+    "dates": [
+      "18310109"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1235,12 +1818,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 65",
+    "bill_numbers": [
+      "S. 65"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on the District of Columbia",
+    "committees": [
+      "Committee on the District of Columbia"
+    ],
     "congress": "021",
-    "dates": "18310105",
+    "dates": [
+      "18310105"
+    ],
     "description": "Mr. Tyler, from the Committee on the District of Columbia, reported the following bill; which was read, and passed to a second reading: A Bill To incorporate Saint Vincent's Orphan Asylum, in the District of Columbia.",
     "page": "",
     "session": "002",
@@ -1248,12 +1837,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 65",
+    "bill_numbers": [
+      "S. 65"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310105",
+    "dates": [
+      "18310105"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1261,12 +1854,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 65",
+    "bill_numbers": [
+      "S. 65"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310105",
+    "dates": [
+      "18310105"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -1274,12 +1871,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 65",
+    "bill_numbers": [
+      "S. 65"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310105",
+    "dates": [
+      "18310105"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -1287,12 +1888,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 66",
+    "bill_numbers": [
+      "S. 66"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Naval Affairs",
+    "committees": [
+      "Committee on Naval Affairs"
+    ],
     "congress": "021",
-    "dates": "18310105",
+    "dates": [
+      "18310105"
+    ],
     "description": "Mr. Hayne, from the Committee on Naval Affairs, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Joseph S. Cannon.",
     "page": "",
     "session": "002",
@@ -1300,12 +1907,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 67",
+    "bill_numbers": [
+      "S. 67"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18310106",
+    "dates": [
+      "18310106"
+    ],
     "description": "Mr. Foot, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading. A Bill Granting a pension to Martin Miller.",
     "page": "",
     "session": "002",
@@ -1313,12 +1926,20 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 68",
+    "bill_numbers": [
+      "S. 68"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310106,18310107,18310119",
+    "dates": [
+      "18310106",
+      "18310107",
+      "18310119"
+    ],
     "description": "Agreeably to notice, Mr. King asked and obtained leave to bring in the following bill; which was read and passed to a second reading. Read second time, and referred to the Committee on Public Lands. Reported without amendment. A Bill To alter and amend ''An Act to set apart and dispose of certain public lands for the encouragement of the cultivation of the vine and olive.''",
     "page": "",
     "session": "002",
@@ -1326,12 +1947,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 68",
+    "bill_numbers": [
+      "S. 68"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310106,18310107,18310119",
+    "dates": [
+      "18310106",
+      "18310107",
+      "18310119"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1339,12 +1966,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 69",
+    "bill_numbers": [
+      "S. 69"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310110",
+    "dates": [
+      "18310110"
+    ],
     "description": "Mr. Ellis, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Samuel Coburn, of the State of Mississippi.",
     "page": "",
     "session": "002",
@@ -1352,12 +1985,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 69",
+    "bill_numbers": [
+      "S. 69"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310110",
+    "dates": [
+      "18310110"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1365,12 +2002,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 70",
+    "bill_numbers": [
+      "S. 70"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310110",
+    "dates": [
+      "18310110"
+    ],
     "description": "Mr. Barton, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of certain holders of certificates issued in lieu of lands injured by earthquakes in Missouri.",
     "page": "",
     "session": "002",
@@ -1378,12 +2021,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 70",
+    "bill_numbers": [
+      "S. 70"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310110",
+    "dates": [
+      "18310110"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1391,12 +2038,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 71",
+    "bill_numbers": [
+      "S. 71"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310110",
+    "dates": [
+      "18310110"
+    ],
     "description": "Agreeably to notice given, Mr. Benton asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Public Lands. Reported without amendment. A Bill For the relief of William Bradshaw.",
     "page": "",
     "session": "002",
@@ -1404,12 +2057,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 71",
+    "bill_numbers": [
+      "S. 71"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310110",
+    "dates": [
+      "18310110"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1417,12 +2074,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 72",
+    "bill_numbers": [
+      "S. 72"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18310110",
+    "dates": [
+      "18310110"
+    ],
     "description": "Mr. Chase, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Ezekiel Canfield.",
     "page": "",
     "session": "002",
@@ -1430,12 +2093,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 73",
+    "bill_numbers": [
+      "S. 73"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18300110",
+    "dates": [
+      "18300110"
+    ],
     "description": "Mr. Chase, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading. A Bill For the relief, of Hugh Barnes.",
     "page": "",
     "session": "002",
@@ -1443,12 +2112,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 74",
+    "bill_numbers": [
+      "S. 74"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Roads and Canals",
+    "committees": [
+      "Committee on Roads and Canals"
+    ],
     "congress": "021",
-    "dates": "18310110",
+    "dates": [
+      "18310110"
+    ],
     "description": "Mr. Hendricks, from the Committee on Roads and Canals, reported the following bill; which was read, and passed to a second reading. A Bill To authorize the Territory of Florida to open a canal through the public lands between Chipola river and Saint Andrew's bay, in West Florida.",
     "page": "",
     "session": "002",
@@ -1456,12 +2131,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 74",
+    "bill_numbers": [
+      "S. 74"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310110",
+    "dates": [
+      "18310110"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1469,12 +2148,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 75",
+    "bill_numbers": [
+      "S. 75"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Finance",
+    "committees": [
+      "Committee on Finance"
+    ],
     "congress": "021",
-    "dates": "18310111",
+    "dates": [
+      "18310111"
+    ],
     "description": "Mr. Smith, of Maryland, from the Committee on Finance, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Peters and Pond.",
     "page": "",
     "session": "002",
@@ -1482,12 +2167,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 76",
+    "bill_numbers": [
+      "S. 76"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee of Claims",
+    "committees": [
+      "Committee of Claims"
+    ],
     "congress": "021",
-    "dates": "18310111",
+    "dates": [
+      "18310111"
+    ],
     "description": "Mr. Chase, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of John Daly, late of Canada.",
     "page": "",
     "session": "002",
@@ -1495,12 +2186,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 77",
+    "bill_numbers": [
+      "S. 77"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Commerce",
+    "committees": [
+      "Committee on Commerce"
+    ],
     "congress": "021",
-    "dates": "18310112",
+    "dates": [
+      "18310112"
+    ],
     "description": "Mr. Woodbury, from the Committee on Commerce, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Antoine Dequindre, and the legal representatives of Louis Dequindre, deceased.",
     "page": "",
     "session": "002",
@@ -1508,12 +2205,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 78",
+    "bill_numbers": [
+      "S. 78"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on the Contingent Expenses of the Senate",
+    "committees": [
+      "Committee on the Contingent Expenses of the Senate"
+    ],
     "congress": "021",
-    "dates": "18310112",
+    "dates": [
+      "18310112"
+    ],
     "description": "Mr. Iredell, from the Committee on the Contingent Expenses of the Senate, reported the following bill; which was read, and passed to a second reading. A Bill Making provision for the compensation of witnesses, and payment of other expenses attending the trial of the impeachment of James H. Peck.",
     "page": "",
     "session": "002",
@@ -1521,12 +2224,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 78",
+    "bill_numbers": [
+      "S. 78"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310112",
+    "dates": [
+      "18310112"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1534,12 +2241,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 79",
+    "bill_numbers": [
+      "S. 79"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310112",
+    "dates": [
+      "18310112"
+    ],
     "description": "Agreeably to notice given Mr. Ellis asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read second time, and referred to the Committee on Public Lands. Reported without amendment. A Bill For the relief of William Burris, of Mississippi.",
     "page": "",
     "session": "002",
@@ -1547,12 +2260,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 80",
+    "bill_numbers": [
+      "S. 80"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310113",
+    "dates": [
+      "18310113"
+    ],
     "description": "Agreeably to notice given, Mr. Burnet asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Public Lands. Reported without amendment. A Bill For the relief of James Sprague.",
     "page": "",
     "session": "002",
@@ -1560,12 +2279,19 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 81",
+    "bill_numbers": [
+      "S. 81"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "021",
-    "dates": "18310113,18310119",
+    "dates": [
+      "18310113",
+      "18310119"
+    ],
     "description": "Agreeably to notice, Mr. Chalmers asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on the Judiciary. Reported with an amendment, to wit: insert these words, ''which have been or may be,'' in italics. A Bill Providing for the final settlement of the claims of States for interest on advances to the United States, made during the last war.",
     "page": "",
     "session": "002",
@@ -1573,12 +2299,17 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 81",
+    "bill_numbers": [
+      "S. 81"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310113,18310119",
+    "dates": [
+      "18310113",
+      "18310119"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1586,12 +2317,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 82",
+    "bill_numbers": [
+      "S. 82"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "021",
-    "dates": "18310113",
+    "dates": [
+      "18310113"
+    ],
     "description": "Mr. McKinley, from the Committee on the Judiciary, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of William B. Matthews, trustee.",
     "page": "",
     "session": "002",
@@ -1599,12 +2336,19 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 84",
+    "bill_numbers": [
+      "S. 84"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18310114,18310118",
+    "dates": [
+      "18310114",
+      "18310118"
+    ],
     "description": "Agreeably to notice given, Mr. Holmes asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Pensions. Reported without amendment. A Bill For the relief of the legal representatives of Daniel McIntire, deceased.",
     "page": "",
     "session": "002",
@@ -1612,12 +2356,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 85",
+    "bill_numbers": [
+      "S. 85"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Commerce",
+    "committees": [
+      "Committee on Commerce"
+    ],
     "congress": "021",
-    "dates": "18310114",
+    "dates": [
+      "18310114"
+    ],
     "description": "Mr. Woodbury, from the Committee on Commerce, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Elizabeth Scott, assignee of Alexander Scott, junior.",
     "page": "",
     "session": "002",
@@ -1625,12 +2375,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 86",
+    "bill_numbers": [
+      "S. 86"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee of Claims",
+    "committees": [
+      "Committee of Claims"
+    ],
     "congress": "021",
-    "dates": "18310114",
+    "dates": [
+      "18310114"
+    ],
     "description": "Mr. Brown, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Ebenezer Lobdell.",
     "page": "",
     "session": "002",
@@ -1638,12 +2394,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 88",
+    "bill_numbers": [
+      "S. 88"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18310118",
+    "dates": [
+      "18310118"
+    ],
     "description": "Mr. Marks, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of William Vance.",
     "page": "",
     "session": "002",
@@ -1651,12 +2413,19 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 89",
+    "bill_numbers": [
+      "S. 89"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Roads and Canals",
+    "committees": [
+      "Committee on Roads and Canals"
+    ],
     "congress": "021",
-    "dates": "18310118,18310119",
+    "dates": [
+      "18310118",
+      "18310119"
+    ],
     "description": "Agreeably to notice given, Mr. McKinley asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Roads and Canals. Reported without amendment. A Bill To amend the act granting ''certain relinquished and unappropriated lands to the State of Alabama, for the purpose of improving the navigation of the Tennessee, Coosa, Cahawba, and Black-warrior rivers,'' approved the twenty-third day of May, one thousand eight hundred and twenty-eight.",
     "page": "",
     "session": "002",
@@ -1664,12 +2433,17 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 89",
+    "bill_numbers": [
+      "S. 89"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310118,18310119",
+    "dates": [
+      "18310118",
+      "18310119"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1677,12 +2451,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 90",
+    "bill_numbers": [
+      "S. 90"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310118",
+    "dates": [
+      "18310118"
+    ],
     "description": "Mr. Ellis, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of George B. Dameron and William Howze, of Mississippi.",
     "page": "",
     "session": "002",
@@ -1690,12 +2470,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 91",
+    "bill_numbers": [
+      "S. 91"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee of Claims",
+    "committees": [
+      "Committee of Claims"
+    ],
     "congress": "021",
-    "dates": "18310118",
+    "dates": [
+      "18310118"
+    ],
     "description": "Mr. Ruggles, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Benjamin S. Smoot, of Alabama.",
     "page": "",
     "session": "002",
@@ -1703,12 +2489,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 92",
+    "bill_numbers": [
+      "S. 92"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18310118",
+    "dates": [
+      "18310118"
+    ],
     "description": "Mr. Holmes, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading. A Bill For the relief of Jabez Sawyer.",
     "page": "",
     "session": "002",
@@ -1716,12 +2508,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 93",
+    "bill_numbers": [
+      "S. 93"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee of Claims",
+    "committees": [
+      "Committee of Claims"
+    ],
     "congress": "021",
-    "dates": "18310118",
+    "dates": [
+      "18310118"
+    ],
     "description": "Mr. Foot, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Duval and Carnes.",
     "page": "",
     "session": "002",
@@ -1729,12 +2527,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 95",
+    "bill_numbers": [
+      "S. 95"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310118",
+    "dates": [
+      "18310118"
+    ],
     "description": "Agreeably to notice given, Mr. Benton asked and obtained leave to bring in the following bill; which was read, and ordered to be printed. A Bill To reduce the duties on Indian blankets, and certain other Indian goods not manufactured in the United States.",
     "page": "",
     "session": "002",
@@ -1742,12 +2544,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 95",
+    "bill_numbers": [
+      "S. 95"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310118",
+    "dates": [
+      "18310118"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1755,12 +2561,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 96",
+    "bill_numbers": [
+      "S. 96"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18310118",
+    "dates": [
+      "18310118"
+    ],
     "description": "Mr. Chase, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Daniel Tilton.",
     "page": "",
     "session": "002",
@@ -1768,12 +2580,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 97",
+    "bill_numbers": [
+      "S. 97"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18310118",
+    "dates": [
+      "18310118"
+    ],
     "description": "Mr. Chase, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of William Scott, of Tennessee.",
     "page": "",
     "session": "002",
@@ -1781,12 +2599,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 98",
+    "bill_numbers": [
+      "S. 98"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310119",
+    "dates": [
+      "18310119"
+    ],
     "description": "Mr. Kane, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill To authorize the Secretary of the Treasury to make compensation to the agent employed to select college lands in the Territory of Arkansas.",
     "page": "",
     "session": "002",
@@ -1794,12 +2618,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 100",
+    "bill_numbers": [
+      "S. 100"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Roads and Canals",
+    "committees": [
+      "Committee on Roads and Canals"
+    ],
     "congress": "021",
-    "dates": "18310119",
+    "dates": [
+      "18310119"
+    ],
     "description": "Mr. Hendricks, from the Committee on Roads and Canals, reported the following bill;, which was read, and passed to a second reading: A Bill For the continuation of the Cumberland road in the States of Ohio, Indiana, and Illinois.",
     "page": "",
     "session": "002",
@@ -1807,12 +2637,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 100",
+    "bill_numbers": [
+      "S. 100"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310119",
+    "dates": [
+      "18310119"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1820,12 +2654,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 101",
+    "bill_numbers": [
+      "S. 101"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Finance",
+    "committees": [
+      "Committee on Finance"
+    ],
     "congress": "021",
-    "dates": "18310120",
+    "dates": [
+      "18310120"
+    ],
     "description": "Mr. Smith, of Maryland, from the Committee on Finance, reported the following bill; which was read, and passed to a second reading: A Bill To repeal the duties on certain imported articles.",
     "page": "",
     "session": "002",
@@ -1833,12 +2673,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 101",
+    "bill_numbers": [
+      "S. 101"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310120",
+    "dates": [
+      "18310120"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1846,12 +2690,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 101",
+    "bill_numbers": [
+      "S. 101"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310120",
+    "dates": [
+      "18310120"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -1859,12 +2707,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 102",
+    "bill_numbers": [
+      "S. 102"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Military Affairs",
+    "committees": [
+      "Committee on Military Affairs"
+    ],
     "congress": "021",
-    "dates": "18310120",
+    "dates": [
+      "18310120"
+    ],
     "description": "Mr. Benton, from the Committee on Military Affairs, reported the following bill; which was read, and passed to a second reading. A Bill For the relief of Brevet Major Riley, and Lieutenants Brook and Seawright.",
     "page": "",
     "session": "002",
@@ -1872,12 +2726,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 103",
+    "bill_numbers": [
+      "S. 103"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310121",
+    "dates": [
+      "18310121"
+    ],
     "description": "Mr. Barton, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of James Hogland.",
     "page": "",
     "session": "002",
@@ -1885,12 +2745,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 104",
+    "bill_numbers": [
+      "S. 104"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310121",
+    "dates": [
+      "18310121"
+    ],
     "description": "Mr. Barton, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of John Gough, and other Canadian refugees.",
     "page": "",
     "session": "002",
@@ -1898,12 +2764,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 105",
+    "bill_numbers": [
+      "S. 105"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310121",
+    "dates": [
+      "18310121"
+    ],
     "description": "Mr. Barton, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of William Smith, administrator of John Taylor, deceased.",
     "page": "",
     "session": "002",
@@ -1911,12 +2783,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 105",
+    "bill_numbers": [
+      "S. 105"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310121",
+    "dates": [
+      "18310121"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -1924,12 +2800,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 106",
+    "bill_numbers": [
+      "S. 106"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "021",
-    "dates": "18310121",
+    "dates": [
+      "18310121"
+    ],
     "description": "Mr. Hayne, from the Committee on the Judiciary, reported the following bill; which was read, and passed to a second reading: A Bill To extend the patent of Samuel Browning for a further period of fourteen years.",
     "page": "",
     "session": "002",
@@ -1937,12 +2819,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 107",
+    "bill_numbers": [
+      "S. 107"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18310121",
+    "dates": [
+      "18310121"
+    ],
     "description": "Mr. Marks, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Thomas Porter, of Indiana.",
     "page": "",
     "session": "002",
@@ -1950,12 +2838,20 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 108",
+    "bill_numbers": [
+      "S. 108"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18310121,18310122,18310131",
+    "dates": [
+      "18310121",
+      "18310122",
+      "18310131"
+    ],
     "description": "Agreeably to notice given, Mr. Benton asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read the second time, and referred to the Committee on Pensions. Reported without amendment. A Bill For the relief of John Cunningham, senior.",
     "page": "",
     "session": "002",
@@ -1963,12 +2859,19 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 109",
+    "bill_numbers": [
+      "S. 109"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Naval Affairs",
+    "committees": [
+      "Committee on Naval Affairs"
+    ],
     "congress": "021",
-    "dates": "18310121,18310210",
+    "dates": [
+      "18310121",
+      "18310210"
+    ],
     "description": "Read twice, and referred to the Committee on Naval Affairs. Reported without amendment. A Bill For the relief of Sophia Gardner.",
     "page": "",
     "session": "002",
@@ -1976,12 +2879,19 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 110",
+    "bill_numbers": [
+      "S. 110"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "021",
-    "dates": "18310122,18310129",
+    "dates": [
+      "18310122",
+      "18310129"
+    ],
     "description": "Agreeably to notice given, Mr. King asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on the Judiciary. Reported without amendment. A Bill For the relief of John Chandler and William Johnson.",
     "page": "",
     "session": "002",
@@ -1989,12 +2899,19 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 111",
+    "bill_numbers": [
+      "S. 111"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Military Affairs",
+    "committees": [
+      "Committee on Military Affairs"
+    ],
     "congress": "021",
-    "dates": "18310121,18310211",
+    "dates": [
+      "18310121",
+      "18310211"
+    ],
     "description": "Read twice, and referred to the Committee on Military Affairs. Reported without amendment. A Bill For the relief of Benjamin S. Smoot.",
     "page": "",
     "session": "002",
@@ -2002,12 +2919,17 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 111",
+    "bill_numbers": [
+      "S. 111"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310121,18310211",
+    "dates": [
+      "18310121",
+      "18310211"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2015,12 +2937,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 112",
+    "bill_numbers": [
+      "S. 112"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Indian Affairs",
+    "committees": [
+      "Committee on Indian Affairs"
+    ],
     "congress": "021",
-    "dates": "18310122",
+    "dates": [
+      "18310122"
+    ],
     "description": "Mr. Benton, from the Committee on Indian Affairs, reported the following bill; which was read, and passed to a second reading: A Bill To provide for the removal of certain Indians from the State of Missouri.",
     "page": "",
     "session": "002",
@@ -2028,12 +2956,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 113",
+    "bill_numbers": [
+      "S. 113"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Indian Affairs",
+    "committees": [
+      "Committee on Indian Affairs"
+    ],
     "congress": "021",
-    "dates": "18310122",
+    "dates": [
+      "18310122"
+    ],
     "description": "Mr. Benton, from the Committee on Indian Affairs, reported the following bill; which was read, and passed to a second reading: A Bill To authorize the appointment of a sub-agent to the Winnebago Indians, on Rock river.",
     "page": "",
     "session": "002",
@@ -2041,12 +2975,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 114",
+    "bill_numbers": [
+      "S. 114"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18310124",
+    "dates": [
+      "18310124"
+    ],
     "description": "Mr. Foot, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Abner Slade.",
     "page": "",
     "session": "002",
@@ -2054,12 +2994,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 115",
+    "bill_numbers": [
+      "S. 115"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "021",
-    "dates": "18310124",
+    "dates": [
+      "18310124"
+    ],
     "description": "Mr. McKinley, from the Committee on the Judiciary, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of the heirs and executors of Thomas Worthington, deceased.",
     "page": "",
     "session": "002",
@@ -2067,12 +3013,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 116",
+    "bill_numbers": [
+      "S. 116"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Finance",
+    "committees": [
+      "Committee on Finance"
+    ],
     "congress": "021",
-    "dates": "18310124",
+    "dates": [
+      "18310124"
+    ],
     "description": "Mr. King, from the Committee on Finance, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Nathaniel Cheever and others.",
     "page": "",
     "session": "002",
@@ -2080,12 +3032,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 116",
+    "bill_numbers": [
+      "S. 116"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310124",
+    "dates": [
+      "18310124"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2093,12 +3049,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 117",
+    "bill_numbers": [
+      "S. 117"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18310124",
+    "dates": [
+      "18310124"
+    ],
     "description": "Mr. Marks, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of William Delzell, of Ohio.",
     "page": "",
     "session": "002",
@@ -2106,12 +3068,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 118",
+    "bill_numbers": [
+      "S. 118"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee of Claims",
+    "committees": [
+      "Committee of Claims"
+    ],
     "congress": "021",
-    "dates": "18310125",
+    "dates": [
+      "18310125"
+    ],
     "description": "Mr. Foot, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of William D. Acker.",
     "page": "",
     "session": "002",
@@ -2119,12 +3087,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 119",
+    "bill_numbers": [
+      "S. 119"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18310125",
+    "dates": [
+      "18310125"
+    ],
     "description": "Mr. Marks, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of James Belger.",
     "page": "",
     "session": "002",
@@ -2132,12 +3106,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 122",
+    "bill_numbers": [
+      "S. 122"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Private Land Claims",
+    "committees": [
+      "Committee on Private Land Claims"
+    ],
     "congress": "021",
-    "dates": "18310126",
+    "dates": [
+      "18310126"
+    ],
     "description": "Mr. Poindexter, from the Committee on Private Land Claims, reported the following bill; which was read; and passed to a second reading: A Bill For the relief of the legal representatives of Jacintha Vidal, Thomas Thompson, and Margaret Thompson.",
     "page": "",
     "session": "002",
@@ -2145,12 +3125,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 122",
+    "bill_numbers": [
+      "S. 122"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310126",
+    "dates": [
+      "18310126"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2158,12 +3142,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 122",
+    "bill_numbers": [
+      "S. 122"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310126",
+    "dates": [
+      "18310126"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -2171,12 +3159,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 123",
+    "bill_numbers": [
+      "S. 123"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Roads and Canals",
+    "committees": [
+      "Committee on Roads and Canals"
+    ],
     "congress": "021",
-    "dates": "18310127",
+    "dates": [
+      "18310127"
+    ],
     "description": "Mr. Hendricks, from the Committee on Roads and Canals, reported the following bill; which was read, and passed to a second reading: A Bill To authorize the State of Indiana to make a road through the public lands, and making a grant of lands to aid the State in so doing.",
     "page": "",
     "session": "002",
@@ -2184,12 +3178,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 124",
+    "bill_numbers": [
+      "S. 124"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310127",
+    "dates": [
+      "18310127"
+    ],
     "description": "Mr. McKinley, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of the heirs of Joseph Noble, deceased.",
     "page": "",
     "session": "002",
@@ -2197,12 +3197,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 125",
+    "bill_numbers": [
+      "S. 125"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310127",
+    "dates": [
+      "18310127"
+    ],
     "description": "Agreeably to notice, Mr. McKinley asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read the second time, and referred to the Committee on Public Lands. Reported without amendment. A Bill Granting a quantity of land to the Territory of Arkansas, for the erection of a public building at the seat of Government of said Territory.",
     "page": "",
     "session": "002",
@@ -2210,12 +3216,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 125",
+    "bill_numbers": [
+      "S. 125"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310127",
+    "dates": [
+      "18310127"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2223,12 +3233,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 126",
+    "bill_numbers": [
+      "S. 126"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Finance",
+    "committees": [
+      "Committee on Finance"
+    ],
     "congress": "021",
-    "dates": "18310127",
+    "dates": [
+      "18310127"
+    ],
     "description": "Mr. Silsbee, from the Committee on Finance, reported the following bill; which was read, and passed to a second reading: A Bill Supplementary to the act to reduce the duty on salt.",
     "page": "",
     "session": "002",
@@ -2236,12 +3252,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 127",
+    "bill_numbers": [
+      "S. 127"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Private Land Claims",
+    "committees": [
+      "Committee on Private Land Claims"
+    ],
     "congress": "021",
-    "dates": "18310127",
+    "dates": [
+      "18310127"
+    ],
     "description": "Mr. Poindexter, from the Committee on Private Land Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of the legal representative of Palser Shilling, deceased.",
     "page": "",
     "session": "002",
@@ -2249,12 +3271,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 128",
+    "bill_numbers": [
+      "S. 128"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "021",
-    "dates": "18310127",
+    "dates": [
+      "18310127"
+    ],
     "description": "Mr. Hayne, from the Committee on the Judiciary, reported the following bill; which was read, and passed to a second reading: A Bill To extend the patent of John Adamson for a further period of fourteen years.",
     "page": "",
     "session": "002",
@@ -2262,12 +3290,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 129",
+    "bill_numbers": [
+      "S. 129"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18310131",
+    "dates": [
+      "18310131"
+    ],
     "description": "Mr. Holmes, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Thurston Card.",
     "page": "",
     "session": "002",
@@ -2275,12 +3309,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 130",
+    "bill_numbers": [
+      "S. 130"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18310131",
+    "dates": [
+      "18310131"
+    ],
     "description": "Mr. Holmes, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of David Chaplin, Israel Hale, and America Hamlin.",
     "page": "",
     "session": "002",
@@ -2288,12 +3328,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 131",
+    "bill_numbers": [
+      "S. 131"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Commerce",
+    "committees": [
+      "Committee on Commerce"
+    ],
     "congress": "021",
-    "dates": "18310131",
+    "dates": [
+      "18310131"
+    ],
     "description": "Agreeably to notice given, Mr. Sanford asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Commerce. Reported without amendment. A Bill Concerning vessels employed in the whale fishery.",
     "page": "",
     "session": "002",
@@ -2301,12 +3347,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 132",
+    "bill_numbers": [
+      "S. 132"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18310131",
+    "dates": [
+      "18310131"
+    ],
     "description": "Mr. Foot, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of certain applicants for pensions.",
     "page": "",
     "session": "002",
@@ -2314,12 +3366,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 133",
+    "bill_numbers": [
+      "S. 133"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310131",
+    "dates": [
+      "18310131"
+    ],
     "description": "Mr. McKinley, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill To authorize the sale of lands reserved from sale at Fort Jackson, in the State of Alabama.",
     "page": "",
     "session": "002",
@@ -2327,12 +3385,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 134",
+    "bill_numbers": [
+      "S. 134"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Military Affairs",
+    "committees": [
+      "Committee on Military Affairs"
+    ],
     "congress": "021",
-    "dates": "18310131",
+    "dates": [
+      "18310131"
+    ],
     "description": "Mr. Benton, from the Committee on Military Affairs, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of the administratrix of Captain Paschal Hickman.",
     "page": "",
     "session": "002",
@@ -2340,12 +3404,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 135",
+    "bill_numbers": [
+      "S. 135"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee of Claims",
+    "committees": [
+      "Committee of Claims"
+    ],
     "congress": "021",
-    "dates": "18310201",
+    "dates": [
+      "18310201"
+    ],
     "description": "Mr. Ruggles, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of John Nicks.",
     "page": "",
     "session": "002",
@@ -2353,12 +3423,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 136",
+    "bill_numbers": [
+      "S. 136"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "021",
-    "dates": "18310201",
+    "dates": [
+      "18310201"
+    ],
     "description": "Mr. Webster, from the Committee on the Judiciary, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of John Culbertson, and to provide an interpreter for the district court of the United States for the eastern district of Louisiana.",
     "page": "",
     "session": "002",
@@ -2366,12 +3442,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 136",
+    "bill_numbers": [
+      "S. 136"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310201",
+    "dates": [
+      "18310201"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2379,12 +3459,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 137",
+    "bill_numbers": [
+      "S. 137"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310202",
+    "dates": [
+      "18310202"
+    ],
     "description": "Mr. Ellis, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill To create the office of Surveyor of the public lands for the State of Louisiana.",
     "page": "",
     "session": "002",
@@ -2392,12 +3478,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 137",
+    "bill_numbers": [
+      "S. 137"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310202",
+    "dates": [
+      "18310202"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2405,12 +3495,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 137",
+    "bill_numbers": [
+      "S. 137"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310202",
+    "dates": [
+      "18310202"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -2418,12 +3512,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 137",
+    "bill_numbers": [
+      "S. 137"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310208",
+    "dates": [
+      "18310208"
+    ],
     "description": "Mr. Ellis laid on the table the following, as an amendment to the bill to create the office of Surveyor of the public lands for the State of Louisiana: After the enacting clause, strike out to the end of the bill, and insert--",
     "page": "",
     "session": "002",
@@ -2431,12 +3529,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 137",
+    "bill_numbers": [
+      "S. 137"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310208",
+    "dates": [
+      "18310208"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2444,12 +3546,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 137",
+    "bill_numbers": [
+      "S. 137"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310208",
+    "dates": [
+      "18310208"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -2457,12 +3563,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 137",
+    "bill_numbers": [
+      "S. 137"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310208",
+    "dates": [
+      "18310208"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -2470,12 +3580,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 137",
+    "bill_numbers": [
+      "S. 137"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310208",
+    "dates": [
+      "18310208"
+    ],
     "description": "",
     "page": "5",
     "session": "002",
@@ -2483,12 +3597,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 137",
+    "bill_numbers": [
+      "S. 137"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310208",
+    "dates": [
+      "18310208"
+    ],
     "description": "",
     "page": "6",
     "session": "002",
@@ -2496,12 +3614,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 137",
+    "bill_numbers": [
+      "S. 137"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310208",
+    "dates": [
+      "18310208"
+    ],
     "description": "",
     "page": "7",
     "session": "002",
@@ -2509,12 +3631,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 138",
+    "bill_numbers": [
+      "S. 138"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Commerce",
+    "committees": [
+      "Committee on Commerce"
+    ],
     "congress": "021",
-    "dates": "18310202",
+    "dates": [
+      "18310202"
+    ],
     "description": "Mr. Woodbury, from the Committee on Commerce, reported the following bill; which was read, and passed to a second reading: A Bill To repeal the act to establish the district of Blakely.",
     "page": "",
     "session": "002",
@@ -2522,12 +3650,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 139",
+    "bill_numbers": [
+      "S. 139"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310202",
+    "dates": [
+      "18310202"
+    ],
     "description": "Mr. Kane, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill Authorizing the States of Indiana, Illinois, and Missouri, to dispose of certain salt springs, and lands reserved for the use of the same.",
     "page": "",
     "session": "002",
@@ -2535,12 +3669,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 142",
+    "bill_numbers": [
+      "S. 142"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "021",
-    "dates": "18310203",
+    "dates": [
+      "18310203"
+    ],
     "description": "Mr. Webster, from the Committee on the Judiciary, reported the following bill; which was read, and passed to a second reading: A Bill Respecting the jurisdiction of certain district courts.",
     "page": "",
     "session": "002",
@@ -2548,12 +3688,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 143",
+    "bill_numbers": [
+      "S. 143"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18310204",
+    "dates": [
+      "18310204"
+    ],
     "description": "Mr. Foot, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of George Nelson.",
     "page": "",
     "session": "002",
@@ -2561,12 +3707,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 144",
+    "bill_numbers": [
+      "S. 144"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Private Land Claims",
+    "committees": [
+      "Committee on Private Land Claims"
+    ],
     "congress": "021",
-    "dates": "18310204",
+    "dates": [
+      "18310204"
+    ],
     "description": "Mr. Kane, from the Committee on Private Land Claims, reported the following bill; which was read, and passed to a second reading: A Bill Confirming the claim of John B. Toulmin to a lot in the city of Mobile.",
     "page": "",
     "session": "002",
@@ -2574,12 +3726,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 145",
+    "bill_numbers": [
+      "S. 145"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Indian Affairs",
+    "committees": [
+      "Committee on Indian Affairs"
+    ],
     "congress": "021",
-    "dates": "18310204",
+    "dates": [
+      "18310204"
+    ],
     "description": "Mr. White, from the Committee on Indian Affairs, reported the following bill; which was read, and passed to a second reading: A Bill Making appropriations for carrying into effect certain Indian treaties.",
     "page": "",
     "session": "002",
@@ -2587,12 +3745,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 145",
+    "bill_numbers": [
+      "S. 145"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310204",
+    "dates": [
+      "18310204"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2600,12 +3762,19 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 146",
+    "bill_numbers": [
+      "S. 146"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "021",
-    "dates": "18310204,18310210",
+    "dates": [
+      "18310204",
+      "18310210"
+    ],
     "description": "Read twice, and referred to the Committee on the Judiciary. Reported with an amendment, to wit: insert the words printed in italics. A Bill Relative to the duties of the clerks in the Executive Departments.",
     "page": "",
     "session": "002",
@@ -2613,12 +3782,19 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 147",
+    "bill_numbers": [
+      "S. 147"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Manufactures",
+    "committees": [
+      "Committee on Manufactures"
+    ],
     "congress": "021",
-    "dates": "18310207,18310216",
+    "dates": [
+      "18310207",
+      "18310216"
+    ],
     "description": "Agreeably to notice given, Mr. Brown asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Manufactures. Reported without amendment. A Bill. To reduce and fix the duties on sugars imported into the United States.",
     "page": "",
     "session": "002",
@@ -2626,12 +3802,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 148",
+    "bill_numbers": [
+      "S. 148"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310207",
+    "dates": [
+      "18310207"
+    ],
     "description": "Mr. McKinley, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Edward G. Terrell.",
     "page": "",
     "session": "002",
@@ -2639,12 +3821,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 149",
+    "bill_numbers": [
+      "S. 149"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee of Claims",
+    "committees": [
+      "Committee of Claims"
+    ],
     "congress": "021",
-    "dates": "18310207",
+    "dates": [
+      "18310207"
+    ],
     "description": "Mr. Bell, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of John J. Jacob.",
     "page": "",
     "session": "002",
@@ -2652,12 +3840,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 150",
+    "bill_numbers": [
+      "S. 150"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310208",
+    "dates": [
+      "18310208"
+    ],
     "description": "Mr. McKinley, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of William Rice.",
     "page": "",
     "session": "002",
@@ -2665,12 +3859,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 152",
+    "bill_numbers": [
+      "S. 152"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310209",
+    "dates": [
+      "18310209"
+    ],
     "description": "Mr. Barton, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill Confirming the selections heretofore made of lands for the construction of the Michigan road, in the State of Indiana.",
     "page": "",
     "session": "002",
@@ -2678,12 +3878,17 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 154",
+    "bill_numbers": [
+      "S. 154"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310210,18310223",
+    "dates": [
+      "18310210",
+      "18310223"
+    ],
     "description": "Introduced on leave by Mr. Poindexter, read twice, and referred to a select committee, consisting of Messrs. Poindexter, Bell, Webster, Tyler, and Hayne to consider and report thereon. Reported with an amendment, to wit: Strike out all after the enacting clause, and insert what follows. A Bill Concerning Martha Randolph, daughter and only surviving child of Thomas Jefferson, deceased. ",
     "page": "",
     "session": "002",
@@ -2691,12 +3896,17 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 154",
+    "bill_numbers": [
+      "S. 154"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310210,18310223",
+    "dates": [
+      "18310210",
+      "18310223"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2704,12 +3914,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 155",
+    "bill_numbers": [
+      "S. 155"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Naval Affairs",
+    "committees": [
+      "Committee on Naval Affairs"
+    ],
     "congress": "021",
-    "dates": "18310210",
+    "dates": [
+      "18310210"
+    ],
     "description": "Mr. Hayne, from the Committee on Naval Affairs, reported the following bill; which was read, and passed to a second reading: A Bill To increase the pay of Masters Commandant and First Lieutenants of the Navy.",
     "page": "",
     "session": "002",
@@ -2717,12 +3933,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 157",
+    "bill_numbers": [
+      "S. 157"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310211",
+    "dates": [
+      "18310211"
+    ],
     "description": "Mr. Ellis, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Jefferson College, in the State of Mississippi.",
     "page": "",
     "session": "002",
@@ -2730,12 +3952,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 158",
+    "bill_numbers": [
+      "S. 158"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Private Land Claims",
+    "committees": [
+      "Committee on Private Land Claims"
+    ],
     "congress": "021",
-    "dates": "18310211",
+    "dates": [
+      "18310211"
+    ],
     "description": "Mr. Kane, from the Committee on Private Land Claims, reported the following bill; which was read, and passed to a second reading: A Bill To authorize the executor of Stephen Tippett to locate a tract of land in the State of Louisiana.",
     "page": "",
     "session": "002",
@@ -2743,12 +3971,20 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 159",
+    "bill_numbers": [
+      "S. 159"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on the Library",
+    "committees": [
+      "Committee on the Library"
+    ],
     "congress": "021",
-    "dates": "18310211,18310212,18310219",
+    "dates": [
+      "18310211",
+      "18310212",
+      "18310219"
+    ],
     "description": "Introduced, on leave, by Mr. Woodbury, read, and passed to a second reading. Read a second time, and referred to the Committee on the Library. Reported without amendment. A Bill To reduce the duty on foreign books.",
     "page": "",
     "session": "002",
@@ -2756,12 +3992,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 160",
+    "bill_numbers": [
+      "S. 160"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18310214",
+    "dates": [
+      "18310214"
+    ],
     "description": "Mr. Chambers, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Peter Cleer, of Maryland.",
     "page": "",
     "session": "002",
@@ -2769,12 +4011,20 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 161",
+    "bill_numbers": [
+      "S. 161"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "021",
-    "dates": "18310214,18310216,18310221",
+    "dates": [
+      "18310214",
+      "18310216",
+      "18310221"
+    ],
     "description": "Introduced, on leave, by Mr. Kane; read, and passed to a second reading. Read a second time, and referred to the Committee on Public Lands. Reported without amendment. A Bill To provide for the survey and sale of certain lands in the Territory of Michigan.",
     "page": "",
     "session": "002",
@@ -2782,12 +4032,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 161",
+    "bill_numbers": [
+      "S. 161"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310214,18310216,18310221",
+    "dates": [
+      "18310214",
+      "18310216",
+      "18310221"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2795,12 +4051,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 162",
+    "bill_numbers": [
+      "S. 162"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Commerce",
+    "committees": [
+      "Committee on Commerce"
+    ],
     "congress": "021",
-    "dates": "18310214",
+    "dates": [
+      "18310214"
+    ],
     "description": "Mr. Woodbury, from the Committee on Commerce, reported the following bill; which was read, and passed to a second reading: A Bill To allow a drawback on exported nails manufactured from imported iron.",
     "page": "",
     "session": "002",
@@ -2808,12 +4070,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 162",
+    "bill_numbers": [
+      "S. 162"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310214",
+    "dates": [
+      "18310214"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2821,12 +4087,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 162",
+    "bill_numbers": [
+      "S. 162"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310214",
+    "dates": [
+      "18310214"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -2834,12 +4104,19 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 163",
+    "bill_numbers": [
+      "S. 163"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Military Affairs",
+    "committees": [
+      "Committee on Military Affairs"
+    ],
     "congress": "021",
-    "dates": "18310215,18310219",
+    "dates": [
+      "18310215",
+      "18310219"
+    ],
     "description": "Agreeably to notice, Mr. Clayton asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Military Affairs. Reported without amendment. A Bill For the relief of the officers and soldiers of Fort Delaware.",
     "page": "",
     "session": "002",
@@ -2847,12 +4124,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 164",
+    "bill_numbers": [
+      "S. 164"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on the Militia",
+    "committees": [
+      "Committee on the Militia"
+    ],
     "congress": "021",
-    "dates": "18310216",
+    "dates": [
+      "18310216"
+    ],
     "description": "Mr. Barnard, from the Committee on the Militia, reported the following bill; which was read, and passed to a second reading: A Bill Relative to militia fines within the District of Columbia.",
     "page": "",
     "session": "002",
@@ -2860,12 +4143,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 164",
+    "bill_numbers": [
+      "S. 164"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310216",
+    "dates": [
+      "18310216"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2873,12 +4160,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 164",
+    "bill_numbers": [
+      "S. 164"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310216",
+    "dates": [
+      "18310216"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -2886,12 +4177,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 164",
+    "bill_numbers": [
+      "S. 164"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310216",
+    "dates": [
+      "18310216"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -2899,12 +4194,19 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 165",
+    "bill_numbers": [
+      "S. 165"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Roads and Canals",
+    "committees": [
+      "Committee on Roads and Canals"
+    ],
     "congress": "021",
-    "dates": "18310218,18310219",
+    "dates": [
+      "18310218",
+      "18310219"
+    ],
     "description": "Agreeably to notice given, Mr. Burnet asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Roads and Canals. Reported without amendment. A Bill Declaring the assent of Congress to an act of the General Assembly of the State of Ohio, hereinafter recited.",
     "page": "",
     "session": "002",
@@ -2912,12 +4214,17 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 165",
+    "bill_numbers": [
+      "S. 165"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310218,18310219",
+    "dates": [
+      "18310218",
+      "18310219"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -2925,12 +4232,17 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 165",
+    "bill_numbers": [
+      "S. 165"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310218,18310219",
+    "dates": [
+      "18310218",
+      "18310219"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -2938,12 +4250,17 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 165",
+    "bill_numbers": [
+      "S. 165"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310218,18310219",
+    "dates": [
+      "18310218",
+      "18310219"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -2951,12 +4268,17 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 165",
+    "bill_numbers": [
+      "S. 165"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310218,18310219",
+    "dates": [
+      "18310218",
+      "18310219"
+    ],
     "description": "",
     "page": "5",
     "session": "002",
@@ -2964,12 +4286,17 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 165",
+    "bill_numbers": [
+      "S. 165"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310218,18310219",
+    "dates": [
+      "18310218",
+      "18310219"
+    ],
     "description": "",
     "page": "6",
     "session": "002",
@@ -2977,12 +4304,17 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 165",
+    "bill_numbers": [
+      "S. 165"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310218,18310219",
+    "dates": [
+      "18310218",
+      "18310219"
+    ],
     "description": "",
     "page": "7",
     "session": "002",
@@ -2990,12 +4322,17 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 165",
+    "bill_numbers": [
+      "S. 165"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310218,18310219",
+    "dates": [
+      "18310218",
+      "18310219"
+    ],
     "description": "",
     "page": "8",
     "session": "002",
@@ -3003,12 +4340,17 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 165",
+    "bill_numbers": [
+      "S. 165"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310218,18310219",
+    "dates": [
+      "18310218",
+      "18310219"
+    ],
     "description": "",
     "page": "9",
     "session": "002",
@@ -3016,12 +4358,17 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 165",
+    "bill_numbers": [
+      "S. 165"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310218,18310219",
+    "dates": [
+      "18310218",
+      "18310219"
+    ],
     "description": "",
     "page": "",
     "session": "002",
@@ -3029,12 +4376,17 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 165",
+    "bill_numbers": [
+      "S. 165"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310218,18310219",
+    "dates": [
+      "18310218",
+      "18310219"
+    ],
     "description": "",
     "page": "1",
     "session": "002",
@@ -3042,12 +4394,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 166",
+    "bill_numbers": [
+      "S. 166"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on the Post Office and Post Roads",
+    "committees": [
+      "Committee on the Post Office and Post Roads"
+    ],
     "congress": "021",
-    "dates": "18310218",
+    "dates": [
+      "18310218"
+    ],
     "description": "Mr. Grundy, from the Committee on the Post Office and Post Roads, reported the following bill; which was read, and passed to a second reading: A Bill To authorize the laying out and constructing a road from Line Creek to the Chatahooche, and for repairing the road on which the mail is now transported.",
     "page": "",
     "session": "002",
@@ -3055,12 +4413,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 166",
+    "bill_numbers": [
+      "S. 166"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310218",
+    "dates": [
+      "18310218"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -3068,12 +4430,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 167",
+    "bill_numbers": [
+      "S. 167"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee of Claims",
+    "committees": [
+      "Committee of Claims"
+    ],
     "congress": "021",
-    "dates": "18310219",
+    "dates": [
+      "18310219"
+    ],
     "description": "Mr. Brown, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Farish Carter.",
     "page": "",
     "session": "002",
@@ -3081,12 +4449,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 168",
+    "bill_numbers": [
+      "S. 168"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Finance",
+    "committees": [
+      "Committee on Finance"
+    ],
     "congress": "021",
-    "dates": "18310221",
+    "dates": [
+      "18310221"
+    ],
     "description": "Mr. Smith, of Maryland, from the Committee on Finance, reported the following bill; which was read, and passed to a second reading: A Bill In addition to the act concerning the slave trade.",
     "page": "",
     "session": "002",
@@ -3094,12 +4468,16 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 168",
+    "bill_numbers": [
+      "S. 168"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "",
+    "committees": [],
     "congress": "021",
-    "dates": "18310221",
+    "dates": [
+      "18310221"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -3107,12 +4485,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 169",
+    "bill_numbers": [
+      "S. 169"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18310222",
+    "dates": [
+      "18310222"
+    ],
     "description": "Mr. Chase, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Joseph Chamberlain.",
     "page": "",
     "session": "002",
@@ -3120,12 +4504,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 170",
+    "bill_numbers": [
+      "S. 170"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "021",
-    "dates": "18310222",
+    "dates": [
+      "18310222"
+    ],
     "description": "Mr. Chase, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Edward S. Meeder.",
     "page": "",
     "session": "002",
@@ -3133,12 +4523,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 171",
+    "bill_numbers": [
+      "S. 171"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on Naval Affairs",
+    "committees": [
+      "Committee on Naval Affairs"
+    ],
     "congress": "021",
-    "dates": "18310222",
+    "dates": [
+      "18310222"
+    ],
     "description": "Mr. Hayne, from the Committee on Naval Affairs, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of the mother of Fitz Henry Babbit, late a Lieutenant in the Navy of the United States.",
     "page": "",
     "session": "002",
@@ -3146,12 +4542,18 @@
     "volume": "012"
   },
   {
-    "bill_number": "S. 172",
+    "bill_numbers": [
+      "S. 172"
+    ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "021",
-    "dates": "18310223",
+    "dates": [
+      "18310223"
+    ],
     "description": "Mr. Hayne, from the Committee on the Judiciary, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of John H. Harrison.",
     "page": "",
     "session": "002",

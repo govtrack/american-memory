@@ -1,11 +1,18 @@
 [
   {
-    "bill_number": "S.R. 5",
+    "bill_numbers": [
+      "S.R. 5"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs",
+    "committees": [
+      "Committee on Military Affairs"
+    ],
     "congress": "032",
-    "dates": "18511208,18511223",
+    "dates": [
+      "18511208",
+      "18511223"
+    ],
     "description": "Agreeably to notice, Mr. Clemens asked and obtained leave to bring in the following Joint Resolution, which was read twice, and referred to the Committee on Military Affairs. Reported without amendment. Joint Resolution Authorizing the President of the United States to confer the title of Lieutenant-General by brevet for eminent services.",
     "page": "",
     "session": "001",
@@ -13,12 +20,19 @@
     "volume": "032"
   },
   {
-    "bill_number": "S. 6",
+    "bill_numbers": [
+      "S. 6"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Printing",
+    "committees": [
+      "Committee on Printing"
+    ],
     "congress": "032",
-    "dates": "18511208,18511216",
+    "dates": [
+      "18511208",
+      "18511216"
+    ],
     "description": "Agreeably to notice, Mr. Bright asked and obtained leave to bring in the following joint resolution, which was read twice and referred to the Committee on Printing. Reported without amendment. Joint Resolution In relation to printing the returns of the seventh Census.",
     "page": "",
     "session": "001",
@@ -26,12 +40,19 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 10",
+    "bill_numbers": [
+      "S.R. 10"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Finance",
+    "committees": [
+      "Committee on Finance"
+    ],
     "congress": "032",
-    "dates": "18511222,18520114",
+    "dates": [
+      "18511222",
+      "18520114"
+    ],
     "description": "Agreeably to notice, Mr. Dodge, of Wisconsin, asked and obtained leave to bring in the following Joint Resolution, which was read twice, and referred to the Committee on Finance. Reported without amendment, and accompanied by a report (No. 23.) Joint Resolution For the relief of Alexander P. Field, late Secretary of Wisconsin Territory, and sureties.",
     "page": "",
     "session": "001",
@@ -39,12 +60,16 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 11",
+    "bill_numbers": [
+      "S.R. 11"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "032",
-    "dates": "18520113",
+    "dates": [
+      "18520113"
+    ],
     "description": "Agreeably to notice, Mr. Bradbury asked and obtained leave to bring in the following Joint Resolution, which was read twice, ordered to lie on the table, and be printed. Joint Resolution Providing for a Compendium of the Annual Public Documents.",
     "page": "",
     "session": "001",
@@ -52,12 +77,19 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 12",
+    "bill_numbers": [
+      "S.R. 12"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Naval Affairs",
+    "committees": [
+      "Committee on Naval Affairs"
+    ],
     "congress": "032",
-    "dates": "18520115,18520120",
+    "dates": [
+      "18520115",
+      "18520120"
+    ],
     "description": "Agreeably to notice, Mr. James asked and obtained leave to bring in the following Joint Resolution, which was read twice, and referred to the Committee on Naval Affairs. Reported with an amendment, viz: strike out all within [brackets,] and insert the words following in italics. Joint Resolution To authorize an investigation into the causes of the explosion of Steam Boilers, and the best means of preventing the same.",
     "page": "",
     "session": "001",
@@ -65,12 +97,17 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 12",
+    "bill_numbers": [
+      "S.R. 12"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "032",
-    "dates": "18520115,18520120",
+    "dates": [
+      "18520115",
+      "18520120"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -78,12 +115,18 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 13",
+    "bill_numbers": [
+      "S.R. 13"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee of the Whole",
+    "committees": [
+      "Committee of the Whole"
+    ],
     "congress": "032",
-    "dates": "18520119",
+    "dates": [
+      "18520119"
+    ],
     "description": "Agreeably to notice, Mr. Clarke asked and obtained leave to bring in the following Joint Resolution, which was read the first and second times by unanimous consent, considered as in Committee of the Whole, and ordered to lie on the table and be printed. Joint Resolution Re-affirming the doctrine of non-intervention.",
     "page": "",
     "session": "001",
@@ -91,12 +134,16 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 13",
+    "bill_numbers": [
+      "S.R. 13"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "032",
-    "dates": "18520119",
+    "dates": [
+      "18520119"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -104,12 +151,16 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 13",
+    "bill_numbers": [
+      "S.R. 13"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "032",
-    "dates": "18520119",
+    "dates": [
+      "18520119"
+    ],
     "description": "",
     "page": "3",
     "session": "001",
@@ -117,12 +168,19 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 14",
+    "bill_numbers": [
+      "S.R. 14"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the Post Office and Post Roads",
+    "committees": [
+      "Committee on the Post Office and Post Roads"
+    ],
     "congress": "032",
-    "dates": "18520122,18520128",
+    "dates": [
+      "18520122",
+      "18520128"
+    ],
     "description": "Agreeably to notice, Mr. Hunter asked and obtained leave to bring in the following Joint Resolution; which was read twice, and referred to the Committee on the Post Office and Post Roads. Reported without amendment. Joint Resolution To provide Ice Boats for the Potomac river.",
     "page": "",
     "session": "001",
@@ -130,12 +188,18 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 15",
+    "bill_numbers": [
+      "S.R. 15"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "032",
-    "dates": "18520128",
+    "dates": [
+      "18520128"
+    ],
     "description": "Mr. Bradbury, from the Committee on the Judiciary, reported the following Joint Resolution, which was read, and passed to a second reading. Joint Resolution Authorizing the purchase of the ninth volume of the laws of the United States.",
     "page": "",
     "session": "001",
@@ -143,12 +207,18 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 16",
+    "bill_numbers": [
+      "S.R. 16"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee of Claims",
+    "committees": [
+      "Committee of Claims"
+    ],
     "congress": "032",
-    "dates": "18520204",
+    "dates": [
+      "18520204"
+    ],
     "description": "Mr. Pratt, from the Committee of the Claims, submitted a report, accompanied by the following Joint Resolution; which was read and passed to a second reading. Joint Resolution For the relief of Alexander Y.P. Garnett.",
     "page": "",
     "session": "001",
@@ -156,12 +226,18 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 16",
+    "bill_numbers": [
+      "S.R. 16"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "032",
-    "dates": "18530124",
+    "dates": [
+      "18530124"
+    ],
     "description": "Read twice, and committed to the Committee of the Whole House to-morrow. Joint Resolution For the relief of Alexander Y.P. Garnett.",
     "page": "",
     "session": "001",
@@ -169,12 +245,18 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 19",
+    "bill_numbers": [
+      "S.R. 19"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Indian Affairs",
+    "committees": [
+      "Committee on Indian Affairs"
+    ],
     "congress": "032",
-    "dates": "18520218",
+    "dates": [
+      "18520218"
+    ],
     "description": "Mr. Atchison, from the Committee on Indian Affairs, submitted a report, (No. 78,) accompanied by the following Joint Resolution; which was read, and passed to a second reading. Joint Resolution For the relief of the heirs of David Corderey.",
     "page": "",
     "session": "001",
@@ -182,12 +264,18 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 20",
+    "bill_numbers": [
+      "S.R. 20"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Foreign Relations",
+    "committees": [
+      "Committee on Foreign Relations"
+    ],
     "congress": "032",
-    "dates": "18520219",
+    "dates": [
+      "18520219"
+    ],
     "description": "Mr. Mason, from the Committee on Foreign Relations, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution Extending the time of the commission under the Convention with Brazil.",
     "page": "",
     "session": "001",
@@ -195,12 +283,18 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 21",
+    "bill_numbers": [
+      "S.R. 21"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the Post Office and Post Roads",
+    "committees": [
+      "Committee on the Post Office and Post Roads"
+    ],
     "congress": "032",
-    "dates": "18520224",
+    "dates": [
+      "18520224"
+    ],
     "description": "Mr. Rusk, from the Committee on the Post Office and Post Roads, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution Modifying the existing laws for the government of the Post Office Department, in relation to California and Oregon",
     "page": "",
     "session": "001",
@@ -208,12 +302,16 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 21",
+    "bill_numbers": [
+      "S.R. 21"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "032",
-    "dates": "18520224",
+    "dates": [
+      "18520224"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -221,12 +319,18 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 23",
+    "bill_numbers": [
+      "S.R. 23"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Naval Affairs",
+    "committees": [
+      "Committee on Naval Affairs"
+    ],
     "congress": "032",
-    "dates": "18520304",
+    "dates": [
+      "18520304"
+    ],
     "description": "Mr. Fish, from the Committee on Naval Affairs, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution To provide for straightening the eastern boundary line of the naval hospital lands at New York.",
     "page": "",
     "session": "001",
@@ -234,12 +338,16 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 23",
+    "bill_numbers": [
+      "S.R. 23"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "032",
-    "dates": "18520304",
+    "dates": [
+      "18520304"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -247,12 +355,18 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 24",
+    "bill_numbers": [
+      "S.R. 24"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the Post Office and Post Roads",
+    "committees": [
+      "Committee on the Post Office and Post Roads"
+    ],
     "congress": "032",
-    "dates": "18520309",
+    "dates": [
+      "18520309"
+    ],
     "description": "Mr. Rusk, from the Committee on the Post Office and Post Roads, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution Authorizing the appointment of an Assistant Postmaster General.",
     "page": "",
     "session": "001",
@@ -260,12 +374,18 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 25",
+    "bill_numbers": [
+      "S.R. 25"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Indian Affairs",
+    "committees": [
+      "Committee on Indian Affairs"
+    ],
     "congress": "032",
-    "dates": "18520315",
+    "dates": [
+      "18520315"
+    ],
     "description": "Mr. Atchinson, from the Committee on Indian Affairs, submitted a report, (No. 117.) accompanied by the following joint resolution; which was read, and passed to a second reading. Joint Resolution For the relief of John A. Bryan.",
     "page": "",
     "session": "001",
@@ -273,12 +393,18 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 26",
+    "bill_numbers": [
+      "S.R. 26"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Naval Affairs",
+    "committees": [
+      "Committee on Naval Affairs"
+    ],
     "congress": "032",
-    "dates": "18520316",
+    "dates": [
+      "18520316"
+    ],
     "description": "Mr. Stockton, from the Committee on Naval Affairs, submitted a report, (No. 129,) accompanied by the following joint resolution; which was read, and passed to a second reading. Joint Resolution Authorizing the completion of a war steamer for harbor defence.",
     "page": "",
     "session": "001",
@@ -286,12 +412,18 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 27",
+    "bill_numbers": [
+      "S.R. 27"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs",
+    "committees": [
+      "Committee on Military Affairs"
+    ],
     "congress": "032",
-    "dates": "18520323",
+    "dates": [
+      "18520323"
+    ],
     "description": "Mr. Shields, from the Committee on Military Affairs, submitted a report, (No. 141) accompanied by the following joint resolution; which was read, and passed to a second reading. Joint Resolution Concerning the national defences.",
     "page": "",
     "session": "001",
@@ -299,12 +431,16 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 27",
+    "bill_numbers": [
+      "S.R. 27"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "032",
-    "dates": "18520323",
+    "dates": [
+      "18520323"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -312,12 +448,18 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 31",
+    "bill_numbers": [
+      "S.R. 31"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Indian Affairs",
+    "committees": [
+      "Committee on Indian Affairs"
+    ],
     "congress": "032",
-    "dates": "18520419",
+    "dates": [
+      "18520419"
+    ],
     "description": "Mr. Sebastian, from the Committee on Indian Affairs, reported the following joint resolutions; which was read, and passed to a second reading. Joint Resolution For the relief of Jonathan Lewis.",
     "page": "",
     "session": "001",
@@ -325,12 +467,16 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 31",
+    "bill_numbers": [
+      "S.R. 31"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "032",
-    "dates": "18520419",
+    "dates": [
+      "18520419"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -338,12 +484,19 @@
     "volume": "032"
   },
   {
-    "bill_number": "J.R. 31",
+    "bill_numbers": [
+      "J.R. 31"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Printing",
+    "committees": [
+      "Committee on Printing"
+    ],
     "congress": "032",
-    "dates": "18530208,18530215",
+    "dates": [
+      "18530208",
+      "18530215"
+    ],
     "description": "Read twice, and referred to the Committee on Printing. Reported with amendments, viz: Strike out the words within [bracket,] and insert those printed in italics. Joint Resolution Providing for the printing and binding of the ''returns of the Seventh Census.''",
     "page": "",
     "session": "002",
@@ -351,12 +504,17 @@
     "volume": "032"
   },
   {
-    "bill_number": "J.R. 31",
+    "bill_numbers": [
+      "J.R. 31"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "032",
-    "dates": "18530208,18530215",
+    "dates": [
+      "18530208",
+      "18530215"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -364,12 +522,17 @@
     "volume": "032"
   },
   {
-    "bill_number": "J.R. 31",
+    "bill_numbers": [
+      "J.R. 31"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "032",
-    "dates": "18530208,18530215",
+    "dates": [
+      "18530208",
+      "18530215"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -377,12 +540,17 @@
     "volume": "032"
   },
   {
-    "bill_number": "J.R. 31",
+    "bill_numbers": [
+      "J.R. 31"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "032",
-    "dates": "18530208,18530215",
+    "dates": [
+      "18530208",
+      "18530215"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -390,12 +558,17 @@
     "volume": "032"
   },
   {
-    "bill_number": "J.R. 31",
+    "bill_numbers": [
+      "J.R. 31"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "032",
-    "dates": "18530208,18530215",
+    "dates": [
+      "18530208",
+      "18530215"
+    ],
     "description": "",
     "page": "5",
     "session": "002",
@@ -403,12 +576,19 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 35",
+    "bill_numbers": [
+      "S.R. 35"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "032",
-    "dates": "18520430,18520818",
+    "dates": [
+      "18520430",
+      "18520818"
+    ],
     "description": "Agreeably to notice, Mr Brooke asked and obtained leave to bring in the following joint resolution; which was read twice, and referred to the Committee on Public Lands. Committee discharged. Joint Resolution Giving the assent of Congress to an act of the Legislature of the State of Mississippi appropriating a portion of the swamp and overflowed lands granted to said State by the act approved September twenty-eight, eighteen hundred and fifty.",
     "page": "",
     "session": "001",
@@ -416,12 +596,19 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 37",
+    "bill_numbers": [
+      "S.R. 37"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Pensions",
+    "committees": [
+      "Committee on Pensions"
+    ],
     "congress": "032",
-    "dates": "18520517,18520726",
+    "dates": [
+      "18520517",
+      "18520726"
+    ],
     "description": "Agreeably to notice, Mr Sebastian asked and obtained leave to bring in the following joint resolution; which was read twice, and referred to the Committee on Pensions. Reported with an amendment, viz: insert the words printed in italics. Joint Resolutions Respecting Pensions.",
     "page": "",
     "session": "001",
@@ -429,12 +616,17 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 37",
+    "bill_numbers": [
+      "S.R. 37"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "032",
-    "dates": "18520517,18520726",
+    "dates": [
+      "18520517",
+      "18520726"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -442,12 +634,18 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 39",
+    "bill_numbers": [
+      "S.R. 39"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Indian Affairs",
+    "committees": [
+      "Committee on Indian Affairs"
+    ],
     "congress": "032",
-    "dates": "18520607",
+    "dates": [
+      "18520607"
+    ],
     "description": "Mr. Sebastian, from the Committee on Indian Affairs, submitted a report, (No. 247,) accompanied by the following joint resolution; which was read, and passed to a second reading. Joint Resolution Authorizing the examination of the claims of the ''Biloxi Bay'' Indians.",
     "page": "",
     "session": "001",
@@ -455,12 +653,16 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 39",
+    "bill_numbers": [
+      "S.R. 39"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "032",
-    "dates": "18520607",
+    "dates": [
+      "18520607"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -468,12 +670,20 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 42",
+    "bill_numbers": [
+      "S.R. 42"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the District of Columbia~Committee on the Judiciary",
+    "committees": [
+      "Committee on the District of Columbia",
+      "Committee on the Judiciary"
+    ],
     "congress": "032",
-    "dates": "18520621,18530112",
+    "dates": [
+      "18520621",
+      "18530112"
+    ],
     "description": "Mr. Shields, from the Committee on the District of Columbia, reported the following joint resolution; which was read twice, and referred to the Committee on the Judiciary. Committee discharged. Joint Resolution Appointing Stephen Colwell trustee for the heirs of Joseph Ball, deceased. Whereas Joseph Ball departed this life in the city of Philadelphia in the year eighteen hundred and twenty-one, intestate and without issue, and seized of certain real estate in the District of Columbia; and whereas the heirs-at-law of said deceased are exceedingly numerous, and reside in different and widely separated parts of the country, in consequence whereof it is almost impossible to obtain their names or their co-operation in any proceedings for the division or sale of said real estate; and whereas much of said estate has been already sold for the payment of taxes, and lost in consequence by adverse possession, and the residue is in danger of loss unless some one shall be appointed as trustee for said heirs, and authorized to represent them in any legal proceeding: Therefore,",
     "page": "",
     "session": "001",
@@ -481,12 +691,17 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 42",
+    "bill_numbers": [
+      "S.R. 42"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "032",
-    "dates": "18520621,18530112",
+    "dates": [
+      "18520621",
+      "18530112"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -494,12 +709,18 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 43",
+    "bill_numbers": [
+      "S.R. 43"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Select Committee",
+    "committees": [
+      "Select Committee"
+    ],
     "congress": "032",
-    "dates": "18520623",
+    "dates": [
+      "18520623"
+    ],
     "description": "Mr. Seward, from a Select Committee, submitted a report, (No. 271,) accompanied by the following joint resolution; which was read, and passed to a second reading. Joint Resolution For the purchase of George Catlin's collection of Indian scenes and portraits.",
     "page": "",
     "session": "001",
@@ -507,12 +728,18 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 44",
+    "bill_numbers": [
+      "S.R. 44"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Foreign Relations",
+    "committees": [
+      "Committee on Foreign Relations"
+    ],
     "congress": "032",
-    "dates": "18520623",
+    "dates": [
+      "18520623"
+    ],
     "description": "Mr. Mason, from the Committee on Foreign Relations, submitted a report (No. 272,) accompanied by the following Joint Resolution; which was read, and passed to a second reading. Joint Resolution For the relief of the Spanish consul and other subjects of Spain, residing at New Orleans, and of subjects of Spain residing at Key West, by indemnity for losses occasioned by violence of the mob in the year eighteen hundred and fifty-one.",
     "page": "",
     "session": "001",
@@ -520,12 +747,16 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 44",
+    "bill_numbers": [
+      "S.R. 44"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "032",
-    "dates": "18520623",
+    "dates": [
+      "18520623"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -533,12 +764,19 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 46",
+    "bill_numbers": [
+      "S.R. 46"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Indian Affairs",
+    "committees": [
+      "Committee on Indian Affairs"
+    ],
     "congress": "032",
-    "dates": "18520707,18520714",
+    "dates": [
+      "18520707",
+      "18520714"
+    ],
     "description": "Agreeably to notice, Mr. Dodge, of Iowa, asked and obtained leave to introduce the following joint resolution; which was read twice, and referred to the Committee on Indian Affairs. Reported without amendment. Joint Resolution For the purchase of the Half-breed tract on Lake Pepin, in Minnesota Territory.",
     "page": "",
     "session": "001",
@@ -546,12 +784,19 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 50",
+    "bill_numbers": [
+      "S.R. 50"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Commerce",
+    "committees": [
+      "Committee on Commerce"
+    ],
     "congress": "032",
-    "dates": "18520713,18520714",
+    "dates": [
+      "18520713",
+      "18520714"
+    ],
     "description": "By unanimous consent, Mr. Sebastian asked and obtained leave to introduce the following joint resolution; which was read twice and referred to the Committee on Commerce. Reported with an amendment, viz: insert the words printed in italics. Joint Resolutions To provide additional security for the lives and property of persons navigating the western waters.",
     "page": "",
     "session": "001",
@@ -559,12 +804,17 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 50",
+    "bill_numbers": [
+      "S.R. 50"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "032",
-    "dates": "18520713,18520714",
+    "dates": [
+      "18520713",
+      "18520714"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -572,12 +822,17 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 50",
+    "bill_numbers": [
+      "S.R. 50"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "032",
-    "dates": "18520713,18520714",
+    "dates": [
+      "18520713",
+      "18520714"
+    ],
     "description": "",
     "page": "3",
     "session": "001",
@@ -585,12 +840,18 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 51",
+    "bill_numbers": [
+      "S.R. 51"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee of Claims",
+    "committees": [
+      "Committee of Claims"
+    ],
     "congress": "032",
-    "dates": "18520715",
+    "dates": [
+      "18520715"
+    ],
     "description": "Mr. Walker, from the Committee of Claims, submitted a report (No. 299,) accompanied by the following joint resolution; which was read, and passed to a second reading. Joint Resolution For the relief of the heir of John De Neufville and Son.",
     "page": "",
     "session": "001",
@@ -598,12 +859,16 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 51",
+    "bill_numbers": [
+      "S.R. 51"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "032",
-    "dates": "18520715",
+    "dates": [
+      "18520715"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -611,12 +876,18 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 52",
+    "bill_numbers": [
+      "S.R. 52"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the Post Office and Post Roads",
+    "committees": [
+      "Committee on the Post Office and Post Roads"
+    ],
     "congress": "032",
-    "dates": "18520726",
+    "dates": [
+      "18520726"
+    ],
     "description": "Mr. Rusk, from the Committee on the Post Office and Post Roads, submitted a report, (No. 308) accompanied by the following joint resolutions; which was read, and passed to a second reading. Joint Resolution For the relief of the estate of Isaac L. Battle.",
     "page": "",
     "session": "001",
@@ -624,12 +895,19 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 53",
+    "bill_numbers": [
+      "S.R. 53"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "032",
-    "dates": "18520727,18520728",
+    "dates": [
+      "18520727",
+      "18520728"
+    ],
     "description": "Agreeably to notice, Mr. Toucey, asked and obtained leave to bring in the following joint resolution; which was read twice, and referred to the Committee on the Judiciary. Reported without amendment. Joint Resolution To confer additional duties and powers on the Solicitor of the Treasury.",
     "page": "",
     "session": "001",
@@ -637,12 +915,17 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 53",
+    "bill_numbers": [
+      "S.R. 53"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "032",
-    "dates": "18520727,18520728",
+    "dates": [
+      "18520727",
+      "18520728"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -650,12 +933,18 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 57",
+    "bill_numbers": [
+      "S.R. 57"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Indian Affairs",
+    "committees": [
+      "Committee on Indian Affairs"
+    ],
     "congress": "032",
-    "dates": "18520820",
+    "dates": [
+      "18520820"
+    ],
     "description": "Mr. Atchinson, from the Committee on Indian Affairs, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolutions To authorize the settlement of the accounts of James Pool.",
     "page": "",
     "session": "001",
@@ -663,12 +952,18 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 58",
+    "bill_numbers": [
+      "S.R. 58"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the Post Office and Post Roads",
+    "committees": [
+      "Committee on the Post Office and Post Roads"
+    ],
     "congress": "032",
-    "dates": "18520820",
+    "dates": [
+      "18520820"
+    ],
     "description": "Mr. Rusk from the Committee on the Post Office and Post Roads, reported the following joint resolutions; which was read, and passed to a second reading. Joint Resolution For the relief of Rebecca J. Burdsall.",
     "page": "",
     "session": "001",
@@ -676,12 +971,18 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 59",
+    "bill_numbers": [
+      "S.R. 59"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Naval Affairs",
+    "committees": [
+      "Committee on Naval Affairs"
+    ],
     "congress": "032",
-    "dates": "18520820",
+    "dates": [
+      "18520820"
+    ],
     "description": "Mr. Mallory, from the Committee on Naval Affairs, submitted a report, (No. 347,) accompanied by the following joint resolution; which was read and passed to a second reading. Joint Resolutions Relative of the officers of the late Texas navy.",
     "page": "",
     "session": "001",
@@ -689,12 +990,16 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 59",
+    "bill_numbers": [
+      "S.R. 59"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "032",
-    "dates": "18520820",
+    "dates": [
+      "18520820"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -702,12 +1007,16 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 69",
+    "bill_numbers": [
+      "S.R. 69"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "032",
-    "dates": "18530104",
+    "dates": [
+      "18530104"
+    ],
     "description": "Agreeably to notice, Mr. Cass asked and obtained leave to bring in the following joint resolution; which was read, passed to a second reading, and ordered to be printed. Joint Resolution Declaratory of the views of the United States respecting colonization on the North American Continent by European powers, and respecting the island of Cuba.",
     "page": "",
     "session": "002",
@@ -715,12 +1024,16 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 69",
+    "bill_numbers": [
+      "S.R. 69"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "032",
-    "dates": "18530104",
+    "dates": [
+      "18530104"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -728,12 +1041,18 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 71",
+    "bill_numbers": [
+      "S.R. 71"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "032",
-    "dates": "18530120",
+    "dates": [
+      "18530120"
+    ],
     "description": "Mr. Badger, from the Committee on the Judiciary, submitted a report, (No. 378,) accompanied by the following joint resolution; which was read, and passed to a second reading. Joint Resolution For the relief of L. E. L. A. Lawson, sole surviving heiress of the General Eleazar W. Ripley, deceased.",
     "page": "",
     "session": "002",
@@ -741,12 +1060,18 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 72",
+    "bill_numbers": [
+      "S.R. 72"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the District of Columbia",
+    "committees": [
+      "Committee on the District of Columbia"
+    ],
     "congress": "032",
-    "dates": "18530121",
+    "dates": [
+      "18530121"
+    ],
     "description": "Mr. Shields, from the Committee on the District of Columbia, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution For the location and construction of a bridge on a new site across the Potomac river, in the District of Columbia, in accordance with the intentions of the late President Andrew Jackson.",
     "page": "",
     "session": "002",
@@ -754,12 +1079,16 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 72",
+    "bill_numbers": [
+      "S.R. 72"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "032",
-    "dates": "18530121",
+    "dates": [
+      "18530121"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -767,12 +1096,18 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 74",
+    "bill_numbers": [
+      "S.R. 74"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the District of Columbia",
+    "committees": [
+      "Committee on the District of Columbia"
+    ],
     "congress": "032",
-    "dates": "18530201",
+    "dates": [
+      "18530201"
+    ],
     "description": "Mr. Shields, from the Committee on the District of Columbia, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution In relation to bridges across the Potomac river.",
     "page": "",
     "session": "002",
@@ -780,12 +1115,16 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 74",
+    "bill_numbers": [
+      "S.R. 74"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "032",
-    "dates": "18530201",
+    "dates": [
+      "18530201"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -793,12 +1132,19 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 75",
+    "bill_numbers": [
+      "S.R. 75"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs",
+    "committees": [
+      "Committee on Military Affairs"
+    ],
     "congress": "032",
-    "dates": "18530201,18530224",
+    "dates": [
+      "18530201",
+      "18530224"
+    ],
     "description": "Agreeably to notice, Mr. Seward asked and obtained leave to bring in the following joint resolution; which was read twice, and referred to the Committee on Military Affairs. Committee discharged. Joint Resolution In honor of Brigadier General Nicholas Herkimer. Whereas, on the fourth day of October, seventeen hundred and seventy-seven, the following resolution was passed by the Continental Congress, viz: ''Resolved, That the governor and council of New York be desired to erect a monument, at continental expense, of the value of five hundred dollars, to the memory of the late Brigadier Herkimer, who commanded the militia of Tryon county, in the State of, and was killed fighting gallantly in defence of the liberty of these States:'' Now, therefore--",
     "page": "",
     "session": "002",
@@ -806,12 +1152,19 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 77",
+    "bill_numbers": [
+      "S.R. 77"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee of Claims",
+    "committees": [
+      "Committee of Claims"
+    ],
     "congress": "032",
-    "dates": "18530208,18530222",
+    "dates": [
+      "18530208",
+      "18530222"
+    ],
     "description": "Agreeably to notice, Mr. Walker asked and obtained leave to bring in the following joint resolution; which was read twice, and referred to the Committee of Claims. Reported without amendment. Joint Resolution Explanatory of an act entitle ''An act for the relief of Abigail Stafford.''",
     "page": "",
     "session": "002",
@@ -819,12 +1172,18 @@
     "volume": "032"
   },
   {
-    "bill_number": "S.R. 78",
+    "bill_numbers": [
+      "S.R. 78"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Printing",
+    "committees": [
+      "Committee on Printing"
+    ],
     "congress": "032",
-    "dates": "18530217",
+    "dates": [
+      "18530217"
+    ],
     "description": "Mr. Borland, from the Committee on Printing, submitted a report, (No. 414,) accompanied by the following joint resolution; which was read, and passed to a second reading. Joint Resolution For the relief of Thomas Ritchie, assignee of W. M. Belt.",
     "page": "",
     "session": "002",

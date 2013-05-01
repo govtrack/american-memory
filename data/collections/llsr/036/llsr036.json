@@ -1,11 +1,18 @@
 [
   {
-    "bill_number": "S.R. 2",
+    "bill_numbers": [
+      "S.R. 2"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "036",
-    "dates": "18601222,18600223",
+    "dates": [
+      "18601222",
+      "18600223"
+    ],
     "description": "Agreeably to notice, Mr. Harlan asked and obtained leave to bring in the following joint resolution; which was read twice and referred to the Committee on Public Lands. Reported by Mr. Harlan, with an amendment, viz: insert the words printed in italics. Joint Resolution Removing the restrictions upon a certain grant of five sections of land to the State of Iowa. Whereas the States of Iowa is desirous of diverting the five sections of land heretofore granted by Congress to that State for completing the public buildings of that State to other purposes, the capital of said State having been changed since the grant of said five sections of land: Therefore.",
     "page": "",
     "session": "001",
@@ -13,12 +20,19 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 2",
+    "bill_numbers": [
+      "S.R. 2"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Public Lands~Committee of the Whole House",
+    "committees": [
+      "Committee on Public Lands",
+      "Committee of the Whole House"
+    ],
     "congress": "036",
-    "dates": "18600604",
+    "dates": [
+      "18600604"
+    ],
     "description": "Reported from the Committee on Public Lands without amendment, committed to a Committee of the Whole House, and ordered to be printed. Joint Resolution Removing the restrictions upon a certain grant of five sections of land to the State of Iowa. Whereas the State of Iowa is desirous of diverting the five sections of land heretofore granted by Congress to that State for completing the public buildings of that State to other purposes, the capital of said State having been changed since the grant of said five sections of land: Therefore,",
     "page": "",
     "session": "001",
@@ -26,12 +40,19 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 4",
+    "bill_numbers": [
+      "S.R. 4"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Commerce",
+    "committees": [
+      "Committee on Commerce"
+    ],
     "congress": "036",
-    "dates": "18600103,18600117",
+    "dates": [
+      "18600103",
+      "18600117"
+    ],
     "description": "Mr. Crittenden asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Commerce. Reported by Mr. Clay without amendment. Joint Resolution To allow credit to certain disbursing officers therein mentioned. Whereas by the act of the thirtieth of August, eighteen hundred and fifty-two, entitled ''An act making appropriations for the improvement of certain harbors and rivers,'' the following appropriations (among others) were made to wit: ''For the improvement of the navigation of the Mississippi river, below the rapids, ninety thousand dollars; the Ohio, including repairs of the dam at Cumberland island, ninety thousand dollars; the Missouri and Arkansas rivers, each forty thousand dollars; and for the construction and repair of snag-boats, dredge-boats, discharging-scows, and machinery to be used on the Mississippi, Ohio, Missouri, Arkansas, and other western rivers, one hundred and fifty thousand dollars;'' and whereas it also appears that in carrying into effect the said provision of law the officers and agents of government intrusted therewith, and with the application and disbursement of said appropriations, did apply and disburse part of the money appropriated as aforesaid for ''the improvement of the navigation'' of said rivers, for the construction or repairs of the said snag-boats, dredge-boats, discharging-scows, or machinery, in aid of and in addition to the appropriation of one hundred and fifty thousand dollars made for this specific object, and which proved to be inadequate; in consequence whereof, and of this application to one object of money appropriated to another, the officers or agents are unable to settle their accounts, though prepared, as they allege, to show that said money has been expended in the service of the government:",
     "page": "",
     "session": "001",
@@ -39,12 +60,17 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 4",
+    "bill_numbers": [
+      "S.R. 4"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18600103,18600117",
+    "dates": [
+      "18600103",
+      "18600117"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -52,12 +78,20 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 6",
+    "bill_numbers": [
+      "S.R. 6"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Commerce~Committee of the Whole",
+    "committees": [
+      "Committee on Commerce",
+      "Committee of the Whole"
+    ],
     "congress": "036",
-    "dates": "18600116,18600308",
+    "dates": [
+      "18600116",
+      "18600308"
+    ],
     "description": "Mr. Powell asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Commerce. Reported by Mr. Saulsbury, with an amendment, viz: insert the words printed in italics; and accompanied by a report, (No. 126.) The bill was considered as in Committee of the Whole, and postponed to and made the special order for Wednesday next, March 14, at two o'clock. Joint Resolution Authorizing the enlargement of, and construction of a branch to the Louisville and Portland canal.",
     "page": "",
     "session": "001",
@@ -65,12 +99,17 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 6",
+    "bill_numbers": [
+      "S.R. 6"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18600116,18600308",
+    "dates": [
+      "18600116",
+      "18600308"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -78,12 +117,18 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 7",
+    "bill_numbers": [
+      "S.R. 7"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Naval Affairs",
+    "committees": [
+      "Committee on Naval Affairs"
+    ],
     "congress": "036",
-    "dates": "18600118",
+    "dates": [
+      "18600118"
+    ],
     "description": "Mr. Hale, from the Committee on Naval Affairs, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution For the relief of the legal representatives of John A. Frost, deceased.",
     "page": "",
     "session": "001",
@@ -91,12 +136,18 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 7",
+    "bill_numbers": [
+      "S.R. 7"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "036",
-    "dates": "18600319",
+    "dates": [
+      "18600319"
+    ],
     "description": "Reported without amendment, committed to a Committee of the Whole House, and ordered to be printed. Joint Resolution For the relief of the legal representatives of John A. Frost, deceased.",
     "page": "",
     "session": "001",
@@ -104,12 +155,18 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 8",
+    "bill_numbers": [
+      "S.R. 8"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Claims",
+    "committees": [
+      "Committee on Claims"
+    ],
     "congress": "036",
-    "dates": "18600123",
+    "dates": [
+      "18600123"
+    ],
     "description": "Mr. Simmons, from the Committee on Claims, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution Relating to the claim of George Fisher, late of Florida, deceased.",
     "page": "",
     "session": "001",
@@ -117,12 +174,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 8",
+    "bill_numbers": [
+      "S.R. 8"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18600123",
+    "dates": [
+      "18600123"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -130,12 +191,18 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 8",
+    "bill_numbers": [
+      "S.R. 8"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "036",
-    "dates": "18600406",
+    "dates": [
+      "18600406"
+    ],
     "description": "Reported back with an amendment in the nature of a substitute, viz: Strike out all after the enacting clause, and insert what follows in italics; committed to a Committee of the Whole House, and ordered to be printed. Joint Resolution Relating to the claim of George Fisher, late of Florida, deceased.",
     "page": "",
     "session": "001",
@@ -143,12 +210,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 8",
+    "bill_numbers": [
+      "S.R. 8"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18600406",
+    "dates": [
+      "18600406"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -156,12 +227,19 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 10",
+    "bill_numbers": [
+      "S.R. 10"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "036",
-    "dates": "18600202,18600328",
+    "dates": [
+      "18600202",
+      "18600328"
+    ],
     "description": "Mr. Doolittle asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice an referred to the Committee on Public Lands. Reported by Mr. Johnson, of Arkansas, without amendment, and accompanied by an adverse report, (No. 157.) Joint Resolution Relating to the route of the railroad from Fond-du-Lac, on Lake Winnebago, in the State of Wisconsin, to Lake Superior.",
     "page": "",
     "session": "001",
@@ -169,12 +247,17 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 10",
+    "bill_numbers": [
+      "S.R. 10"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18600202,18600328",
+    "dates": [
+      "18600202",
+      "18600328"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -182,12 +265,18 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 11",
+    "bill_numbers": [
+      "S.R. 11"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "036",
-    "dates": "18600217",
+    "dates": [
+      "18600217"
+    ],
     "description": "Committed to a Committee of the Whole House, and ordered to be printed. Joint Resolution For the relief of Commander H. J. Hartstene, of the United States navy.",
     "page": "",
     "session": "001",
@@ -195,12 +284,18 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 15",
+    "bill_numbers": [
+      "S.R. 15"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Naval Affairs",
+    "committees": [
+      "Committee on Naval Affairs"
+    ],
     "congress": "036",
-    "dates": "18600223",
+    "dates": [
+      "18600223"
+    ],
     "description": "Mr. Thomson, from the Committee on Naval Affairs, submitted a report, (No. 78,) accompanied by the following joint resolution; which was read and passed to a second reading. Joint Resolution For the relief of Lieutenant John C. Carter.",
     "page": "",
     "session": "001",
@@ -208,12 +303,18 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 16",
+    "bill_numbers": [
+      "S.R. 16"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee of the Whole House",
+    "committees": [
+      "Committee of the Whole House"
+    ],
     "congress": "036",
-    "dates": "18600319",
+    "dates": [
+      "18600319"
+    ],
     "description": "Reported without amendment, committed to a Committee of the Whole House, and ordered to be printed. Joint Resolution Authorizing Captains William L. Hudson and Joshua R. Sands to accept certain testimonials awarded to them by the government of Great Britain.",
     "page": "",
     "session": "001",
@@ -221,12 +322,19 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 18",
+    "bill_numbers": [
+      "S.R. 18"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "036",
-    "dates": "18600305,18600509",
+    "dates": [
+      "18600305",
+      "18600509"
+    ],
     "description": "Mr. Crittenden asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on the Judiciary. Reported by Mr. Bayard, without amendment, and adversely. Joint Resolution In relation to the compensation of senators and representatives in Congress, elected from new States.",
     "page": "",
     "session": "001",
@@ -234,12 +342,17 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 18",
+    "bill_numbers": [
+      "S.R. 18"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18600305,18600509",
+    "dates": [
+      "18600305",
+      "18600509"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -247,12 +360,20 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 22",
+    "bill_numbers": [
+      "S.R. 22"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Select Committee of Five~Committee on Post Offices and Post Roads",
+    "committees": [
+      "Select Committee of Five",
+      "Committee on Post Offices and Post Roads"
+    ],
     "congress": "036",
-    "dates": "18600403,18600404",
+    "dates": [
+      "18600403",
+      "18600404"
+    ],
     "description": "Mr. Green asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read the first and second times; and moved that it be referreu to a select committee of five, to be appointed by the Vice-President. Resumed, and on motion by Mr. Saulsbury, that it be referred to the Committee on Post Offices and Post Roads, Ordered, That the resolution be printed, with the amendment intended to be proposed by Mr. Fitch. Joint Resolution Concerning the First Comptroller of the Treasury, William Medill. Whereas the Congress of the United States, by the sixth section of the Post Office appropriation act, approved August eighteen, eighteen hundred and fifty-six, enacted as follows: ''the First Comptroller of the Treasury be, and he is hereby, required to adjust the damages due to Edward H. Carmick and Albert C. Ramsey, on account of the abrogation by the Postmaster General of their contract to carry the mail on Vera Cruz, Acapulco, and San Francisco route, dated the fifteenth day of February, eighteen hundred and fifty-three, to adjudge and award them, according to the principles of law, equity, and justice, the amount as found due, and the Secretary of the Treasury is hereby required to pay the same to the said Carmick and Ramsey, out of any money in the treasury not otherwise appropriated;'' and whereas it is the judgment of Congress that the law aforesaid declared the fact that a contract existed as stated in the said law, involving the interests of said Carmick and Ramsey, and further determined that damages had had accrued to them by reason of the abrogation of said contract by the Postmaster General aforesaid; and whereas it is the further judgment of Congress that there was imposed on the said Comptroller of the Treasury, by the said laws, the imperative duty of proceeding to ascertain and adjust the said damages, in accordance with the principles of ''law, equity, and justice;'' and whereas William Medill, First Comptroller of the Treasury, instead of proceeding to execute said law of Congress aforesaid, did undertake to affirm and decide that said contract was never abrogated, thereby intending to defeat the clearly expressed will of Congress, and has set at defiance the will of his predecessor, the Hon. Elisha Whittlesey; and whereas, in doing so, the said William Medill has assumed the prerogative of nullifying the will and opinion of Congress, by them solemnly declared, and has practically refused to obey the order of Congress, as he was bound in duty to have done: Therefore,",
     "page": "",
     "session": "001",
@@ -260,12 +381,17 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 22",
+    "bill_numbers": [
+      "S.R. 22"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18600403,18600404",
+    "dates": [
+      "18600403",
+      "18600404"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -273,12 +399,17 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 22",
+    "bill_numbers": [
+      "S.R. 22"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18600403,18600404",
+    "dates": [
+      "18600403",
+      "18600404"
+    ],
     "description": "Amendment Intended to be proposed by Mr. Fitch to the ''joint resolution (S. 22) concerning the First Comptroller of the Treasury, William Medill,'' viz: Strike out the preamble and all after the word ''Resolved,'' in the enacting clause, and insert the following:",
     "page": "3",
     "session": "001",
@@ -286,12 +417,18 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 23",
+    "bill_numbers": [
+      "S.R. 23"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Foreign Relations",
+    "committees": [
+      "Committee on Foreign Relations"
+    ],
     "congress": "036",
-    "dates": "18600403",
+    "dates": [
+      "18600403"
+    ],
     "description": "Mr. Mason, from the Committee on Foreign Relations, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution In regard to the Minister from Japan.",
     "page": "",
     "session": "001",
@@ -299,12 +436,19 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 25",
+    "bill_numbers": [
+      "S.R. 25"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Military Affairs and the Militia",
+    "committees": [
+      "Committee on Military Affairs and the Militia"
+    ],
     "congress": "036",
-    "dates": "18600407,18600509",
+    "dates": [
+      "18600407",
+      "18600509"
+    ],
     "description": "Agreeably to notice, Mr. Fitzpatrick asked and obtained leave to bring in the following joint resolution; which was read twice and referred to the Committee on Military Affairs and the Militia. Reported by Mr. Davis, without amendment, and accompanied by a report, (No. 222.) Joint Resolution Manifesting the sense of Congress towards the officers and seamen of the vessels, and others, engaged in the rescue of the officers and soldiers of the army, the passengers, and the officers and crew of the steamship San Francisco, from perishing with the wreck of that vessel.",
     "page": "",
     "session": "001",
@@ -312,12 +456,17 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 25",
+    "bill_numbers": [
+      "S.R. 25"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18600407,18600509",
+    "dates": [
+      "18600407",
+      "18600509"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -325,12 +474,19 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 27",
+    "bill_numbers": [
+      "S.R. 27"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee of Claims~Committee of the Whole House",
+    "committees": [
+      "Committee of Claims",
+      "Committee of the Whole House"
+    ],
     "congress": "036",
-    "dates": "18600518",
+    "dates": [
+      "18600518"
+    ],
     "description": "Reported from the Committee of Claims without amendment, committed to a Committee of the Whole House, and ordered to be printed. Joint Resolution Authorizing the settlement of the accounts of John R. Bartlett, late commissioner of the United States to run and mark the boundary line between the United States and Mexico, and for other purposes.",
     "page": "",
     "session": "001",
@@ -338,12 +494,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 27",
+    "bill_numbers": [
+      "S.R. 27"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18600518",
+    "dates": [
+      "18600518"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -351,12 +511,18 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 28",
+    "bill_numbers": [
+      "S.R. 28"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Indian Affairs",
+    "committees": [
+      "Committee on Indian Affairs"
+    ],
     "congress": "036",
-    "dates": "18600410",
+    "dates": [
+      "18600410"
+    ],
     "description": "Mr. Fitzpatrick, from the Committee on Indian Affairs, submitted a report, (No. 181,) accompanied by the following joint resolution; which was read and passed to a second reading. Joint Resolution For the relief of A. M. Fridley, late agent for the Winnebago Indians.",
     "page": "",
     "session": "001",
@@ -364,12 +530,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 28",
+    "bill_numbers": [
+      "S.R. 28"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18600410",
+    "dates": [
+      "18600410"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -377,12 +547,19 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 28",
+    "bill_numbers": [
+      "S.R. 28"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Indian Affairs~Committee of the Whole House",
+    "committees": [
+      "Committee on Indian Affairs",
+      "Committee of the Whole House"
+    ],
     "congress": "036",
-    "dates": "18600504",
+    "dates": [
+      "18600504"
+    ],
     "description": "Reported from the Committee on Indian Affairs without amendment, committed to a Committee of the Whole House, and ordered to be printed. Joint Resolution For the relief of A. M. Fridley, late agent for the Winnebago Indians.",
     "page": "",
     "session": "001",
@@ -390,12 +567,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 28",
+    "bill_numbers": [
+      "S.R. 28"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18600504",
+    "dates": [
+      "18600504"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -403,12 +584,19 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 36",
+    "bill_numbers": [
+      "S.R. 36"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Naval Affairs",
+    "committees": [
+      "Committee on Naval Affairs"
+    ],
     "congress": "036",
-    "dates": "18600521,18600531",
+    "dates": [
+      "18600521",
+      "18600531"
+    ],
     "description": "Mr. Thomson asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Naval Affairs. Reported by Mr. Thomson without amendment, and accompanied by a report, (No. 253.) Joint Resolution For the restoration of Lieutenant Augustus S. Baldwin to the active list, from the leave-of-absence list of the navy.",
     "page": "",
     "session": "001",
@@ -416,12 +604,19 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 38",
+    "bill_numbers": [
+      "S.R. 38"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Commerce",
+    "committees": [
+      "Committee on Commerce"
+    ],
     "congress": "036",
-    "dates": "18600528,18600607",
+    "dates": [
+      "18600528",
+      "18600607"
+    ],
     "description": "Agreeably to notice, Mr. Latham asked and obtained leave to bring in the following joint resolution; which was read twice and referred to the Committee on Commerce. Reported by Mr. Bigler without amendment. Joint Resolution Directing the settlement of the accounts of the contractor for the erection of the custom-house and post office at San Francisco, California.",
     "page": "",
     "session": "001",
@@ -429,12 +624,19 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 39",
+    "bill_numbers": [
+      "S.R. 39"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "036",
-    "dates": "18600531,18600621",
+    "dates": [
+      "18600531",
+      "18600621"
+    ],
     "description": "Mr. Rice asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on Public Lands. Reported by Mr. Johnson, of Arkansas, with an amendment, viz: Strike out all after the enacting clause and insert what follows, printed in italics. Joint Resolution Authorizing the Secretary of the Interior to purchase certain books.",
     "page": "",
     "session": "001",
@@ -442,12 +644,17 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 39",
+    "bill_numbers": [
+      "S.R. 39"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18600531,18600621",
+    "dates": [
+      "18600531",
+      "18600621"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -455,12 +662,19 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 40",
+    "bill_numbers": [
+      "S.R. 40"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on the Judiciary",
+    "committees": [
+      "Committee on the Judiciary"
+    ],
     "congress": "036",
-    "dates": "18600604,18600613",
+    "dates": [
+      "18600604",
+      "18600613"
+    ],
     "description": "Mr. Hamlin asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Committee on the Judiciary. Reported by Mr. Bayard without amendment, and adversely. Joint Resolution To have the accounts of members and delegates of the Fourteenth Congress revised and balanced.",
     "page": "",
     "session": "001",
@@ -468,12 +682,17 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 40",
+    "bill_numbers": [
+      "S.R. 40"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18600604,18600613",
+    "dates": [
+      "18600604",
+      "18600613"
+    ],
     "description": "",
     "page": "2",
     "session": "001",
@@ -481,12 +700,19 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 41",
+    "bill_numbers": [
+      "S.R. 41"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Post Offices and Post Roads",
+    "committees": [
+      "Committee on Post Offices and Post Roads"
+    ],
     "congress": "036",
-    "dates": "18600608,18600609",
+    "dates": [
+      "18600608",
+      "18600609"
+    ],
     "description": "Mr. Hale asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice and referred to the Committee on Post Offices and Post Roads. Reported by Mr. Hale with and amendment, viz: at the end of the bill add what is printed in italics. Joint Resolution For the relief of Arthur Edwards and his associates.",
     "page": "",
     "session": "001",
@@ -494,12 +720,18 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 42",
+    "bill_numbers": [
+      "S.R. 42"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Naval Affairs",
+    "committees": [
+      "Committee on Naval Affairs"
+    ],
     "congress": "036",
-    "dates": "18600609",
+    "dates": [
+      "18600609"
+    ],
     "description": "Mr. Hammond, from the Committee on Naval Affairs, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution Authorizing the Secretary of the Navy to pay to the officers and seamen of the expedition in search of Dr. Kane the same rate of pay that was allowed the officers and seamen of the expedition under Lieutenant De Haven.",
     "page": "",
     "session": "001",
@@ -507,12 +739,18 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 44",
+    "bill_numbers": [
+      "S.R. 44"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Public Lands",
+    "committees": [
+      "Committee on Public Lands"
+    ],
     "congress": "036",
-    "dates": "18600614",
+    "dates": [
+      "18600614"
+    ],
     "description": "Mr. Harlan, from the Committee on Public Lands, submitted a report, (No. 276,) accompanied by the following joint resolution; which was read and passed to a second reading. Joint Resolution For the survey of the Colorado Desert.",
     "page": "",
     "session": "001",
@@ -520,12 +758,18 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 47",
+    "bill_numbers": [
+      "S.R. 47"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Post Offices and Post Roads",
+    "committees": [
+      "Committee on Post Offices and Post Roads"
+    ],
     "congress": "036",
-    "dates": "18600623",
+    "dates": [
+      "18600623"
+    ],
     "description": "Mr. Yulee, from the Committee on Post Offices and Post Roads, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution Providing for the transportation of the mail between the Atlantic and Pacific States.",
     "page": "",
     "session": "001",
@@ -533,12 +777,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 48",
+    "bill_numbers": [
+      "S.R. 48"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18601213",
+    "dates": [
+      "18601213"
+    ],
     "description": "Mr. Johnson, of Tennessee, asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read and passed to a second reading, and ordered to be printed. Joint Resolution Proposing amendments to the Constitution of the United States. Whereas the fifth article of the Constitution of the United States provides for amendments thereto, in the manner following, viz: ''1. Congress, whenever two thirds of both Houses shall deem it necessary, shall propose amendments to this Constitution, or on the application of the legislatures of two thirds of the several States shall call a convention for proposing amendments, which, in either case, shall be valid to all intents and purposes, as part of this Constitution, when ratified by the legislatures of three fourths of the several States, or by conventions in three fourths thereof, as the one or the other mode of ratification may be proposed by Congress; provided that no amendment which may be made prior to the year one thousand eight hundred and eight, shall in any manner affect the first and fourth clauses in the ninth section of the first article; and that no State, without its consent, shall be deprived of its equal suffrage in the Senate:'' Therefore.",
     "page": "",
     "session": "002",
@@ -546,12 +794,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 48",
+    "bill_numbers": [
+      "S.R. 48"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18601213",
+    "dates": [
+      "18601213"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -559,12 +811,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 48",
+    "bill_numbers": [
+      "S.R. 48"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18601213",
+    "dates": [
+      "18601213"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -572,12 +828,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 48",
+    "bill_numbers": [
+      "S.R. 48"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18601213",
+    "dates": [
+      "18601213"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -585,12 +845,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 48",
+    "bill_numbers": [
+      "S.R. 48"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18601213",
+    "dates": [
+      "18601213"
+    ],
     "description": "",
     "page": "5",
     "session": "002",
@@ -598,12 +862,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 48",
+    "bill_numbers": [
+      "S.R. 48"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18601213",
+    "dates": [
+      "18601213"
+    ],
     "description": "",
     "page": "6",
     "session": "002",
@@ -611,12 +879,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 48",
+    "bill_numbers": [
+      "S.R. 48"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18601213",
+    "dates": [
+      "18601213"
+    ],
     "description": "",
     "page": "7",
     "session": "002",
@@ -624,12 +896,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 50",
+    "bill_numbers": [
+      "S.R. 50"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18601218",
+    "dates": [
+      "18601218"
+    ],
     "description": "Mr. Crittenden asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read and passed to a second reading, and ordered to be printed. Joint Resolution Proposing certain Amendments to the Constitution of the United States. Whereas serious and alarming dissensions have arisen between the northern and southern States, concerning the rights and security of the rights of the slaveholding States, and especially their rights in the common territory of the United States; and whereas, it is eminently desirable and proper that those dissensions, which now threaten the very existence of this Union, should be permanently quieted and settled by constitutional provisions, which shall do equal justice to all sections, and thereby restore to the people that peace and good will which ought to prevail between all the citizens of the United States: Therefore,",
     "page": "",
     "session": "002",
@@ -637,12 +913,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 50",
+    "bill_numbers": [
+      "S.R. 50"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18601218",
+    "dates": [
+      "18601218"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -650,12 +930,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 50",
+    "bill_numbers": [
+      "S.R. 50"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18601218",
+    "dates": [
+      "18601218"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -663,12 +947,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 50",
+    "bill_numbers": [
+      "S.R. 50"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18601218",
+    "dates": [
+      "18601218"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -676,12 +964,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 50",
+    "bill_numbers": [
+      "S.R. 50"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18601218",
+    "dates": [
+      "18601218"
+    ],
     "description": "",
     "page": "5",
     "session": "002",
@@ -689,12 +981,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 50",
+    "bill_numbers": [
+      "S.R. 50"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18601218",
+    "dates": [
+      "18601218"
+    ],
     "description": "",
     "page": "6",
     "session": "002",
@@ -702,12 +998,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 50",
+    "bill_numbers": [
+      "S.R. 50"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18601218",
+    "dates": [
+      "18601218"
+    ],
     "description": "",
     "page": "7",
     "session": "002",
@@ -715,12 +1015,18 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 52",
+    "bill_numbers": [
+      "S.R. 52"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee of Thirteen",
+    "committees": [
+      "Committee of Thirteen"
+    ],
     "congress": "036",
-    "dates": "18601224",
+    "dates": [
+      "18601224"
+    ],
     "description": "Mr. Douglas asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice and referred to the Select Committee of thirteen appointed under the resolution of the Senate of the 18th instant, and ordered to be printed. Joint Resolution Proposing certain Amendments to the Constitution of the United States.",
     "page": "",
     "session": "002",
@@ -728,12 +1034,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 52",
+    "bill_numbers": [
+      "S.R. 52"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18601224",
+    "dates": [
+      "18601224"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -741,12 +1051,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 52",
+    "bill_numbers": [
+      "S.R. 52"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18601224",
+    "dates": [
+      "18601224"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -754,12 +1068,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 52",
+    "bill_numbers": [
+      "S.R. 52"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18601224",
+    "dates": [
+      "18601224"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -767,12 +1085,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 52",
+    "bill_numbers": [
+      "S.R. 52"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18601224",
+    "dates": [
+      "18601224"
+    ],
     "description": "",
     "page": "5",
     "session": "002",
@@ -780,12 +1102,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 52",
+    "bill_numbers": [
+      "S.R. 52"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18601224",
+    "dates": [
+      "18601224"
+    ],
     "description": "",
     "page": "6",
     "session": "002",
@@ -793,12 +1119,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 53",
+    "bill_numbers": [
+      "S.R. 53"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18610102",
+    "dates": [
+      "18610102"
+    ],
     "description": "Mr. Davis asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read and passed to a second reading, and ordered to be printed. Joint Resolution In relation to the militia of the States, the condition of forts, magazines, arsenals, and dock-yards; military power; withdrawal of troops from garrisons on the application of a State; and the recognition of the right of a State to keep troops and ships of war by proclamation of the President. Whereas by the second and third articles of amendment of the Constitution it is declared that a well regulated militia is the security of a free State, and that no soldier shall, in time of peace, be quartered in any house without the consent of the owner; and whereas by the second and third clauses of the tenth section of the first article of the Constitution, it is indirectly provided that a State may, with the consent of Congress, keep troops and ships of war in time of peace; and whereas by the seventeenth clause of the eight section of the first article of the Constitution, the exclusive jurisdiction of the federal government over forts, magazines, arsenals, dock-yards, and so forth, is limited to places purchased by the consent of the legislature of the State in which the same shall be; and whereas the military powers delegated by the States to the federal govment were designed for the purposes stated generally, in the preamble to the Constitution, namely: to insure domestic tranquillity, and provide for the common defense: Therefore,",
     "page": "",
     "session": "002",
@@ -806,12 +1136,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 53",
+    "bill_numbers": [
+      "S.R. 53"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18610102",
+    "dates": [
+      "18610102"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -819,12 +1153,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 55",
+    "bill_numbers": [
+      "S.R. 55"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18610112",
+    "dates": [
+      "18610112"
+    ],
     "description": "Mr. Pearce asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read the first and second times, and ordered to be printed. Joint Resolution For the appointment of Regents of the Smithsonian Institution.",
     "page": "",
     "session": "002",
@@ -832,12 +1170,20 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 59",
+    "bill_numbers": [
+      "S.R. 59"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee of Thirteen~Committee of the Whole",
+    "committees": [
+      "Committee of Thirteen",
+      "Committee of the Whole"
+    ],
     "congress": "036",
-    "dates": "18610118,18610119",
+    "dates": [
+      "18610118",
+      "18610119"
+    ],
     "description": "Mr. Green asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read the first and second times, conisdered as in Committee of the Whole, and motion by Mr. Green to refer to the select committee of thirteen debated; and the special order called. Ordered to lie on the table and be printed. Joint Resolution To provide for the maintenance of the Union, or for a convention for a peaceable separation of the States and the restoration of harmony upon the principles of justice and equality to all.",
     "page": "",
     "session": "002",
@@ -845,12 +1191,17 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 59",
+    "bill_numbers": [
+      "S.R. 59"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18610118,18610119",
+    "dates": [
+      "18610118",
+      "18610119"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -858,12 +1209,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 60",
+    "bill_numbers": [
+      "S.R. 60"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18610119",
+    "dates": [
+      "18610119"
+    ],
     "description": "Mr. Mason asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read and passed to a second reading, and ordered to be printed. Joint Resolution In relation to a suspension of certain laws in States separating from the Union. It appearing to Congress that the State of South Carolina has, by an ordinance of the people of that State, in convention assembled, declared the State separated from the United States, and from the government thereof, as established under the Constitution; and it further appearing, that by reason of such declared separation, there are no officers of the United States acting under the authority thereof, in the judiciary department of this government, or under the laws for the collection of the revenues of the United States; whereby, and in consequence whereof, the laws of the United States are in fact suspended within the limits of said State; therefore, to avoid any hostile collisions that might arise between the authorities of the United States and of the State aforesaid, in the attempt to execute laws of the United States, in the absence of those officers required by law to administer and execute said laws:",
     "page": "",
     "session": "002",
@@ -871,12 +1226,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 60",
+    "bill_numbers": [
+      "S.R. 60"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18610119",
+    "dates": [
+      "18610119"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -884,12 +1243,18 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 61",
+    "bill_numbers": [
+      "S.R. 61"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Finance",
+    "committees": [
+      "Committee on Finance"
+    ],
     "congress": "036",
-    "dates": "18610123",
+    "dates": [
+      "18610123"
+    ],
     "description": "Mr. Green asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice, referred to the Committee on Finance, and ordered to be printed. Joint Resolution Making provision for the recovery of certain Bonds belonging to the Indian Trust Fund, and for other purposes.",
     "page": "",
     "session": "002",
@@ -897,12 +1262,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 61",
+    "bill_numbers": [
+      "S.R. 61"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18610123",
+    "dates": [
+      "18610123"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -910,12 +1279,18 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 68",
+    "bill_numbers": [
+      "S.R. 68"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Committee on Naval Affairs",
+    "committees": [
+      "Committee on Naval Affairs"
+    ],
     "congress": "036",
-    "dates": "18610227",
+    "dates": [
+      "18610227"
+    ],
     "description": "Mr. Thomson, from the Committee on Naval Affairs, reported the following joint resolution; which was read and passed to a second reading: Joint Resolution For the relief of Captain Hiram Paulding, United States Navy.",
     "page": "",
     "session": "002",
@@ -923,12 +1298,18 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 70",
+    "bill_numbers": [
+      "S.R. 70"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "Select Committee of Five",
+    "committees": [
+      "Select Committee of Five"
+    ],
     "congress": "036",
-    "dates": "18610228",
+    "dates": [
+      "18610228"
+    ],
     "description": "Mr. Crittenden, from the select committee of five, reported the following joint resolution; which was read and passed to a second reading, and postponed to and made the special order for Friday, March 1, at 12 1/2 o'clock. Joint Resolution Proposing certain amendments to the Constitution of the United States. Whereas, commissioners, appointed on the invitation of the State of Virginia, by the following States, respectively: Maine, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, North Carolina, Tennessee, Kentucky, Missouri, Ohio, Indiana, Illinois, Iowa, Wisconsin, and Kansas, have met in convention at the city of Washington, for the purpose of considering the distracted and perilous condition of the country, and proposing measures for the preservation of the peace, the safety of the people, and the security of the Union, and having performed that duty, and communicated to Congress the result of their deliberations, with a request and recommendation on the part and in the name of said States, that the following be proposed to the several States as amendments to the Constitution of the United States, according to the fifth article of said instrument, namely: Article thirteen. Section]. In all the present territory of the United States, north of the parallel of thirty-six degrees and thirty minutes of north latitude, involuntary servitude, except in punishment of crime, is prohibited. In all the present territory south of that line, the status of persons held to involuntary service or labor, as it now exists, shall not be changed; nor shall any law be passed by Congress or the territorial legislature to hinder or prevent the taking of such persons from any of the States of this Union to said territory, nor to impair the rights arising from said relation; but the same shall be subject to judicial cognizance in the federal courts, according to the course of the common law. When any territory north or south of said line, within such boundary as Congress may prescribe, shall contain a population equal to that required for a member of Congress, it shall, if its form of government be republican, be admitted into the Union on an equal footing with the original States, with or without involuntary servitude, as the Constitution of such State may provide. Sec. 2. No territory shall be acquired by the United States, except by discovery and for naval and commercial stations, depots, and transit routes, without the concurrence of a majority of all the Senators from States which allow involuntary servitude, and a majority of all the Senators from States which prohibit that relation; nor shall territory be acquired by treaty, unless the votes of a majority of the Senators from each class of States hereinbefore mentioned be cast as a part of the two-thirds majority necessary to the ratification of such treaty. Sec. 3. Neither the Constitution, nor any amendment thereof, shall be construed to give Congress power to regulated, abolish, or control within any State the relation established or recognized by the laws thereof touching persons held to labor or involuntary service therein, nor to interfere with or abolish involuntary service in the District of Columbia without the consent of Maryland and without the consent of the owners, or making the owners who do not consent just compensation; nor the power to interfere with or prohibit representatives and others from bringing with them to the District of Columbia, retaining and taking away, persons so held to labor or service; nor the power to interfere with or abolish involuntary service in places under the exclusive jurisdiction of the United States within those States and Territories where the same is established or recognized; nor the power to prohibit the removal or transportation of persons held to labor or involuntary service in any State or Territory of the United States to any other State or Territory thereof where it is established or recognized by law or usage; and the right during transportation, by sea or river, of touching at ports, shores, and landings, and of landing in case of distress, shall exist; but not the right of transit in or through any State or Territory, or of sale or traffic, against the laws thereof. Nor shall Congress have power to authorize any higher rate of taxation on persons held to labor or service than on land. The bringing into the District of Columbia of persons held to labor or service, for sale, or placing them in depots to be afterwards transferred to other places for sale as merchandise, is prohibited. Sec. 4. The third paragraph of the second section of the fourth article of the Constitution shall not be construed to prevent any of the States, by appropriate legislation, and through the action of their judicial and ministerial officers, from enforcing the delivery of fugitives from labor to the persons to whom such service or labor is due. Sec. 5. The foreign slave trade is hereby forever prohibited; and it shall be the duty of Congress to pass laws to prevent the importation of slaves, coolies, or persons held to service or labor, into the United States and the Territories from places beyond the limits thereof. Sec. 6. The first, third, and fifth sections, together with this section of these amendments, and the third paragraph of the second section of the first article of the Constitution, and the third paragraph of the second section of the fourth article thereof, shall not be amended or abolished without the consent of all the States. Sec. 7. Congress shall provide by law that the United States shall pay to the owner the full value of his fugitive from labor, in all cases where the marshal, or other officer, whose duty it was to arrest such fugitive, was prevented from so doing by violence or intimidation from mobs or riotous assemblages, or when, after arrest, such fugitive was rescued by like violence or intimidation, and the owner thereby deprived of the same; and the acceptance of such payment shall preclude the owner from further claim to such fugitive. Congress shall provide by law for securing to the citizens of each State the privileges and immunities of citizens in the several States.",
     "page": "",
     "session": "002",
@@ -936,12 +1317,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 70",
+    "bill_numbers": [
+      "S.R. 70"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18610228",
+    "dates": [
+      "18610228"
+    ],
     "description": "",
     "page": "2",
     "session": "002",
@@ -949,12 +1334,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 70",
+    "bill_numbers": [
+      "S.R. 70"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18610228",
+    "dates": [
+      "18610228"
+    ],
     "description": "",
     "page": "3",
     "session": "002",
@@ -962,12 +1351,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 70",
+    "bill_numbers": [
+      "S.R. 70"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18610228",
+    "dates": [
+      "18610228"
+    ],
     "description": "",
     "page": "4",
     "session": "002",
@@ -975,12 +1368,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 70",
+    "bill_numbers": [
+      "S.R. 70"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18610228",
+    "dates": [
+      "18610228"
+    ],
     "description": "",
     "page": "5",
     "session": "002",
@@ -988,12 +1385,16 @@
     "volume": "036"
   },
   {
-    "bill_number": "S.R. 71",
+    "bill_numbers": [
+      "S.R. 71"
+    ],
     "chamber": "s",
     "collection": "llsr",
-    "committees": "",
+    "committees": [],
     "congress": "036",
-    "dates": "18610228",
+    "dates": [
+      "18610228"
+    ],
     "description": "Ordered to be printed. Mr. Seward asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read and passed to a second reading. Joint Resolution Concerning a National Convention to propose amendments to the Constitution of the United States. Whereas the legislatures of the States of Kentucky, New Jersey, and Illinois have applied to Congress to call a Convention for proposing amendments to the Constitution of the United States: Therefore,",
     "page": "",
     "session": "002",
@@ -1001,12 +1402,12 @@
     "volume": "036"
   },
   {
-    "bill_number": "",
+    "bill_numbers": [],
     "chamber": "",
     "collection": "",
-    "committees": "",
+    "committees": [],
     "congress": "",
-    "dates": "",
+    "dates": [],
     "description": "",
     "page": "",
     "session": "",
@@ -1014,12 +1415,12 @@
     "volume": ""
   },
   {
-    "bill_number": "",
+    "bill_numbers": [],
     "chamber": "",
     "collection": "",
-    "committees": "",
+    "committees": [],
     "congress": "",
-    "dates": "",
+    "dates": [],
     "description": "",
     "page": "",
     "session": "",
