@@ -3203,5 +3203,24 @@
     "session": "002",
     "tiff_filename": "01810002.tif",
     "volume": "004"
+  },
+  {
+    "bill_numbers": [
+      "S. 67"
+    ],
+    "chamber": "s",
+    "collection": "llsb",
+    "committees": [
+      "Committee on Commerce and Manufactures"
+    ],
+    "congress": "017",
+    "dates": [
+      "18230224"
+    ],
+    "description": "Mr. Dickerson, from the Committee on Commerce and Manufactures, proposed the following bill, as a substitute for the bill to authorize the building a light house at Cape Romain, in South Carolina, and placing floating lights in Delaware Bay, which was read, and ordered to be printed. A Bill To authorize the building of light houses, light vessels, and beacons, therein mentioned, and for other purposes.",
+    "page": "",
+    "session": "002",
+    "tiff_filename": "01820000.tif",
+    "volume": "004"
   }
 ]
