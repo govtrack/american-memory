@@ -7207,7 +7207,7 @@
     "dates": [
       "18670315"
     ],
-    "description": "Mr. Morgan asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on Foreign Relations, and ordered to be printed. A Bill To further define and amend An act for the punishment of crimes against the United States.\"\"",
+    "description": "Mr. Morgan asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on Foreign Relations, and ordered to be printed. A Bill To further define and amend \"An act for the punishment of crimes against the United States.\"",
     "page": "",
     "session": "001",
     "tiff_filename": "04140000.tif",
@@ -10929,17 +10929,32 @@
     ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": [
-      "and subject to the jurisdiction thereof"
-    ],
+    "committees": [],
     "congress": "040",
     "dates": [
       "18670323"
     ],
-    "description": "Mr. Wilson asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice and ordered to lie on the table and be printed. A Bill To regulate the elective franchise in the United States. Whereas the fourteenth article of the amendment to the Constitution of the United States has been ratified by a sufficient number of States, and is therefore a part of the fundamental law; and whereas the first section of said article of amendment declares that all persons born or naturalized in the United States",
+    "description": "Mr. Wilson asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice and ordered to lie on the table and be printed. A Bill To regulate the elective franchise in the United States. Whereas the fourteenth article of the amendment to the Constitution of the United States has been ratified by a sufficient number of States, and is therefore a part of the fundamental law; and whereas the first section of said article of amendment declares that \"all persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the States wherein they reside;\" and that \"no State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States;\" and whereas the said fourteenth article of amendment to the Constitution empowers Congress to enforce by appropriate legislation the provisions of the said article: Therefore,",
     "page": "",
     "session": "001",
     "tiff_filename": "06250000.tif",
+    "volume": "040"
+  },
+  {
+    "bill_numbers": [
+      "S. 111"
+    ],
+    "chamber": "s",
+    "collection": "llsb",
+    "committees": [],
+    "congress": "040",
+    "dates": [
+      "18670323"
+    ],
+    "description": "",
+    "page": "2",
+    "session": "001",
+    "tiff_filename": "06260002.tif",
     "volume": "040"
   },
   {
@@ -12617,13 +12632,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "passed March two, eighteen hundred and sixty-seven, and the several acts amendatory thereto, namely: Strike out in the seventh and eighth lines the words which has been or may hereafter be"
+      "Committee on the Judiciary"
     ],
     "congress": "040",
     "dates": [
       "18671210"
     ],
-    "description": "Referred to the Committee on the Judiciary and ordered to be printed. Amendment Intended to be proposed by Mr. Doolittle to the bill (S. 161) to amend an act entitled An act to provide or the more efficient government of the rebel States",
+    "description": "Referred to the Committee on the Judiciary and ordered to be printed. Amendment Intended to be proposed by Mr. Doolittle to the bill (S. 161) to amend an act entitled \"An act to provide or the more efficient government of the rebel States,\" passed March two, eighteen hundred and sixty-seven, and the several acts amendatory thereto, namely: Strike out in the seventh and eighth lines the words \"which has been or may hereafter be,\" and insert at the end of the bill the following proviso:",
     "page": "",
     "session": "002",
     "tiff_filename": "07220000.tif",
@@ -15985,13 +16000,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and for other purposes.\"\""
+      "Committee on the Judiciary"
     ],
     "congress": "040",
     "dates": [
       "18671218"
     ],
-    "description": "Mr. Thayer asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To amend an act entitled An act to provide for a district and circuit court of the United States for the district of the State of Nebraska",
+    "description": "Mr. Thayer asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To amend an act entitled \"An act to provide for a district and circuit court of the United States for the district of the State of Nebraska, and for other purposes.\"",
     "page": "",
     "session": "002",
     "tiff_filename": "09080000.tif",
@@ -16125,13 +16140,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "passed the twenty-fourth of September"
+      "Committee on Finance"
     ],
     "congress": "040",
     "dates": [
       "18680106"
     ],
-    "description": "Mr. Williams, from the Committee on Finance, reported the following bill; which was read and passed to a second reading. A Bill To amend an act entitled An act to amend the judiciary act",
+    "description": "Mr. Williams, from the Committee on Finance, reported the following bill; which was read and passed to a second reading. A Bill To amend an act entitled \"An act to amend the judiciary act, passed the twenty-fourth of September, seventeen hundred and eighty-nine.\"",
     "page": "",
     "session": "002",
     "tiff_filename": "09160000.tif",
@@ -16275,14 +16290,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "in California"
+      "Committee on Public Lands"
     ],
     "congress": "040",
     "dates": [
       "18680106",
       "18680211"
     ],
-    "description": "Mr. Williams asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice and referred to the Committee on Public Lands. Reported by Mr. Williams with amendments, viz: Strike out the parts in [brackets] and insert those printed in italics. A Bill To amend an act entitled An act granting lands to aid in the construction of a railroad and telegraph line from the Central Pacific railroad",
+    "description": "Mr. Williams asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice and referred to the Committee on Public Lands. Reported by Mr. Williams with amendments, viz: Strike out the parts in [brackets] and insert those printed in italics. A Bill To amend an act entitled \"An act granting lands to aid in the construction of a railroad and telegraph line from the Central Pacific railroad, in California, to Portland, in Oregon.\"",
     "page": "",
     "session": "002",
     "tiff_filename": "09240000.tif",
@@ -16845,14 +16860,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "Alexandria and Georgetown Steam Packet Company.\"\""
+      "Committee on the District of Columbia"
     ],
     "congress": "040",
     "dates": [
       "18680109",
       "18680702"
     ],
-    "description": "Mr. Willey asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice and referred to the Committee on the District of Columbia. Reported by Mr. Corbett without amendment. A Bill In addition to the act entitled An act to incorporate the Washington",
+    "description": "Mr. Willey asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice and referred to the Committee on the District of Columbia. Reported by Mr. Corbett without amendment. A Bill In addition to the act entitled \"An act to incorporate the Washington, Alexandria and Georgetown Steam Packet Company.\"",
     "page": "",
     "session": "002",
     "tiff_filename": "09550000.tif",
@@ -16966,7 +16981,7 @@
       "18680110",
       "18680629"
     ],
-    "description": "Mr. Thayer asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice and referred to the Committee on Military Affairs and the Militia. Reported by Mr. Thayer without amendment. A Bill To amend section thirteen of an act entitled An act to increase and fix the military peace establishment of the United States.\"\"",
+    "description": "Mr. Thayer asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice and referred to the Committee on Military Affairs and the Militia. Reported by Mr. Thayer without amendment. A Bill To amend section thirteen of an act entitled \"An act to increase and fix the military peace establishment of the United States.\"",
     "page": "",
     "session": "002",
     "tiff_filename": "09610000.tif",
@@ -19003,7 +19018,7 @@
     "dates": [
       "18680121"
     ],
-    "description": "Mr. Patterson, of New Hampshire, from the Committee on Retrenchment reported the following bill; which was read and passed to a second reading. A Bill In addition to an act entitled An act regulating the tenure of certain civil offices.\"\"",
+    "description": "Mr. Patterson, of New Hampshire, from the Committee on Retrenchment reported the following bill; which was read and passed to a second reading. A Bill In addition to an act entitled \"An act regulating the tenure of certain civil offices.\"",
     "page": "",
     "session": "002",
     "tiff_filename": "10760000.tif",
@@ -19086,13 +19101,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "reported the same back with an amendment. A Bill In addition to an act entitled An act to regulate the tenure of certain civil offices.\" Strike out all after the enacting clause of the bill"
+      "Committee on Retrenchment"
     ],
     "congress": "040",
     "dates": [
       "18680205"
     ],
-    "description": "Mr. Patterson, of New Hampshire, from the Joint Committee on Retrenchment, to whom was recommitted the bill (S. 269) in addition to an act entitled An act regulating the tenure of certain civil offices",
+    "description": "Mr. Patterson, of New Hampshire, from the Joint Committee on Retrenchment, to whom was recommitted the bill (S. 269) in addition to an act entitled \"An act regulating the tenure of certain civil offices,\" reported the same back with an amendment. A Bill In addition to an act entitled \"An act to regulate the tenure of certain civil offices.\" Strike out all after the enacting clause of the bill, and in lieu thereof insert:",
     "page": "",
     "session": "002",
     "tiff_filename": "10810000.tif",
@@ -19143,7 +19158,7 @@
     "dates": [
       "18680213"
     ],
-    "description": "Ordered to be printed. An Act In addition to an act entitled An act regulating the tenure of certain civil offices.\"\"",
+    "description": "Ordered to be printed. An Act In addition to an act entitled \"An act regulating the tenure of certain civil offices.\"",
     "page": "",
     "session": "002",
     "tiff_filename": "10840000.tif",
@@ -21205,7 +21220,7 @@
     "dates": [
       "18680128"
     ],
-    "description": "Mr. Patterson, of New Hampshire, from the Committee on Retrenchment, reported the following bill; which was read the first and second times. A Bill In addition to an act entitled An act regulating the tenure of certain civil offices.\"\"",
+    "description": "Mr. Patterson, of New Hampshire, from the Committee on Retrenchment, reported the following bill; which was read the first and second times. A Bill In addition to an act entitled \"An act regulating the tenure of certain civil offices.\"",
     "page": "",
     "session": "002",
     "tiff_filename": "12010000.tif",
@@ -21252,13 +21267,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and to establish them as post roads.\"\""
+      "Committee on Post Offices and Post Roads"
     ],
     "congress": "040",
     "dates": [
       "18680129"
     ],
-    "description": "Mr. Ramsey asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on Post Offices and Post Roads and ordered to be printed. A Bill To amend an act entitled An act to authorize the construction of certain bridges",
+    "description": "Mr. Ramsey asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on Post Offices and Post Roads and ordered to be printed. A Bill To amend an act entitled \"An act to authorize the construction of certain bridges, and to establish them as post roads.\"",
     "page": "",
     "session": "002",
     "tiff_filename": "12040000.tif",
@@ -21271,14 +21286,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and to establish them as post roads.\"\""
+      "Committee on Post Offices and Post Roads"
     ],
     "congress": "040",
     "dates": [
       "18680129",
       "18680211"
     ],
-    "description": "Mr. Ramsey asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on Post Offices and Post Roads, and ordered to be printed. Reported by Mr. Ramsey, with amendments, viz: Strike out the part in [brackets] and insert the part printed in italics. A Bill To amend an act entitled An act to authorize the construction of certain bridges",
+    "description": "Mr. Ramsey asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on Post Offices and Post Roads, and ordered to be printed. Reported by Mr. Ramsey, with amendments, viz: Strike out the part in [brackets] and insert the part printed in italics. A Bill To amend an act entitled \"An act to authorize the construction of certain bridges, and to establish them as post roads.\"",
     "page": "",
     "session": "002",
     "tiff_filename": "12050000.tif",
@@ -23190,13 +23205,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and for the sale of their reservation in Minnesota for their benefit.\"\""
+      "Committee on Indian Affairs"
     ],
     "congress": "040",
     "dates": [
       "18680205"
     ],
-    "description": "Mr. Thayer asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on Indian Affairs, and ordered to be printed. A Bill Amending an act entitled An act for the removal of the Winnebago Indians",
+    "description": "Mr. Thayer asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on Indian Affairs, and ordered to be printed. A Bill Amending an act entitled \"An act for the removal of the Winnebago Indians, and for the sale of their reservation in Minnesota for their benefit.\"",
     "page": "",
     "session": "002",
     "tiff_filename": "13120000.tif",
@@ -23362,7 +23377,7 @@
       "18680207",
       "18680214"
     ],
-    "description": "Mr. Ferry asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice and referred to the Committee on the Judiciary. Reported by Mr. Trumbull without amendment, and that it ought not to pass. A Bill Additional to An act to establish a uniform system of bankruptcy throughout the United States.\"\"",
+    "description": "Mr. Ferry asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice and referred to the Committee on the Judiciary. Reported by Mr. Trumbull without amendment, and that it ought not to pass. A Bill Additional to \"An act to establish a uniform system of bankruptcy throughout the United States.\"",
     "page": "",
     "session": "002",
     "tiff_filename": "13210000.tif",
@@ -28175,7 +28190,7 @@
     "dates": [
       "18680228"
     ],
-    "description": "Mr. Stewart asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To amend an act entitled An act to establish a uniform system of bankruptcy throughout the United States.\"\"",
+    "description": "Mr. Stewart asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To amend an act entitled \"An act to establish a uniform system of bankruptcy throughout the United States.\"",
     "page": "",
     "session": "002",
     "tiff_filename": "15920000.tif",
@@ -28631,13 +28646,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "the relinquishment by the said State of all territory claimed by her"
+      "Committee on the Judiciary"
     ],
     "congress": "040",
     "dates": [
       "18680305"
     ],
-    "description": "Mr. Yates, from the Committee on the Judiciary, reported the following bill; which was read and passed to a second reading. A Bill To amend an act entitled An act proposing-to the State of Texas the establishment of her northern and western boundaries",
+    "description": "Mr. Yates, from the Committee on the Judiciary, reported the following bill; which was read and passed to a second reading. A Bill To amend an act entitled \"An act proposing-to the State of Texas the establishment of her northern and western boundaries, the relinquishment by the said State of all territory claimed by her, exterior to said boundaries, and of all her claims upon the United States, and to establish a territorial government for New Mexico.\"",
     "page": "",
     "session": "002",
     "tiff_filename": "16170000.tif",
@@ -31010,7 +31025,7 @@
     "dates": [
       "18680406"
     ],
-    "description": "Mr. Trumbull asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice and ordered to be printed. A Bill Supplementary to an act entitled An act to allow the United States to prosecute appeals and writs of error without giving security.\"\"",
+    "description": "Mr. Trumbull asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice and ordered to be printed. A Bill Supplementary to an act entitled \"An act to allow the United States to prosecute appeals and writs of error without giving security.\"",
     "page": "",
     "session": "002",
     "tiff_filename": "17490000.tif",
@@ -32196,7 +32211,7 @@
     "dates": [
       "18680602"
     ],
-    "description": "Mr. Trumbull asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill In addition to an act passed March twenty-sixth, eighteen hundred and four, entitled An act in addition to an act entitled \"An act for the punishment of certain crimes against the United States.\"\"",
+    "description": "Mr. Trumbull asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill In addition to an act passed March twenty-sixth, eighteen hundred and four, entitled \"An act in addition to an act entitled \"An act for the punishment of certain crimes against the United States.\"",
     "page": "",
     "session": "002",
     "tiff_filename": "18150000.tif",
@@ -32233,7 +32248,7 @@
       "18680602",
       "18680603"
     ],
-    "description": "Mr. Trumbull asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. Reported by Mr. Trumbull, with amendments, viz: Strike out the words in [bracket] and insert the words printed in italics. A Bill In addition to an act passed March twenty-sixth, eighteen hundred and four, entitled An act in addition to an act entitled \"An act for the punishment of certain crimes against the United States.\"\"",
+    "description": "Mr. Trumbull asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. Reported by Mr. Trumbull, with amendments, viz: Strike out the words in [bracket] and insert the words printed in italics. A Bill In addition to an act passed March twenty-sixth, eighteen hundred and four, entitled \"An act in addition to an act entitled \"An act for the punishment of certain crimes against the United States.\"",
     "page": "",
     "session": "002",
     "tiff_filename": "18170000.tif",
@@ -35201,7 +35216,7 @@
     "dates": [
       "18680612"
     ],
-    "description": "Mr. Edmunds asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill In addition to An act to regulate the times and. manner of holding elections for senators in Congress.\"\"",
+    "description": "Mr. Edmunds asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill In addition to \"An act to regulate the times and. manner of holding elections for senators in Congress.\"",
     "page": "",
     "session": "002",
     "tiff_filename": "19880000.tif",
@@ -35221,7 +35236,7 @@
       "18680612",
       "18680619"
     ],
-    "description": "Mr. Edmunds asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. Reported by Mr. Edmunds with amendments, viz: Strike out the parts in [brackets] and insert the letter printed in italics. A Bill In addition to An act to regulate the times and manner of holding elections for senators in Congress.\"\"",
+    "description": "Mr. Edmunds asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. Reported by Mr. Edmunds with amendments, viz: Strike out the parts in [brackets] and insert the letter printed in italics. A Bill In addition to \"An act to regulate the times and manner of holding elections for senators in Congress.\"",
     "page": "",
     "session": "002",
     "tiff_filename": "19890000.tif",
@@ -40700,13 +40715,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and for other purposes"
+      "Committee on Finance"
     ],
     "congress": "040",
     "dates": [
       "18680718"
     ],
-    "description": "Mr. Cattell asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on Finance, and ordered to be printed. A Bill Authorizing the Secretary of the Treasury to refund penalty, interest and costs illegally assessed and collected under direct tax laws. Whereas the collection of the penalty of fifty per centum, and of interest on the direct tax, provided by act of Congress approved June seven, eighteen hundred and sixty-two, entitled An act for the collection of direct taxes in insurrectionary districts within the United States",
+    "description": "Mr. Cattell asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on Finance, and ordered to be printed. A Bill Authorizing the Secretary of the Treasury to refund penalty, interest and costs illegally assessed and collected under direct tax laws. Whereas the collection of the penalty of fifty per centum, and of interest on the direct tax, provided by act of Congress approved June seven, eighteen hundred and sixty-two, entitled \"An act for the collection of direct taxes in insurrectionary districts within the United States, and for other purposes,\" as amendatory of the act of Congress approved August five, eighteen hundred and sixty-one, entitled \"An act to provide increased revenue from imports, to pay interest on the public debt, and for other purposes,\" was not made with uniformity by the commissioners for the several States, the penalty in many instances having been illegally exacted and interest collected at rates higher than those specified in said first-named act, and costs thereon charged without authority of law: Therefore,",
     "page": "",
     "session": "002",
     "tiff_filename": "22990000.tif",
@@ -42139,17 +42154,32 @@
     ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": [
-      "among which is enumerated Georgia, it is provided that until the people of said rebel States shall by law be admitted to representation in Congress, any civil government which may exist therein shall be provisional only, and such States are divided into military districts; and whereas, in the supplementary reconstruction act bearing date July nineteenth, eighteen hundred and sixty-seven, it is further provided that all persons hereafter elected or appointed to office in said military districts under any so-called State or municipal authority"
-    ],
+    "committees": [],
     "congress": "040",
     "dates": [
       "18681209"
     ],
-    "description": "Mr. Sumner asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice and ordered to be printed. A Bill To carry out the reconstruction acts in the State of Georgia. Whereas in the act of Congress entitled An act for the more efficient government of the rebel States",
+    "description": "Mr. Sumner asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice and ordered to be printed. A Bill To carry out the reconstruction acts in the State of Georgia. Whereas in the act of Congress entitled \"An act for the more efficient government of the rebel States,\" among which is enumerated Georgia, it is provided that until the people of said rebel States shall by law be admitted to representation in Congress, any civil government which may exist therein shall be provisional only, and such States are divided into military districts; and whereas, in the supplementary reconstruction act bearing date July nineteenth, eighteen hundred and sixty-seven, it is further provided that \"all persons hereafter elected or appointed to office in said military districts under any so-called State or municipal authority, shall be required to take and subscribe the oath of office prescribed by law for officers of the United States;\" and whereas, it was the true intent and meaning of the act above mentioned that persons allowed to participate in the provisional legislation of any of the rebel States prior to their admission to representation by Congress, should take and subscribe the oath above mentioned; and whereas the legislature of Georgia, elected under and by virture of the acts of Congress known as the reconstruction acts, on the twentieth, twenty-first, twenty-second, and twenty-third of April, eighteen hundred and sixty-eight, and which assembled on the fourth of July, eighteen hundred and sixty-eight, failed to comply with the foregoing requirement, so that such legislature was never organized according to law; and whereas further, this legislature, thus defective in organization, has pretended to act as if it were a legislative body duly constituted, and has done certain things utterly unjustifiable, and requiring the intervention of Congress: Therefore,",
     "page": "",
     "session": "003",
     "tiff_filename": "23820000.tif",
+    "volume": "040"
+  },
+  {
+    "bill_numbers": [
+      "S. 662"
+    ],
+    "chamber": "s",
+    "collection": "llsb",
+    "committees": [],
+    "congress": "040",
+    "dates": [
+      "18681209"
+    ],
+    "description": "",
+    "page": "2",
+    "session": "003",
+    "tiff_filename": "23830002.tif",
     "volume": "040"
   },
   {
@@ -43070,7 +43100,7 @@
     "dates": [
       "18681214"
     ],
-    "description": "Mr. Williams asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To amend an act entitled An act to establish an uniform rule of naturalization and to repeal the acts heretofore passed upon that subject.\"\"",
+    "description": "Mr. Williams asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To amend an act entitled \"An act to establish an uniform rule of naturalization and to repeal the acts heretofore passed upon that subject.\"",
     "page": "",
     "session": "003",
     "tiff_filename": "24350000.tif",
@@ -43664,7 +43694,7 @@
     "dates": [
       "18681214"
     ],
-    "description": "Mr. Conkling asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice and ordered to be printed. A Bill To repeal an act entitled An act to fix the times for the regular meetings of Congress.\"\"",
+    "description": "Mr. Conkling asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice and ordered to be printed. A Bill To repeal an act entitled \"An act to fix the times for the regular meetings of Congress.\"",
     "page": "",
     "session": "003",
     "tiff_filename": "24690000.tif",
@@ -44636,7 +44666,7 @@
     "dates": [
       "18681214"
     ],
-    "description": "Mr. Wilson asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on the District of Columbia, and ordered to be printed. A Bill To amend an act entitled An act to regulate the elective franchise in the District of Columbia.\"\"",
+    "description": "Mr. Wilson asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on the District of Columbia, and ordered to be printed. A Bill To amend an act entitled \"An act to regulate the elective franchise in the District of Columbia.\"",
     "page": "",
     "session": "003",
     "tiff_filename": "25250000.tif",
@@ -44869,7 +44899,7 @@
     "dates": [
       "18681215"
     ],
-    "description": "Mr. Pomeroy asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on the District Columbia, and ordered to be printed. A Bill To amend an act entitled An act concerning notaries public for the District of Columbia.\"\"",
+    "description": "Mr. Pomeroy asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on the District Columbia, and ordered to be printed. A Bill To amend an act entitled \"An act concerning notaries public for the District of Columbia.\"",
     "page": "",
     "session": "003",
     "tiff_filename": "25380000.tif",
@@ -46053,13 +46083,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and the acts supplementary thereto, and was ratified by the people of said State, at an election held in April, eighteen hundred and sixty-eight, and was submitted to Congress for examination and approval, and was approved by Congress, except certain parts declared null and void by the act of June twenty-fifth, eighteen hundred and sixty-eight, entitled An act to admit the States of North Carolina"
+      "Committee on the Judiciary"
     ],
     "congress": "040",
     "dates": [
       "18681219"
     ],
-    "description": "Mr. Pomeroy asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To provide for the reassembling of the constitutional convention of the State of Georgia, and to prescribe the duties of the same. Whereas a constitution of government for the State of Georgia was framed by a convention authorized by the act of Congress of March second, eighteen hundred and sixty-seven, entitled An act to provide for the more efficient government of the rebel States",
+    "description": "Mr. Pomeroy asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To provide for the reassembling of the constitutional convention of the State of Georgia, and to prescribe the duties of the same. Whereas a constitution of government for the State of Georgia was framed by a convention authorized by the act of Congress of March second, eighteen hundred and sixty-seven, entitled \"An act to provide for the more efficient government of the rebel States,\" and the acts supplementary thereto, and was ratified by the people of said State, at an election held in April, eighteen hundred and sixty-eight, and was submitted to Congress for examination and approval, and was approved by Congress, except certain parts declared null and void by the act of June twenty-fifth, eighteen hundred and sixty-eight, entitled \"An act to admit the States of North Carolina, South Carolina, Louisiana, Georgia, Alabama, and Florida to representation in Congress; and whereas it was the true intent and meaning of Congress in the act last aforesaid that said constitution was republican in form and allowed no discrimination in civil or political rights on account of race or color; and whereas certain loyal citizens duly elected members of the general assembly of Georgia have been deprived of their seats in said assembly on account of their race and color, in violation of said constitution and of the principles of the Constitution of the United States and of said intent and meaning of Congress; and whereas in consequence of the exclusion of said members and the admission of others in their places, the legislative action of said State tends to abridge the privileges and immunities of citizens of the United States, and to deny to loyal persons within the jurisdiction of said State the equal protection of the laws; and whereas a pretext for the exclusion of said members was found in the want of a distinct and affirmative definition in said constitution of Georgia of the qualifications for office in said State; and whereas it is essential to the peace and tranquility of said State, and to the equal rights of the citizens thereof, that no doubt should exist in relation to the qualification for office under said constitution; and whereas said convention adjourned on the eleventh day of March, eighteen hundred and sixty-eight, subject to be reassembled, if necessary to complete the reconstruction of said State) at any time within one year: Therefore,",
     "page": "",
     "session": "003",
     "tiff_filename": "26050000.tif",
@@ -46159,13 +46189,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and so forth, approved second July, eighteen hundred and sixty-two, and the acts amendatory thereto, and which has been issued pursuant thereto, has been appropriated by the trustees of the University of North Carolina for other purposes than those contemplated by said enactment, and an act of the general assembly of said State entitled An act to transfer the land scrip given by the United States to the State of North Carolina"
+      "Committee on Public Lands"
     ],
     "congress": "040",
     "dates": [
       "18681219"
     ],
-    "description": "Mr. Abbott asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill To authorize and require the reissue of land scrip to the State of North Carolina. Whereas it appears that the land scrip authorized to be issued to the State of North Carolina under the provisions of an act entitled An act donating public lands to the several States and Territories",
+    "description": "Mr. Abbott asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill To authorize and require the reissue of land scrip to the State of North Carolina. Whereas it appears that the land scrip authorized to be issued to the State of North Carolina under the provisions of an act entitled \"An act donating public lands to the several States and Territories,\" and so forth, approved second July, eighteen hundred and sixty-two, and the acts amendatory thereto, and which has been issued pursuant thereto, has been appropriated by the trustees of the University of North Carolina for other purposes than those contemplated by said enactment, and an act of the general assembly of said State entitled \"An act to transfer the land scrip given by the United States to the State of North Carolina,\" ratified the eleventh of February, eighteen hundred and sixty-seven, and in violation of the terms and conditions imposed by said last mentioned act, and the act of Congress aforesaid: Therefore,",
     "page": "",
     "session": "003",
     "tiff_filename": "26110000.tif",
@@ -46393,13 +46423,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and to provide for the circulation and redemption thereof.\"\""
+      "Committee on Finance"
     ],
     "congress": "040",
     "dates": [
       "18690105"
     ],
-    "description": "Mr. Wilson asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on Finance, and ordered to be printed. A Bill To amend an act entitled An act to provide a national currency secured by pledge of United States bonds",
+    "description": "Mr. Wilson asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on Finance, and ordered to be printed. A Bill To amend an act entitled \"An act to provide a national currency secured by pledge of United States bonds, and to provide for the circulation and redemption thereof.\"",
     "page": "",
     "session": "003",
     "tiff_filename": "26240000.tif",
@@ -46694,13 +46724,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "by the laws thereof"
+      "Committee on the Judiciary"
     ],
     "congress": "040",
     "dates": [
       "18690105"
     ],
-    "description": "Mr. Sumner asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To repeal an act entitled An act to prevent the importation of certain persons into certain States where",
+    "description": "Mr. Sumner asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill To repeal an act entitled \"An act to prevent the importation of certain persons into certain States where, by the laws thereof, their admission is prohibited.\"",
     "page": "",
     "session": "003",
     "tiff_filename": "26410000.tif",
@@ -46828,7 +46858,7 @@
     "dates": [
       "18690105"
     ],
-    "description": "Mr. Thayer asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill Supplementary to an act entitled An act to confirm the titles to certain lands in the State of Nebraska.\"\"",
+    "description": "Mr. Thayer asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on Public Lands, and ordered to be printed. A Bill Supplementary to an act entitled \"An act to confirm the titles to certain lands in the State of Nebraska.\"",
     "page": "",
     "session": "003",
     "tiff_filename": "26480000.tif",
@@ -53831,7 +53861,7 @@
     "dates": [
       "18690121"
     ],
-    "description": "Mr. Howard asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on Claims, and ordered to be printed. A Bill Supplemental to an act entitled An act to provide compensation for the services of George Morrill in adjusting titles to land in Michigan.\"\"",
+    "description": "Mr. Howard asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on Claims, and ordered to be printed. A Bill Supplemental to an act entitled \"An act to provide compensation for the services of George Morrill in adjusting titles to land in Michigan.\"",
     "page": "",
     "session": "003",
     "tiff_filename": "30480000.tif",
@@ -54092,13 +54122,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "in alternate sections"
+      "Committee on Public Lands"
     ],
     "congress": "040",
     "dates": [
       "18690122"
     ],
-    "description": "Mr. Pomeroy, from the Committee on Public Lands, reported the following bill; which was read and passed to a second reading. A Bill To grant lands to aid in the construction of a railroad from the Mississippi river to Yancton, on the Missouri river, and to amend an act entitled An act for a grant of lands to the State of Iowa",
+    "description": "Mr. Pomeroy, from the Committee on Public Lands, reported the following bill; which was read and passed to a second reading. A Bill To grant lands to aid in the construction of a railroad from the Mississippi river to Yancton, on the Missouri river, and to amend an act entitled \"An act for a grant of lands to the State of Iowa, in alternate sections, to aid in the construction of a railroad in said State,\" approved May twelfth, eighteen hundred and sixty-four. Whereas it appears that it is the intention of Congress, by the act to which this act is an amendment, to cause to be constructed a railroad from McGregor, on the Mississippi river, in the State of Iowa, thence westerly to the Missouri river, on or near the forty-third parallel of latitude, to a point at or near Yancton, in the Territory of Dakota, a distance of about three hundred and fifty miles; also a railroad from Sioux City, in the State of Iowa, to the Minnesota State line, at a point between the Big Sioux and the west fork of the Des Monies river, there to connect with a railroad running to the head of Lake Superior, via Saint Paul, to the end that the United States may the sooner sell their lands located on the above routes, and that the country around may be the more rapidly settled up and improved, and that the United States government may have and enjoy increased facilities for the transportation of mails, troops, supplies, and munitions of war; and whereas the McGregor Western Railway Company named in said act to which this is an amendment, after building about forty-five miles of said railroad, sold, assigned and transferred the same, and the legislature of Iowa, by an act entitled \"An act to resume all the lands and rights conferred upon the McGregor Western Railway Company, by or under an act of Congress,\" approved may twelfth, eighteen hundred and sixty-four, resumed said grant by an act of said State, approved March thirty-first, eighteen hundred and sixty-eight, and granted said lands to the McGregor and Sioux City Railway Company, the assignee and the successor of the said McGregor Western Railway Company, which act of the Iowa legislature has been duly accepted by said McGregor and Sioux City Railway Company as therein required: Therefore,",
     "page": "",
     "session": "003",
     "tiff_filename": "30630000.tif",
@@ -58140,13 +58170,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "if any"
+      "Committee on Patents"
     ],
     "congress": "040",
     "dates": [
       "18690205"
     ],
-    "description": "Mr. Willey, from the Committee on Patents, made a report, No. 203, accompanied by the following bill; which was read and passed to a second reading. A Bill For the relief of Polly Hunt, administratrix, and George W. Hunt, administrator, of the estate of Walter Hunt, deceased. Whereas on the twenty-fifth day of July, anno Domini eighteen hundred and fifty-four, a patent was issued to the aforesaid Walter Hunt for a new and useful manufacture known as paper collars; and whereas the subject-matter of the patent was afterwards divided into five divisions, each of which was subsequently reissued, said reissues being numbered and dated as follows, viz: November twenty-ninth eighteen hundred and sixty-four, No. 1828; February seventh, eighteen hundred and sixty-five, No. 1867; April fourth, eighteen hundred and sixty-five, No. 1926; July tenth, eighteen hundred and sixty-six, No.2306; and July twenty-ninth, eighteen hundred and sixty-six, No. 2307; and whereas prior to the expiration thereof, and within the time prescribed by law, application was made before the Commissioner of Patents for an extension thereof; and whereas said application was heard and considered by one of the assistant examiners in the Patent Office, who made an elaborate report in favor of such extension, and said report was reviewed by one of the principal examiners, who also decided that such extension ought to be granted; and whereas, owing to the peculiar circumstances in which the Commissioner of Patents was placed when said application was laid before him for final action, he was unable to give much",
+    "description": "Mr. Willey, from the Committee on Patents, made a report, No. 203, accompanied by the following bill; which was read and passed to a second reading. A Bill For the relief of Polly Hunt, administratrix, and George W. Hunt, administrator, of the estate of Walter Hunt, deceased. Whereas on the twenty-fifth day of July, anno Domini eighteen hundred and fifty-four, a patent was issued to the aforesaid Walter Hunt for a new and useful manufacture known as paper collars; and whereas the subject-matter of the patent was afterwards divided into five divisions, each of which was subsequently reissued, said reissues being numbered and dated as follows, viz: November twenty-ninth eighteen hundred and sixty-four, No. 1828; February seventh, eighteen hundred and sixty-five, No. 1867; April fourth, eighteen hundred and sixty-five, No. 1926; July tenth, eighteen hundred and sixty-six, No.2306; and July twenty-ninth, eighteen hundred and sixty-six, No. 2307; and whereas prior to the expiration thereof, and within the time prescribed by law, application was made before the Commissioner of Patents for an extension thereof; and whereas said application was heard and considered by one of the assistant examiners in the Patent Office, who made an elaborate report in favor of such extension, and said report was reviewed by one of the principal examiners, who also decided that such extension ought to be granted; and whereas, owing to the peculiar circumstances in which the Commissioner of Patents was placed when said application was laid before him for final action, \"he was unable to give much, if any, time to the examination of the case,\" and therefore his examination was superficial, incomplete, and therefore not conclusive as to the merits of the claim of the applicants; and whereas the then acting Commissioner now expresses the opinion that justice requires that the applicants should have a further hearing before the Commissioner of Patents, because \"neither the law nor the evidence was properly considered by him \"when he rejected said application: Therefore,",
     "page": "",
     "session": "003",
     "tiff_filename": "32900000.tif",
@@ -61230,7 +61260,7 @@
     "dates": [
       "18690219"
     ],
-    "description": "Mr. Pomeroy asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill Supplemental to An act to abolish and forever prohibit the system of peonage in the Territory of New Mexico and other parts of the United States.\"\"",
+    "description": "Mr. Pomeroy asked, and by unanimous consent obtained, leave to bring in the following bill; which was read twice, referred to the Committee on the Judiciary, and ordered to be printed. A Bill Supplemental to \"An act to abolish and forever prohibit the system of peonage in the Territory of New Mexico and other parts of the United States.\"",
     "page": "",
     "session": "003",
     "tiff_filename": "34620000.tif",

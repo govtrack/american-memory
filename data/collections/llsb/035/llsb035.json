@@ -3574,7 +3574,7 @@
     "dates": [
       "18580107"
     ],
-    "description": "Mr. Clay, from the Committee on Commerce, required the following bill; which was read and passed to a second reading A Bill To authorize a register to be issued to the steamer Fearless\"\"",
+    "description": "Mr. Clay, from the Committee on Commerce, required the following bill; which was read and passed to a second reading A Bill To authorize a register to be issued to the steamer \"Fearless\"",
     "page": "",
     "session": "001",
     "tiff_filename": "01970000.tif",
@@ -3646,14 +3646,15 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "Stephen Heard"
+      "Committee on Public Lands",
+      "Committee of the Whole"
     ],
     "congress": "035",
     "dates": [
       "18580111",
       "18580604"
     ],
-    "description": "Mr. Johnson, of Arkansas, asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice and referred to the Committee on Public Lands. Reported with an amendment, viz: Strike out all after the enacting clause, and insert what follows printed in italics, and amend the title to read, A bill to revive and extend an act entitled 'An act for the relief of the representatives of John Donnelson",
+    "description": "Mr. Johnson, of Arkansas, asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice and referred to the Committee on Public Lands. Reported with an amendment, viz: Strike out all after the enacting clause, and insert what follows printed in italics, and amend the title to read, \"A bill to revive and extend an act entitled 'An act for the relief of the representatives of John Donnelson, Stephen Heard, and others,' approved May 24, 1824, and the several acts extending, continuing, and reviving the same.\" The bill was considered as in Committee of the Whole, and the reported amendment having been agreed to, it was read the third time and passed. A Bill To revive an act entitled \"An act for the relief of the representatives of John Donnelson, Stephen Heard, and others,\" approved May twenty-four, eighteen hundred and twenty-four.",
     "page": "",
     "session": "001",
     "tiff_filename": "02010000.tif",
@@ -8231,7 +8232,7 @@
     "dates": [
       "18580126"
     ],
-    "description": "Amendment Intended to be proposed by Mr. Pugh to the bill (S. 79) to increase the military establishment of the United States.\"\"",
+    "description": "Amendment Intended to be proposed by Mr. Pugh to the bill (S. 79) \"to increase the military establishment of the United States.\"",
     "page": "",
     "session": "001",
     "tiff_filename": "04580000.tif",
@@ -8551,14 +8552,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and for other purposes.\""
+      "Committee on Commerce"
     ],
     "congress": "035",
     "dates": [
       "18580125",
       "18580329"
     ],
-    "description": "Mr. Stuart asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice and referred to the Committee on Commerce. Reported with an amendment, viz: Strike out the words within [brackets,] and insert those printed in italics. A Bill To provide for the better regulation of night signals\" on board \"sail vessels\" navigating the northwestern lakes and their tributaries",
+    "description": "Mr. Stuart asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice and referred to the Committee on Commerce. Reported with an amendment, viz: Strike out the words within [brackets,] and insert those printed in italics. A Bill To provide for the better regulation of \"night signals\" on board \"sail vessels\" navigating the northwestern lakes and their tributaries, and for other purposes.",
     "page": "",
     "session": "001",
     "tiff_filename": "04760000.tif",
@@ -8697,14 +8698,12 @@
     ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": [
-      "' and to repeal the acts therein mentioned"
-    ],
+    "committees": [],
     "congress": "035",
     "dates": [
       "18580601"
     ],
-    "description": "Ordered to be printed. Amendment Intended to be proposed by Mr. Slidell to the bill (S. 85) supplementary to the act entitled \"An act in addition to the 'Act for the punishment of certain crimes against the United States",
+    "description": "Ordered to be printed. Amendment Intended to be proposed by Mr. Slidell to the \"bill (S. 85) supplementary to the act entitled \"An act in addition to the 'Act for the punishment of certain crimes against the United States,' and to repeal the acts therein mentioned,\" approved April twenty, eighteen hundred and eighteen, viz: Add the following as a new section:",
     "page": "",
     "session": "001",
     "tiff_filename": "04840000.tif",
@@ -10740,7 +10739,7 @@
       "18580211",
       "18580428"
     ],
-    "description": "Agreeably to notice, Mr. Foster asked and obtained leave to bring in the following bill; which was read twice and referred to the Committee on Pensions. Reported without amendment, and recommended that the bill be postponed indefinitely. A Bill To extend an act approved the third day of February, eighteen hundred and fifty-three, entitled An act to continue half-pay to certain widows and orphans.\"\"",
+    "description": "Agreeably to notice, Mr. Foster asked and obtained leave to bring in the following bill; which was read twice and referred to the Committee on Pensions. Reported without amendment, and recommended that the bill be postponed indefinitely. A Bill To extend an act approved the third day of February, eighteen hundred and fifty-three, entitled \"An act to continue half-pay to certain widows and orphans.\"",
     "page": "",
     "session": "001",
     "tiff_filename": "05920000.tif",
@@ -11961,7 +11960,7 @@
     "dates": [
       "18580217"
     ],
-    "description": "Mr. Brown, from the Committee on the District of Columbia, reported the following bill; which was read and passed to a second reading. A Bill Further to amend the act entitled An act to incorporate the Provident Association of Clerks in the Civil Departments of the Government of the United States in the District of Columbia.\"\"",
+    "description": "Mr. Brown, from the Committee on the District of Columbia, reported the following bill; which was read and passed to a second reading. A Bill Further to amend the act entitled \"An act to incorporate the Provident Association of Clerks in the Civil Departments of the Government of the United States in the District of Columbia.\"",
     "page": "",
     "session": "001",
     "tiff_filename": "06590000.tif",
@@ -12740,13 +12739,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "made the following Report. The Committee of Conference, appointed to consider the disagreeing votes of the two houses on the amendment to the Senate bill No. 161, entitled A bill for the admission of the State of Kansas into the Union"
+      "Committee of Conference"
     ],
     "congress": "035",
     "dates": [
       "18580423"
     ],
-    "description": "Ordered to be printed. Read, and, on motion by Mr. Green, postponed to and made the special order of the day for Monday, the 26th of April, at one o'clock. Mr. Green, from the Committee of Conference on the disagreeing votes of the two houses on the Bill (S. 161) for the admission of the State of Kansas into the Union",
+    "description": "Ordered to be printed. Read, and, on motion by Mr. Green, postponed to and made the special order of the day for Monday, the 26th of April, at one o'clock. Mr. Green, from the Committee of Conference on the disagreeing votes of the two houses on the \"Bill (S. 161) for the admission of the State of Kansas into the Union,\" made the following Report. The Committee of Conference, appointed to consider the disagreeing votes of the two houses on the amendment to the Senate bill No. 161, entitled \"A bill for the admission of the State of Kansas into the Union,\" report: That they have had the subject under consideration, and have given it that careful, patient, and mature deliberation which they conceive its importance demands, and have agreed upon an amendment in the nature of a substitute for the House amendment to the Senate bill.",
     "page": "",
     "session": "001",
     "tiff_filename": "07030000.tif",
@@ -13682,14 +13681,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "eighteen hundred and fifty-eight.\"\""
+      "Committee on Naval Affairs"
     ],
     "congress": "035",
     "dates": [
       "18580302",
       "18580524"
     ],
-    "description": "Mr. Houston asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice and referred to the Committee on Naval Affairs. Reported without amendment and adversely. A Bill To extend the provisions of section twelve\" of the \"Act making appropriations for the naval service for the year ending the thirtieth of June",
+    "description": "Mr. Houston asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice and referred to the Committee on Naval Affairs. Reported without amendment and adversely. A Bill To extend the provisions of \"section twelve\" of the \"Act making appropriations for the naval service for the year ending the thirtieth of June, eighteen hundred and fifty-eight.\"",
     "page": "",
     "session": "001",
     "tiff_filename": "07540000.tif",
@@ -17857,13 +17856,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and for other purposes.\"\""
+      "Committee on Commerce"
     ],
     "congress": "035",
     "dates": [
       "18580408"
     ],
-    "description": "Mr. Hamlin, from the Committee on Commerce, reported the following bill; which was read and passed, to a second reading. A Bill To amend or define the act of July twenty-nine, eighteen hundred and fifty, entitled An act providing for recording the conveyances of vessels",
+    "description": "Mr. Hamlin, from the Committee on Commerce, reported the following bill; which was read and passed, to a second reading. A Bill To amend or define the act of July twenty-nine, eighteen hundred and fifty, entitled \"An act providing for recording the conveyances of vessels, and for other purposes.\"",
     "page": "",
     "session": "001",
     "tiff_filename": "09850000.tif",
@@ -18227,13 +18226,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and of Alexander Randall"
+      "Committee on Military Affairs and the Militia"
     ],
     "congress": "035",
     "dates": [
       "18580413"
     ],
-    "description": "Mr. King, from the Committee on Military Affairs and the Militia, submitted a report, (No. 178,) accompanied by the following bill; which was read and passed to a second reading. A Bill Further explanatory of an act approved August eighteen, eighteen hundred and fifty-six, entitled An act for the relief of Adam D. Stewart",
+    "description": "Mr. King, from the Committee on Military Affairs and the Militia, submitted a report, (No. 178,) accompanied by the following bill; which was read and passed to a second reading. A Bill Further explanatory of an act approved August eighteen, eighteen hundred and fifty-six, entitled \"An act for the relief of Adam D. Stewart, and of Alexander Randall, executor of Daniel Randall.\"",
     "page": "",
     "session": "001",
     "tiff_filename": "10050000.tif",
@@ -18263,13 +18262,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "and of Alexander Randall"
+      "Committee on Military Affairs",
+      "Committee of the Whole House"
     ],
     "congress": "035",
     "dates": [
       "18590104"
     ],
-    "description": "Reported from the Committee on Military Affairs without amendment, and committed to a Committee of the Whole House. An Act Further explanatory of the act approved August eighteen, eighteen hundred and fifty-six, entitled An act for the relief of Adam D. Steuart",
+    "description": "Reported from the Committee on Military Affairs without amendment, and committed to a Committee of the Whole House. An Act Further explanatory of the act approved August eighteen, eighteen hundred and fifty-six, entitled \"An act for the relief of Adam D. Steuart, and of Alexander Randall, executor of Daniel Randall.\"",
     "page": "",
     "session": "002",
     "tiff_filename": "10070000.tif",
@@ -23209,13 +23209,13 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "to aid in the improvement of the Des Moines river"
+      "Committee on Public Lands"
     ],
     "congress": "035",
     "dates": [
       "18580520"
     ],
-    "description": "Mr. Harlan, from the Committee on Public Lands, reported the following bill; which was read and passed to a second reading. A Bill To amend An act granting lands to the Territory of Iowa",
+    "description": "Mr. Harlan, from the Committee on Public Lands, reported the following bill; which was read and passed to a second reading. A Bill To amend \"An act granting lands to the Territory of Iowa, to aid in the improvement of the Des Moines river, in said Territory.\"",
     "page": "",
     "session": "001",
     "tiff_filename": "12740000.tif",
@@ -24884,14 +24884,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "one thousand eight hundred and fifty-six.\"\""
+      "Committee on Public Lands"
     ],
     "congress": "035",
     "dates": [
       "18580604",
       "18580607"
     ],
-    "description": "Mr. Stuart asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice and referred to the Committee on Public Lands. Reported with amendments, viz: Strike out the words within [brackets,] and insert those printed in italics. A Bill To amend an act entitled An act making appropriations for the services of the Post Office Department during the fiscal year ending the thirtieth of June",
+    "description": "Mr. Stuart asked and, by unanimous consent, obtained leave to bring in the following bill; which was read twice and referred to the Committee on Public Lands. Reported with amendments, viz: Strike out the words within [brackets,] and insert those printed in italics. A Bill To amend an act entitled \"An act making appropriations for the services of the Post Office Department during the fiscal year ending the thirtieth of June, one thousand eight hundred and fifty-six.\"",
     "page": "",
     "session": "001",
     "tiff_filename": "13640000.tif",
@@ -27483,14 +27483,12 @@
     ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": [
-      "viz: Strike out the entire bill, including the enacting clause from the words Be it"
-    ],
+    "committees": [],
     "congress": "035",
     "dates": [
       "18590221"
     ],
-    "description": "Ordered to be printed. Amendment Intended to be proposed by Mr. Mason to the bill (S. 497) making appropriation to facilitate the acquisition of the island of Cuba by negotiation",
+    "description": "Ordered to be printed. Amendment Intended to be proposed by Mr. Mason to the bill (S. 497) \"making appropriation to facilitate the acquisition of the island of Cuba by negotiation,\" viz: Strike out the entire bill, including the enacting clause from the words \"Be it,\" in the first line, and in lieu thereof insert the following, and amend the title to read: A joint resolution in relation to the island of Cuba.",
     "page": "",
     "session": "002",
     "tiff_filename": "15040000.tif",
@@ -27725,7 +27723,7 @@
     "dates": [
       "18590112"
     ],
-    "description": "Mr. Brown, from the Committee on the District of Columbia, reported the following bill; which was read and passed to a second reading. A Bill To amend the Act to incorporate the Provident Association of Clerks in the Civil Departments of the Government of the United States in the District of Columbia.\"\"",
+    "description": "Mr. Brown, from the Committee on the District of Columbia, reported the following bill; which was read and passed to a second reading. A Bill To amend the \"Act to incorporate the Provident Association of Clerks in the Civil Departments of the Government of the United States in the District of Columbia.\"",
     "page": "",
     "session": "002",
     "tiff_filename": "15170000.tif",
@@ -33003,14 +33001,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "one thousand seven hundred and eighty-nine.\"\""
+      "Committee on the Judiciary"
     ],
     "congress": "035",
     "dates": [
       "18590217",
       "18590223"
     ],
-    "description": "Agreeably to notice, Mr. Clay asked and obtained leave to bring in the following bill; which was read twice and referred to the Committee on the Judiciary. Reported by Mr. Bayard without amendment, and adversely. A Bill To amend an act approved thirty-first May, eighteen hundred and forty-four, entitled An act to amend the judiciary act passed the twenty-fourth of September",
+    "description": "Agreeably to notice, Mr. Clay asked and obtained leave to bring in the following bill; which was read twice and referred to the Committee on the Judiciary. Reported by Mr. Bayard without amendment, and adversely. A Bill To amend an act approved thirty-first May, eighteen hundred and forty-four, entitled \"An act to amend the judiciary act passed the twenty-fourth of September, one thousand seven hundred and eighty-nine.\"",
     "page": "",
     "session": "002",
     "tiff_filename": "18150000.tif",
@@ -33118,14 +33116,14 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [
-      "with such guards and restrictions as may seem advisable for their protection therein;\" and whereas \"separate selections\" have been made by many Shawnees fully competent to manage their affairs:\""
+      "Committee on Indian Affairs"
     ],
     "congress": "035",
     "dates": [
       "18590218",
       "18590219"
     ],
-    "description": "Agreeably to notice, Mr. Stuart asked and obtained leave to bring in the following bill; which was read twice and referred to the Committee on Indian Affairs. Reported by Mr. Sebastian with an amendment, viz: Insert the section printed in italics. A Bill To carry out the Shawnee treaty of May ten, eighteen hundred and fifty-four. Whereas, in article nine of the Shawnee treaty of May ten, eighteen hundred and fifty-four, it is provided that Congress may hereafter provide for the issuing to such of the Shawnees as may make separate selections patents for the same",
+    "description": "Agreeably to notice, Mr. Stuart asked and obtained leave to bring in the following bill; which was read twice and referred to the Committee on Indian Affairs. Reported by Mr. Sebastian with an amendment, viz: Insert the section printed in italics. A Bill To carry out the Shawnee treaty of May ten, eighteen hundred and fifty-four. Whereas, in article nine of the Shawnee treaty of May ten, eighteen hundred and fifty-four, it is provided that \"Congress may hereafter provide for the issuing to such of the Shawnees as may make separate selections patents for the same, with such guards and restrictions as may seem advisable for their protection therein;\" and whereas \"separate selections\" have been made by many Shawnees fully competent to manage their affairs:",
     "page": "",
     "session": "002",
     "tiff_filename": "18210000.tif",
@@ -33236,7 +33234,7 @@
     "dates": [
       "18590219"
     ],
-    "description": "Mr. Broderick, from the Committee on Military Affairs and the Militia, reported the following bill; which was read and passed to a second reading. A Bill For the relief of John T. Wright, owner of the steamer America.\"\"",
+    "description": "Mr. Broderick, from the Committee on Military Affairs and the Militia, reported the following bill; which was read and passed to a second reading. A Bill For the relief of John T. Wright, owner of the steamer \"America.\"",
     "page": "",
     "session": "002",
     "tiff_filename": "18270000.tif",

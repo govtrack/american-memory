@@ -506,14 +506,15 @@
     "chamber": "s",
     "collection": "llsr",
     "committees": [
-      "and to provide more effectually for the settlement of the accounts thereof"
+      "Committee on the Post office and Post Roads",
+      "Committee of the Whole"
     ],
     "congress": "030",
     "dates": [
       "18480622",
       "18480626"
     ],
-    "description": "Agreeably to notice, Mr. Breese asked and obtained leave to bring in the following joint resolution: which was read twice, and referred to the Committee on the Post office and Post Roads. Reported without amendment, considered as in Committee of the Whole, and postponed until to-morrow. Joint Resolution For the relief of such persons as may have incurred the disability of the twenty-eighth section of the Act to change the organization of the Post Office Department",
+    "description": "Agreeably to notice, Mr. Breese asked and obtained leave to bring in the following joint resolution: which was read twice, and referred to the Committee on the Post office and Post Roads. Reported without amendment, considered as in Committee of the Whole, and postponed until to-morrow. Joint Resolution For the relief of such persons as may have incurred the disability of the twenty-eighth section of the \"Act to change the organization of the Post Office Department, and to provide more effectually for the settlement of the accounts thereof,\" approved July second, eighteen hundred and thirty-six.",
     "page": "",
     "session": "001",
     "tiff_filename": "00280000.tif",
@@ -601,14 +602,14 @@
     "chamber": "s",
     "collection": "llsr",
     "committees": [
-      "subsistence or transportation furnished for the use of volunteers during the present war"
+      "Committee on Military Affairs"
     ],
     "congress": "030",
     "dates": [
       "18480629",
       "18490105"
     ],
-    "description": "Mr. Lewis, by unanimous consent, asked and obtained leave to bring in the following joint resolution; which was read twice and referred to the Committee on Military Affairs. Reported without amendment, and accompanied by a report, [S. No. 253.] Joint Resolution Explanatory of the act of June second, eighteen hundred and forty-eight, entitled An act to refund money for expenses incurred",
+    "description": "Mr. Lewis, by unanimous consent, asked and obtained leave to bring in the following joint resolution; which was read twice and referred to the Committee on Military Affairs. Reported without amendment, and accompanied by a report, [S. No. 253.] Joint Resolution Explanatory of the act of June second, eighteen hundred and forty-eight, entitled \"An act to refund money for expenses incurred, subsistence or transportation furnished for the use of volunteers during the present war, before being mustered and received into the service of the United States.",
     "page": "",
     "session": "001",
     "tiff_filename": "00330000.tif",
@@ -961,18 +962,5 @@
     "session": "002",
     "tiff_filename": "00520002.tif",
     "volume": "030"
-  },
-  {
-    "bill_numbers": [],
-    "chamber": "",
-    "collection": "",
-    "committees": [],
-    "congress": "",
-    "dates": [],
-    "description": "",
-    "page": "",
-    "session": "",
-    "tiff_filename": "",
-    "volume": ""
   }
 ]
