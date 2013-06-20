@@ -14,27 +14,17 @@
       "18500103"
     ],
     "description": "Agreeably to notice, Mr. Phelps asked and obtained leave to bring in the following joint resolution; which was read twice, and referred to the Committee on Finance. Reported with amendments, viz: stirke out the parts within [brackets] and insert those printed in italics, and made the special order of the day for to-morrow. Joint Resolution Suspending for a limited time the limitation upon the expense of collecting the Revenue from Customs.",
-    "page": "",
-    "session": "001",
-    "tiff_filename": "00010000.tif",
-    "volume": "031"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 1"
+    "pages": [
+      {
+        "image": "00010000.tif",
+        "page": 1
+      },
+      {
+        "image": "00020002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "031",
-    "dates": [
-      "18491227",
-      "18500103"
-    ],
-    "description": "",
-    "page": "2",
     "session": "001",
-    "tiff_filename": "00020002.tif",
     "volume": "031"
   },
   {
@@ -52,9 +42,13 @@
       "18500227"
     ],
     "description": "Agreeably to notice, Mr. Davis, of Mississippi, asked and obtained leave to bring in the following joint resolution; which was read twice, and referred to the Committee on Military Affairs. Reported without amendment. Joint Resolution For restoring the settlement of the \"three months extra pay\" claims to the accounting officers of the treasury.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00030000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00030000.tif",
     "volume": "031"
   },
   {
@@ -72,9 +66,13 @@
       "18500502"
     ],
     "description": "Read twice, and referred to the Committee on Foreign Affairs. Reported back without amendment by Mr. McDowell, and committed to a Committee of the Whole House, and made the order of the day for to-morrow. Joint Resolution For the relief of John Hogan.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00040000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00040000.tif",
     "volume": "031"
   },
   {
@@ -91,9 +89,13 @@
       "18500213"
     ],
     "description": "Mr. King, from the Committee on Foreign Relations, reported the following joint resolution; which was read the first and second times by unanimous consent, considered as in Committee of the Whole, and ordered to be engrossed and read a third time. Joint Resolution For the relief of John Hogan.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00050000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00050000.tif",
     "volume": "031"
   },
   {
@@ -110,9 +112,13 @@
       "18500225"
     ],
     "description": "Mr. Atchison, from the Committee on Indian Affairs, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution For the settlement of accounts with the heirs and representatives of Colonel Pierce M. Butler, late agent for the Cherokee Indians.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00060000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00060000.tif",
     "volume": "031"
   },
   {
@@ -130,9 +136,13 @@
       "18500306"
     ],
     "description": "Agreeably to notice, Mr. Underwood, asked and obtained leave to bring in the following joint resolution; which was read twice, and referred to the Committee on Finance. Reported with amendments, viz: strike out the part within [brackets] and insert that printed in italics. Relative to the payment of dividends or interest on war bounty scrip. Joint Resolution",
-    "page": "",
+    "pages": [
+      {
+        "image": "00070000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00070000.tif",
     "volume": "031"
   },
   {
@@ -149,9 +159,13 @@
       "18500322"
     ],
     "description": "Mr. Butler, from the Committee on the Judiciary, submitted a report, [No. 92,] accompanied by the following joint resolution; which was read, and passed to a second reading. Joint Resolution For the relief of Charles F. Sibbald.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00080000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00080000.tif",
     "volume": "031"
   },
   {
@@ -168,9 +182,13 @@
       "18500328"
     ],
     "description": "Mr. Borland, from the Committee on Printing, reported the following joint resolution; which was read the first and second times by unanimous consent, and ordered to lie on the table. Joint Resolution To insure more expedition in the public printing.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00090000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00090000.tif",
     "volume": "031"
   },
   {
@@ -187,43 +205,21 @@
       "18500403"
     ],
     "description": "Agreeably to notice, Mr. Underwood, asked and obtained leave to bring in the following joint resolution; which was read the first and second times by unanimous consent, considered as in Committee of the Whole, and ordered to lie on the table, and be printed. Joint Resolution Proposing amendments to the Constitution of the United States.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00100000.tif",
+        "page": 1
+      },
+      {
+        "image": "00110002.tif",
+        "page": 2
+      },
+      {
+        "image": "00120003.tif",
+        "page": 3
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00100000.tif",
-    "volume": "031"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 17"
-    ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "031",
-    "dates": [
-      "18500403"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "001",
-    "tiff_filename": "00110002.tif",
-    "volume": "031"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 17"
-    ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "031",
-    "dates": [
-      "18500403"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "001",
-    "tiff_filename": "00120003.tif",
     "volume": "031"
   },
   {
@@ -240,26 +236,17 @@
       "18500604"
     ],
     "description": "Mr. Davis, of Mississippi, from the Committee on Military Affairs, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution Supplementary to the resolution to refund money to the States which have supplied volunteers and furnished them transportation during the present war, before being mustered and received into the service of the United States.",
-    "page": "",
-    "session": "001",
-    "tiff_filename": "00130000.tif",
-    "volume": "031"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 20"
+    "pages": [
+      {
+        "image": "00130000.tif",
+        "page": 1
+      },
+      {
+        "image": "00140002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "031",
-    "dates": [
-      "18500604"
-    ],
-    "description": "",
-    "page": "2",
     "session": "001",
-    "tiff_filename": "00140002.tif",
     "volume": "031"
   },
   {
@@ -276,9 +263,13 @@
       "18500607"
     ],
     "description": "Mr. Clarke, from the Committee on Public Buildings, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution Authorizing the expenditure of an unexpended balance of an appropriation.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00150000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00150000.tif",
     "volume": "031"
   },
   {
@@ -295,9 +286,13 @@
       "18500802"
     ],
     "description": "Mr. Sebastian, from the Committee on Indian Affairs, submitted a report, (No. 175,) accompanied by the following bill; which was read and passed to a second reading. Joint Resolution For the relief of the heirs of David Corderey.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00160000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00160000.tif",
     "volume": "031"
   },
   {
@@ -314,9 +309,13 @@
       "18500822"
     ],
     "description": "Mr. Butler, from the Committee on the Judiciary, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution For the revision and amendment of the laws of the District of Columbia.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00170000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00170000.tif",
     "volume": "031"
   },
   {
@@ -333,9 +332,13 @@
       "18500830"
     ],
     "description": "Mr. Chase, from the Committee on Revolutionary Claims, submitted a report, accompanied by the following joint resolution; which was read, and passed to a second reading. Joint Resolution In relation to the accounts of John Neufville and Son.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00180000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00180000.tif",
     "volume": "031"
   },
   {
@@ -351,9 +354,13 @@
       "18500917"
     ],
     "description": "Agreeably to notice, Mr. Underwood, asked and obtained leave to bring in the following joint resolution; which was read, and passed to a second reading. Reported without amendment. Joint Resolution To amend a resolution approved on the tenth of August, eighteen hundred and fifty, relative to the payment of dividends or interest on war bounty scrip.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00190000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00190000.tif",
     "volume": "031"
   },
   {
@@ -370,9 +377,13 @@
       "18500903"
     ],
     "description": "Mr. Davis, of Mississippi, from the Committee on Military Affairs, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution For the settlement of the accounts of certain companies of Texas volunteers.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00200000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00200000.tif",
     "volume": "031"
   },
   {
@@ -389,9 +400,13 @@
       "18500916"
     ],
     "description": "Mr. Rusk, from the Committee on Post Office and Post Roads, submitted a report, [No. 197,] accompanied by the following joint resolution; which was read and passed to a second reading. Joint Resolution For the benefit of Richard S. Coxe.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00210000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00210000.tif",
     "volume": "031"
   },
   {
@@ -408,9 +423,13 @@
       "18500916"
     ],
     "description": "Mr. Rusk, from the Committee on Post Office and Post Roads, submitted a report, [No. 198,] accompanied by the following joint resolution; which was read and passed to a second reading. Joint Resolution For the benefit of Wyche and Latham.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00220000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00220000.tif",
     "volume": "031"
   },
   {
@@ -427,9 +446,13 @@
       "18500917"
     ],
     "description": "Mr. Rusk, from the Committee on Post Office and Post Roads, submitted a report, [No. 199,] accompanied by the following joint resolution; which was read and passed to a second reading. Joint Resolution For the relief of Isaac Houston.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00230000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00230000.tif",
     "volume": "031"
   },
   {
@@ -447,9 +470,13 @@
       "18510115"
     ],
     "description": "Agreeably to notice, Mr. Sebastian asked and obtained leave to bring in the following joint resolution; which was read twice, and referred to the Committee on Military Affairs. Reported without amendment, and accompanied by an adverse report, [No. 239.] Joint Resolution Explanatory of the act of twenty-eighth September, eighteen hundred and fifty, for the payment of a company of Indian volunteers, entitled \"An act for the payment of a company of Indian volunteers.\"",
-    "page": "",
+    "pages": [
+      {
+        "image": "00240000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00240000.tif",
     "volume": "031"
   },
   {
@@ -466,26 +493,17 @@
       "18510120"
     ],
     "description": "Mr. Pearce, from the Committee on the Library, submitted the following Joint Resolution; which was read, and passed to a second reading. Joint Resolution Directing the distribution of the works of Alexander Hamilton, and for other purposes.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00250000.tif",
-    "volume": "031"
-  },
-  {
-    "bill_numbers": [
-      "S. 46"
+    "pages": [
+      {
+        "image": "00250000.tif",
+        "page": 1
+      },
+      {
+        "image": "00260002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "031",
-    "dates": [
-      "18510120"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00260002.tif",
     "volume": "031"
   },
   {
@@ -502,9 +520,13 @@
       "18510122"
     ],
     "description": "Mr. Yulee, from the Committee on Naval Affairs, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution For the relief of John O. Means",
-    "page": "",
+    "pages": [
+      {
+        "image": "00270000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00270000.tif",
     "volume": "031"
   },
   {
@@ -521,9 +543,13 @@
       "18510125"
     ],
     "description": "Mr. Shields, from the Committee on Military Affairs, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution Authorizing the President to confer the title of Lieutenant General by brevet, for eminent services.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00280000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00280000.tif",
     "volume": "031"
   },
   {
@@ -541,9 +567,13 @@
       "18510204"
     ],
     "description": "Agreeably to notice, Mr. Soule asked and obtained leave to bring in the following joint resolution; which was read twice, and referred to the Committee on Finance. Reported without amendment. Joint Resolution Changing the mode of appointing the clerks of the Treasurers of the Mints of the United States.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00290000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00290000.tif",
     "volume": "031"
   },
   {
@@ -561,27 +591,17 @@
       "18510212"
     ],
     "description": "Agreeably to notice, Mr. Downs asked and obtained leave to bring in the following joint resolution; which was read twice, and referred to the Committee on the Judiciary. Reported without amendment, and adversely. Joint Resolution Explanatory of the act entitled \"An act to provide for the adjustment of land claims within the States of Missouri, Arkansas, and Louisiana, and in those parts of the States of Mississippi and Alabama, south of the thirty-first degree of north latitude, and between the Mississippi and Perdido rivers,\" approved seventeenth June, eighteen hundred and forty-four, and the act revived by said act.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00300000.tif",
-    "volume": "031"
-  },
-  {
-    "bill_numbers": [
-      "S. 54"
+    "pages": [
+      {
+        "image": "00300000.tif",
+        "page": 1
+      },
+      {
+        "image": "00310002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "031",
-    "dates": [
-      "18510208",
-      "18510212"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00310002.tif",
     "volume": "031"
   },
   {
@@ -596,9 +616,13 @@
       "18510213"
     ],
     "description": "Agreeably to notice, Mr. Rusk, asked and obtained leave to bring in the following joint resolution; which was read, passed to a second reading, and ordered to be printed. Joint Resolution Authorizing the Postmaster General to contract for an ice boat for the conveyance of the United States mail",
-    "page": "",
+    "pages": [
+      {
+        "image": "00320000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00320000.tif",
     "volume": "031"
   },
   {
@@ -613,26 +637,17 @@
       "18510217"
     ],
     "description": "Mr. Foote, asked and obtained leave, by unanimous consent, to bring in the following joint resolution; which was read, and passed to a second reading, and ordered to be printed. Joint Resolution For the relief of Louis Kossuth and his associates, exiles from Hungary.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00330000.tif",
-    "volume": "031"
-  },
-  {
-    "bill_numbers": [
-      "S. 58"
+    "pages": [
+      {
+        "image": "00330000.tif",
+        "page": 1
+      },
+      {
+        "image": "00340002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "031",
-    "dates": [
-      "18510217"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00340002.tif",
     "volume": "031"
   },
   {
@@ -647,9 +662,13 @@
       "18510301"
     ],
     "description": "By unanimous consent, Mr. Dickinson obtained leave to bring in the following joint resolution; which was read and passed to a second reading, and ordered to be printed. Joint Resolution Authorizing the Secretary of War to procure the right of Edward Maynard to improve the fire arms of the United States.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00350000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00350000.tif",
     "volume": "031"
   }
 ]

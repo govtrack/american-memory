@@ -11,26 +11,17 @@
       "18201117"
     ],
     "description": "Agreeably to notice given, Mr. Walker, of Alabama, asked and obtained leave to bring in the following bill, which was twice read, by unanimous consent, and referred to Messr. Walker, Burrill, and King of Alabama, to consider and report thereon. A Bill To alter the terms of the District Court in Alabama.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00010000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 1"
+    "pages": [
+      {
+        "image": "00010000.tif",
+        "page": 1
+      },
+      {
+        "image": "00020002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18201117"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00020002.tif",
     "volume": "002"
   },
   {
@@ -45,9 +36,13 @@
       "18201122"
     ],
     "description": "Agreeably to notice given, Mr. Eaton asked and obtained leave to introduce the following bill, which was read, and passed to the second reading. A Bill For the relief of Robert Purdy.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00030000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00030000.tif",
     "volume": "002"
   },
   {
@@ -62,26 +57,17 @@
       "18201128"
     ],
     "description": "Agreeably to notice given, Mr. Eaton asked and obtained leave to bring in the following bill, which was read, and passed to the second reading: A Bill For the relief of the officers and volunteers engaged in the late campaign against the Seminole Indians.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00040000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 3"
+    "pages": [
+      {
+        "image": "00040000.tif",
+        "page": 1
+      },
+      {
+        "image": "00050002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18201128"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00050002.tif",
     "volume": "002"
   },
   {
@@ -98,26 +84,17 @@
       "18201129"
     ],
     "description": "Mr. Wilson, from the Committee of Claims, to whom the subject was referred, reported the following bill, which was read, and passed to the second reading: A Bill For the relief of Ebenezer Stevens, and Austin L. Sands, legal representatives of Richardson Sands, deceased, and others.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00060000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 4"
+    "pages": [
+      {
+        "image": "00060000.tif",
+        "page": 1
+      },
+      {
+        "image": "00070002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18201129"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00070002.tif",
     "volume": "002"
   },
   {
@@ -132,26 +109,17 @@
       "18201130"
     ],
     "description": "Agreeably to notice given, Mr. Johnson, of Louisiana, asked and obtained leave to bring in the following bill, which was read, and passed to a second reading. A Bill Granting to the Governor of the state of Louisiana, for the time being, and his successors in office, two tracts of land in the county of Point Coupee.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00080000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 5"
+    "pages": [
+      {
+        "image": "00080000.tif",
+        "page": 1
+      },
+      {
+        "image": "00090002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18201130"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00090002.tif",
     "volume": "002"
   },
   {
@@ -166,43 +134,21 @@
       "18201130"
     ],
     "description": "Agreeably to notice given, Mr. Johnson, of Kentucky, asked and obtained leave to bring in the following bill, which was read and passed to the second reading. A Bill To incorporate the Columbian Society for Literary purposes.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00100000.tif",
+        "page": 1
+      },
+      {
+        "image": "00110002.tif",
+        "page": 2
+      },
+      {
+        "image": "00120003.tif",
+        "page": 3
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00100000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 6"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18201130"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "00110002.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 6"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18201130"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "00120003.tif",
     "volume": "002"
   },
   {
@@ -219,9 +165,13 @@
       "18201205"
     ],
     "description": "Mr. Horsey, from the Committee on the District of Columbia, to whom was referred the bill to incorporate the Columbian Society for Literary Purposes, reported the same, with the following Amendments: In section first, after the word ''corporate,'' in the seventh line, add ''to be located in the District of Columbia.'' After the fourth section, add the following, as a new section:",
-    "page": "",
+    "pages": [
+      {
+        "image": "00130000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00130000.tif",
     "volume": "002"
   },
   {
@@ -236,128 +186,41 @@
       "18210115"
     ],
     "description": "Printed by order of the House Representatives. An Act To incorporate the Columbian College, in the District of Columbia.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00140000.tif",
+        "page": 1
+      },
+      {
+        "image": "00150002.tif",
+        "page": 2
+      },
+      {
+        "image": "00160003.tif",
+        "page": 3
+      },
+      {
+        "image": "00170004.tif",
+        "page": 4
+      },
+      {
+        "image": "00180005.tif",
+        "page": 5
+      },
+      {
+        "image": "00190006.tif",
+        "page": 6
+      },
+      {
+        "image": "00200007.tif",
+        "page": 7
+      },
+      {
+        "image": "00210008.tif",
+        "page": 8
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00140000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 6"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210115"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "00150002.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 6"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210115"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "00160003.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 6"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210115"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "00170004.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 6"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210115"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "00180005.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 6"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210115"
-    ],
-    "description": "",
-    "page": "6",
-    "session": "002",
-    "tiff_filename": "00190006.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 6"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210115"
-    ],
-    "description": "",
-    "page": "7",
-    "session": "002",
-    "tiff_filename": "00200007.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 6"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210115"
-    ],
-    "description": "",
-    "page": "8",
-    "session": "002",
-    "tiff_filename": "00210008.tif",
     "volume": "002"
   },
   {
@@ -374,9 +237,13 @@
       "18201206"
     ],
     "description": "Mr. Holmes of Mississippi, from the Committee on Indian Affairs, to whom the subject was referred, reported the following bill, which was read and passed to a second reading. A Bill To continue in force, for a further time, the act, entitled ''An act for establishing Trading Houses with the Indian Tribes.''",
-    "page": "",
+    "pages": [
+      {
+        "image": "00220000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00220000.tif",
     "volume": "002"
   },
   {
@@ -393,43 +260,21 @@
       "18201207"
     ],
     "description": "Agreeably to notice given, Mr. Trimble asked and obtained leave to bring in the following bill, which was twice read, by unanimous consent, and referred to the Committee on Roads and Canals. A Bill To authorize the appointment of Commissioners to lay out a Canal in the State of Ohio. Whereas, by the laying out of a Canal from Lake Erie to the navigable waters of the Ohio River, through the Public Lands, the value thereof would be increased, and the prosperity and common defence of the United States promoted:",
-    "page": "",
+    "pages": [
+      {
+        "image": "00230000.tif",
+        "page": 1
+      },
+      {
+        "image": "00240002.tif",
+        "page": 2
+      },
+      {
+        "image": "00250003.tif",
+        "page": 3
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00230000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 8"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18201207"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "00240002.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 8"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18201207"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "00250003.tif",
     "volume": "002"
   },
   {
@@ -446,9 +291,13 @@
       "18201207"
     ],
     "description": "Mr. Wilson, from the Committee of Claims, to whom was referred the petition of John Holmes, reported the following bill, which was read and passed to a second reading. A Bill For the relief of John Holmes.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00260000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00260000.tif",
     "volume": "002"
   },
   {
@@ -465,9 +314,13 @@
       "18201208"
     ],
     "description": "Mr. Wilson, from the Committee of Claims, to whom was referred the petition of Morgan Brown, reported the following bill, which was read, and passed to a second reading: A Bill For the relief of Morgan Brown.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00270000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00270000.tif",
     "volume": "002"
   },
   {
@@ -484,9 +337,13 @@
       "18201214"
     ],
     "description": "Agreeably to notice given, Mr. Johnson of Louisiana, asked and obtained leave to bring in the following bill, which was twice read, by unanimous consent, and referred to the Committee on Public lands. A Bill For the relief of the legal representatives of Gabriel Berzat, deceased.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00280000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00280000.tif",
     "volume": "002"
   },
   {
@@ -503,9 +360,13 @@
       "18201218"
     ],
     "description": "Amendment. The Committee of Finance propose the following amendment to the bill from the House of Representatives, entitled ''An act for the relief of Perley Keyes and Jason Fairbanks.''",
-    "page": "",
+    "pages": [
+      {
+        "image": "00290000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00290000.tif",
     "volume": "002"
   },
   {
@@ -522,9 +383,13 @@
       "18201219"
     ],
     "description": "Mr. Wilson, from the Committee of Claims, to whom was referred the petition of Thomas L. Ogden, in behalf of himself and others, reported the following bill, which was read, and passed to a second reading. A Bill For the relief of Thomas L. Ogden, and others.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00300000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00300000.tif",
     "volume": "002"
   },
   {
@@ -541,26 +406,17 @@
       "18201220"
     ],
     "description": "Mr. Sanford, from the Committee on Finance, to whom was referred the memorial of the President and Directors of the Bank of the United States, reported the following bill, which was read, and passed to a second reading. A Bill To amend the act, entitled ''An act to incorporate the subscribers to the Bank of the United States.''",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00310000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 13"
+    "pages": [
+      {
+        "image": "00310000.tif",
+        "page": 1
+      },
+      {
+        "image": "00320002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18201220"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00320002.tif",
     "volume": "002"
   },
   {
@@ -575,26 +431,17 @@
       "18210221"
     ],
     "description": "Printed by order of the House of Representatives. An Act To amend the act, entitled ''An act to incorporate the subscribers to the Bank of the United States.''",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00330000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 13"
+    "pages": [
+      {
+        "image": "00330000.tif",
+        "page": 1
+      },
+      {
+        "image": "00340002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00340002.tif",
     "volume": "002"
   },
   {
@@ -611,26 +458,17 @@
       "18201220"
     ],
     "description": "Mr. Holmes, of Mississippi, from the Committee on Indian Affairs, to whom the subject was referred, reported the following bill, which was read and passed to a second reading. A Bill For the better regulation of the trade with the Indian tribes.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00350000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 14"
+    "pages": [
+      {
+        "image": "00350000.tif",
+        "page": 1
+      },
+      {
+        "image": "00360002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18201220"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00360002.tif",
     "volume": "002"
   },
   {
@@ -647,9 +485,13 @@
       "18201222"
     ],
     "description": "Mr. Lowrie, from the Committee on Public Lands, to whom was referred the petition of Daniel W. Coxe, reported the following bill, which was read, and passed to a second reading. A bill Confirming the title of the Marquis de Maison Rouge.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00370000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00370000.tif",
     "volume": "002"
   },
   {
@@ -666,43 +508,21 @@
       "18201228"
     ],
     "description": "Mr. Thomas, from the Committee on Public Lands, to whom the subject was referred, reported the following bill, which was read, and passed to a second reading. A bill For the relief of the purchasers of Public Lands, prior to the first day of July, eighteen hundred and twenty.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00380000.tif",
+        "page": 1
+      },
+      {
+        "image": "00390002.tif",
+        "page": 2
+      },
+      {
+        "image": "00400003.tif",
+        "page": 3
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00380000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 16"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18201228"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "00390002.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 16"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18201228"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "00400003.tif",
     "volume": "002"
   },
   {
@@ -717,94 +537,33 @@
       "18210216"
     ],
     "description": "Printed by order of the House of Representatives. An Act For the relief of the Purchasers of Public Lands, prior to the first day of July, eighteen hundred and twenty.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00410000.tif",
+        "page": 1
+      },
+      {
+        "image": "00420002.tif",
+        "page": 2
+      },
+      {
+        "image": "00430003.tif",
+        "page": 3
+      },
+      {
+        "image": "00440004.tif",
+        "page": 4
+      },
+      {
+        "image": "00450005.tif",
+        "page": 5
+      },
+      {
+        "image": "00460006.tif",
+        "page": 6
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00410000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 16"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210216"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "00420002.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 16"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210216"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "00430003.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 16"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210216"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "00440004.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 16"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210216"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "00450005.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 16"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210216"
-    ],
-    "description": "",
-    "page": "6",
-    "session": "002",
-    "tiff_filename": "00460006.tif",
     "volume": "002"
   },
   {
@@ -819,9 +578,13 @@
       "18201228"
     ],
     "description": "Agreeably to notice given, Mr. Johnson, of Louisiana, asked and obtained leave to bring in the following bill, which was read and passed to a second reading. A Bill For the relief of John Hofman.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00470000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00470000.tif",
     "volume": "002"
   },
   {
@@ -836,9 +599,13 @@
       "18201228"
     ],
     "description": "Mr. Pleasants, from the Committee to whom was referred the memorial of Thomas Shields, reported the following bill, which was read, and passed to a second reading. A Bill Authorizing the payment of a sum of money to Thomas Shields.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00480000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00480000.tif",
     "volume": "002"
   },
   {
@@ -853,9 +620,13 @@
       "18201229"
     ],
     "description": "Agreeably to notice given, Mr. Walker, of Alabama, asked and obtained leave to bring in the following bill, which was read, and passed to a second reading. A Bill For the relief of John Coffee.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00490000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00490000.tif",
     "volume": "002"
   },
   {
@@ -872,9 +643,13 @@
       "18201229"
     ],
     "description": "Mr. Thomas, from the Committee on Public Lands, to whom was referred the bill, entitled ''Ac Act for the relief of Nicolas Jarrott,'' reported the same with the following. Amendments:",
-    "page": "",
+    "pages": [
+      {
+        "image": "00500000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00500000.tif",
     "volume": "002"
   },
   {
@@ -889,893 +664,221 @@
       "18210102"
     ],
     "description": "Agreeably to notice given, Mr. Van Dyke asked and obtained leave to bring in the following bill, which was read, and passed to a second reading. A Bill To establish an uniform system of Bankruptcy throughout the United States.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00510000.tif",
+        "page": 1
+      },
+      {
+        "image": "00520002.tif",
+        "page": 2
+      },
+      {
+        "image": "00530003.tif",
+        "page": 3
+      },
+      {
+        "image": "00540004.tif",
+        "page": 4
+      },
+      {
+        "image": "00550005.tif",
+        "page": 5
+      },
+      {
+        "image": "00560006.tif",
+        "page": 6
+      },
+      {
+        "image": "00570007.tif",
+        "page": 7
+      },
+      {
+        "image": "00580008.tif",
+        "page": 8
+      },
+      {
+        "image": "00590009.tif",
+        "page": 9
+      },
+      {
+        "image": "00600010.tif",
+        "page": 10
+      },
+      {
+        "image": "00610011.tif",
+        "page": 11
+      },
+      {
+        "image": "00620012.tif",
+        "page": 12
+      },
+      {
+        "image": "00630013.tif",
+        "page": 13
+      },
+      {
+        "image": "00640014.tif",
+        "page": 14
+      },
+      {
+        "image": "00650015.tif",
+        "page": 15
+      },
+      {
+        "image": "00660016.tif",
+        "page": 16
+      },
+      {
+        "image": "00670017.tif",
+        "page": 17
+      },
+      {
+        "image": "00680018.tif",
+        "page": 18
+      },
+      {
+        "image": "00690019.tif",
+        "page": 19
+      },
+      {
+        "image": "00700020.tif",
+        "page": 20
+      },
+      {
+        "image": "00710021.tif",
+        "page": 21
+      },
+      {
+        "image": "00720022.tif",
+        "page": 22
+      },
+      {
+        "image": "00730023.tif",
+        "page": 23
+      },
+      {
+        "image": "00740024.tif",
+        "page": 24
+      },
+      {
+        "image": "00750025.tif",
+        "page": 25
+      },
+      {
+        "image": "00760026.tif",
+        "page": 26
+      },
+      {
+        "image": "00770027.tif",
+        "page": 27
+      },
+      {
+        "image": "00780028.tif",
+        "page": 28
+      },
+      {
+        "image": "00790029.tif",
+        "page": 29
+      },
+      {
+        "image": "00800030.tif",
+        "page": 30
+      },
+      {
+        "image": "00810031.tif",
+        "page": 31
+      },
+      {
+        "image": "00820032.tif",
+        "page": 32
+      },
+      {
+        "image": "00830033.tif",
+        "page": 33
+      },
+      {
+        "image": "00840034.tif",
+        "page": 34
+      },
+      {
+        "image": "00850035.tif",
+        "page": 35
+      },
+      {
+        "image": "00860036.tif",
+        "page": 36
+      },
+      {
+        "image": "00870037.tif",
+        "page": 37
+      },
+      {
+        "image": "00880038.tif",
+        "page": 38
+      },
+      {
+        "image": "00890039.tif",
+        "page": 39
+      },
+      {
+        "image": "00900040.tif",
+        "page": 40
+      },
+      {
+        "image": "00910041.tif",
+        "page": 41
+      },
+      {
+        "image": "00920042.tif",
+        "page": 42
+      },
+      {
+        "image": "00930043.tif",
+        "page": 43
+      },
+      {
+        "image": "00940044.tif",
+        "page": 44
+      },
+      {
+        "image": "00950045.tif",
+        "page": 45
+      },
+      {
+        "image": "00960046.tif",
+        "page": 46
+      },
+      {
+        "image": "00970047.tif",
+        "page": 47
+      },
+      {
+        "image": "00980048.tif",
+        "page": 48
+      },
+      {
+        "image": "00990049.tif",
+        "page": 49
+      },
+      {
+        "image": "01000050.tif",
+        "page": 50
+      },
+      {
+        "image": "01010051.tif",
+        "page": 51
+      },
+      {
+        "image": "01020052.tif",
+        "page": 52
+      },
+      {
+        "image": "01030053.tif",
+        "page": 53
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00510000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "00520002.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "00530003.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "00540004.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "00550005.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "6",
-    "session": "002",
-    "tiff_filename": "00560006.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "7",
-    "session": "002",
-    "tiff_filename": "00570007.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "8",
-    "session": "002",
-    "tiff_filename": "00580008.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "9",
-    "session": "002",
-    "tiff_filename": "00590009.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "10",
-    "session": "002",
-    "tiff_filename": "00600010.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "11",
-    "session": "002",
-    "tiff_filename": "00610011.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "12",
-    "session": "002",
-    "tiff_filename": "00620012.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "13",
-    "session": "002",
-    "tiff_filename": "00630013.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "14",
-    "session": "002",
-    "tiff_filename": "00640014.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "15",
-    "session": "002",
-    "tiff_filename": "00650015.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "16",
-    "session": "002",
-    "tiff_filename": "00660016.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "17",
-    "session": "002",
-    "tiff_filename": "00670017.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "18",
-    "session": "002",
-    "tiff_filename": "00680018.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "19",
-    "session": "002",
-    "tiff_filename": "00690019.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "20",
-    "session": "002",
-    "tiff_filename": "00700020.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "21",
-    "session": "002",
-    "tiff_filename": "00710021.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "22",
-    "session": "002",
-    "tiff_filename": "00720022.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "23",
-    "session": "002",
-    "tiff_filename": "00730023.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "24",
-    "session": "002",
-    "tiff_filename": "00740024.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "25",
-    "session": "002",
-    "tiff_filename": "00750025.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "26",
-    "session": "002",
-    "tiff_filename": "00760026.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "27",
-    "session": "002",
-    "tiff_filename": "00770027.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "28",
-    "session": "002",
-    "tiff_filename": "00780028.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "29",
-    "session": "002",
-    "tiff_filename": "00790029.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "30",
-    "session": "002",
-    "tiff_filename": "00800030.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "31",
-    "session": "002",
-    "tiff_filename": "00810031.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "32",
-    "session": "002",
-    "tiff_filename": "00820032.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "33",
-    "session": "002",
-    "tiff_filename": "00830033.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "34",
-    "session": "002",
-    "tiff_filename": "00840034.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "35",
-    "session": "002",
-    "tiff_filename": "00850035.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "36",
-    "session": "002",
-    "tiff_filename": "00860036.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "37",
-    "session": "002",
-    "tiff_filename": "00870037.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "38",
-    "session": "002",
-    "tiff_filename": "00880038.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "39",
-    "session": "002",
-    "tiff_filename": "00890039.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "40",
-    "session": "002",
-    "tiff_filename": "00900040.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "41",
-    "session": "002",
-    "tiff_filename": "00910041.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "42",
-    "session": "002",
-    "tiff_filename": "00920042.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "43",
-    "session": "002",
-    "tiff_filename": "00930043.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "44",
-    "session": "002",
-    "tiff_filename": "00940044.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "45",
-    "session": "002",
-    "tiff_filename": "00950045.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "46",
-    "session": "002",
-    "tiff_filename": "00960046.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "47",
-    "session": "002",
-    "tiff_filename": "00970047.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "48",
-    "session": "002",
-    "tiff_filename": "00980048.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "49",
-    "session": "002",
-    "tiff_filename": "00990049.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "50",
-    "session": "002",
-    "tiff_filename": "01000050.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "51",
-    "session": "002",
-    "tiff_filename": "01010051.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "52",
-    "session": "002",
-    "tiff_filename": "01020052.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210102"
-    ],
-    "description": "",
-    "page": "53",
-    "session": "002",
-    "tiff_filename": "01030053.tif",
     "volume": "002"
   },
   {
@@ -1790,26 +893,17 @@
       "18210212"
     ],
     "description": "The following amendment was proposed by Mr. Holmes, of Maine, to the bill to establish an uniform system of Bankruptcy throughout the United States. Insert the following:",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "01040000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
+    "pages": [
+      {
+        "image": "01040000.tif",
+        "page": 1
+      },
+      {
+        "image": "01050002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210212"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "01050002.tif",
     "volume": "002"
   },
   {
@@ -1824,26 +918,17 @@
       "18210221"
     ],
     "description": "Printed by order of the House of Representatives. An Act To establish an uniform system of Bankruptcy throughout the United States.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "01060000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
+    "pages": [
+      {
+        "image": "01060000.tif",
+        "page": 1
+      },
+      {
+        "image": "01070002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "01070002.tif",
     "volume": "002"
   },
   {
@@ -1860,9 +945,13 @@
       "18210103"
     ],
     "description": "Mr. Holmes, of Mississippi, from the Committee on Indian Affairs, to whom the subject was referred, reported the following bill, which was read, and passed to a second reading. A Bill To authorize the appointment of certain Indian Agents.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01080000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01080000.tif",
     "volume": "002"
   },
   {
@@ -1879,26 +968,17 @@
       "18210103"
     ],
     "description": "Mr. Roberts, from the Committee of Claims, to whom was referred the petition of James Leander Cathcart, reported the following bill, which was read, and passed to a second reading. A Bill Explanatory of the act for the relief of James Leander Cathcart, passed May the fifteenth, in the year eighteen hundred and twenty.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "01090000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 22"
+    "pages": [
+      {
+        "image": "01090000.tif",
+        "page": 1
+      },
+      {
+        "image": "01100002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210103"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "01100002.tif",
     "volume": "002"
   },
   {
@@ -1915,9 +995,13 @@
       "18210108"
     ],
     "description": "Mr. Pleasants, from the Committee on Naval Affairs, to whom the subject was referred, reported the following bill, which was read, and passed to a second reading. A Bill Authorizing the payment of a sum of money to John Gooding and James Williams.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01110000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01110000.tif",
     "volume": "002"
   },
   {
@@ -1934,26 +1018,17 @@
       "18210109"
     ],
     "description": "Mr. Eaton, from the Committee on Public Lands, to whom the subject was referred, reported the following bill, which was read and passed to a second reading. A Bill For the relief of Nicholas Perkins.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "01120000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 24"
+    "pages": [
+      {
+        "image": "01120000.tif",
+        "page": 1
+      },
+      {
+        "image": "01130002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210109"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "01130002.tif",
     "volume": "002"
   },
   {
@@ -1970,43 +1045,21 @@
       "18210110"
     ],
     "description": "Agreeably to notice given, Mr. Barbour asked and obtained leave to bring in the following bill, which was twice read, by unanimous consent, and referred to the Committee on Finance. A Bill Concerning the Collection of Public Moneys.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01140000.tif",
+        "page": 1
+      },
+      {
+        "image": "01150002.tif",
+        "page": 2
+      },
+      {
+        "image": "01160003.tif",
+        "page": 3
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01140000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 25"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210110"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "01150002.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 25"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210110"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "01160003.tif",
     "volume": "002"
   },
   {
@@ -2023,26 +1076,17 @@
       "18210111"
     ],
     "description": "Mr. Smith, from the Committee on the Judiciary, to whom the subject was referred, reported the following bill, which was read, and passed to a second reading. A Bill To authorize the President of the United States to ascertain and designate certain boundaries.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "01170000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 26"
+    "pages": [
+      {
+        "image": "01170000.tif",
+        "page": 1
+      },
+      {
+        "image": "01180002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210111"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "01180002.tif",
     "volume": "002"
   },
   {
@@ -2059,9 +1103,13 @@
       "18210111"
     ],
     "description": "Mr. Roberts, from the Committee of Claims, to whom was referred the petition of Nathan Ford, reported the following bill, which was read, and passed to a second reading. A Bill For the relief of Nathan Ford.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01190000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01190000.tif",
     "volume": "002"
   },
   {
@@ -2078,26 +1126,17 @@
       "18210111"
     ],
     "description": "Mr. Thomas, from the Committee on Public Lands, to whom was referred the bill granting to the Governor of the state of Louisiana, for the time being, and his successors in office, two tracts of land in the county of Point Coupee, reported the same with the following Amendments:",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "01200000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 27"
+    "pages": [
+      {
+        "image": "01200000.tif",
+        "page": 1
+      },
+      {
+        "image": "01210002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210111"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "01210002.tif",
     "volume": "002"
   },
   {
@@ -2112,26 +1151,17 @@
       "18210112"
     ],
     "description": "Mr. Roberts offered the following as an amendment to the bill to amend the act, entitled ''An act to incorporate the subscribers to the Bank of the United States.''",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "01220000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 27"
+    "pages": [
+      {
+        "image": "01220000.tif",
+        "page": 1
+      },
+      {
+        "image": "01230002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210112"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "01230002.tif",
     "volume": "002"
   },
   {
@@ -2148,9 +1178,13 @@
       "18210112"
     ],
     "description": "We Walker, of Georgia, from the Committee on Naval Affairs, to whom was referred the petition of Samuel Tucker, reported the following bill, which was read, and passed to a second reading. A Bill For the relief of Samuel Tucker, late a Captain in the Navy of the United States.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01240000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01240000.tif",
     "volume": "002"
   },
   {
@@ -2167,26 +1201,17 @@
       "18210115"
     ],
     "description": "Mr. Roberts, from the Committee of Claims, to whom was referred the petition of Elisha Gordon, reported the following bill, which was read, and passed to a second reading: A Bill For the relief of the representatives of Patience Gordon, widow, deceased.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "01250000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 29"
+    "pages": [
+      {
+        "image": "01250000.tif",
+        "page": 1
+      },
+      {
+        "image": "01260002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210115"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "01260002.tif",
     "volume": "002"
   },
   {
@@ -2201,26 +1226,17 @@
       "18210115"
     ],
     "description": "Agreeably to notice given, Mr. Edwards asked and obtained leave to bring in the following bill, which was read, and passed to a second reading. A Bill Confirming certain claims to land in the state of Illinois.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "01270000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 30"
+    "pages": [
+      {
+        "image": "01270000.tif",
+        "page": 1
+      },
+      {
+        "image": "01280002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210115"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "01280002.tif",
     "volume": "002"
   },
   {
@@ -2237,9 +1253,13 @@
       "18210116"
     ],
     "description": "Mr. Eaton, from the Committee on Finance, to whom the subject was referred, reported the following bill, which was read, and passed to a second reading. A Bill Supplementary to an act passed on the eleventh of May, one thousand eight hundred and twenty, entitled ''An act to provide for the publication of the laws of the United States, and for other purposes.''",
-    "page": "",
+    "pages": [
+      {
+        "image": "01290000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01290000.tif",
     "volume": "002"
   },
   {
@@ -2256,9 +1276,13 @@
       "18210117"
     ],
     "description": "Mr. Williams, of Tennessee, from the Committee on Military Affairs, to whom was referred the petition of Robert Swartwout, reported the following bill; which was read, and passed to a second reading. A Bill For the relief of General Robert Swartwout.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01300000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01300000.tif",
     "volume": "002"
   },
   {
@@ -2275,94 +1299,33 @@
       "18210117"
     ],
     "description": "Mr. Holmes, of Maine, from the Committee on Finance, to whom the subject was referred, reported the following bill, which was read and passed to the second reading: A Bill Further to establish the compensation of the officers employed in the collection of duties on imports and tonnage, and for other purposes.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01310000.tif",
+        "page": 1
+      },
+      {
+        "image": "01320002.tif",
+        "page": 2
+      },
+      {
+        "image": "01330003.tif",
+        "page": 3
+      },
+      {
+        "image": "01340004.tif",
+        "page": 4
+      },
+      {
+        "image": "01350005.tif",
+        "page": 5
+      },
+      {
+        "image": "01360006.tif",
+        "page": 6
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01310000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 33"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210117"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "01320002.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 33"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210117"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "01330003.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 33"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210117"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "01340004.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 33"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210117"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "01350005.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 33"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210117"
-    ],
-    "description": "",
-    "page": "6",
-    "session": "002",
-    "tiff_filename": "01360006.tif",
     "volume": "002"
   },
   {
@@ -2377,60 +1340,25 @@
       "18210123"
     ],
     "description": "Mr. Eaton proposed the following amendment to the bill for the relief of the purchasers of public lands prior to the first day of July, 1820. Amendment: Strike out all after the enacting clause, and insert:",
-    "page": "",
+    "pages": [
+      {
+        "image": "01370000.tif",
+        "page": 1
+      },
+      {
+        "image": "01380002.tif",
+        "page": 2
+      },
+      {
+        "image": "01390003.tif",
+        "page": 3
+      },
+      {
+        "image": "01400004.tif",
+        "page": 4
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01370000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 33"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210123"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "01380002.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 33"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210123"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "01390003.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 33"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210123"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "01400004.tif",
     "volume": "002"
   },
   {
@@ -2447,43 +1375,21 @@
       "18210226"
     ],
     "description": "Report Of the Committee on Commerce, to which was referred the Bill from the Senate, entitled ''An act further to establish the compensation of the officers employed in the collection of Duties on Imports and Tonnage, and for other purposes.'' Committed to a committee of the whole House to-morrow. The Committee of Commerce, to which was referred the act passed by the Senate, entitled ''An act further to establish the compensation of the officers employed in the collection of duties on imports and tonnage, and for other purposes,'' have bestowed due consideration on the same, and have made several amendments, the adoption of which they respectfully recommend to the House. Amendments. After ''Marblehead,'' in the first section, insert Penobscot, New Bedford, Barnstable. Strike out ''Presqu' Isle'' and ''Hayre de Grace.'' After ''Barnstable,'' insert, to the naval officer for the district of Savannah. Instead of ''surveyor,'' insert surveyors. Instead of ''port,'' insert ports.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01410000.tif",
+        "page": 1
+      },
+      {
+        "image": "01420002.tif",
+        "page": 2
+      },
+      {
+        "image": "01430003.tif",
+        "page": 3
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01410000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 33"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210226"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "01420002.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 33"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210226"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "01430003.tif",
     "volume": "002"
   },
   {
@@ -2500,94 +1406,33 @@
       "18210226"
     ],
     "description": "Committed to a committee of the whole House to-morrow. [Note.--The parts of the following of the following bill, intended by the committee to be stricken out, are printed between brackets,--and additions are printed in italics.] An Act Further to establish the compensation of the officers employed in the collection of duties on imports and tonnage, and for other purposes.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01440000.tif",
+        "page": 1
+      },
+      {
+        "image": "01450002.tif",
+        "page": 2
+      },
+      {
+        "image": "01460003.tif",
+        "page": 3
+      },
+      {
+        "image": "01470004.tif",
+        "page": 4
+      },
+      {
+        "image": "01480005.tif",
+        "page": 5
+      },
+      {
+        "image": "01490006.tif",
+        "page": 6
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01440000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 33"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210226"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "01450002.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 33"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210226"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "01460003.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 33"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210226"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "01470004.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 33"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210226"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "01480005.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 33"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210226"
-    ],
-    "description": "",
-    "page": "6",
-    "session": "002",
-    "tiff_filename": "01490006.tif",
     "volume": "002"
   },
   {
@@ -2602,26 +1447,17 @@
       "18210118"
     ],
     "description": "Agreeably to notice given, Mr. Parrott asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. A Bill Authorizing the repair of a Sea-wall at the Isled of Shoals, and for other purposes.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "01500000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 34"
+    "pages": [
+      {
+        "image": "01500000.tif",
+        "page": 1
+      },
+      {
+        "image": "01510002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210118"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "01510002.tif",
     "volume": "002"
   },
   {
@@ -2638,26 +1474,17 @@
       "18210119"
     ],
     "description": "Mr. Horsey, from the Committee on the District of Columbia, to whom the subject was referred, reported the following bill, which was read and passed to a second reading. A Bill Authorizing the sale of certain grounds belonging to the United States in the City of Washington.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "01520000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 35"
+    "pages": [
+      {
+        "image": "01520000.tif",
+        "page": 1
+      },
+      {
+        "image": "01530002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210119"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "01530002.tif",
     "volume": "002"
   },
   {
@@ -2674,9 +1501,13 @@
       "18210122"
     ],
     "description": "Mr. Pleasants, from the Committee on Naval Affairs, to whom was referred the petition of Thomas Shields, reported the following bill, which was read, and passed to a second reading. A Bill Concerning Thomas Shields and others.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01540000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01540000.tif",
     "volume": "002"
   },
   {
@@ -2691,26 +1522,17 @@
       "18210122"
     ],
     "description": "Mr. Thomas proposed the following as a substitute for the first section of the bill for the relief of the purchasers of Public Lands, prior to the first day of July, eighteen hundred and twenty.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "01550000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 37"
+    "pages": [
+      {
+        "image": "01550000.tif",
+        "page": 1
+      },
+      {
+        "image": "01560002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210122"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "01560002.tif",
     "volume": "002"
   },
   {
@@ -2725,9 +1547,13 @@
       "18210123"
     ],
     "description": "Mr. Walker, of Alabama, proposed the following amendment to the bill for the relief of the purchasers of public lands prior to the year eighteen hundred and twenty. Amendment: Strike out the second section, and, in lieu thereof, insert:",
-    "page": "",
+    "pages": [
+      {
+        "image": "01570000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01570000.tif",
     "volume": "002"
   },
   {
@@ -2742,60 +1568,25 @@
       "18210123"
     ],
     "description": "Mr. Eaton proposed the following amendment to the bill for the relief of the purchasers of public lands prior to the first day of July, 1820. Amendment: Strike out all after the enacting clause, and insert:",
-    "page": "",
+    "pages": [
+      {
+        "image": "01580000.tif",
+        "page": 1
+      },
+      {
+        "image": "01590002.tif",
+        "page": 2
+      },
+      {
+        "image": "01600003.tif",
+        "page": 3
+      },
+      {
+        "image": "01610004.tif",
+        "page": 4
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01580000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 37"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210123"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "01590002.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 37"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210123"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "01600003.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 37"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210123"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "01610004.tif",
     "volume": "002"
   },
   {
@@ -2810,162 +1601,49 @@
       "18210124"
     ],
     "description": "Mr. Trimble submitted the following amendment to the bill for the better regulation of the trade with the Indian tribes. Amendment: After the enacting clause, strike out the residue of the bill, and insert:",
-    "page": "",
+    "pages": [
+      {
+        "image": "01620000.tif",
+        "page": 1
+      },
+      {
+        "image": "01630002.tif",
+        "page": 2
+      },
+      {
+        "image": "01640003.tif",
+        "page": 3
+      },
+      {
+        "image": "01650004.tif",
+        "page": 4
+      },
+      {
+        "image": "01660005.tif",
+        "page": 5
+      },
+      {
+        "image": "01670006.tif",
+        "page": 6
+      },
+      {
+        "image": "01680007.tif",
+        "page": 7
+      },
+      {
+        "image": "01690008.tif",
+        "page": 8
+      },
+      {
+        "image": "01700009.tif",
+        "page": 9
+      },
+      {
+        "image": "01710010.tif",
+        "page": 10
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01620000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 37"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210124"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "01630002.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 37"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210124"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "01640003.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 37"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210124"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "01650004.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 37"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210124"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "01660005.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 37"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210124"
-    ],
-    "description": "",
-    "page": "6",
-    "session": "002",
-    "tiff_filename": "01670006.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 37"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210124"
-    ],
-    "description": "",
-    "page": "7",
-    "session": "002",
-    "tiff_filename": "01680007.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 37"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210124"
-    ],
-    "description": "",
-    "page": "8",
-    "session": "002",
-    "tiff_filename": "01690008.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 37"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210124"
-    ],
-    "description": "",
-    "page": "9",
-    "session": "002",
-    "tiff_filename": "01700009.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 37"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210124"
-    ],
-    "description": "",
-    "page": "10",
-    "session": "002",
-    "tiff_filename": "01710010.tif",
     "volume": "002"
   },
   {
@@ -2982,9 +1660,13 @@
       "18210125"
     ],
     "description": "Mr. Van Dyke, from the Committee of Claims, to whom was referred the petition of Matthew McNair, reported the following bill, which was read, and passed to a second reading. A Bill For the relief of Matthew McNair.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01720000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01720000.tif",
     "volume": "002"
   },
   {
@@ -2999,60 +1681,25 @@
       "18210125"
     ],
     "description": "Mr. King, of New York, proposed the following, as a substitute for the bill for the relief of the Purchasers of the Public Lands, prior to the first day of July, 1820.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01730000.tif",
+        "page": 1
+      },
+      {
+        "image": "01740002.tif",
+        "page": 2
+      },
+      {
+        "image": "01750003.tif",
+        "page": 3
+      },
+      {
+        "image": "01760004.tif",
+        "page": 4
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01730000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 39"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210125"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "01740002.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 39"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210125"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "01750003.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 39"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210125"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "01760004.tif",
     "volume": "002"
   },
   {
@@ -3067,9 +1714,13 @@
       "18210125"
     ],
     "description": "Agreeably to notice given, Mr. King, of Alabama, asked and obtained leave to bring in the following bill, which was read, and passed to a second reading. A Bill To establish the District of Blakely.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01770000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01770000.tif",
     "volume": "002"
   },
   {
@@ -3084,9 +1735,13 @@
       "18210123"
     ],
     "description": "Mr. Walker, of Alabama, proposed the following amendment to the bill for the relief of the purchasers of public lands prior to the year eighteen hundred and twenty. Amendment: Strike out the second section, and, in lieu thereof, insert:",
-    "page": "",
+    "pages": [
+      {
+        "image": "01780000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01780000.tif",
     "volume": "002"
   },
   {
@@ -3103,9 +1758,13 @@
       "18210131"
     ],
     "description": "Mr. Thomas, from the Committee on Public Lands, to whom was recommitted the bill from the House of Representatives, entitled ''An act for the relief of Nicholas Jarrott,'' reported the same with the following Amendments To the engrossed bill.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01790000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01790000.tif",
     "volume": "002"
   },
   {
@@ -3120,9 +1779,13 @@
       "18210126"
     ],
     "description": "Agreeably to notice given, Mr. Eaton asked and obtained leave to bring in the following bill, which was read and passed to a second reading. A Bill Supplementary to an act passed on the fifth of April, one thousand eight hundred and twenty, entitled ''An act for the relief of John Harding, Giles Harding, John Shute, and John Nichols.''",
-    "page": "",
+    "pages": [
+      {
+        "image": "01800000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01800000.tif",
     "volume": "002"
   },
   {
@@ -3139,9 +1802,13 @@
       "18210126"
     ],
     "description": "Agreeably to notice given, Mr. Johnson, of Louisiana, asked and obtained leave to bring in the following bill, which was twice, read, and referred to the Committee on the Judiciary. A Bill To authorize the Clerk of the District Court of the United States for the District of Louisiana to appoint a deputy to aid him in the discharge of the duties of his office.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01810000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01810000.tif",
     "volume": "002"
   },
   {
@@ -3158,9 +1825,13 @@
       "18210129"
     ],
     "description": "Mr. Roberts, from the Committee of Claims, to whom was referred the petition of J. L. B. Macarty, reported the following bill, which was read, and passed to a second reading. A Bill For the relief of J. L. B. Macarty.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01820000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01820000.tif",
     "volume": "002"
   },
   {
@@ -3177,9 +1848,13 @@
       "18210101"
     ],
     "description": "Mr. Williams, of Tennessee, from the Committee on Military Affairs, to whom the subject was referred reported the following bill, which was read, and passed to a second reading. A Bill For passing to the credit of Nathaniel Allen certain moneys by him disbursed in the public service.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01830000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01830000.tif",
     "volume": "002"
   },
   {
@@ -3196,94 +1871,33 @@
       "18210101"
     ],
     "description": "Mr. Horsey, from the Committee on the District of Columbia, to whom the subject was referred, reported the following bill, which was read, and passed to a second reading. A Bill To extend the charters of certain Banks in the District of Columbia.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01840000.tif",
+        "page": 1
+      },
+      {
+        "image": "01850002.tif",
+        "page": 2
+      },
+      {
+        "image": "01860003.tif",
+        "page": 3
+      },
+      {
+        "image": "01870004.tif",
+        "page": 4
+      },
+      {
+        "image": "01880005.tif",
+        "page": 5
+      },
+      {
+        "image": "01890006.tif",
+        "page": 6
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01840000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 45"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210101"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "01850002.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 45"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210101"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "01860003.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 45"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210101"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "01870004.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 45"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210101"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "01880005.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 45"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210101"
-    ],
-    "description": "",
-    "page": "6",
-    "session": "002",
-    "tiff_filename": "01890006.tif",
     "volume": "002"
   },
   {
@@ -3300,77 +1914,29 @@
       "18210202"
     ],
     "description": "Mr. Williams, of Tennessee, from the Committee on Military Affairs, to whom was referred the bill from the House of Representatives, entitled ''An act to reduce and fix the military peace establishment of the United States,'' reported it with the following Amendment. After the enacting clause, strike out to the end of the bill, and insert the following:",
-    "page": "",
+    "pages": [
+      {
+        "image": "01900000.tif",
+        "page": 1
+      },
+      {
+        "image": "01910002.tif",
+        "page": 2
+      },
+      {
+        "image": "01920003.tif",
+        "page": 3
+      },
+      {
+        "image": "01930004.tif",
+        "page": 4
+      },
+      {
+        "image": "01940005.tif",
+        "page": 5
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01900000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 45"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210202"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "01910002.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 45"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210202"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "01920003.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 45"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210202"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "01930004.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 45"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210202"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "01940005.tif",
     "volume": "002"
   },
   {
@@ -3387,26 +1953,17 @@
       "18210205"
     ],
     "description": "Mr Thomas, from the Committee on Public Lands, to whom was re-committed the bill for the relief of the purchasers of public lands, prior to the first day of July, 1820, reported the same, with the following Amendments:",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "01950000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 45"
+    "pages": [
+      {
+        "image": "01950000.tif",
+        "page": 1
+      },
+      {
+        "image": "01960002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210205"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "01960002.tif",
     "volume": "002"
   },
   {
@@ -3423,111 +1980,37 @@
       "18210202"
     ],
     "description": "Mr. Horsey, from the Committee on the District of Columbia, to whom was referred the memorial of the Bank of Potomac, reported the following bill, which was read, and passed to a second reading. A Bill To extend the charter of the Bank of Potomac.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01970000.tif",
+        "page": 1
+      },
+      {
+        "image": "01980002.tif",
+        "page": 2
+      },
+      {
+        "image": "01990003.tif",
+        "page": 3
+      },
+      {
+        "image": "02000004.tif",
+        "page": 4
+      },
+      {
+        "image": "02010005.tif",
+        "page": 5
+      },
+      {
+        "image": "02020006.tif",
+        "page": 6
+      },
+      {
+        "image": "02030007.tif",
+        "page": 7
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01970000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 47"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210202"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "01980002.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 47"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210202"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "01990003.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 47"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210202"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "02000004.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 47"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210202"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "02010005.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 47"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210202"
-    ],
-    "description": "",
-    "page": "6",
-    "session": "002",
-    "tiff_filename": "02020006.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 47"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210202"
-    ],
-    "description": "",
-    "page": "7",
-    "session": "002",
-    "tiff_filename": "02030007.tif",
     "volume": "002"
   },
   {
@@ -3544,9 +2027,13 @@
       "18210205"
     ],
     "description": "Mr. Williams, of Tennessee, from the Committee on Military Affairs, to whom was referred the memorial of the mayor, aldermen, and commonalty of the city of New York, reported the following bill, which was read and passed to a second reading. A Bill To authorize the re-conveyance of a tract of land to the city of New York.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02040000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02040000.tif",
     "volume": "002"
   },
   {
@@ -3563,26 +2050,17 @@
       "18210205"
     ],
     "description": "Mr. Thomas, from the Committee on Public Lands, to whom was referred the petition of Clarissa Scott, reported the following bill, which was read, and passed to a second reading. A Bill For the relief of the legal representatives of Manuel and Isaac Monsanto, deceased.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "02050000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 49"
+    "pages": [
+      {
+        "image": "02050000.tif",
+        "page": 1
+      },
+      {
+        "image": "02060002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210205"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "02060002.tif",
     "volume": "002"
   },
   {
@@ -3597,9 +2075,13 @@
       "18210207"
     ],
     "description": "Agreeably to notice given, Mr. Walker, of Georgia, asked and obtained leave to bring in the following bill, which was read, and passed to a second reading. A Bill Concerning the process of execution issuing from the Sixth Circuit Court of the United States for the District of Georgia.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02070000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02070000.tif",
     "volume": "002"
   },
   {
@@ -3616,9 +2098,13 @@
       "18210208"
     ],
     "description": "Mr. Parrott, from the Committee on Naval Affairs, to whom was referred the petition of William Vaughan, reported the following bill, which was read, and passed to a second reading. A Bill To reward Lieutenant Gregory, his officers and companions.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02080000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02080000.tif",
     "volume": "002"
   },
   {
@@ -3635,26 +2121,17 @@
       "18210209"
     ],
     "description": "Mr. Sanford, from the Committee on Finance, made the following report: The Committee of Finance propose the following amendments to the bill from the House of Representatives, entitled ''An act further to regulate the entry of merchandise imported into the United States from any adjacent territory.''",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "02090000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 51"
+    "pages": [
+      {
+        "image": "02090000.tif",
+        "page": 1
+      },
+      {
+        "image": "02100002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210209"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "02100002.tif",
     "volume": "002"
   },
   {
@@ -3671,9 +2148,13 @@
       "18210209"
     ],
     "description": "Mr. Smith, from the Committee on the Judiciary, to whom was referred the petition of Josiah Hook, jr. reported the following bill, which was read, and passed to a second reading. A Bill For the relief of Josiah Hook, junior.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02110000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02110000.tif",
     "volume": "002"
   },
   {
@@ -3688,9 +2169,13 @@
       "18210210"
     ],
     "description": "Amendment Proposed by the Select Committee, appointed on the 2d instant, to which was referred the resolution from the Senate declaring the admission of the State of Missouri into the Union. Road, and ordered to lie upon the table.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02120000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02120000.tif",
     "volume": "002"
   },
   {
@@ -3707,26 +2192,17 @@
       "18210210"
     ],
     "description": "Mr. Thomas, from the Committee on Public Lands,' to whom was referred the petition of John W. Whitney, and John Snodgrass, reported the following bill, which was read, and passed to a second reading. A Bill For the relief of the legal representatives of Alexander Montgomery, deceased.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "02130000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 54"
+    "pages": [
+      {
+        "image": "02130000.tif",
+        "page": 1
+      },
+      {
+        "image": "02140002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210210"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "02140002.tif",
     "volume": "002"
   },
   {
@@ -3743,9 +2219,13 @@
       "18210213"
     ],
     "description": "Mr. Mills, from the Committee on the Judiciary, to whom was referred the petition of Samuel Parker, reported the following bill, which was read, and passed to a second reading. A Bill To extend the term of Samuel Parker's patents for his improvement in carrying and finishing leather of all kinds.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02150000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02150000.tif",
     "volume": "002"
   },
   {
@@ -3762,9 +2242,13 @@
       "18210214"
     ],
     "description": "Mr. Sanford, from the Committee on Finance, to whom the subject was referred, reported the following bill, which was read, and passed to a second reading. A Bill For the relief of William Whitehead, Joshua Aubin, and James Graham.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02160000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02160000.tif",
     "volume": "002"
   },
   {
@@ -3781,9 +2265,13 @@
       "18210215"
     ],
     "description": "The Committee of Finance propose the following amendment to the bill from the House of Representatives, entitled ''An act making appropriations for the support of government for the year one thousand eight hundred and twenty-one.''",
-    "page": "",
+    "pages": [
+      {
+        "image": "02170000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02170000.tif",
     "volume": "002"
   },
   {
@@ -3800,43 +2288,21 @@
       "18210216"
     ],
     "description": "Agreeably to notice given, Mr. Horsey asked and obtained leave to bring in the following bill, which was twice read, and referred to the Committee on the District of Columbia. A Bill Concerning Divorces and Alimony in the District of Columbia.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02180000.tif",
+        "page": 1
+      },
+      {
+        "image": "02190002.tif",
+        "page": 2
+      },
+      {
+        "image": "02200003.tif",
+        "page": 3
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02180000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 57"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210216"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "02190002.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 57"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210216"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "02200003.tif",
     "volume": "002"
   },
   {
@@ -3853,43 +2319,21 @@
       "18210224"
     ],
     "description": "Mr. Horsey, from the Committee on the District of Columbia, to whom was referred the bill concerning divorces and alimony, in the District of Columbia, reported the following amendments thereto:",
-    "page": "",
+    "pages": [
+      {
+        "image": "02210000.tif",
+        "page": 1
+      },
+      {
+        "image": "02220002.tif",
+        "page": 2
+      },
+      {
+        "image": "02230003.tif",
+        "page": 3
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02210000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 57"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210224"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "02220002.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 57"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210224"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "02230003.tif",
     "volume": "002"
   },
   {
@@ -3906,9 +2350,13 @@
       "18210219"
     ],
     "description": "Mr. King, of New York, from the Committee on Roads and Canals, reported the following bill, which was read, and passed to a second reading. A Bill Supplemental to an act, entitled ''An act to authorize the appointment of commissioners to lay out the road therein mentioned.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02240000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02240000.tif",
     "volume": "002"
   },
   {
@@ -3925,26 +2373,17 @@
       "18210219"
     ],
     "description": "Mr. Eaton, from the Committee on Public Lands, to whom the subject was referred, reported the following bill, which was read, and passed to a second reading. A Bill For the relief of Koo-na-noo-lus-kee, or Challenge, one of the tribe of the Cherokee Indians.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "02250000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 59"
+    "pages": [
+      {
+        "image": "02250000.tif",
+        "page": 1
+      },
+      {
+        "image": "02260002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210219"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "02260002.tif",
     "volume": "002"
   },
   {
@@ -3959,94 +2398,33 @@
       "18210219"
     ],
     "description": "Mr. Johnson, of Louisiana, from the select committee, to whom the subject was referred, reported the following bill, which was read, and passed to a second reading. A Bill Supplementary to the several Acts for adjusting the claims to Land, and establishing Land Offices, in the districts east of the Island of New Orleans.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02270000.tif",
+        "page": 1
+      },
+      {
+        "image": "02280002.tif",
+        "page": 2
+      },
+      {
+        "image": "02290003.tif",
+        "page": 3
+      },
+      {
+        "image": "02300004.tif",
+        "page": 4
+      },
+      {
+        "image": "02310005.tif",
+        "page": 5
+      },
+      {
+        "image": "02320006.tif",
+        "page": 6
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02270000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 60"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210219"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "02280002.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 60"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210219"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "02290003.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 60"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210219"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "02300004.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 60"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210219"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "02310005.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 60"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210219"
-    ],
-    "description": "",
-    "page": "6",
-    "session": "002",
-    "tiff_filename": "02320006.tif",
     "volume": "002"
   },
   {
@@ -4063,9 +2441,13 @@
       "18210220"
     ],
     "description": "Mr. Ruggles, from the Committee of Claims, to whom the subject was referred, reported the following bill; which was read, and passed to a second reading. A Bill For the relief of David Cooper.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02330000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02330000.tif",
     "volume": "002"
   },
   {
@@ -4082,9 +2464,13 @@
       "18210220"
     ],
     "description": "Mr. Sanford, from the Committee on Finance, reported the following bill; which was read, and passed to a second reading. A Bill Concerning Vessels employed in the Fishereis.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02340000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02340000.tif",
     "volume": "002"
   },
   {
@@ -4099,893 +2485,221 @@
       "18210221"
     ],
     "description": "Printed by order of the House of Representatives. An Act To establish an uniform system of Bankruptcy throughout the United States.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02350000.tif",
+        "page": 1
+      },
+      {
+        "image": "02360002.tif",
+        "page": 2
+      },
+      {
+        "image": "02370003.tif",
+        "page": 3
+      },
+      {
+        "image": "02380004.tif",
+        "page": 4
+      },
+      {
+        "image": "02390005.tif",
+        "page": 5
+      },
+      {
+        "image": "02400006.tif",
+        "page": 6
+      },
+      {
+        "image": "02410007.tif",
+        "page": 7
+      },
+      {
+        "image": "02420008.tif",
+        "page": 8
+      },
+      {
+        "image": "02430009.tif",
+        "page": 9
+      },
+      {
+        "image": "02440010.tif",
+        "page": 10
+      },
+      {
+        "image": "02450011.tif",
+        "page": 11
+      },
+      {
+        "image": "02460012.tif",
+        "page": 12
+      },
+      {
+        "image": "02470013.tif",
+        "page": 13
+      },
+      {
+        "image": "02480014.tif",
+        "page": 14
+      },
+      {
+        "image": "02490015.tif",
+        "page": 15
+      },
+      {
+        "image": "02500016.tif",
+        "page": 16
+      },
+      {
+        "image": "02510017.tif",
+        "page": 17
+      },
+      {
+        "image": "02520018.tif",
+        "page": 18
+      },
+      {
+        "image": "02530019.tif",
+        "page": 19
+      },
+      {
+        "image": "02540020.tif",
+        "page": 20
+      },
+      {
+        "image": "02550021.tif",
+        "page": 21
+      },
+      {
+        "image": "02560022.tif",
+        "page": 22
+      },
+      {
+        "image": "02570023.tif",
+        "page": 23
+      },
+      {
+        "image": "02580024.tif",
+        "page": 24
+      },
+      {
+        "image": "02590025.tif",
+        "page": 25
+      },
+      {
+        "image": "02600026.tif",
+        "page": 26
+      },
+      {
+        "image": "02610027.tif",
+        "page": 27
+      },
+      {
+        "image": "02620028.tif",
+        "page": 28
+      },
+      {
+        "image": "02630029.tif",
+        "page": 29
+      },
+      {
+        "image": "02640030.tif",
+        "page": 30
+      },
+      {
+        "image": "02650031.tif",
+        "page": 31
+      },
+      {
+        "image": "02660032.tif",
+        "page": 32
+      },
+      {
+        "image": "02670033.tif",
+        "page": 33
+      },
+      {
+        "image": "02680034.tif",
+        "page": 34
+      },
+      {
+        "image": "02690035.tif",
+        "page": 35
+      },
+      {
+        "image": "02700036.tif",
+        "page": 36
+      },
+      {
+        "image": "02710037.tif",
+        "page": 37
+      },
+      {
+        "image": "02720038.tif",
+        "page": 38
+      },
+      {
+        "image": "02730039.tif",
+        "page": 39
+      },
+      {
+        "image": "02740040.tif",
+        "page": 40
+      },
+      {
+        "image": "02750041.tif",
+        "page": 41
+      },
+      {
+        "image": "02760042.tif",
+        "page": 42
+      },
+      {
+        "image": "02770043.tif",
+        "page": 43
+      },
+      {
+        "image": "02780044.tif",
+        "page": 44
+      },
+      {
+        "image": "02790045.tif",
+        "page": 45
+      },
+      {
+        "image": "02800046.tif",
+        "page": 46
+      },
+      {
+        "image": "02810047.tif",
+        "page": 47
+      },
+      {
+        "image": "02820048.tif",
+        "page": 48
+      },
+      {
+        "image": "02830049.tif",
+        "page": 49
+      },
+      {
+        "image": "02840050.tif",
+        "page": 50
+      },
+      {
+        "image": "02850051.tif",
+        "page": 51
+      },
+      {
+        "image": "02860052.tif",
+        "page": 52
+      },
+      {
+        "image": "02870053.tif",
+        "page": 53
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02350000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "02360002.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "02370003.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "02380004.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "02390005.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "6",
-    "session": "002",
-    "tiff_filename": "02400006.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "7",
-    "session": "002",
-    "tiff_filename": "02410007.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "8",
-    "session": "002",
-    "tiff_filename": "02420008.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "9",
-    "session": "002",
-    "tiff_filename": "02430009.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "10",
-    "session": "002",
-    "tiff_filename": "02440010.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "11",
-    "session": "002",
-    "tiff_filename": "02450011.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "12",
-    "session": "002",
-    "tiff_filename": "02460012.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "13",
-    "session": "002",
-    "tiff_filename": "02470013.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "14",
-    "session": "002",
-    "tiff_filename": "02480014.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "15",
-    "session": "002",
-    "tiff_filename": "02490015.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "16",
-    "session": "002",
-    "tiff_filename": "02500016.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "17",
-    "session": "002",
-    "tiff_filename": "02510017.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "18",
-    "session": "002",
-    "tiff_filename": "02520018.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "19",
-    "session": "002",
-    "tiff_filename": "02530019.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "20",
-    "session": "002",
-    "tiff_filename": "02540020.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "21",
-    "session": "002",
-    "tiff_filename": "02550021.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "22",
-    "session": "002",
-    "tiff_filename": "02560022.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "23",
-    "session": "002",
-    "tiff_filename": "02570023.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "24",
-    "session": "002",
-    "tiff_filename": "02580024.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "25",
-    "session": "002",
-    "tiff_filename": "02590025.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "26",
-    "session": "002",
-    "tiff_filename": "02600026.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "27",
-    "session": "002",
-    "tiff_filename": "02610027.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "28",
-    "session": "002",
-    "tiff_filename": "02620028.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "29",
-    "session": "002",
-    "tiff_filename": "02630029.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "30",
-    "session": "002",
-    "tiff_filename": "02640030.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "31",
-    "session": "002",
-    "tiff_filename": "02650031.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "32",
-    "session": "002",
-    "tiff_filename": "02660032.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "33",
-    "session": "002",
-    "tiff_filename": "02670033.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "34",
-    "session": "002",
-    "tiff_filename": "02680034.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "35",
-    "session": "002",
-    "tiff_filename": "02690035.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "36",
-    "session": "002",
-    "tiff_filename": "02700036.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "37",
-    "session": "002",
-    "tiff_filename": "02710037.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "38",
-    "session": "002",
-    "tiff_filename": "02720038.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "39",
-    "session": "002",
-    "tiff_filename": "02730039.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "40",
-    "session": "002",
-    "tiff_filename": "02740040.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "41",
-    "session": "002",
-    "tiff_filename": "02750041.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "42",
-    "session": "002",
-    "tiff_filename": "02760042.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "43",
-    "session": "002",
-    "tiff_filename": "02770043.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "44",
-    "session": "002",
-    "tiff_filename": "02780044.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "45",
-    "session": "002",
-    "tiff_filename": "02790045.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "46",
-    "session": "002",
-    "tiff_filename": "02800046.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "47",
-    "session": "002",
-    "tiff_filename": "02810047.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "48",
-    "session": "002",
-    "tiff_filename": "02820048.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "49",
-    "session": "002",
-    "tiff_filename": "02830049.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "50",
-    "session": "002",
-    "tiff_filename": "02840050.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "51",
-    "session": "002",
-    "tiff_filename": "02850051.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "52",
-    "session": "002",
-    "tiff_filename": "02860052.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 20"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210221"
-    ],
-    "description": "",
-    "page": "53",
-    "session": "002",
-    "tiff_filename": "02870053.tif",
     "volume": "002"
   },
   {
@@ -5002,9 +2716,13 @@
       "18210221"
     ],
     "description": "Mr. Thomas, from the Committee on Public Lands, reported the following bill, which was read, and passed to a second reading. A Bill To authorize the Commissioner of the General Land Office to remit the installments due on certain lots in Shawneetown, in the state of Illinois.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02880000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02880000.tif",
     "volume": "002"
   },
   {
@@ -5021,9 +2739,13 @@
       "18210221"
     ],
     "description": "Mr. Thomas, from the Committee on Public Lands, to whom was referred the petition of William Doak, reported the following bill, which was read, and passed to a second reading: A Bill Giving the right of pre-emption to William Doak and Noble Osborn.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02890000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02890000.tif",
     "volume": "002"
   },
   {
@@ -5040,43 +2762,21 @@
       "18210222"
     ],
     "description": "Mr. Thomas, from the Committee on Public Lands reported the following bill, which was read, and passed to a second reading. A Bill To designate the boundaries of a Land District, and for the establishment of a Land Office, in the state of Indiana.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02900000.tif",
+        "page": 1
+      },
+      {
+        "image": "02910002.tif",
+        "page": 2
+      },
+      {
+        "image": "02920003.tif",
+        "page": 3
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02900000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 65"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210222"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "02910002.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 65"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210222"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "02920003.tif",
     "volume": "002"
   },
   {
@@ -5093,9 +2793,13 @@
       "18210222"
     ],
     "description": "Mr. Noble, from the Committee on Pensions, reported the following bill, which was read and passed to a second reading. A Bill For the relief of Dean Weymouth.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02930000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02930000.tif",
     "volume": "002"
   },
   {
@@ -5110,43 +2814,21 @@
       "18210223"
     ],
     "description": "Agreeably to notice given, Mr. Talbot asked and obtained leave to bring in the following bill, which was read, and passed to a second reading. A Bill To provide for the due execution of the laws of the United States within the state of Missouri. Whereas the people of the territory of Missouri did, on the nineteenth day of July, one thousand eight hundred and twenty, form for themselves a constitution and state government, and did give to the same the name of the state of Missouri, in pursuance of an act of Congress, entitled ''An act to authorize the people of the Missouri territory to form a constitution and state government, and for the admission of such state into the Union on an equal footing with the original states, and to prohibit slavery in certain territories,'' whereby the said state has become one of the United States of America: in order, therefore, to provide for the due execution of the laws of the United States within the said state of Missouri,",
-    "page": "",
+    "pages": [
+      {
+        "image": "02940000.tif",
+        "page": 1
+      },
+      {
+        "image": "02950002.tif",
+        "page": 2
+      },
+      {
+        "image": "02960003.tif",
+        "page": 3
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02940000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 67"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210223"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "02950002.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 67"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210223"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "02960003.tif",
     "volume": "002"
   },
   {
@@ -5163,9 +2845,13 @@
       "18210223"
     ],
     "description": "Mr. Thomas, from the Committee on Public Lands, reported the following bill, which was read, and passed to a second reading. A Bill Granting to the corporation of the city of Mobile, in the state of Alabama, certain lots of ground in the said city.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02970000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02970000.tif",
     "volume": "002"
   },
   {
@@ -5182,60 +2868,25 @@
       "18210224"
     ],
     "description": "Mr. Barbour, from the Committee on Foreign Relations, reported the following Bill, which was twice read. A Bill Providing for the adjudication and payment of claims arising under the Treaty of Amity, Settlement, and Limits, between the United States and his Catholic Majesty.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02980000.tif",
+        "page": 1
+      },
+      {
+        "image": "02990002.tif",
+        "page": 2
+      },
+      {
+        "image": "03000003.tif",
+        "page": 3
+      },
+      {
+        "image": "03010004.tif",
+        "page": 4
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02980000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 69"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210224"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "02990002.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 69"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210224"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "03000003.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 69"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210224"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "03010004.tif",
     "volume": "002"
   },
   {
@@ -5250,9 +2901,13 @@
       "18210224"
     ],
     "description": "Mr. Sanford, upon leave given, introduced the following bill, which was read and passed to a second reading. A Bill To revive and continue in force ''An act fixing the compensations of the Secretary of the Senate and Clerk of the House of Representatives, of the clerks employed in their offices, and of the Librarian,'' approved the eighteenth day of April, one thousand eight hundred and eighteen.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03020000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03020000.tif",
     "volume": "002"
   },
   {
@@ -5269,9 +2924,13 @@
       "18210224"
     ],
     "description": "Mr. Horsey, from the Committee on the District of Columbia, reported the following bill, which was read, and passed to a second reading. A Bill To empower the Levy Court for the country of Washing to discontinue a certain road therein mentioned.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03030000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03030000.tif",
     "volume": "002"
   },
   {
@@ -5286,9 +2945,13 @@
       "18210226"
     ],
     "description": "Mr. King, of New York, introduced the following bill on leave, which was twice read by unanimous consent. A Bill To amend the act, entitled ''An act supplementary to 'An act entitled an act to regulate the collection of duties on imports and tonnage,' passed the second day of March, one thousand seven hundred and ninety-nine.''",
-    "page": "",
+    "pages": [
+      {
+        "image": "03040000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03040000.tif",
     "volume": "002"
   },
   {
@@ -5305,26 +2968,17 @@
       "18210226"
     ],
     "description": "Mr. Barbour, from the Committee on Foreign Relations, reported the following Bill, which was twice read by unanimous consent. A Bill To authorize the President of the United States to take possession of East and West Florida, and establish a temporary Government therein.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "03050000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 73"
+    "pages": [
+      {
+        "image": "03050000.tif",
+        "page": 1
+      },
+      {
+        "image": "03060002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210226"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "03060002.tif",
     "volume": "002"
   },
   {
@@ -5341,9 +2995,13 @@
       "18210226"
     ],
     "description": "Mr. Roberts, from the Committee of Claims, reported the following bill, which was read, and passed to a second reading. A Bill Explanatory of the act for the relief of John H. Piatt.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03070000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03070000.tif",
     "volume": "002"
   },
   {
@@ -5360,43 +3018,21 @@
       "18210227"
     ],
     "description": "Mr. Stokes, from the Committee on the Post Office and Post Roads, to whom was referred the ''bill to alter and establish certain post roads,'' reported the following amendments to the said bill, to wit: First. In section first, line twelfth, strike out the word ''and,'' and insert, from Herkimer by Woodworth's, Columbia, by Underwood's, Litchfield, to Laghwaite. From Vernon to Delhi. From Little Falls by Fairfield, Newport, and Russia, to Remsen, in New York. From Liberty Corner by Doughty's mills and New Providence, to Springfield, in New Jersey. Second. In the same section, line fourteenth, insert, from Milledgeville to Greensborough, in Georgia. Third. In the same section, line twenty-one, insert, and from Smithton to John Grayum's, in Missouri. Fourth. In section second, line thirty-eight, insert, from Booklyn, by South Killing by to Thompson. From Bridgeport, by Long Hill, Trumbull, Levi Edwards' in Huntington, Newtown, and Brookfield, to New Milford.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03080000.tif",
+        "page": 1
+      },
+      {
+        "image": "03090002.tif",
+        "page": 2
+      },
+      {
+        "image": "03100003.tif",
+        "page": 3
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03080000.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 74"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210227"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "03090002.tif",
-    "volume": "002"
-  },
-  {
-    "bill_numbers": [
-      "S. 74"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
-    "committees": [],
-    "congress": "016",
-    "dates": [
-      "18210227"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "03100003.tif",
     "volume": "002"
   }
 ]

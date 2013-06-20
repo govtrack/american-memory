@@ -14,9 +14,13 @@
       "18560306"
     ],
     "description": "Agreeably to notice, Mr. Foot asked and obtained leave to bring in the following joint resolution; which was read twice and referred to the Committee on Military Affairs. Reported without amendment, and accompanied by an adverse report, (No. 32.) Joint Resolution For the presentation of a sword to Colonel Benjamin S. Roberts.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00010000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00010000.tif",
     "volume": "034"
   },
   {
@@ -34,27 +38,17 @@
       "18560213"
     ],
     "description": "Agreeably to notice, Mr. Weller asked and obtained leave to bring in the following joint resolution; which was read twice and referred to the Committee on Military Affairs. Reported without amendment. Joint Resolution Authorizing and directing the Secretary of War to furnish, in certain cases, verified copies of original papers, filed before the board for the examination of claims contracted in California under Lieutenant Colonel Fremont.",
-    "page": "",
-    "session": "001",
-    "tiff_filename": "00020000.tif",
-    "volume": "034"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 3"
+    "pages": [
+      {
+        "image": "00020000.tif",
+        "page": 1
+      },
+      {
+        "image": "00030002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "034",
-    "dates": [
-      "18560212",
-      "18560213"
-    ],
-    "description": "",
-    "page": "2",
     "session": "001",
-    "tiff_filename": "00030002.tif",
     "volume": "034"
   },
   {
@@ -73,9 +67,13 @@
       "18560401"
     ],
     "description": "Referred to the Committee on the Post Office and Post Roads, Reported back by Mr. Walker, without amendment, and committed to a Committee of the Whole House to-morrow. Joint Resolution For the relief of the Southwestern and Muscogee Railroad Companies.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00040000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00040000.tif",
     "volume": "034"
   },
   {
@@ -92,9 +90,13 @@
       "18560228"
     ],
     "description": "Mr. Rusk, from the Committee on the Post Office and Post Roads, submitted a report, (No. 17,) accompanied by the following bill; which was read and passed to a second reading. Joint Resolution For the relief of the Southwestern and Muscogee Railroad Companies.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00050000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00050000.tif",
     "volume": "034"
   },
   {
@@ -111,9 +113,13 @@
       "18560228"
     ],
     "description": "Mr. Brodhead, from the Committee of Claims, submitted a report, (No. 18,) accompanied by the following bill; which was read and passed to a second reading. Joint Resolution For the relief of Hall Neilson. Whereas, by a contract or agreement entered into in August, eighteen hundred and forty-one, between the Solicitor of the Treasury and Hall Neilson, by which the latter executed four several bonds of one thousand five hundred dollars each, payable to the United States, with interest, for the purchase of a certain piece of land, the property of the United States, near Vincennes, Indiana; and whereas, the title to said land soon after became the subject of litigation, by which it has been rendered unavailable to the purchaser to the present time:",
-    "page": "",
+    "pages": [
+      {
+        "image": "00060000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00060000.tif",
     "volume": "034"
   },
   {
@@ -131,26 +137,17 @@
       "18570124"
     ],
     "description": "Reported from the Committee of Claims without amendment, and committed to a Committee of the Whole House to-morrow Joint Resolution For the relief of Hall Neilson. Whereas, by a contract or agreement entered into a August, eighteen hundred and forty-one, between the Solicitor of the Treasury and Hall Neilson, by which the latter executed four several bonds of one thousand five hundred dollars each, payable to the United States, with interest, for the purchase of a certain piece of land, the property of the United States, near Vincennes, Indiana; and whereas, the title to said land soon after became the subject of litigation, by which it has been rendered unavailable to the purchase to the present time:",
-    "page": "",
-    "session": "003",
-    "tiff_filename": "00070000.tif",
-    "volume": "034"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 8"
+    "pages": [
+      {
+        "image": "00070000.tif",
+        "page": 1
+      },
+      {
+        "image": "00080004.tif",
+        "page": 4
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "034",
-    "dates": [
-      "18570124"
-    ],
-    "description": "",
-    "page": "4",
     "session": "003",
-    "tiff_filename": "00080004.tif",
     "volume": "034"
   },
   {
@@ -169,9 +166,13 @@
       "18560523"
     ],
     "description": "Referred to the Committee of Claims. Reported without amendment, and committed to a Committee of the Whole House to-morrow. Joint Resolution For the relief of John Y. Laub, a clerk in the office of the First Comptroller of the Treasury.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00090000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00090000.tif",
     "volume": "034"
   },
   {
@@ -188,9 +189,13 @@
       "18560304"
     ],
     "description": "Mr. Brodhead, from the Committee of Claims, submitted a report, (No. 27,) accompanied by the following joint resolution; which was read and passed to a second reading. Joint Resolution For the relief of John Y. Laub, a clerk in the office of the First Comptroller of the Treasury",
-    "page": "",
+    "pages": [
+      {
+        "image": "00100000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00100000.tif",
     "volume": "034"
   },
   {
@@ -207,9 +212,13 @@
       "18560326"
     ],
     "description": "Agreeably to notice, Mr. Mason asked and obtained leave to bring in the following joint resolution; which was read twice, referred to the Committee on Foreign Relations, and ordered to be printed. Joint Resolution To amend the act of March first, eighteen hundred and fifty-five, entitled ''An act to remodel the diplomatic and consular system of the United States.''",
-    "page": "",
+    "pages": [
+      {
+        "image": "00110000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00110000.tif",
     "volume": "034"
   },
   {
@@ -227,26 +236,17 @@
       "18560402"
     ],
     "description": "Mr. Mason, from the Committee on Foreign Relations, reported the following bill; which was read the first and second times, considered as in Committee of the Whole and postponed to to-morrow. Joint Resolution Allowing Dr. E. K. Kane and the officers associated with him in their late expedition to the Arctic seas in search of Sir John Franklin, to accept such token of acknowledgment from the government of Great Britain as it may please to present. Whereas, the President of the United States has communicated to Congress a request from the government of Great Britain that permission should be given by this government allowing Dr. Elisha K. Kane, a passed assistant surgeon in the navy of the United States, and the officers who were with him in his late expedition to the Arctic seas in search of Sir John Franklin, to accept from the government of Great Britain some ''token of thankfulness,'' and as a memorial of the sense entertained by that government of ''their arduous and generous services'' in that behalf,",
-    "page": "",
-    "session": "001",
-    "tiff_filename": "00120000.tif",
-    "volume": "034"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 12"
+    "pages": [
+      {
+        "image": "00120000.tif",
+        "page": 1
+      },
+      {
+        "image": "00130002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "034",
-    "dates": [
-      "18560402"
-    ],
-    "description": "",
-    "page": "2",
     "session": "001",
-    "tiff_filename": "00130002.tif",
     "volume": "034"
   },
   {
@@ -264,27 +264,17 @@
       "18570120"
     ],
     "description": "Agreeably to notice, Mr. Seward asked and obtained leave to bring in the following joint resolution; which was read twice and referred to the Committee on Foreign Relations. Committee discharged. Joint Resolution Concerning the discovery of Guano islands.",
-    "page": "",
-    "session": "003",
-    "tiff_filename": "00140000.tif",
-    "volume": "034"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 15"
+    "pages": [
+      {
+        "image": "00140000.tif",
+        "page": 1
+      },
+      {
+        "image": "00150002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "034",
-    "dates": [
-      "18560416",
-      "18570120"
-    ],
-    "description": "",
-    "page": "2",
     "session": "003",
-    "tiff_filename": "00150002.tif",
     "volume": "034"
   },
   {
@@ -301,9 +291,13 @@
       "18560421"
     ],
     "description": "Mr. Sumner, from the Committee on Pensions, reported the following joint resolution; which was read and passed to a second reading. (See report No. 139.) Joint Resolution Relative to the administration of the pension laws.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00160000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00160000.tif",
     "volume": "034"
   },
   {
@@ -320,26 +314,17 @@
       "18560526"
     ],
     "description": "Mr. Foot, from the Committee on Public Lands, to whom was referred the bill (S. 324) ''to permit the legislature of Iowa to determine for that State the application of a grant of lands heretofore made to the State, to aid in the construction of certain railroads,'' reported the following joint resolutions, which was read and passed to a second reading. Joint Resolution To permit the legislature of Iowa to determine for that State the application of a grant of lands heretofore made to the State to aid in the construction of certain railroads.",
-    "page": "",
-    "session": "001",
-    "tiff_filename": "00170000.tif",
-    "volume": "034"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 20"
+    "pages": [
+      {
+        "image": "00170000.tif",
+        "page": 1
+      },
+      {
+        "image": "00180002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "034",
-    "dates": [
-      "18560526"
-    ],
-    "description": "",
-    "page": "2",
     "session": "001",
-    "tiff_filename": "00180002.tif",
     "volume": "034"
   },
   {
@@ -356,9 +341,13 @@
       "18560625"
     ],
     "description": "Mr. Clayton, from the Committee on Foreign Relations, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution To enable the Secretary of State to pay to certain clerks in the Department of State the same compensation as has been paid to clerks of the same grade in the other executive departments.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00190000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00190000.tif",
     "volume": "034"
   },
   {
@@ -376,9 +365,13 @@
       "18560802"
     ],
     "description": "Reported from the Committee on Naval Affairs without amendment, and committed to a Committee of the Whole House. Joint Resolution For the benefit of Susan Decatur, widow of Commodore Stephen Decatur, late of the United States navy.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00200000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00200000.tif",
     "volume": "034"
   },
   {
@@ -396,27 +389,17 @@
       "18560701"
     ],
     "description": "Agreeably to notice, Mr. Mallory asked and obtained leave to bring in the following joint resolution; which was read twice referred to the Committee on Naval Affairs. Reported with an amendment, viz: strike out all after the enacting clause and insert what follows printed in italics, and amend the bill to read; A joint resolution for the relief of Mrs. Susan Decatur. Joint Resolution For the relief of Susan Decatur, widow of Commodore Stephen Decatur, late of the United States navy.",
-    "page": "",
-    "session": "001",
-    "tiff_filename": "00210000.tif",
-    "volume": "034"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 24"
+    "pages": [
+      {
+        "image": "00210000.tif",
+        "page": 1
+      },
+      {
+        "image": "00220002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "034",
-    "dates": [
-      "18560626",
-      "18560701"
-    ],
-    "description": "",
-    "page": "2",
     "session": "001",
-    "tiff_filename": "00220002.tif",
     "volume": "034"
   },
   {
@@ -434,9 +417,13 @@
       "18561212"
     ],
     "description": "Reported back from the Committee on Public Lands by Mr. Broom, without amendment, and committed to a Committee of the Whole House to-morrow. A Resolution To authorize the Secretary of State and the Secretary of the Interior to settle the claim of William Cary Jones for certain services.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00230000.tif",
+        "page": 1
+      }
+    ],
     "session": "003",
-    "tiff_filename": "00230000.tif",
     "volume": "034"
   },
   {
@@ -454,9 +441,13 @@
       "18560729"
     ],
     "description": "Agreeably to notice, Mr Pugh asked and obtained leave to bring in the following joint resolution; which was read twice and referred to the Committee on Commerce. Reported without amendment. Joint Resolution Relative to the building for a custom-house and post office at Toledo, in the State of Ohio.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00240000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00240000.tif",
     "volume": "034"
   },
   {
@@ -473,26 +464,17 @@
       "18570216"
     ],
     "description": "Reported without amendment, and committed to the Committee of the Whole on the state of the Union. Joint Resolution Relative to the building for a custom-house and post office at Toledo, in the State of Ohio.",
-    "page": "",
-    "session": "003",
-    "tiff_filename": "00250000.tif",
-    "volume": "034"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 28"
+    "pages": [
+      {
+        "image": "00250000.tif",
+        "page": 1
+      },
+      {
+        "image": "00260002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "034",
-    "dates": [
-      "18570216"
-    ],
-    "description": "",
-    "page": "2",
     "session": "003",
-    "tiff_filename": "00260002.tif",
     "volume": "034"
   },
   {
@@ -512,28 +494,17 @@
       "18570120"
     ],
     "description": "Agreeably to notice, Mr. Crittenden asked, and obtained, leave to bring in the following joint resolution, which was read twice and referred to the Committee on Territories. Discharged and referred to the Committee on Public Lands. Reported without amendment and accompanied by a report (No. 311.) Joint Resolution Concerning Wolf island.",
-    "page": "",
-    "session": "003",
-    "tiff_filename": "00270000.tif",
-    "volume": "034"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 30"
+    "pages": [
+      {
+        "image": "00270000.tif",
+        "page": 1
+      },
+      {
+        "image": "00280002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "034",
-    "dates": [
-      "18560718",
-      "18570114",
-      "18570120"
-    ],
-    "description": "",
-    "page": "2",
     "session": "003",
-    "tiff_filename": "00280002.tif",
     "volume": "034"
   },
   {
@@ -550,9 +521,13 @@
       "18560723"
     ],
     "description": "Mr. Mallory, from the Committee on Naval Affairs, submitted a report (No. 342,) accompanied by the following joint resolution; which was read and passed to a second reading. Joint Resolution Authorizing the Secretary of the Navy to pay to the officers and seamen of the expedition in search of Dr. Kane the same rate of pay that was allowed the officers and seamen of the expedition under Lieutenant De Haven.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00290000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00290000.tif",
     "volume": "034"
   },
   {
@@ -572,28 +547,17 @@
       "18570206"
     ],
     "description": "Mr. Mallory, from the Committee on Naval Affairs, submitted a report (No. 242,) accompanied by the following joint resolution; which was read and passed to a second reading. Read the second time, considered as in Committee of the Whole, and recommitted to the Committee on Naval Affairs. Reported with an amendment, viz: Strike out all after the enacting clause, and insert what follows printed in italics, and accompanied by a report, (No. 365.) Joint Resolution Authorizing the Secretary of the Navy to pay to the officers and seamen of the expedition in search of Dr. Kane the same rate of pay that was allowed the officers and seamen of the expedition under Lieutenant De Haven.",
-    "page": "",
-    "session": "003",
-    "tiff_filename": "00300000.tif",
-    "volume": "034"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 32"
+    "pages": [
+      {
+        "image": "00300000.tif",
+        "page": 1
+      },
+      {
+        "image": "00310002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "034",
-    "dates": [
-      "18560723",
-      "18570202",
-      "18570206"
-    ],
-    "description": "",
-    "page": "2",
     "session": "003",
-    "tiff_filename": "00310002.tif",
     "volume": "034"
   },
   {
@@ -610,9 +574,13 @@
       "18560729"
     ],
     "description": "Mr. Seward, from the Committee on Commerce, reported the following joint resolution; which was read and passed to a second reading. Jonit Resolution Providing for the survey of the inland passage between the rivers St. John's and St. Mary's in the State of Florida.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00320000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00320000.tif",
     "volume": "034"
   },
   {
@@ -629,9 +597,13 @@
       "18560730"
     ],
     "description": "Mr. Hunter, from the Committee on Finance, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution Authorizing the transfer of certain duties in the executive departments relating to the settlement of accounts.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00330000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00330000.tif",
     "volume": "034"
   },
   {
@@ -648,26 +620,17 @@
       "18570216"
     ],
     "description": "Reported without amendment, and committed to the Committee of the Whole on the state of the Union. Joint Resolution For enlarging the custom-house, post office, and court-house at Detroit, Michigan.",
-    "page": "",
-    "session": "003",
-    "tiff_filename": "00340000.tif",
-    "volume": "034"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 36"
+    "pages": [
+      {
+        "image": "00340000.tif",
+        "page": 1
+      },
+      {
+        "image": "00350002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "034",
-    "dates": [
-      "18570216"
-    ],
-    "description": "",
-    "page": "2",
     "session": "003",
-    "tiff_filename": "00350002.tif",
     "volume": "034"
   },
   {
@@ -685,45 +648,21 @@
       "18570110"
     ],
     "description": "Referred to the Committee on the Library. Referred back to the Committee on the Library and ordered to be printed. A Resolution Respecting the distribution of certain public documents.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00360000.tif",
+        "page": 1
+      },
+      {
+        "image": "00370002.tif",
+        "page": 2
+      },
+      {
+        "image": "00380003.tif",
+        "page": 3
+      }
+    ],
     "session": "003",
-    "tiff_filename": "00360000.tif",
-    "volume": "034"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 38"
-    ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "034",
-    "dates": [
-      "18561219",
-      "18570110"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "003",
-    "tiff_filename": "00370002.tif",
-    "volume": "034"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 38"
-    ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "034",
-    "dates": [
-      "18561219",
-      "18570110"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "003",
-    "tiff_filename": "00380003.tif",
     "volume": "034"
   },
   {
@@ -740,26 +679,17 @@
       "18560813"
     ],
     "description": "Mr. Foot, from the Committee on Public Lands, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution Relative to section 16 and 36 and Territory of Minnesota.",
-    "page": "",
-    "session": "001",
-    "tiff_filename": "00390000.tif",
-    "volume": "034"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 39"
+    "pages": [
+      {
+        "image": "00390000.tif",
+        "page": 1
+      },
+      {
+        "image": "00400002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "034",
-    "dates": [
-      "18560813"
-    ],
-    "description": "",
-    "page": "2",
     "session": "001",
-    "tiff_filename": "00400002.tif",
     "volume": "034"
   },
   {
@@ -776,26 +706,17 @@
       "18570119"
     ],
     "description": "Ordered to be printed. Intended to be reported from the Committee of Ways and Means with an amendment, viz: Insert the words in italics. Joint Resolution To provide for ascertaining the relative value of the coinage of the United States and Great Britain, and the fixing the relative value of the unitary coins of the two countries.",
-    "page": "",
-    "session": "003",
-    "tiff_filename": "00410000.tif",
-    "volume": "034"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 42"
+    "pages": [
+      {
+        "image": "00410000.tif",
+        "page": 1
+      },
+      {
+        "image": "00420002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "034",
-    "dates": [
-      "18570119"
-    ],
-    "description": "",
-    "page": "2",
     "session": "003",
-    "tiff_filename": "00420002.tif",
     "volume": "034"
   },
   {
@@ -813,9 +734,13 @@
       "18570114"
     ],
     "description": "Agreeably to notice, Mr. Jones, of Iowa, asked and obtained leave to bring in the following joint resolution; which was read twice and referred to the Committee on Pensions. Reported without amendment, and accompanied by an adverse report, (No. 305.) Joint Resolution For the relief of Mary W. Thompson, widow of the late Lieutenant Colonel Alexander R. Thompson, of the United States army.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00430000.tif",
+        "page": 1
+      }
+    ],
     "session": "003",
-    "tiff_filename": "00430000.tif",
     "volume": "034"
   },
   {
@@ -830,9 +755,13 @@
       "18561209"
     ],
     "description": "Agreeably to notice, Mr. Rusk asked and obtained leave to bring in the following joint resolution, which was read twice and ordered to be printed. Joint Resolution Granting further time to the creditors of Texas to present their claims, and for other purposes.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00440000.tif",
+        "page": 1
+      }
+    ],
     "session": "003",
-    "tiff_filename": "00440000.tif",
     "volume": "034"
   },
   {
@@ -850,27 +779,17 @@
       "18570203"
     ],
     "description": "Agreeably to notice, Mr. Hunter asked and obtained leave to bring in the following joint resolution; which was read twice and referred to the Committee on Revolutionary Claims. Reported with an amendment, viz: insert the words printed in italics; and accompanied by a report, (No. 349.) To amend the act entitled ''An act for the relief of Frederick Vincent, administrator of James Le Caze, survivor of Le Caze and Mallet.''",
-    "page": "",
-    "session": "003",
-    "tiff_filename": "00450000.tif",
-    "volume": "034"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 45"
+    "pages": [
+      {
+        "image": "00450000.tif",
+        "page": 1
+      },
+      {
+        "image": "00460002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "034",
-    "dates": [
-      "18570109",
-      "18570203"
-    ],
-    "description": "",
-    "page": "2",
     "session": "003",
-    "tiff_filename": "00460002.tif",
     "volume": "034"
   },
   {
@@ -887,9 +806,13 @@
       "18570123"
     ],
     "description": "Mr. Jones, of Iowa the Committee on Public Buildings, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution Authorizing the payment of certain expense incurred in the ''repairs of the Congressional Library,'' under an act of Congress approved March nineteen, eighteen hundred and fifty-two.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00470000.tif",
+        "page": 1
+      }
+    ],
     "session": "003",
-    "tiff_filename": "00470000.tif",
     "volume": "034"
   },
   {
@@ -907,9 +830,13 @@
       "18570220"
     ],
     "description": "Agreeably to notice, Mr. Weller asked and obtained leave to bring in the following joint resolution; which was read twice and referred to the Committee of Claims. Reported without amendment and accompanied by a report, (No. 405.) Joint Resolution To authorize the Secretary of the Treasury to audit and settle the accounts of the contractor for the erection of the United States marine hospital at San Francisco, California.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00480000.tif",
+        "page": 1
+      }
+    ],
     "session": "003",
-    "tiff_filename": "00480000.tif",
     "volume": "034"
   },
   {
@@ -927,27 +854,17 @@
       "18570212"
     ],
     "description": "Agreeably to notice, Mr. Green asked and obtained leave to bring in the following joint resolution; which was read twice and referred to the Committee of Public Lands. Reported with an amendment, viz: Insert the words printed in italics. Joint Resolution To authorize the selection of other lands in lieu of the sixteenth and thirty-sixth sections in certain cases in Kansas Territory.",
-    "page": "",
-    "session": "003",
-    "tiff_filename": "00490000.tif",
-    "volume": "034"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 50"
+    "pages": [
+      {
+        "image": "00490000.tif",
+        "page": 1
+      },
+      {
+        "image": "00500002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "034",
-    "dates": [
-      "18570210",
-      "18570212"
-    ],
-    "description": "",
-    "page": "2",
     "session": "003",
-    "tiff_filename": "00500002.tif",
     "volume": "034"
   },
   {
@@ -964,9 +881,13 @@
       "18570221"
     ],
     "description": "Mr. Weller, from the Committee on Foreign Relations, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution To amend the act entitled ''An act to regulate the diplomatic and consular systems of the United States,'' approved August eighteen, eighteen hundred and fifty-six.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00510000.tif",
+        "page": 1
+      }
+    ],
     "session": "003",
-    "tiff_filename": "00510000.tif",
     "volume": "034"
   },
   {
@@ -983,26 +904,17 @@
       "18570225"
     ],
     "description": "Mr. Slidell, from the Committee on Foreign Relations, submitted a Mis. Doc., (No. 51,) accompanied by the following joint resolution; which was read and passed to a second reading. Joint Resolution Allowing Commander Henry S. Hartstene, of the United States navy, Lieutenant S. D. Trenchard, Master Morrison, and the petty officers and crew of the steamer ''Vixen,'' to accept certain tokens of acknowledgment from the government of Great Britain.",
-    "page": "",
-    "session": "003",
-    "tiff_filename": "00520000.tif",
-    "volume": "034"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 56"
+    "pages": [
+      {
+        "image": "00520000.tif",
+        "page": 1
+      },
+      {
+        "image": "00530002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "034",
-    "dates": [
-      "18570225"
-    ],
-    "description": "",
-    "page": "2",
     "session": "003",
-    "tiff_filename": "00530002.tif",
     "volume": "034"
   }
 ]

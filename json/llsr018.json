@@ -11,9 +11,13 @@
       "18250113"
     ],
     "description": "Joint Resolution Directing the Librarian to furnish the several Committee Rooms of Congress with copies of the Laws of the United States.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00010000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00010000.tif",
     "volume": "018"
   }
 ]

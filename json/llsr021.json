@@ -13,9 +13,13 @@
       "18300517"
     ],
     "description": "Mr. Woodbury, from the Joint Committee on the Library, reported the following resolution; which was read; and passed to a second reading: A Joint Resolution Relative to the re-printing of certain documents.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00010000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00010000.tif",
     "volume": "021"
   },
   {
@@ -32,9 +36,13 @@
       "18310211"
     ],
     "description": "Mr. Hendricks, from the Committee on Roads and Canals, reported the following resolution; which was read, and passed to a second reading: Joint Resolution On the subject of the Cumberland road.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00020000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00020000.tif",
     "volume": "021"
   }
 ]

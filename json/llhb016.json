@@ -14,9 +14,13 @@
       "18321214"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. E. Whittlesey, from the Committee of Claims, reported the following bill: A Bill For the relief of John Thompson.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00120000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00120000.tif",
     "volume": "016"
   },
   {
@@ -34,9 +38,13 @@
       "18321214"
     ],
     "description": "Read twice, and Committed to a Committee of the Whole House to-morrow. Mr. E. Whittlesey, from the Committee of Claims, reported the following bill: A Bill For the relief of Richard Bagnall, executor of James B. Vaughan.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00130000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00130000.tif",
     "volume": "016"
   },
   {
@@ -54,26 +62,17 @@
       "18321214"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House on the state of the Union. Mr. Verplanck, from the Committee of Ways and Means, reported the following bill: A Bill To exempt merchandise imported under certain circumstances from the operation of the act of the nineteenth of May, one thousand eight hundred and twenty-eight, entitled ''An act in alteration of the several acts imposing duties on imports.''",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00140000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 619"
+    "pages": [
+      {
+        "image": "00140000.tif",
+        "page": 1
+      },
+      {
+        "image": "00150002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321214"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00150002.tif",
     "volume": "016"
   },
   {
@@ -91,9 +90,13 @@
       "18321217"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. E. Whittlesey, from the Committee of Claims, reported the following bill: A Bill For the relief of Whitford Gill.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00160000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00160000.tif",
     "volume": "016"
   },
   {
@@ -111,26 +114,17 @@
       "18321217"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House on the state of the Union. Mr. Verplanck, from the Committee of Ways and Means, reported the following bill: A Bill Making appropriations, in part, for the support of Government for the year one thousand eight hundred and thirty-three and for certain expenditures of the year one thousand eight hundred and thirty-two.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00170000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 621"
+    "pages": [
+      {
+        "image": "00170000.tif",
+        "page": 1
+      },
+      {
+        "image": "00180002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321217"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00180002.tif",
     "volume": "016"
   },
   {
@@ -147,26 +141,17 @@
       "18330104"
     ],
     "description": "Read twice, and referred to the Committee on Finance. An Act Making appropriations, in part, for the support of Government for the year one thousand eight hundred and thirty-three, and for certain expenditures of the year one thousand eight hundred and thirty-two.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00190000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 621"
+    "pages": [
+      {
+        "image": "00190000.tif",
+        "page": 1
+      },
+      {
+        "image": "00200002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330104"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00200002.tif",
     "volume": "016"
   },
   {
@@ -184,26 +169,17 @@
       "18321218"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House on the state of the Union. Mr. Anderson, from the Committee on Naval Affairs, reported the following bill: A Bill In addition to the ''Act for the gradual improvement of the Navy of the United States.''",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00210000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 622"
+    "pages": [
+      {
+        "image": "00210000.tif",
+        "page": 1
+      },
+      {
+        "image": "00220002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321218"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00220002.tif",
     "volume": "016"
   },
   {
@@ -218,26 +194,17 @@
       "18330216"
     ],
     "description": "In addition to the ''Act for the gradual improvement of the Navy of the United States.''",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00230000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 622"
+    "pages": [
+      {
+        "image": "00230000.tif",
+        "page": 1
+      },
+      {
+        "image": "00240002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330216"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00240002.tif",
     "volume": "016"
   },
   {
@@ -255,9 +222,13 @@
       "18321218"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House on the state of the Union. Mr. Anderson, from the Committee on Naval Affairs, reported the following bill: A Bill To provide for constructing three Steam Batteries.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00250000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00250000.tif",
     "volume": "016"
   },
   {
@@ -275,9 +246,13 @@
       "18321218"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House to which is committed the bill (H. R. No. 252) for the relief of Abraham A. Masias. Mr. Ward, from the Committee on Military Affairs, reported the following bill: A Bill For the relief of Alexander Macomb.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00260000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00260000.tif",
     "volume": "016"
   },
   {
@@ -295,26 +270,17 @@
       "18321218"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House on the state of the Union. Mr. Verplanck, from the Committee of Ways and Means, reported the following bill: A Bill Making appropriations for carrying on the Fortifications of the United States during the year eighteen hundred and thirty-three.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00270000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 625"
+    "pages": [
+      {
+        "image": "00270000.tif",
+        "page": 1
+      },
+      {
+        "image": "00280002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321218"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00280002.tif",
     "volume": "016"
   },
   {
@@ -332,60 +298,25 @@
       "18321219"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House to which is committed the bill (H. R. No. 237) for granting pensions to certain revolutionary soldiers. Mr. Burges, from the Committee on Invalid Pensions reported the following bill: A Bill For the relief of certain Invalid Pensioners, therein named.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00290000.tif",
+        "page": 1
+      },
+      {
+        "image": "00300002.tif",
+        "page": 2
+      },
+      {
+        "image": "00310003.tif",
+        "page": 3
+      },
+      {
+        "image": "00320004.tif",
+        "page": 4
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00290000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 626"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321219"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "00300002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 626"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321219"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "00310003.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 626"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321219"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "00320004.tif",
     "volume": "016"
   },
   {
@@ -402,60 +333,25 @@
       "18321228"
     ],
     "description": "Read twice, and referred to the Committee on Pensions. An Act For the relief of certain Invalid Pensioners therein named.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00330000.tif",
+        "page": 1
+      },
+      {
+        "image": "00340002.tif",
+        "page": 2
+      },
+      {
+        "image": "00350003.tif",
+        "page": 3
+      },
+      {
+        "image": "00360004.tif",
+        "page": 4
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00330000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 626"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321228"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "00340002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 626"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321228"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "00350003.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 626"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321228"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "00360004.tif",
     "volume": "016"
   },
   {
@@ -473,9 +369,13 @@
       "18321219"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House to which is committed the bill (H. R. No. 237) granting, pensions to certain revolutionary soldiers. Mr. Burges, from the Committee on Invalid Pensions, reported the following bill: A Bill For the relief of the widow of Joseph Knight.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00370000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00370000.tif",
     "volume": "016"
   },
   {
@@ -493,9 +393,13 @@
       "18321219"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Burges, from the Committee on Invalid Pensions, reported the following bill: A Bill For the relief of Judith Thomas.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00380000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00380000.tif",
     "volume": "016"
   },
   {
@@ -512,9 +416,13 @@
       "18321219"
     ],
     "description": "Read, and postponed until Friday next. Mr. E. Whittlesey, from the Committee of Claims, reported the following bill: A Bill Amendatory to an act entitled ''An act for the relief of Robert C. Jennings, and of the executors of James Roddy, deceased.''",
-    "page": "",
+    "pages": [
+      {
+        "image": "00390000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00390000.tif",
     "volume": "016"
   },
   {
@@ -532,26 +440,17 @@
       "18321219"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House on the state of the Mr. Verplanck, from the Committee of Ways and Means, reported the following bill: A Bill Making appropriations for the Indian Department for the year one thousand eight hundred and thirty-three.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00400000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 630"
+    "pages": [
+      {
+        "image": "00400000.tif",
+        "page": 1
+      },
+      {
+        "image": "00410002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321219"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00410002.tif",
     "volume": "016"
   },
   {
@@ -566,60 +465,25 @@
       "18330216"
     ],
     "description": "An Act Making appropriations for the Indian Department for the year one thousand eight hundred and thirty-three.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00420000.tif",
+        "page": 1
+      },
+      {
+        "image": "00430002.tif",
+        "page": 2
+      },
+      {
+        "image": "00440003.tif",
+        "page": 3
+      },
+      {
+        "image": "00450004.tif",
+        "page": 4
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00420000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 630"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330216"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "00430002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 630"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330216"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "00440003.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 630"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330216"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "00450004.tif",
     "volume": "016"
   },
   {
@@ -637,26 +501,17 @@
       "18321220"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Washington, from the Committee for the District of Columbia, reported the following bill: A Bill For the further Improvement of Pennsylvania Avenue.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00460000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 631"
+    "pages": [
+      {
+        "image": "00460000.tif",
+        "page": 1
+      },
+      {
+        "image": "00470002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321220"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00470002.tif",
     "volume": "016"
   },
   {
@@ -674,9 +529,13 @@
       "18321220"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House to which is committed the bill (H. R. No. 228) for the relief of Daniel Goodwin, executor of Benjamin Goodwin, deceased. Mr. Bates, of Massachusetts, from the Committee on Revolutionary Claims, reported the following bill: A Bill For the relief of Joshua P. Frothingham, and the heirs of Thomas Hopping, deceased.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00480000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00480000.tif",
     "volume": "016"
   },
   {
@@ -693,60 +552,25 @@
       "18321221"
     ],
     "description": "Read, and postponed until Wednesday, 26th instant. Mr. Cambreleng, from the Committee on Commerce, reported the following bill: A Bill To explain and amend the eighteenth section of ''An act to alter and amend the several acts imposing duties on imports,'' approved the fourteenth July, one thousand eight hundred and thirty-two.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00490000.tif",
+        "page": 1
+      },
+      {
+        "image": "00500002.tif",
+        "page": 2
+      },
+      {
+        "image": "00510003.tif",
+        "page": 3
+      },
+      {
+        "image": "00520004.tif",
+        "page": 4
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00490000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 633"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321221"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "00500002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 633"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321221"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "00510003.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 633"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321221"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "00520004.tif",
     "volume": "016"
   },
   {
@@ -764,9 +588,13 @@
       "18321221"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House to which is committed the bill (H. R. No. 346) for the relief of Phineas Sprague et al. Mr. Davis, of Massachusetts, from the Committee on Commerce, reported the following bill: A Bill For the relief of Glover Broughton, of Marblehead, late owner of the fishing schooner Union; and, also, for the relief of the crew of said vessel.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00530000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00530000.tif",
     "volume": "016"
   },
   {
@@ -783,43 +611,21 @@
       "18321221"
     ],
     "description": "Read twice, and postponed until Monday next, 24th instant. Mr. Wickliffe, from the Committee on the Public Lands, reported the following bill: A Bill To create new land offices in the late Choctaw purchase, and for the more convenient organization of the land districts in the State of Mississippi.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00540000.tif",
+        "page": 1
+      },
+      {
+        "image": "00550002.tif",
+        "page": 2
+      },
+      {
+        "image": "00560003.tif",
+        "page": 3
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00540000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 635"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321221"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "00550002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 635"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321221"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "00560003.tif",
     "volume": "016"
   },
   {
@@ -836,26 +642,17 @@
       "18330212"
     ],
     "description": "Mr. Clay, of Alabama, from the Committee on Public Lands, reported the following Amendment To bill (H. R. 635)--being ''A bill to create new Land Offices in the Choctaw purchase, and for the more convenient organization of the land districts in the State Mississippi.''",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00570000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 635"
+    "pages": [
+      {
+        "image": "00570000.tif",
+        "page": 1
+      },
+      {
+        "image": "00580002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330212"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00580002.tif",
     "volume": "016"
   },
   {
@@ -872,77 +669,29 @@
       "18330220"
     ],
     "description": "Read twice, and referred to the Committee on Public Lands. An Act To create sundry new Land Offices, and to alter the boundaries of other Land Offices of the United States.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00590000.tif",
+        "page": 1
+      },
+      {
+        "image": "00600002.tif",
+        "page": 2
+      },
+      {
+        "image": "00610003.tif",
+        "page": 3
+      },
+      {
+        "image": "00620004.tif",
+        "page": 4
+      },
+      {
+        "image": "00630005.tif",
+        "page": 5
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00590000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 635"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330220"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "00600002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 635"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330220"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "00610003.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 635"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330220"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "00620004.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 635"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330220"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "00630005.tif",
     "volume": "016"
   },
   {
@@ -959,77 +708,29 @@
       "18330220"
     ],
     "description": "Read twice, and referred to the Committee on Public Lands. An Act To create sundry new Land Offices, and alter the boundaries of other Land Offices of the United States.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00640000.tif",
+        "page": 1
+      },
+      {
+        "image": "00650002.tif",
+        "page": 2
+      },
+      {
+        "image": "00660003.tif",
+        "page": 3
+      },
+      {
+        "image": "00670004.tif",
+        "page": 4
+      },
+      {
+        "image": "00680005.tif",
+        "page": 5
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00640000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 635"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330220"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "00650002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 635"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330220"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "00660003.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 635"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330220"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "00670004.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 635"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330220"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "00680005.tif",
     "volume": "016"
   },
   {
@@ -1047,9 +748,13 @@
       "18321221"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Thompson, of Georgia, from the Committee on Indian Affairs, reported the following bill: A Bill For the relief of the heirs of John Pettigrew and James Pettigrew, and the legatees of Alexander McKnight.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00690000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00690000.tif",
     "volume": "016"
   },
   {
@@ -1067,94 +772,33 @@
       "18321222"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House on the state of the Union. Mr. Verplanck, from the Committee of Ways and Means, reported the following bill: A Bill Making appropriations for Indian annuities, and other similar objects, for the year one thousand eight hundred and thirty-three.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00700000.tif",
+        "page": 1
+      },
+      {
+        "image": "00710002.tif",
+        "page": 2
+      },
+      {
+        "image": "00720003.tif",
+        "page": 3
+      },
+      {
+        "image": "00730004.tif",
+        "page": 4
+      },
+      {
+        "image": "00740005.tif",
+        "page": 5
+      },
+      {
+        "image": "00750006.tif",
+        "page": 6
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00700000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 637"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321222"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "00710002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 637"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321222"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "00720003.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 637"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321222"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "00730004.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 637"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321222"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "00740005.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 637"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321222"
-    ],
-    "description": "",
-    "page": "6",
-    "session": "002",
-    "tiff_filename": "00750006.tif",
     "volume": "016"
   },
   {
@@ -1172,9 +816,13 @@
       "18321222"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Ashley, from the Committee on Private Land Claims, reported the following bill: A Bill For the relief of Jean Francois Hertzog.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00760000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00760000.tif",
     "volume": "016"
   },
   {
@@ -1191,26 +839,17 @@
       "18321226"
     ],
     "description": "Read twice, and ordered to be engrossed, and read the third time to-morrow. Mr. Wickliffe, from the Committee on the Public Lands, reported the following bill: A Bill Further to extend time for entering certain donation claims to land in the Territory of Arkansas.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00770000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 639"
+    "pages": [
+      {
+        "image": "00770000.tif",
+        "page": 1
+      },
+      {
+        "image": "00780002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321226"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00780002.tif",
     "volume": "016"
   },
   {
@@ -1228,9 +867,13 @@
       "18321226"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Cambreleng, from the Committee on Commerce, reported the following bill: A Bill For the relief of Marcus Quincy and William Gorham, of Portland.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00790000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00790000.tif",
     "volume": "016"
   },
   {
@@ -1248,196 +891,57 @@
       "18321227"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Verplanck, from the Committee of Ways and Means, reported the following bill: A Bill To Reduce and otherwise alter the Duties on Imports.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00800000.tif",
+        "page": 1
+      },
+      {
+        "image": "00810002.tif",
+        "page": 2
+      },
+      {
+        "image": "00820003.tif",
+        "page": 3
+      },
+      {
+        "image": "00830004.tif",
+        "page": 4
+      },
+      {
+        "image": "00840005.tif",
+        "page": 5
+      },
+      {
+        "image": "00850006.tif",
+        "page": 6
+      },
+      {
+        "image": "00860007.tif",
+        "page": 7
+      },
+      {
+        "image": "00870008.tif",
+        "page": 8
+      },
+      {
+        "image": "00880009.tif",
+        "page": 9
+      },
+      {
+        "image": "00890010.tif",
+        "page": 10
+      },
+      {
+        "image": "00900011.tif",
+        "page": 11
+      },
+      {
+        "image": "00910012.tif",
+        "page": 12
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00800000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321227"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "00810002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321227"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "00820003.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321227"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "00830004.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321227"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "00840005.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321227"
-    ],
-    "description": "",
-    "page": "6",
-    "session": "002",
-    "tiff_filename": "00850006.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321227"
-    ],
-    "description": "",
-    "page": "7",
-    "session": "002",
-    "tiff_filename": "00860007.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321227"
-    ],
-    "description": "",
-    "page": "8",
-    "session": "002",
-    "tiff_filename": "00870008.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321227"
-    ],
-    "description": "",
-    "page": "9",
-    "session": "002",
-    "tiff_filename": "00880009.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321227"
-    ],
-    "description": "",
-    "page": "10",
-    "session": "002",
-    "tiff_filename": "00890010.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321227"
-    ],
-    "description": "",
-    "page": "11",
-    "session": "002",
-    "tiff_filename": "00900011.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321227"
-    ],
-    "description": "",
-    "page": "12",
-    "session": "002",
-    "tiff_filename": "00910012.tif",
     "volume": "016"
   },
   {
@@ -1454,26 +958,17 @@
       "18330115"
     ],
     "description": "Read and committed to the Committee of the Whole House to which the said bill is committed. Mr. Burges submitted the following as an Amendment To Reduce and otherwise alter the Duties on Imports.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00920000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
+    "pages": [
+      {
+        "image": "00920000.tif",
+        "page": 1
+      },
+      {
+        "image": "00930002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330115"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00930002.tif",
     "volume": "016"
   },
   {
@@ -1490,60 +985,25 @@
       "18330122"
     ],
     "description": "Read, and committed to the Committee of the Whole House on the state of the Union to which the said is committed. Mr. C. P. White submitted the following as Amendments.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00940000.tif",
+        "page": 1
+      },
+      {
+        "image": "00950002.tif",
+        "page": 2
+      },
+      {
+        "image": "00960003.tif",
+        "page": 3
+      },
+      {
+        "image": "00970004.tif",
+        "page": 4
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00940000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330122"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "00950002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330122"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "00960003.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330122"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "00970004.tif",
     "volume": "016"
   },
   {
@@ -1560,9 +1020,13 @@
       "18330123"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Howard submitted the following Amendment.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00980000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00980000.tif",
     "volume": "016"
   },
   {
@@ -1579,9 +1043,13 @@
       "18330124"
     ],
     "description": "Read, and committed to the Committee of the Whole House to which the said bill is committed. Mr. Worthington submitted the following Amendment. To the bill to reduce and otherwise alter the Duties on Imports.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00990000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00990000.tif",
     "volume": "016"
   },
   {
@@ -1598,26 +1066,17 @@
       "18330131"
     ],
     "description": "The bill H. R. No. 641, to reduce and otherwise alter the duties of imports, being under consideration Committee of the Whole House, Mr. Campbell, P. White moved the following Amendments.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "01000000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
+    "pages": [
+      {
+        "image": "01000000.tif",
+        "page": 1
+      },
+      {
+        "image": "01010002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330131"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "01010002.tif",
     "volume": "016"
   },
   {
@@ -1634,247 +1093,69 @@
       "18330207"
     ],
     "description": "Printed by order of the House of Representatives. Amendments. Proposed in the committee of the whole and rejected.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01020000.tif",
+        "page": 1
+      },
+      {
+        "image": "01030002.tif",
+        "page": 2
+      },
+      {
+        "image": "01040003.tif",
+        "page": 3
+      },
+      {
+        "image": "01050004.tif",
+        "page": 4
+      },
+      {
+        "image": "01060005.tif",
+        "page": 5
+      },
+      {
+        "image": "01070006.tif",
+        "page": 6
+      },
+      {
+        "image": "01080007.tif",
+        "page": 7
+      },
+      {
+        "image": "01090008.tif",
+        "page": 8
+      },
+      {
+        "image": "01100009.tif",
+        "page": 9
+      },
+      {
+        "image": "01110010.tif",
+        "page": 10
+      },
+      {
+        "image": "01120011.tif",
+        "page": 11
+      },
+      {
+        "image": "01130012.tif",
+        "page": 12
+      },
+      {
+        "image": "01140013.tif",
+        "page": 13
+      },
+      {
+        "image": "01150014.tif",
+        "page": 14
+      },
+      {
+        "image": "01160015.tif",
+        "page": 15
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01020000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "01030002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "01040003.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "01050004.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "01060005.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "6",
-    "session": "002",
-    "tiff_filename": "01070006.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "7",
-    "session": "002",
-    "tiff_filename": "01080007.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "8",
-    "session": "002",
-    "tiff_filename": "01090008.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "9",
-    "session": "002",
-    "tiff_filename": "01100009.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "10",
-    "session": "002",
-    "tiff_filename": "01110010.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "11",
-    "session": "002",
-    "tiff_filename": "01120011.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "12",
-    "session": "002",
-    "tiff_filename": "01130012.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "13",
-    "session": "002",
-    "tiff_filename": "01140013.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "14",
-    "session": "002",
-    "tiff_filename": "01150014.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "15",
-    "session": "002",
-    "tiff_filename": "01160015.tif",
     "volume": "016"
   },
   {
@@ -1891,332 +1172,89 @@
       "18330207"
     ],
     "description": "Printed by order of the House of Representatives, as reported from the Committee of the Whole House on the state of the Union. The parts within brackets thus [ ] are stricken out; the parts inserted are quoted. A Bill To reduce and otherwise alter the Duties on Imports.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01170000.tif",
+        "page": 1
+      },
+      {
+        "image": "01180002.tif",
+        "page": 2
+      },
+      {
+        "image": "01190003.tif",
+        "page": 3
+      },
+      {
+        "image": "01200004.tif",
+        "page": 4
+      },
+      {
+        "image": "01210005.tif",
+        "page": 5
+      },
+      {
+        "image": "01220006.tif",
+        "page": 6
+      },
+      {
+        "image": "01230007.tif",
+        "page": 7
+      },
+      {
+        "image": "01240008.tif",
+        "page": 8
+      },
+      {
+        "image": "01250009.tif",
+        "page": 9
+      },
+      {
+        "image": "01260010.tif",
+        "page": 10
+      },
+      {
+        "image": "01270011.tif",
+        "page": 11
+      },
+      {
+        "image": "01280012.tif",
+        "page": 12
+      },
+      {
+        "image": "01290013.tif",
+        "page": 13
+      },
+      {
+        "image": "01300014.tif",
+        "page": 14
+      },
+      {
+        "image": "01310015.tif",
+        "page": 15
+      },
+      {
+        "image": "01320016.tif",
+        "page": 16
+      },
+      {
+        "image": "01330017.tif",
+        "page": 17
+      },
+      {
+        "image": "01340018.tif",
+        "page": 18
+      },
+      {
+        "image": "01350019.tif",
+        "page": 19
+      },
+      {
+        "image": "01360020.tif",
+        "page": 20
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01170000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "01180002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "01190003.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "01200004.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "01210005.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "6",
-    "session": "002",
-    "tiff_filename": "01220006.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "7",
-    "session": "002",
-    "tiff_filename": "01230007.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "8",
-    "session": "002",
-    "tiff_filename": "01240008.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "9",
-    "session": "002",
-    "tiff_filename": "01250009.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "10",
-    "session": "002",
-    "tiff_filename": "01260010.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "11",
-    "session": "002",
-    "tiff_filename": "01270011.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "12",
-    "session": "002",
-    "tiff_filename": "01280012.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "13",
-    "session": "002",
-    "tiff_filename": "01290013.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "14",
-    "session": "002",
-    "tiff_filename": "01300014.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "15",
-    "session": "002",
-    "tiff_filename": "01310015.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "16",
-    "session": "002",
-    "tiff_filename": "01320016.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "17",
-    "session": "002",
-    "tiff_filename": "01330017.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "18",
-    "session": "002",
-    "tiff_filename": "01340018.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "19",
-    "session": "002",
-    "tiff_filename": "01350019.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "20",
-    "session": "002",
-    "tiff_filename": "01360020.tif",
     "volume": "016"
   },
   {
@@ -2233,43 +1271,21 @@
       "18330211"
     ],
     "description": "A Bill To reduce and otherwise alter the duties on imports, being under consideration, Mr. Drayton the bill be recommitted to the Committee of Ways and Means, with instructions to report a bill, as follows:",
-    "page": "",
+    "pages": [
+      {
+        "image": "01370000.tif",
+        "page": 1
+      },
+      {
+        "image": "01380002.tif",
+        "page": 2
+      },
+      {
+        "image": "01390003.tif",
+        "page": 3
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01370000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330211"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "01380002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330211"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "01390003.tif",
     "volume": "016"
   },
   {
@@ -2284,60 +1300,25 @@
       "18330212"
     ],
     "description": "A Bill To reduce and otherwise alter the duties on Imports being under consideration, Mr. Drayton withdrew the proposition made by him yesterday and proposed the following:",
-    "page": "",
+    "pages": [
+      {
+        "image": "01400000.tif",
+        "page": 1
+      },
+      {
+        "image": "01410002.tif",
+        "page": 2
+      },
+      {
+        "image": "01420003.tif",
+        "page": 3
+      },
+      {
+        "image": "01430004.tif",
+        "page": 4
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01400000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330212"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "01410002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330212"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "01420003.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 641"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330212"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "01430004.tif",
     "volume": "016"
   },
   {
@@ -2355,9 +1336,13 @@
       "18321227"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House on the state of the Union. Mr. Verplanck, from the Committee of Ways and Means, reported the following bill: A Bill Making appropriations for the Revolutionary and other Pensioners of the United States, for the year one thousand eight hundred and thirty-three.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01440000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01440000.tif",
     "volume": "016"
   },
   {
@@ -2375,9 +1360,13 @@
       "18321227"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Verplanck, from the Committee of Ways and Means, reported the following bill: A Bill For the relief of Nathaniel Blake.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01450000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01450000.tif",
     "volume": "016"
   },
   {
@@ -2395,9 +1384,13 @@
       "18321228"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Whittlesey, from the Committee of Claims, reported the following bill: A Bill For the relief of Peregrine Gardner.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01460000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01460000.tif",
     "volume": "016"
   },
   {
@@ -2415,9 +1408,13 @@
       "18321228"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House on the state of the Union. Mr. Richard M. Johnson, from the Committee on Military Affairs, reported the following bill: A Bill Conferring rank upon the officers of the Pay Department of the Army of the United States.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01470000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01470000.tif",
     "volume": "016"
   },
   {
@@ -2435,26 +1432,17 @@
       "18321228"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House on the state of the Union. Mr. Richard M. Johnson, from the Committee on Military Affairs, reported the following bill: A Bill For the more perfect Defence of the Frontiers.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "01480000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 646"
+    "pages": [
+      {
+        "image": "01480000.tif",
+        "page": 1
+      },
+      {
+        "image": "01490002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18321228"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "01490002.tif",
     "volume": "016"
   },
   {
@@ -2471,9 +1459,13 @@
       "18321229"
     ],
     "description": "Read twice, and ordered to be engrossed, and read the third time on the 4th day of January next. Mr. Vance, from the Committee on Military Affairs, reported the following bill: A Bill For the relief of Lieutenant George D. Ramsay, of the Army of the United States.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01500000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01500000.tif",
     "volume": "016"
   },
   {
@@ -2491,9 +1483,13 @@
       "18321229"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. C. Johnson, from the Committee on Private Land Claims, reported the following bill: A Bill For the relief of Joseph Guedry, Edward Lambert, Michel Leboeuf, and Jean Vavasseur.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01510000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01510000.tif",
     "volume": "016"
   },
   {
@@ -2511,9 +1507,13 @@
       "18321229"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House on the state of the Union. Mr. Cambreleng, from the Committee on Commerce, reported the following bill: A Bill Authorizing the construction of a building for the use of the customs, and for other Government purposes, at Pensacola, in Florida.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01520000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01520000.tif",
     "volume": "016"
   },
   {
@@ -2531,9 +1531,13 @@
       "18330102"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. E. Whittlesey, from the Committee of Claims, reported the following bill: A Bill For the relief of Edward Willett.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01530000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01530000.tif",
     "volume": "016"
   },
   {
@@ -2551,26 +1555,17 @@
       "18330102"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House to-morrow. Mr. McKennon from the Committee for the District of Columbia, reported the following bill: A Bill Granting certain city lots, to the, President and Directors of the Georgetown College, in the District of Columbia.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "01540000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 651"
+    "pages": [
+      {
+        "image": "01540000.tif",
+        "page": 1
+      },
+      {
+        "image": "01550002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330102"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "01550002.tif",
     "volume": "016"
   },
   {
@@ -2587,9 +1582,13 @@
       "18330103"
     ],
     "description": "Read twice, and ordered to be engrossed, and read the third time to-morrow. Mr. Wickliffe, from the Committee on the Public Lands, reported the following bill: A Bill Supplemental to the act entitled ''An act for the final adjustment of land claims in Missouri.''",
-    "page": "",
+    "pages": [
+      {
+        "image": "01560000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01560000.tif",
     "volume": "016"
   },
   {
@@ -2604,26 +1603,17 @@
       "18330103"
     ],
     "description": "Read twice, and ordered to be engrossed, and read the third time to-morrow. Mr. Clay, from on the Public Lands reported the following bill: A Bill To authorize the Legislature of the State of Ohio to sell the land reserved for the support of religion in the Ohio Company, and John Cleeves Symmes' purchases.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "01570000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 653"
+    "pages": [
+      {
+        "image": "01570000.tif",
+        "page": 1
+      },
+      {
+        "image": "01580002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330103"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "01580002.tif",
     "volume": "016"
   },
   {
@@ -2641,9 +1631,13 @@
       "18330103"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Muhlenberg, from the Committee on Revolutionary Claims, reported the following bill: A Bill For the relief of the heirs and legal representatives of John Taylor, deceased.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01590000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01590000.tif",
     "volume": "016"
   },
   {
@@ -2661,9 +1655,13 @@
       "18330103"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House to which is committed the bill (H. R. No. 403) for the relief of Philip Slaughter. Mr. Bates, of Massachusetts, from the Committee on Revolutionary Claims, reported the following bill: A Bill For the relief of Sarah Price.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01600000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01600000.tif",
     "volume": "016"
   },
   {
@@ -2681,27 +1679,17 @@
       "18321211"
     ],
     "description": "Read twice, and laid upon the table. Reprinted by order of the House of Representatives. Mr. Duncan, from the Committee on the Public Lands, to which the subject had been referred, reported the following bill: A Bill Making grants of land to the Disbanded Officers and others for services and sacrifices during the late war.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "01610000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 656"
+    "pages": [
+      {
+        "image": "01610000.tif",
+        "page": 1
+      },
+      {
+        "image": "01620002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18310301",
-      "18321211"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "01620002.tif",
     "volume": "016"
   },
   {
@@ -2719,9 +1707,13 @@
       "18330104"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Mercer, from the Committee on Roads and Canals, reported the following bill: A Bill Authorizing the construction of road from the northern boundary of the Territory of Florida, by Masiana, to the town of Apalachicola, within the said Territory.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01630000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01630000.tif",
     "volume": "016"
   },
   {
@@ -2739,77 +1731,29 @@
       "18330104"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Verplanck, from the Committee of Ways and Means, reported the following bill: A Bill Making appropriations for the Naval Service for the year one thousand eight hundred and thirty-three.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01640000.tif",
+        "page": 1
+      },
+      {
+        "image": "01650002.tif",
+        "page": 2
+      },
+      {
+        "image": "01660003.tif",
+        "page": 3
+      },
+      {
+        "image": "01670004.tif",
+        "page": 4
+      },
+      {
+        "image": "01680005.tif",
+        "page": 5
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01640000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 657"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330104"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "01650002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 657"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330104"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "01660003.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 657"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330104"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "01670004.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 657"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330104"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "01680005.tif",
     "volume": "016"
   },
   {
@@ -2826,94 +1770,33 @@
       "18330213"
     ],
     "description": "Read twice, and referred to the Committee on Finance. An Act Making appropriations for the Naval Service for the year one thousand eight hundred and thirty three.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01690000.tif",
+        "page": 1
+      },
+      {
+        "image": "01700002.tif",
+        "page": 2
+      },
+      {
+        "image": "01710003.tif",
+        "page": 3
+      },
+      {
+        "image": "01720004.tif",
+        "page": 4
+      },
+      {
+        "image": "01730005.tif",
+        "page": 5
+      },
+      {
+        "image": "01740006.tif",
+        "page": 6
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01690000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 657"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330213"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "01700002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 657"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330213"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "01710003.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 657"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330213"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "01720004.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 657"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330213"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "01730005.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 657"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330213"
-    ],
-    "description": "",
-    "page": "6",
-    "session": "002",
-    "tiff_filename": "01740006.tif",
     "volume": "016"
   },
   {
@@ -2930,9 +1813,13 @@
       "18330104"
     ],
     "description": "Read twice, and ordered to be engrossed, and read the third time to-morrow. Mr. Hubbard, from the Committee on Revolutionary Pensions, reported the following bill: A Bill Authorizing the Secretary of War to establish a pension agency in the town of Decatur, in the State of Alabama; and to provide for the paying of certain pensioners an said town of Decatur.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01750000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01750000.tif",
     "volume": "016"
   },
   {
@@ -2949,9 +1836,13 @@
       "18330104"
     ],
     "description": "Read twice, and postponed until Friday, the 11th instant. Mr. Duncan, from the Committee on the Public Lands, reported the following bill: A Bill For the relief of Robert H. Peebles.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01760000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01760000.tif",
     "volume": "016"
   },
   {
@@ -2969,9 +1860,13 @@
       "18330105"
     ],
     "description": "Read twice, and, on the 7th, committed to a Committee of the Whole House to-morrow. Mr. Ellsworth, from the Committee on the Judiciary, reported the following bill: A Bill To revise and continue in force an act, entitled ''An act to provide for the Reports of the Decisions of the Supreme Court of the United States.''",
-    "page": "",
+    "pages": [
+      {
+        "image": "01770000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01770000.tif",
     "volume": "016"
   },
   {
@@ -2988,26 +1883,17 @@
       "18330107"
     ],
     "description": "Read twice, and ordered to be engrossed, and read the third time to-morrow. Mr. Wickliffe, from the Committee on the Public Lands, reported the following bill: A Bill For the relief of Abraham Adams.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "01780000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 661"
+    "pages": [
+      {
+        "image": "01780000.tif",
+        "page": 1
+      },
+      {
+        "image": "01790002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330107"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "01790002.tif",
     "volume": "016"
   },
   {
@@ -3024,9 +1910,13 @@
       "18330107"
     ],
     "description": "Read twice, and ordered to be engrossed, and read the third time to-morrow. Mr. Wickliffe, from the Committee on the Public Lands, reported the following bill: A Bill For the relief of Sarah Carr, widow of Richard Carr, deceased.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01800000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01800000.tif",
     "volume": "016"
   },
   {
@@ -3044,9 +1934,13 @@
       "18330107"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. R. M. Johnson, from the Committee on Military Affairs, to which the subject had been referred, reported the following bill: A Bill Making appropriations for the erection of certain Fortifications.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01810000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01810000.tif",
     "volume": "016"
   },
   {
@@ -3064,9 +1958,13 @@
       "18330107"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House to which is committed the bill (H. R. No. 464) granting pensions to certain persons therein named. Mr. Hubbard, from the Committee on Revolutionary Pensions, reported the following bill: A Bill Granting pensions to John H. Genther, Reynhar Trougot, and Andrew Michael.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01820000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01820000.tif",
     "volume": "016"
   },
   {
@@ -3084,9 +1982,13 @@
       "18330107"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Chinn, from the Committee for the District of Columbia, reported the following bill: A Bill Granting permission to Edmund Brooke to bring certain slaves, therein named, into the District of Columbia.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01830000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01830000.tif",
     "volume": "016"
   },
   {
@@ -3104,9 +2006,13 @@
       "18330107"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Washington, from the Committee for the District of Columbia, reported the following bill: A Bill In relation to the Potomac Bridge.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01840000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01840000.tif",
     "volume": "016"
   },
   {
@@ -3124,26 +2030,17 @@
       "18330107"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Washington, from the Committee for the District of Columbia, reported the following bill: A Bill For the benefit of the Female Orphan Asylum of Georgetown.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "01850000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 667"
+    "pages": [
+      {
+        "image": "01850000.tif",
+        "page": 1
+      },
+      {
+        "image": "01860002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330107"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "01860002.tif",
     "volume": "016"
   },
   {
@@ -3161,9 +2058,13 @@
       "18330107"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Washington, from the Committee for the District of Columbia, reported the following bill; A Bill To remove an obstruction in the channel of the Potomac river, below Alexandria.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01870000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01870000.tif",
     "volume": "016"
   },
   {
@@ -3181,281 +2082,77 @@
       "18330107"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of Mr. Verplanck, from the Committee of Ways and Means, reported the following bill: A Bill Making appropriations for the Civil and Diplomatic expenses of Government for the year one thousand eight hundred and thirty-three.",
-    "page": "",
+    "pages": [
+      {
+        "image": "01880000.tif",
+        "page": 1
+      },
+      {
+        "image": "01890002.tif",
+        "page": 2
+      },
+      {
+        "image": "01900003.tif",
+        "page": 3
+      },
+      {
+        "image": "01910004.tif",
+        "page": 4
+      },
+      {
+        "image": "01920005.tif",
+        "page": 5
+      },
+      {
+        "image": "01930006.tif",
+        "page": 6
+      },
+      {
+        "image": "01940007.tif",
+        "page": 7
+      },
+      {
+        "image": "01950008.tif",
+        "page": 8
+      },
+      {
+        "image": "01960009.tif",
+        "page": 9
+      },
+      {
+        "image": "01970010.tif",
+        "page": 10
+      },
+      {
+        "image": "01980011.tif",
+        "page": 11
+      },
+      {
+        "image": "01990012.tif",
+        "page": 12
+      },
+      {
+        "image": "02000013.tif",
+        "page": 13
+      },
+      {
+        "image": "02010014.tif",
+        "page": 14
+      },
+      {
+        "image": "02020015.tif",
+        "page": 15
+      },
+      {
+        "image": "02030016.tif",
+        "page": 16
+      },
+      {
+        "image": "02040017.tif",
+        "page": 17
+      }
+    ],
     "session": "002",
-    "tiff_filename": "01880000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 669"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330107"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "01890002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 669"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330107"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "01900003.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 669"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330107"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "01910004.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 669"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330107"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "01920005.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 669"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330107"
-    ],
-    "description": "",
-    "page": "6",
-    "session": "002",
-    "tiff_filename": "01930006.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 669"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330107"
-    ],
-    "description": "",
-    "page": "7",
-    "session": "002",
-    "tiff_filename": "01940007.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 669"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330107"
-    ],
-    "description": "",
-    "page": "8",
-    "session": "002",
-    "tiff_filename": "01950008.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 669"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330107"
-    ],
-    "description": "",
-    "page": "9",
-    "session": "002",
-    "tiff_filename": "01960009.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 669"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330107"
-    ],
-    "description": "",
-    "page": "10",
-    "session": "002",
-    "tiff_filename": "01970010.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 669"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330107"
-    ],
-    "description": "",
-    "page": "11",
-    "session": "002",
-    "tiff_filename": "01980011.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 669"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330107"
-    ],
-    "description": "",
-    "page": "12",
-    "session": "002",
-    "tiff_filename": "01990012.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 669"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330107"
-    ],
-    "description": "",
-    "page": "13",
-    "session": "002",
-    "tiff_filename": "02000013.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 669"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330107"
-    ],
-    "description": "",
-    "page": "14",
-    "session": "002",
-    "tiff_filename": "02010014.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 669"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330107"
-    ],
-    "description": "",
-    "page": "15",
-    "session": "002",
-    "tiff_filename": "02020015.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 669"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330107"
-    ],
-    "description": "",
-    "page": "16",
-    "session": "002",
-    "tiff_filename": "02030016.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 669"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330107"
-    ],
-    "description": "",
-    "page": "17",
-    "session": "002",
-    "tiff_filename": "02040017.tif",
     "volume": "016"
   },
   {
@@ -3473,26 +2170,17 @@
       "18330205"
     ],
     "description": "Read, and committed to the Committee of the Whole House to which the said bill is committed. Mr. Edward Everett, from the Committee on Foreign Affairs, submitted the following; which, when the bill (H. R. No. 690) ''making appropriations for the support of the Civil and Diplomatic expenses for the year one thousand eight hundred and thirty-three,'' shall be taken up for consideration, he will move as Amendments.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "02050000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 669"
+    "pages": [
+      {
+        "image": "02050000.tif",
+        "page": 1
+      },
+      {
+        "image": "02060002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330205"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "02060002.tif",
     "volume": "016"
   },
   {
@@ -3510,9 +2198,13 @@
       "18330219"
     ],
     "description": "Read, and committed to the Committee of the Whole House on the state of the Union to which the said bill is committed. Mr. E. Everett, from the Committee on Foreign Affairs, submitted the following amendments to the bill (H. R. No. 669) ''Making appropriations for the support of the Civil and Diplomatic expenses of Government for the year one thousand eight hundred and thirty-three.''",
-    "page": "",
+    "pages": [
+      {
+        "image": "02070000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02070000.tif",
     "volume": "016"
   },
   {
@@ -3530,60 +2222,25 @@
       "18330107"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. McKennan, from the Committee for the District of Columbia, reported the following bill: A Bill To incorporate the Clerks' Savings Company in the City of Washington.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02080000.tif",
+        "page": 1
+      },
+      {
+        "image": "02090002.tif",
+        "page": 2
+      },
+      {
+        "image": "02100003.tif",
+        "page": 3
+      },
+      {
+        "image": "02110004.tif",
+        "page": 4
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02080000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 670"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330107"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "02090002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 670"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330107"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "02100003.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 670"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330107"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "02110004.tif",
     "volume": "016"
   },
   {
@@ -3601,26 +2258,17 @@
       "18330107"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Armstrong, from the Committee for the District of Columbia, reported the following bill: A Bill To improve the navigation of the Potomac river, between Georgetown and Alexandria, and for other purposes.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "02120000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 671"
+    "pages": [
+      {
+        "image": "02120000.tif",
+        "page": 1
+      },
+      {
+        "image": "02130002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330107"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "02130002.tif",
     "volume": "016"
   },
   {
@@ -3638,9 +2286,13 @@
       "18330108"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. R. M. Johnson, from the Committee on Military Affairs, reported the following bill: A Bill To amend an act entitled ''An act to regulate the pay of the army when employed on fatigue duty.''",
-    "page": "",
+    "pages": [
+      {
+        "image": "02140000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02140000.tif",
     "volume": "016"
   },
   {
@@ -3658,9 +2310,13 @@
       "18330108"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Muhlenberg, from the Committee on Revolutionary Claims, reported the following bill: A Bill For the relief of Ephraim Whitaker.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02150000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02150000.tif",
     "volume": "016"
   },
   {
@@ -3677,9 +2333,13 @@
       "18330108"
     ],
     "description": "Read twice, and postponed until Tuesday, 15th January, instant. Mr. Hubbard, from the Committee on Revolutionary Pensions, reported the following bill: A Bill To amend an act, entitled ''An act supplementary to the act for the relief of certain surviving officers and soldiers of the revolution.''",
-    "page": "",
+    "pages": [
+      {
+        "image": "02160000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02160000.tif",
     "volume": "016"
   },
   {
@@ -3697,9 +2357,13 @@
       "18330109"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. E. Whittlesey, from the Committee of Claims, reported the following bill: A Bill For the relief of Jotham Lincoln, administrator of Samuel Bene Lincoln, deceased.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02170000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02170000.tif",
     "volume": "016"
   },
   {
@@ -3717,9 +2381,13 @@
       "18330109"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Lewis, from the Committee on Indian Affairs, reported the following bill: A Bill For the relief of Alexander J. Robison.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02180000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02180000.tif",
     "volume": "016"
   },
   {
@@ -3737,9 +2405,13 @@
       "18330109"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Thompson, of Georgia, from the Committee on Indian Affairs, reported the following bill: A Bill For the relief of John McClenahan.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02190000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02190000.tif",
     "volume": "016"
   },
   {
@@ -3756,9 +2428,13 @@
       "18330110"
     ],
     "description": "Read twice, and ordered to be engrossed, and read a third time to-morrow. Mr. Wickliffe, from the Committee on the Public Lands, reported the following bill: A Bill To authorize the President of the United States to change the locations of the Land Offices in the United States.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02200000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02200000.tif",
     "volume": "016"
   },
   {
@@ -3775,9 +2451,13 @@
       "18330110"
     ],
     "description": "Read twice, and ordered to be engrossed, and read a third time to-morrow. Mr. Plummer, from the Committee on the Public Lands, reported the following bill: A Bill To authorize the removal of the Office of the Surveyor General of Public Lands south of Tennessee.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02210000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02210000.tif",
     "volume": "016"
   },
   {
@@ -3795,9 +2475,13 @@
       "18330110"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House to which is committed the bill (H. R. No. 334) for the relief of Joseph Dukes. Mr. Plummer, from the Committee on the Public Lands, reported the following bill: A Bill For the relief of Silas D. Fisher.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02220000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02220000.tif",
     "volume": "016"
   },
   {
@@ -3815,9 +2499,13 @@
       "18330110"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House to which is committed the bill (H. R. No. 390) for the relief of John Caldwell, &c. &c. Mr. Crane, from the committee on Revolutionary Claims, reported the following bill: A Bill For the relief of John Peck.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02230000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02230000.tif",
     "volume": "016"
   },
   {
@@ -3835,9 +2523,13 @@
       "18330111"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Wickliffe, from the Committee on the Public Lands, reported the following bill: A Bill For the relief of John C. Naylor.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02240000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02240000.tif",
     "volume": "016"
   },
   {
@@ -3854,9 +2546,13 @@
       "18330111"
     ],
     "description": "Read twice, and ordered to be engrossed, and read a third time to-morrow. Mr. Wickliffe, from the Committee on the Public Lands, reported the following bill: A Bill For the relief of James Range, a soldier of the revolution.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02250000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02250000.tif",
     "volume": "016"
   },
   {
@@ -3874,26 +2570,17 @@
       "18330112"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Lewis, from the Committee on Indian Affairs, reported the following bill: A Bill Making appropriations to carry into effect certain Indian treaties, and for the removal of the Indians west of the Mississippi.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "02260000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 684"
+    "pages": [
+      {
+        "image": "02260000.tif",
+        "page": 1
+      },
+      {
+        "image": "02270002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330112"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "02270002.tif",
     "volume": "016"
   },
   {
@@ -3911,9 +2598,13 @@
       "18330115"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Muhlenberg, from the Committee on Revolutionary Claims, reported the following bill: A Bill For the relief of the heirs and legal representatives of William Teas, deceased.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02280000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02280000.tif",
     "volume": "016"
   },
   {
@@ -3931,94 +2622,33 @@
       "18330115"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Verplanck, from the Committee of Ways and Means, reported the following bill: A Bill Making appropriations for the support of the Army for the year one thousand eight hundred and thirty-three.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02290000.tif",
+        "page": 1
+      },
+      {
+        "image": "02300002.tif",
+        "page": 2
+      },
+      {
+        "image": "02310003.tif",
+        "page": 3
+      },
+      {
+        "image": "02320004.tif",
+        "page": 4
+      },
+      {
+        "image": "02330005.tif",
+        "page": 5
+      },
+      {
+        "image": "02340006.tif",
+        "page": 6
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02290000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 686"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330115"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "02300002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 686"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330115"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "02310003.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 686"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330115"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "02320004.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 686"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330115"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "02330005.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 686"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330115"
-    ],
-    "description": "",
-    "page": "6",
-    "session": "002",
-    "tiff_filename": "02340006.tif",
     "volume": "016"
   },
   {
@@ -4033,111 +2663,37 @@
       "18330216"
     ],
     "description": "Making appropriations for the support of the Army for the year one thousand eight hundred and thirty-three.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02350000.tif",
+        "page": 1
+      },
+      {
+        "image": "02360002.tif",
+        "page": 2
+      },
+      {
+        "image": "02370003.tif",
+        "page": 3
+      },
+      {
+        "image": "02380004.tif",
+        "page": 4
+      },
+      {
+        "image": "02390005.tif",
+        "page": 5
+      },
+      {
+        "image": "02400006.tif",
+        "page": 6
+      },
+      {
+        "image": "02410007.tif",
+        "page": 7
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02350000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 686"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330216"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "02360002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 686"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330216"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "02370003.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 686"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330216"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "02380004.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 686"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330216"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "02390005.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 686"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330216"
-    ],
-    "description": "",
-    "page": "6",
-    "session": "002",
-    "tiff_filename": "02400006.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 686"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330216"
-    ],
-    "description": "",
-    "page": "7",
-    "session": "002",
-    "tiff_filename": "02410007.tif",
     "volume": "016"
   },
   {
@@ -4155,9 +2711,13 @@
       "18330116"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Howard, from the Committee on Commerce, reported the following bill: A Bill Making appropriation for the erection of a Public Warehouse in the City of Baltimore.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02420000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02420000.tif",
     "volume": "016"
   },
   {
@@ -4175,26 +2735,17 @@
       "18330117"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Hubbard, the Committee on Revolutionary Pensions, reported the following bill: A Bill To establish a Pension Office, and to authorize the appointment of a Commissioner of Pensions.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "02430000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 688"
+    "pages": [
+      {
+        "image": "02430000.tif",
+        "page": 1
+      },
+      {
+        "image": "02440002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330117"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "02440002.tif",
     "volume": "016"
   },
   {
@@ -4212,43 +2763,21 @@
       "18330118"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House on the state of the Union. Mr. Connor, from the Committee on the Post Office and Post Roads, reported the following bill: A Bill For the better organization of the General Post Office Department, and adjustment of the salaries of its officers and clerks.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02450000.tif",
+        "page": 1
+      },
+      {
+        "image": "02460002.tif",
+        "page": 2
+      },
+      {
+        "image": "02470003.tif",
+        "page": 3
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02450000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 689"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330118"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "02460002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 689"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330118"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "02470003.tif",
     "volume": "016"
   },
   {
@@ -4266,9 +2795,13 @@
       "18330118"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Anderson, from the Committee on Naval Affairs, reported the following bill: A Bill For the relief of William P. Zantzinger, Purser in the Navy of the United States.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02480000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02480000.tif",
     "volume": "016"
   },
   {
@@ -4286,9 +2819,13 @@
       "18330118"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Watmough, from the Committee on Naval Affairs, reported the following bill: A Bill For the relief of Horatio N. Crabb.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02490000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02490000.tif",
     "volume": "016"
   },
   {
@@ -4306,9 +2843,13 @@
       "18330118"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Watmough, from the Committee on Naval Affairs, reported the following bill: A Bill For the relief of John G. Reynolds.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02500000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02500000.tif",
     "volume": "016"
   },
   {
@@ -4326,9 +2867,13 @@
       "18330118"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Mason, from the Committee on the Public Lands, reported the following bill: A Bill For the relief of Bernard Valentine.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02510000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02510000.tif",
     "volume": "016"
   },
   {
@@ -4346,26 +2891,17 @@
       "18330118"
     ],
     "description": "Read the first and second time, and committed to the Committee of the Whole House to which is committed the bill (No. 309) for the relief of Peter Bargy and others. Mr. Crane, from the Committee on Revolutionary Claims, reported the following bill: A Bill For the relief of the heirs of Doctor Isaac Ledyard, deceased.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "02520000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 694"
+    "pages": [
+      {
+        "image": "02520000.tif",
+        "page": 1
+      },
+      {
+        "image": "02530002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330118"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "02530002.tif",
     "volume": "016"
   },
   {
@@ -4383,9 +2919,13 @@
       "18330119"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Cambreleng, from the Committee on Commerce, reported the following bill: A Bill To regulate the compensation of certain Officers of the Revenue Cutters.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02540000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02540000.tif",
     "volume": "016"
   },
   {
@@ -4403,9 +2943,13 @@
       "18330119"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Cave Johnson, from the Committee on Private Land Claims, reported the following bill: A Bill For the relief of Julian Rachal, and others.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02550000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02550000.tif",
     "volume": "016"
   },
   {
@@ -4423,9 +2967,13 @@
       "18330121"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Cambreleng, from the Committee on Commerce, reported the following bill: A Bill Authorizing the reimbursement of certain discriminating duties levied upon foreign vessels and their cargoes.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02560000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02560000.tif",
     "volume": "016"
   },
   {
@@ -4443,9 +2991,13 @@
       "18330121"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Crane, from the Committee on Revolutionary Claims, reported the following bill: A Bill For the relief of the heirs of William Eppes, deceased.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02570000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02570000.tif",
     "volume": "016"
   },
   {
@@ -4463,9 +3015,13 @@
       "18330121"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Ward, from the Committee on Military Affairs, reported the following bill: A Bill For the relief of the Widow and Children of George Ludlum, deceased.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02580000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02580000.tif",
     "volume": "016"
   },
   {
@@ -4483,45 +3039,21 @@
       "18330122"
     ],
     "description": "Read twice, and postponed until to-morrow. Ordered to be engrossed, and read a third time to-morrow. Mr. Wickliffe, from the Committee on the Public Lands, reported the following bill: A Bill Supplementary to an act, entitled ''An act concerning a Seminary of Learning in the Territory of Arkansas,'' approved second March, eighteen hundred and twenty-seven.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02590000.tif",
+        "page": 1
+      },
+      {
+        "image": "02600002.tif",
+        "page": 2
+      },
+      {
+        "image": "02610003.tif",
+        "page": 3
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02590000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 700"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330121",
-      "18330122"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "02600002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 700"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330121",
-      "18330122"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "02610003.tif",
     "volume": "016"
   },
   {
@@ -4539,9 +3071,13 @@
       "18330122"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Ashley, from the Committee on Private Land Claims, reported the following bill: A Bill For the relief of Baptiste Jeansonne and Joseph Pierre Petre.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02620000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02620000.tif",
     "volume": "016"
   },
   {
@@ -4556,26 +3092,17 @@
       "18330122"
     ],
     "description": "Read, and postponed until Tuesday, 29th instant. Mr. Ellsworth from the Committee on the Judiciary, reported the following bill: A Bill To authorize the issuing of a patent or patents to Samuel Hall.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "02630000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 702"
+    "pages": [
+      {
+        "image": "02630000.tif",
+        "page": 1
+      },
+      {
+        "image": "02640002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330122"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "02640002.tif",
     "volume": "016"
   },
   {
@@ -4593,26 +3120,17 @@
       "18330122"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Washington, from the Committee for the District of Columbia, reported the following bill: To establish Free Schools in the District of Columbia.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "02650000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 703"
+    "pages": [
+      {
+        "image": "02650000.tif",
+        "page": 1
+      },
+      {
+        "image": "02660002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330122"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "02660002.tif",
     "volume": "016"
   },
   {
@@ -4629,9 +3147,13 @@
       "18330122"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of Mr. J. S. Barbour, from the Select Committee to which the subject had been referred, reported the following bill: A Bill For the relief of the Officers and Soldiers of the Rhode Island Brigade in the War of the Revolution.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02670000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02670000.tif",
     "volume": "016"
   },
   {
@@ -4649,9 +3171,13 @@
       "18330122"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House on the state of the Union. Mr. Everett, from the Committee on the Library, reported the following bill: A Bill To provide for the publication of the Documentary History of the American Revolution.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02680000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02680000.tif",
     "volume": "016"
   },
   {
@@ -4669,26 +3195,17 @@
       "18330122"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Jarvis, from the Committee on the Public Buildings, reported the following bill: A Bill In addition to, and in alteration of, an act entitled ''An act vesting in the Corporation of the City of Washington all the rights of the Washington Canal Company, and for other purposes.''",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "02690000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 706"
+    "pages": [
+      {
+        "image": "02690000.tif",
+        "page": 1
+      },
+      {
+        "image": "02700002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330122"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "02700002.tif",
     "volume": "016"
   },
   {
@@ -4706,9 +3223,13 @@
       "18330122"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Marshall, from the Committee of Revolutionary Claims, reported the following bill: A Bill For the relief of the legal representatives on Joseph Falconer.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02710000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02710000.tif",
     "volume": "016"
   },
   {
@@ -4726,9 +3247,13 @@
       "18330123"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. E. Whittlesey, from the Committee of Claims, reported the following bill: A Bill For the relief of the legal representatives of John Thompson, junior, late of Louisiana.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02720000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02720000.tif",
     "volume": "016"
   },
   {
@@ -4746,9 +3271,13 @@
       "18330123"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House to which is committed the bill (H. R. No. 694) for the relief of the heirs of Dr. Isaac Ledyard. Mr. Newnan, from the Committee on Revolutionary Claims, reported the following bill: A Bill For the relief of the heirs of Colonel John Ely, deceased.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02730000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02730000.tif",
     "volume": "016"
   },
   {
@@ -4766,9 +3295,13 @@
       "18330123"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Davis, of Massachusetts, from the Committee on Commerce, reported the following bill: A Bill For the erection of a Custom-house in Newburyport.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02740000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02740000.tif",
     "volume": "016"
   },
   {
@@ -4786,9 +3319,13 @@
       "18330123"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Cave Johnson, from the Committee on Private Land Claims, reported the following bill: A Bill For the relief of the heirs of Amold Henry Dorhman.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02750000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02750000.tif",
     "volume": "016"
   },
   {
@@ -4805,9 +3342,13 @@
       "18330124"
     ],
     "description": "Read twice, and ordered to be engrossed, and read the third time to-morrow. Mr. Campbell P. White, from the Committee on Naval Affairs, reported the following bill: A Bill To authorize the President of the United States to exchange certain lands belonging to the Navy Yard at Brooklyn, for other lands contiguous thereto.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02760000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02760000.tif",
     "volume": "016"
   },
   {
@@ -4825,26 +3366,17 @@
       "18330125"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of Union. Mr. Semmes, from the Committee for the District of Columbia, reported the following bill: A Bill For the benefit of Washington City.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "02770000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 713"
+    "pages": [
+      {
+        "image": "02770000.tif",
+        "page": 1
+      },
+      {
+        "image": "02780002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330125"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "02780002.tif",
     "volume": "016"
   },
   {
@@ -4862,60 +3394,25 @@
       "18330126"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Verplanck, from the Committee of Ways and Means, reported the following bill: A Bill Making appropriations for carrying on certain works heretofore commenced for the improvement of harbors and rivers; and, also, for continuing and repairing the Cumberland road, and certain Territorial roads.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02790000.tif",
+        "page": 1
+      },
+      {
+        "image": "02800002.tif",
+        "page": 2
+      },
+      {
+        "image": "02810003.tif",
+        "page": 3
+      },
+      {
+        "image": "02820004.tif",
+        "page": 4
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02790000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 714"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330126"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "02800002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 714"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330126"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "02810003.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 714"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330126"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "02820004.tif",
     "volume": "016"
   },
   {
@@ -4933,94 +3430,33 @@
       "18330126"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Chinn, from the Committee for the District of Columbia, reported the following bill: A Bill To incorporate the Washington City Fire lnsurance Company.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02830000.tif",
+        "page": 1
+      },
+      {
+        "image": "02840002.tif",
+        "page": 2
+      },
+      {
+        "image": "02850003.tif",
+        "page": 3
+      },
+      {
+        "image": "02860004.tif",
+        "page": 4
+      },
+      {
+        "image": "02870005.tif",
+        "page": 5
+      },
+      {
+        "image": "02880006.tif",
+        "page": 6
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02830000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 715"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330126"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "02840002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 715"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330126"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "02850003.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 715"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330126"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "02860004.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 715"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330126"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "02870005.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 715"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330126"
-    ],
-    "description": "",
-    "page": "6",
-    "session": "002",
-    "tiff_filename": "02880006.tif",
     "volume": "016"
   },
   {
@@ -5035,43 +3471,21 @@
       "18330206"
     ],
     "description": "Received. An Act To establish a town at St. Marks, in Florida.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02890000.tif",
+        "page": 1
+      },
+      {
+        "image": "02900002.tif",
+        "page": 2
+      },
+      {
+        "image": "02910003.tif",
+        "page": 3
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02890000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 716"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330206"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "02900002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 716"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330206"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "02910003.tif",
     "volume": "016"
   },
   {
@@ -5086,43 +3500,21 @@
       "18330206"
     ],
     "description": "Received. An Act To establish a town at St. Marks, in Florida.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02920000.tif",
+        "page": 1
+      },
+      {
+        "image": "02930002.tif",
+        "page": 2
+      },
+      {
+        "image": "02940003.tif",
+        "page": 3
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02920000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 716"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330206"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "02930002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 716"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330206"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "02940003.tif",
     "volume": "016"
   },
   {
@@ -5140,9 +3532,13 @@
       "18330128"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Thompson, of Georgia, from the Committee on Indian Affairs, reported the following bill: A Bill For the relief of James Brown and John Brown, half breeds, of the Cherokee nation of Indians.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02950000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02950000.tif",
     "volume": "016"
   },
   {
@@ -5160,9 +3556,13 @@
       "18330129"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Cave Johnson, from the Committee on Private Land Claims, reported the following bill: A Bill For the relief of Asher Morgan and the heirs of Philip Fitzgerald.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02960000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02960000.tif",
     "volume": "016"
   },
   {
@@ -5180,9 +3580,13 @@
       "18330129"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Carr, from the Committee on Private Land Claims, reported the following bill: A Bill For the relief of Isidore Moore.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02970000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02970000.tif",
     "volume": "016"
   },
   {
@@ -5199,9 +3603,13 @@
       "18330205"
     ],
     "description": "Read twice, and ordered to be engrossed, and read the third time to-morrow. Mr. E. Whittlesey, from the Committee of Claims, reported the following bill: A Bill For the relief of William P. Zantzinger.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02980000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02980000.tif",
     "volume": "016"
   },
   {
@@ -5219,9 +3627,13 @@
       "18330205"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Washington, from the Committee for the District of Columbia, reported the following bill: A Bill Concerning the Penitentiary for the District of Columbia.",
-    "page": "",
+    "pages": [
+      {
+        "image": "02990000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "02990000.tif",
     "volume": "016"
   },
   {
@@ -5239,9 +3651,13 @@
       "18330205"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Newnan, from the Committee on Revolutionary Claims, reported the following bill: A Bill For the relief of Captain Peter Jaquett.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03000000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03000000.tif",
     "volume": "016"
   },
   {
@@ -5258,9 +3674,13 @@
       "18330205"
     ],
     "description": "Read twice, and ordered to be engrossed, and read the third time to-morrow. Mr. Kerr, from the Committee on the Territories, reported the following bill: A Bill Authorizing an alteration in the Election Districts for Members of the Legislative Council in the Territory of Michigan.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03010000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03010000.tif",
     "volume": "016"
   },
   {
@@ -5278,26 +3698,17 @@
       "18330205"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Dearborn, from the Committee on Naval Affairs, reported the following bill: A Bill For the relief of Captain Isaac Hull, of the Navy of the United States.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "03020000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 724"
+    "pages": [
+      {
+        "image": "03020000.tif",
+        "page": 1
+      },
+      {
+        "image": "03030002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330205"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "03030002.tif",
     "volume": "016"
   },
   {
@@ -5315,9 +3726,13 @@
       "18330205"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Dearborn, from the Committee on Naval Affairs, reported the following bill: A Bill For the relief of Samuel Hambleton, a Purser in the Navy of the United States.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03040000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03040000.tif",
     "volume": "016"
   },
   {
@@ -5335,9 +3750,13 @@
       "18330206"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Edward Everett, the Committee on Foreign Affairs, reported the following bill: A Bill To provide for the settlement of the claim of Mary O'Sullivan.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03050000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03050000.tif",
     "volume": "016"
   },
   {
@@ -5355,9 +3774,13 @@
       "18330206"
     ],
     "description": "Read twice, and committed to a. Committee of the Whole House to-morrow. Mr. Thompson, of Georgia, from the Committee on Indian Affairs, reported the following bill: A Bill For the relief of John Winslett.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03060000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03060000.tif",
     "volume": "016"
   },
   {
@@ -5375,9 +3798,13 @@
       "18330207"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Kerr, from the Committee on the Territories, reported the following bill: A Bill Prolonging the Second Session of the Fifth Legislative Council of the Territory of Michigan.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03070000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03070000.tif",
     "volume": "016"
   },
   {
@@ -5395,43 +3822,21 @@
       "18330207"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Washington, from the Committee for the District of Columbia, reported the following bill: A Bill For the relief of the widow and heirs at law of the late Lewis Grant Davidson, deceased.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03080000.tif",
+        "page": 1
+      },
+      {
+        "image": "03090002.tif",
+        "page": 2
+      },
+      {
+        "image": "03100003.tif",
+        "page": 3
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03080000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 729"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "03090002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 729"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330207"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "03100003.tif",
     "volume": "016"
   },
   {
@@ -5449,60 +3854,25 @@
       "18330208"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Bell, from the Committee on the Judiciary, reported the following bill: A Bill More effectually providing for the execution of the Revenue Laws in certain cases, and for other purposes.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03110000.tif",
+        "page": 1
+      },
+      {
+        "image": "03120002.tif",
+        "page": 2
+      },
+      {
+        "image": "03130003.tif",
+        "page": 3
+      },
+      {
+        "image": "03140004.tif",
+        "page": 4
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03110000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 730"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330208"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "03120002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 730"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330208"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "03130003.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 730"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330208"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "03140004.tif",
     "volume": "016"
   },
   {
@@ -5520,9 +3890,13 @@
       "18330208"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Anderson, from the Committee on Naval Affairs, reported the following bill: A Bill For the relief of John Percival, Master Commandant in the United States' Navy.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03150000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03150000.tif",
     "volume": "016"
   },
   {
@@ -5539,43 +3913,21 @@
       "18330209"
     ],
     "description": "Read twice, and ordered, to be engrossed, and read the third time to-morrow. Mr. Irvin, from the Committee on the Public Lands, reported. the following bill: A Bill To authorize the Governor of the Territory of Arkansas to sell the thousand acres of land granted to said Territory by any act of Congress approved the fifteenth of June, one thousand eight hundred and thirty-two, and for other purposes.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03160000.tif",
+        "page": 1
+      },
+      {
+        "image": "03170002.tif",
+        "page": 2
+      },
+      {
+        "image": "03180003.tif",
+        "page": 3
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03160000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 732"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330209"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "03170002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 732"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330209"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "03180003.tif",
     "volume": "016"
   },
   {
@@ -5592,9 +3944,13 @@
       "18330211"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. J. S. Barbour, from the select committee to which the case had been referred, reported the following bill: A Bill For the relief of Hedgeman Triplett.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03190000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03190000.tif",
     "volume": "016"
   },
   {
@@ -5612,9 +3968,13 @@
       "18330212"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. R. M. Johnson, from the Committee on Military Affairs, reported the following bill: A Bill For the relief of the administratrix of Captain Paschal Hickman.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03200000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03200000.tif",
     "volume": "016"
   },
   {
@@ -5632,9 +3992,13 @@
       "18330213"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. E. Whittlesey, from the Committee of Claims, reported the following bill: A Bill For the relief of Aaron Bellamy.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03210000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03210000.tif",
     "volume": "016"
   },
   {
@@ -5652,9 +4016,13 @@
       "18330214"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. R. M. Johnson, from the Committee on Military Affairs, reported the following bill: A Bill For the relief of Lucy Loomis.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03220000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03220000.tif",
     "volume": "016"
   },
   {
@@ -5672,94 +4040,33 @@
       "18330215"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Burges, from the Committee on Invalid Pensions, reported the following bill: A Bill For the relief of Manuel Creasy, and others, invalid pensioners.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03230000.tif",
+        "page": 1
+      },
+      {
+        "image": "03240002.tif",
+        "page": 2
+      },
+      {
+        "image": "03250003.tif",
+        "page": 3
+      },
+      {
+        "image": "03260004.tif",
+        "page": 4
+      },
+      {
+        "image": "03270005.tif",
+        "page": 5
+      },
+      {
+        "image": "03280006.tif",
+        "page": 6
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03230000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 738"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330215"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "03240002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 738"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330215"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "03250003.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 738"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330215"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "03260004.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 738"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330215"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "03270005.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 738"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330215"
-    ],
-    "description": "",
-    "page": "6",
-    "session": "002",
-    "tiff_filename": "03280006.tif",
     "volume": "016"
   },
   {
@@ -5777,9 +4084,13 @@
       "18330218"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. E. Whittlesey, from the Committee of Claims, reported the following bill: A Bill For the relief of John H. Maguire.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03290000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03290000.tif",
     "volume": "016"
   },
   {
@@ -5797,9 +4108,13 @@
       "18330218"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Polk, from the Committee of Ways and Means, reported the following bill: A Bill Authorizing the sale of the shares of stocks owned by the United States in certain Incorporated Canal Companies.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03300000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03300000.tif",
     "volume": "016"
   },
   {
@@ -5817,60 +4132,25 @@
       "18330219"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Archer, from the Committee on Foreign Affairs, reported the following bill: A Bill To carry into effect the convention between the United States and his Majesty the King of the Kingdom of the Two Sicilies, concluded at Naples, on the fourteenth day of October, one thousand eight hundred and thirty-two.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03310000.tif",
+        "page": 1
+      },
+      {
+        "image": "03320002.tif",
+        "page": 2
+      },
+      {
+        "image": "03330003.tif",
+        "page": 3
+      },
+      {
+        "image": "03340004.tif",
+        "page": 4
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03310000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 741"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330219"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "03320002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 741"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330219"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "03330003.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 741"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330219"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "03340004.tif",
     "volume": "016"
   },
   {
@@ -5888,9 +4168,13 @@
       "18330219"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. E. Everett, from the Committee on Foreign Affairs, reported the following bill: A Bill For the relief of Philip Bessom.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03350000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03350000.tif",
     "volume": "016"
   },
   {
@@ -5908,9 +4192,13 @@
       "18330220"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. E. Whittlesey, from the Committee of Claims, reported the following bill: A Bill For the relief of Joseph C. Brown.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03360000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03360000.tif",
     "volume": "016"
   },
   {
@@ -5928,26 +4216,17 @@
       "18330220"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Verplanck, from the Committee of Ways and Means, reported the following bill: A Bill Granting further relief to certain Insurance Companies of the city of New York.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "03370000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 744"
+    "pages": [
+      {
+        "image": "03370000.tif",
+        "page": 1
+      },
+      {
+        "image": "03380002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330220"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "03380002.tif",
     "volume": "016"
   },
   {
@@ -5965,43 +4244,21 @@
       "18330220"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Plummer, from the Committee on the Public Lands, reported the following bill: A Bill Granting to the States of Mississippi, Louisiana, Missouri, Indiana, Illinois, and Alabama, a quantity of land for purposes of Internal Improvement.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03390000.tif",
+        "page": 1
+      },
+      {
+        "image": "03400002.tif",
+        "page": 2
+      },
+      {
+        "image": "03410003.tif",
+        "page": 3
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03390000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 745"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330220"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "03400002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 745"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330220"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "03410003.tif",
     "volume": "016"
   },
   {
@@ -6018,26 +4275,17 @@
       "18330220"
     ],
     "description": "Read twice, and ordered to be engrossed, and read the third time to-morrow. Mr. Wickliffe, from the Committee on the Public Lands, reported the following bill: A Bill To extend the provisions of the act of the 3d of March, 1807, entitled ''An act to prevent settlements being made on lands ceded to the United States until authorized by law.''",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "03420000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 746"
+    "pages": [
+      {
+        "image": "03420000.tif",
+        "page": 1
+      },
+      {
+        "image": "03430002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330220"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "03430002.tif",
     "volume": "016"
   },
   {
@@ -6055,9 +4303,13 @@
       "18330220"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House on the state of the Union. Mr. Wayne, from the Committee on Foreign Affairs, reported the following bill: A Bill To compensate Michael Hogan for Diplomatic Services.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03440000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03440000.tif",
     "volume": "016"
   },
   {
@@ -6075,26 +4327,17 @@
       "18330225"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Evans, of Maine, from the Committee on Invalid Pensions, reported the following bill: A Bill For the relief of certain Invalid Pensioners.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "03450000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 748"
+    "pages": [
+      {
+        "image": "03450000.tif",
+        "page": 1
+      },
+      {
+        "image": "03460002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330225"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "03460002.tif",
     "volume": "016"
   },
   {
@@ -6112,27 +4355,17 @@
       "18330302"
     ],
     "description": "Read the first time. Laid on table. Mr. Howard, from the Committee on Commerce, reported the following bill: A Bill To amend an act entitled an act regulating passenger ships, and vessels.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "03470000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 749"
+    "pages": [
+      {
+        "image": "03470000.tif",
+        "page": 1
+      },
+      {
+        "image": "03480002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330225",
-      "18330302"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "03480002.tif",
     "volume": "016"
   },
   {
@@ -6150,26 +4383,17 @@
       "18330225"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Watmough, from the Committee on Naval Affairs, reported the following bill: A Bill Concerning Naval Pensions and the Navy Pension Fund.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "03490000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 751"
+    "pages": [
+      {
+        "image": "03490000.tif",
+        "page": 1
+      },
+      {
+        "image": "03500002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330225"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "03500002.tif",
     "volume": "016"
   },
   {
@@ -6187,9 +4411,13 @@
       "18330225"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Patton, from the Committee on Naval Affairs, reported the following bill: A Bill For the relief of Thomas Ap C. Jones.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03510000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03510000.tif",
     "volume": "016"
   },
   {
@@ -6207,145 +4435,45 @@
       "18330225"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Connor, from the Committee on the Post Office and Post Roads, reported the following bill: A Bill To establish certain Post Roads, and to alter and discontinue others.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03520000.tif",
+        "page": 1
+      },
+      {
+        "image": "03530002.tif",
+        "page": 2
+      },
+      {
+        "image": "03540003.tif",
+        "page": 3
+      },
+      {
+        "image": "03550004.tif",
+        "page": 4
+      },
+      {
+        "image": "03560005.tif",
+        "page": 5
+      },
+      {
+        "image": "03570006.tif",
+        "page": 6
+      },
+      {
+        "image": "03580007.tif",
+        "page": 7
+      },
+      {
+        "image": "03590008.tif",
+        "page": 8
+      },
+      {
+        "image": "03600009.tif",
+        "page": 9
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03520000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 753"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330225"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "03530002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 753"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330225"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "03540003.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 753"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330225"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "03550004.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 753"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330225"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "03560005.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 753"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330225"
-    ],
-    "description": "",
-    "page": "6",
-    "session": "002",
-    "tiff_filename": "03570006.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 753"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330225"
-    ],
-    "description": "",
-    "page": "7",
-    "session": "002",
-    "tiff_filename": "03580007.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 753"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330225"
-    ],
-    "description": "",
-    "page": "8",
-    "session": "002",
-    "tiff_filename": "03590008.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 753"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330225"
-    ],
-    "description": "",
-    "page": "9",
-    "session": "002",
-    "tiff_filename": "03600009.tif",
     "volume": "016"
   },
   {
@@ -6363,77 +4491,29 @@
       "18330226"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Kerr, from the Committee on the Territories, reported the following bill: A Bill To enable the people of the Eastern Division of the Territory of Michigan to form a Constitution and State Government, and for the admission of such State into the Union on an equal footing with the original States, and for other purposes.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03610000.tif",
+        "page": 1
+      },
+      {
+        "image": "03620002.tif",
+        "page": 2
+      },
+      {
+        "image": "03630003.tif",
+        "page": 3
+      },
+      {
+        "image": "03640004.tif",
+        "page": 4
+      },
+      {
+        "image": "03650005.tif",
+        "page": 5
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03610000.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 754"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330226"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "03620002.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 754"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330226"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "03630003.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 754"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330226"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "03640004.tif",
-    "volume": "016"
-  },
-  {
-    "bill_numbers": [
-      "H.R. 754"
-    ],
-    "chamber": "h",
-    "collection": "llhb",
-    "committees": [],
-    "congress": "022",
-    "dates": [
-      "18330226"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "03650005.tif",
     "volume": "016"
   },
   {
@@ -6451,9 +4531,13 @@
       "18330226"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Thompson, of Georgia, from the Committee on Indian Affairs, reported the following bill: A Bill For the relief of Thomas T. Triplett.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03660000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03660000.tif",
     "volume": "016"
   },
   {
@@ -6471,9 +4555,13 @@
       "18330226"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Watmough, from the Committee on Naval Affairs, reported the following bill: A Bill Making certain allowances, and granting certain arrearages to the Captains and Subalterns of the United States' Corps of Marines.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03670000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03670000.tif",
     "volume": "016"
   },
   {
@@ -6491,9 +4579,13 @@
       "18330227"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Muhlenberg, from the Committee on Revolutionary Claims, reported the following bill: A Bill For the relief of the heirs and legal representatives of Enos Granniss, deceased.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03680000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03680000.tif",
     "volume": "016"
   },
   {
@@ -6511,9 +4603,13 @@
       "18330302"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Anderson, of Maine, from the Committee on Naval Affairs, reported the following bill: A Bill For the relief of E. R. Shubrick, a master commandant in the United States' Navy.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03690000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03690000.tif",
     "volume": "016"
   },
   {
@@ -6531,9 +4627,13 @@
       "18330302"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House this day. Mr. Thompson, of Georgia, from the Committee on Indian Affairs, reported the following bill: A Bill For the relief of David Brearley.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03700000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03700000.tif",
     "volume": "016"
   },
   {
@@ -6551,9 +4651,13 @@
       "18330302"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Lewis, from the Committee on Indian Affairs, reported the following bill: A Bill For further relief to such of the friendly Creek Indians, whose property was destroyed during the Creek war by the hostile Indians, in consequence of their attachment to the United States.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03710000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03710000.tif",
     "volume": "016"
   },
   {
@@ -6571,9 +4675,13 @@
       "18330302"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House this day. Mr. Coke, from the Committee on Private Land Claims, reported the following bill: A Bill For the relief of Benjamin Oden.",
-    "page": "",
+    "pages": [
+      {
+        "image": "03720000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "03720000.tif",
     "volume": "016"
   }
 ]

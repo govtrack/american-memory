@@ -13,9 +13,13 @@
       "18440226"
     ],
     "description": "Mr. Choate, from the Committee on the Library, submitted a report, (No. 146,) accompanied by the following Joint Resolution; which was read, and passed to a second reading. Joint Resolution To authorize the transmission and presentation of books to the Minister of Justice of France, in exchange for books received from him.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00010000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00010000.tif",
     "volume": "028"
   },
   {
@@ -33,27 +37,17 @@
       "18440313"
     ],
     "description": "Agreeably to notice, Mr. Woodbury asked and obtained leave to bring in the following joint resolution; which was read twice, and referred to the Committee on Commerce. Reported without amendment. Joint Resolution Providing for the return of additional items in the commercial statistics.",
-    "page": "",
-    "session": "001",
-    "tiff_filename": "00020000.tif",
-    "volume": "028"
-  },
-  {
-    "bill_numbers": [
-      "S. 6"
+    "pages": [
+      {
+        "image": "00020000.tif",
+        "page": 1
+      },
+      {
+        "image": "00030002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "028",
-    "dates": [
-      "18440227",
-      "18440313"
-    ],
-    "description": "",
-    "page": "2",
     "session": "001",
-    "tiff_filename": "00030002.tif",
     "volume": "028"
   },
   {
@@ -70,9 +64,13 @@
       "18440228"
     ],
     "description": "Mr. Haywood, from the Committee on Naval Affairs, submitted a report, (No. 152,) accompanied by the following joint resolution; which was read, and passed to a second reading. Joint Resolution Authorizing an allowance to Purser D. M. F. Thornton in the settlement of his accounts.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00040000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00040000.tif",
     "volume": "028"
   },
   {
@@ -89,77 +87,29 @@
       "18440305"
     ],
     "description": "Mr. Choate, from the Committee on the Library, submitted a report, (No. 160,) accompanied by the following joint resolution; which was read, and passed to a second reading. Joint Resolution To authorize the Attorney General to contract for copies of a proposed edition of the Laws and Treaties of the United States.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00050000.tif",
+        "page": 1
+      },
+      {
+        "image": "00060002.tif",
+        "page": 2
+      },
+      {
+        "image": "00070003.tif",
+        "page": 3
+      },
+      {
+        "image": "00080004.tif",
+        "page": 4
+      },
+      {
+        "image": "00090005.tif",
+        "page": 5
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00050000.tif",
-    "volume": "028"
-  },
-  {
-    "bill_numbers": [
-      "S. 8"
-    ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "028",
-    "dates": [
-      "18440305"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "001",
-    "tiff_filename": "00060002.tif",
-    "volume": "028"
-  },
-  {
-    "bill_numbers": [
-      "S. 8"
-    ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "028",
-    "dates": [
-      "18440305"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "001",
-    "tiff_filename": "00070003.tif",
-    "volume": "028"
-  },
-  {
-    "bill_numbers": [
-      "S. 8"
-    ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "028",
-    "dates": [
-      "18440305"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "001",
-    "tiff_filename": "00080004.tif",
-    "volume": "028"
-  },
-  {
-    "bill_numbers": [
-      "S. 8"
-    ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "028",
-    "dates": [
-      "18440305"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "001",
-    "tiff_filename": "00090005.tif",
     "volume": "028"
   },
   {
@@ -176,9 +126,13 @@
       "18440318"
     ],
     "description": "Mr. Woodbridge, from the Committee on Public Lands, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution Respecting receipts issued by the Treasurer of the United States, in payment for public lands.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00100000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00100000.tif",
     "volume": "028"
   },
   {
@@ -196,27 +150,17 @@
       "18440608"
     ],
     "description": "Agreeably to notice, Mr. Tappan asked and obtained leave to bring in the following joint resolution; which was read twice, by unanimous consent, and referred to the Committee on Naval Affairs. Discharged. Joint Resolution Concerning dew-rotted hemp.",
-    "page": "",
-    "session": "001",
-    "tiff_filename": "00110000.tif",
-    "volume": "028"
-  },
-  {
-    "bill_numbers": [
-      "S. 9"
+    "pages": [
+      {
+        "image": "00110000.tif",
+        "page": 1
+      },
+      {
+        "image": "00120002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "028",
-    "dates": [
-      "18440305",
-      "18440608"
-    ],
-    "description": "",
-    "page": "2",
     "session": "001",
-    "tiff_filename": "00120002.tif",
     "volume": "028"
   },
   {
@@ -233,9 +177,13 @@
       "18440318"
     ],
     "description": "Mr. Woodbridge, from the Committee on Public Lands, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution Respecting receipts issued by the Treasurer of the United States, in payment for public lands.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00130000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00130000.tif",
     "volume": "028"
   },
   {
@@ -252,9 +200,13 @@
       "18440318"
     ],
     "description": "Mr. Crittenden, from the Committee on Military Affairs, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution Concerning the site of \"Old Fort Wayne,\" at Savannah, Georgia.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00140000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00140000.tif",
     "volume": "028"
   },
   {
@@ -271,9 +223,13 @@
       "18440321"
     ],
     "description": "Mr. Tappan, from the Joint Committee on the Library, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution Directing the purchase of certain marble busts.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00150000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00150000.tif",
     "volume": "028"
   },
   {
@@ -290,26 +246,17 @@
       "18440401"
     ],
     "description": "Mr. Woodbridge, from the Committee on Public Lands, submitted a report, (No. 260,) accompanied by the following joint resolution; which was read, and passed to a second reading. Joint Resolution Concerning the \"copper rock of Lake Superior.\"",
-    "page": "",
-    "session": "001",
-    "tiff_filename": "00160000.tif",
-    "volume": "028"
-  },
-  {
-    "bill_numbers": [
-      "S. 14"
+    "pages": [
+      {
+        "image": "00160000.tif",
+        "page": 1
+      },
+      {
+        "image": "00170002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "028",
-    "dates": [
-      "18440401"
-    ],
-    "description": "",
-    "page": "2",
     "session": "001",
-    "tiff_filename": "00170002.tif",
     "volume": "028"
   },
   {
@@ -326,9 +273,13 @@
       "18440510"
     ],
     "description": "Mr. Phelps, from the Committee on Patents and the Patent Office, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution To authorize the issuing a patent to Charles M. Keller.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00180000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00180000.tif",
     "volume": "028"
   },
   {
@@ -345,9 +296,13 @@
       "18440517"
     ],
     "description": "Mr. Atchison, from the Committee on the Post Office and Post Roads, submitted a report, (No. 340,) accompanied by the following joint resolution; which was read, and passed to a second reading. Joint Resolution For the relief of Seth M. Leavenworth.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00190000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00190000.tif",
     "volume": "028"
   },
   {
@@ -364,9 +319,13 @@
       "18440606"
     ],
     "description": "Mr. Atchison, from the Committee on the Post Office and Post Roads, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution In favor of David Shaw and Solomon T. Corser.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00200000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00200000.tif",
     "volume": "028"
   },
   {
@@ -383,9 +342,13 @@
       "18440611"
     ],
     "description": "Mr. Morehead, from the Committee on Indian Affairs, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution For the relief of certain claimants under the Cherokee treaty of one thousand eight hundred and thirty-six.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00210000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00210000.tif",
     "volume": "028"
   },
   {
@@ -400,60 +363,25 @@
       "18440615"
     ],
     "description": "Agreeably to notice, Mr. Berrien asked and obtained leave to bring in the following joint resolution; which was read, passed to a second reading, and ordered to be printed. Joint Resolution Proposing an amendment to the Constitution of the United States, as it respects the election of President and Vice President of the United States.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00220000.tif",
+        "page": 1
+      },
+      {
+        "image": "00230002.tif",
+        "page": 2
+      },
+      {
+        "image": "00240003.tif",
+        "page": 3
+      },
+      {
+        "image": "00250004.tif",
+        "page": 4
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00220000.tif",
-    "volume": "028"
-  },
-  {
-    "bill_numbers": [
-      "S. 27"
-    ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "028",
-    "dates": [
-      "18440615"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "001",
-    "tiff_filename": "00230002.tif",
-    "volume": "028"
-  },
-  {
-    "bill_numbers": [
-      "S. 27"
-    ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "028",
-    "dates": [
-      "18440615"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "001",
-    "tiff_filename": "00240003.tif",
-    "volume": "028"
-  },
-  {
-    "bill_numbers": [
-      "S. 27"
-    ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "028",
-    "dates": [
-      "18440615"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "001",
-    "tiff_filename": "00250004.tif",
     "volume": "028"
   },
   {
@@ -470,26 +398,17 @@
       "18440614"
     ],
     "description": "Mr. Morehead, from the Committee on Retrenchment, submitted a report, (No. 399,) accompanied by the following joint resolution; which was read, and passed to a second reading. Joint Resolution Declaring the power of Congress to regulate by law the power exercised by the President to remove from office.",
-    "page": "",
-    "session": "001",
-    "tiff_filename": "00260000.tif",
-    "volume": "028"
-  },
-  {
-    "bill_numbers": [
-      "S. 28"
+    "pages": [
+      {
+        "image": "00260000.tif",
+        "page": 1
+      },
+      {
+        "image": "00270002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "028",
-    "dates": [
-      "18440614"
-    ],
-    "description": "",
-    "page": "2",
     "session": "001",
-    "tiff_filename": "00270002.tif",
     "volume": "028"
   }
 ]

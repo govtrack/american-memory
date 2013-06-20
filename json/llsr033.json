@@ -15,27 +15,17 @@
       "18540610"
     ],
     "description": "Referred to the Committee on Commerce. Reported from the committee by Mr. Aaron Harlan with an amendment, viz: Strike out all after the enacting clause, [in brackets,] and insert what follows in italics. Committed to a Committee of the Whole House, and ordered to be printed. Joint Resolution For the relief of the owners of the brig Kate Boyd.",
-    "page": "",
-    "session": "001",
-    "tiff_filename": "00010000.tif",
-    "volume": "033"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 3"
+    "pages": [
+      {
+        "image": "00010000.tif",
+        "page": 1
+      },
+      {
+        "image": "00020002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "033",
-    "dates": [
-      "18531223",
-      "18540610"
-    ],
-    "description": "",
-    "page": "2",
     "session": "001",
-    "tiff_filename": "00020002.tif",
     "volume": "033"
   },
   {
@@ -53,26 +43,17 @@
       "18540124"
     ],
     "description": "Reported from the Committee on Military Affairs without amendment, committed to a Committee of the Whole on the state of the Union, and ordered to be printed. Joint Resolution Authorizing the President of the United States to confer the title of Lieutenant General by brevet for eminent services.",
-    "page": "",
-    "session": "001",
-    "tiff_filename": "00030000.tif",
-    "volume": "033"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 4"
+    "pages": [
+      {
+        "image": "00030000.tif",
+        "page": 1
+      },
+      {
+        "image": "00040002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "033",
-    "dates": [
-      "18540124"
-    ],
-    "description": "",
-    "page": "2",
     "session": "001",
-    "tiff_filename": "00040002.tif",
     "volume": "033"
   },
   {
@@ -89,9 +70,13 @@
       "18531229"
     ],
     "description": "Mr. James asked, and, by unanimous consent, obtained leave to bring in the following joint resolution; which was read twice, referred to the Committee on Military Affairs, and ordered to be printed. Joint Resolution For the presentation of a sword to the nearest male relative of the late Major Samuel Ringgold.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00050000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00050000.tif",
     "volume": "033"
   },
   {
@@ -108,9 +93,13 @@
       "18540109"
     ],
     "description": "Mr. Hamlin, from the Committee on Printing, submitted a letter from the late superintendent of the public printing, (Mis. Doc. No. 11,) accompanied by the following joint resolution; which was read and passed to a second reading. Joint Resolution Authorizing an increase of the force in the office of the Superintendent of the Public Printing.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00060000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00060000.tif",
     "volume": "033"
   },
   {
@@ -127,26 +116,17 @@
       "18540206"
     ],
     "description": "Mr. Shields, from the Joint Committee, submitted a report (No. 85,) accompanied by the following joint resolution; which was read and passed to a second reading. Joint Resolution Manifesting the sense of Congress towards the officers and seamen of the vessels, and others, engaged in the rescue of the officers and soldiers of the army, the passengers, and the officers and crew of the steamship San Francisco, from perishing with the wreck of that vessel.",
-    "page": "",
-    "session": "001",
-    "tiff_filename": "00070000.tif",
-    "volume": "033"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 9"
+    "pages": [
+      {
+        "image": "00070000.tif",
+        "page": 1
+      },
+      {
+        "image": "00080002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "033",
-    "dates": [
-      "18540206"
-    ],
-    "description": "",
-    "page": "2",
     "session": "001",
-    "tiff_filename": "00080002.tif",
     "volume": "033"
   },
   {
@@ -163,9 +143,13 @@
       "18540209"
     ],
     "description": "Mr. Walker, from the Committee on Revolutionary Claims, reported the following joint resolution: which was read and passed to a second reading. Joint Resolution Explanatory of an act entitled \"An act for the relief of Abigail Stafford.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00090000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00090000.tif",
     "volume": "033"
   },
   {
@@ -182,9 +166,13 @@
       "18540213"
     ],
     "description": "Agreeably to notice, Mr. Fitzpatrick asked and obtained leave to bring in the following joint resolution; which was read twice, referred to the Committee on Post Office and Post Roads, and ordered to be printed. Joint Resolution For extending an existing contract for carrying the mail in Alabama.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00100000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00100000.tif",
     "volume": "033"
   },
   {
@@ -202,9 +190,13 @@
       "18540329"
     ],
     "description": "Agreeably to notice, Mr. Brodhead asked and obtained leave to bring in the following joint resolution; which was read twice and referred to the Cemmittee on Public Lands. Reported without amendment, and adversely. Joint Resolution Allowing the use of a certain portion of the census returns for the preparation of a work on the manufactures of the United States.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00110000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00110000.tif",
     "volume": "033"
   },
   {
@@ -223,27 +215,17 @@
       "18540630"
     ],
     "description": "Read a first and second time, and referred to the Committee on Post Office and Post Roads. Reported back by Mr. Upham, without amendment, and committed to a Committee of the Whole House to-morrowJoint Resolution Authorizing settlements under certain mail contracts.",
-    "page": "",
-    "session": "001",
-    "tiff_filename": "00120000.tif",
-    "volume": "033"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 14"
+    "pages": [
+      {
+        "image": "00120000.tif",
+        "page": 1
+      },
+      {
+        "image": "00130002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "033",
-    "dates": [
-      "18540610",
-      "18540630"
-    ],
-    "description": "",
-    "page": "2",
     "session": "001",
-    "tiff_filename": "00130002.tif",
     "volume": "033"
   },
   {
@@ -260,9 +242,13 @@
       "18540425"
     ],
     "description": "Mr. Allen, from the Committee on Pensions, reported the following bill; which was read and passed to a second reading. Joint Resolution Relative to the administration of the pension laws.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00140000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00140000.tif",
     "volume": "033"
   },
   {
@@ -281,28 +267,17 @@
       "18550201"
     ],
     "description": "Mr. Allen, from the Committee on Pensions, reported the following bill; which was read and passed to a second reading. Read the second time, and recommitted to the Committee on Pensions. Reported with amendments, viz: Strike out all after the enacting clause, and insert what follows printed in italics, and amend the title to read: A resolution relative to the administration of the bounty land act of 28th September, 1850, accompanied by a report, (No. 471.) Joint Resolution Relative to the administration of the pension laws.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00150000.tif",
-    "volume": "033"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 15"
+    "pages": [
+      {
+        "image": "00150000.tif",
+        "page": 1
+      },
+      {
+        "image": "00160002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "033",
-    "dates": [
-      "18540425",
-      "18540622",
-      "18550201"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00160002.tif",
     "volume": "033"
   },
   {
@@ -321,27 +296,17 @@
       "18540803"
     ],
     "description": "Referred to the Committee on Foreign Affairs. Reported back without amendment, and committed to a Committee of the Whole on the state of the Union. Joint Resolution Manifesting the sense of Congress towards Commander Edward Marshall, commanding her Britannic Majesty's ship Virago and the officers and crew who were detached by his order for the relief of the surveying party under the command of Lieutenant J. G. Strain.",
-    "page": "",
-    "session": "001",
-    "tiff_filename": "00170000.tif",
-    "volume": "033"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 16"
+    "pages": [
+      {
+        "image": "00170000.tif",
+        "page": 1
+      },
+      {
+        "image": "00180002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "033",
-    "dates": [
-      "18540610",
-      "18540803"
-    ],
-    "description": "",
-    "page": "2",
     "session": "001",
-    "tiff_filename": "00180002.tif",
     "volume": "033"
   },
   {
@@ -360,9 +325,13 @@
       "18540621"
     ],
     "description": "Referred to the Committee on the Post Office and Post Roads. Reported by Mr. Olds, without amendment, and committed to a Committee of the Whole House to-morrow. Joint Resolution For the relief of Rebecca J. Burdsall.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00190000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00190000.tif",
     "volume": "033"
   },
   {
@@ -381,9 +350,13 @@
       "18550123"
     ],
     "description": "Referred to the Committee on Military Affairs. Reported back by Mr. Faulkner without amendment, and committed to a Committee of the Whole House on the state of the Union. A Resolution. In relation to surgeons' mates of the army of the Revolution.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00200000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00200000.tif",
     "volume": "033"
   },
   {
@@ -401,9 +374,13 @@
       "18550102"
     ],
     "description": "Agreeably to notice, Mr. Pearce asked and obtained leave to bring in the following bill; which was read twice and referred to the Committee of Claims. Reported without amendment, and accompanied by an adverse report, (No. 399.) Joint Resolution For the relief of John Donnel and Sons.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00210000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00210000.tif",
     "volume": "033"
   },
   {
@@ -420,9 +397,13 @@
       "18540731"
     ],
     "description": "Mr. Adams, from the Committee on Post Office and Post Roads, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution For the settlement of the claim of the late firm of C. M. Strader and Company, mail contractors.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00220000.tif",
+        "page": 1
+      }
+    ],
     "session": "001",
-    "tiff_filename": "00220000.tif",
     "volume": "033"
   },
   {
@@ -441,27 +422,17 @@
       "18550223"
     ],
     "description": "Referred to the Committee on Post Office and Post Roads. Reported back by Mr. D. T. Jones, without amendment, and committed to the Committee of the Whole House to-morrow. Joint Resolution For the settlement of the claim of the late firm of C. M. Strader and Company, mail contractors.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00230000.tif",
-    "volume": "033"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 26"
+    "pages": [
+      {
+        "image": "00230000.tif",
+        "page": 1
+      },
+      {
+        "image": "00240002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "033",
-    "dates": [
-      "18550105",
-      "18550223"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00240002.tif",
     "volume": "033"
   },
   {
@@ -479,27 +450,17 @@
       "18550210"
     ],
     "description": "Agreeably to notice, Mr. Atchison asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on the Judiciary. Reported without amendment. Joint Resolution Authorizing the Secretary of the Interior to approve the accounts of the marshal for the district of Missouri for furniture provided for the use of the circuit court of the United States for said district at the April term of said court held at St. Louis in the year eighteen hundred and fifty-four.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00250000.tif",
-    "volume": "033"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 31"
+    "pages": [
+      {
+        "image": "00250000.tif",
+        "page": 1
+      },
+      {
+        "image": "00260002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "033",
-    "dates": [
-      "18550110",
-      "18550210"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00260002.tif",
     "volume": "033"
   },
   {
@@ -516,26 +477,17 @@
       "18550110"
     ],
     "description": "Mr. Johnson, from the Committee on Printing, reported the following joint resolution, which was read, and passed to a second reading. Joint Resolution Providing for the engraving, lithographing, and publishing of drawings, maps, charts, or other papers for Congress.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00270000.tif",
-    "volume": "033"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 32"
+    "pages": [
+      {
+        "image": "00270000.tif",
+        "page": 1
+      },
+      {
+        "image": "00280002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "033",
-    "dates": [
-      "18550110"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00280002.tif",
     "volume": "033"
   },
   {
@@ -552,9 +504,13 @@
       "18550110"
     ],
     "description": "Mr. Brodhead, from the Committee on Naval Affairs, reported the following Joint Resolution; which was read and passed to a second reading. Joint Resolution Respecting the Artic expedition commanded by Passed Assistant Surgeon E. K. Kane.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00290000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00290000.tif",
     "volume": "033"
   },
   {
@@ -569,9 +525,13 @@
       "18550118"
     ],
     "description": "Mr. Chase asked, and by unanimous consent obtained, leave to bring in the following joint resolution; which was read twice, ordered to lie on the table, and be printed. Joint Resolution Authorizing the President of the United States to contract with Hiram Powers for a work of art.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00300000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00300000.tif",
     "volume": "033"
   },
   {
@@ -589,81 +549,29 @@
       "18550201"
     ],
     "description": "Agreeably to notice, Mr. Gwin asked and obtained leave to bring in the following bill; which was read twice and referred to the Committee on Post Office and Post Roads. Reported with amendments, viz: strike out all after the enacting clause and insert what follows printed in italics, and amend the title to read: A resolution for the establishment of an express mail weekly from some point on the Mississippi river to San Francisco in California. Joint Resolution For the establishment of an express mail weekly between St. Louis, Missouri, and San Francisco, California.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00310000.tif",
+        "page": 1
+      },
+      {
+        "image": "00320002.tif",
+        "page": 2
+      },
+      {
+        "image": "00330003.tif",
+        "page": 3
+      },
+      {
+        "image": "00340004.tif",
+        "page": 4
+      },
+      {
+        "image": "00350005.tif",
+        "page": 5
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00310000.tif",
-    "volume": "033"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 35"
-    ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "033",
-    "dates": [
-      "18550119",
-      "18550201"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "002",
-    "tiff_filename": "00320002.tif",
-    "volume": "033"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 35"
-    ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "033",
-    "dates": [
-      "18550119",
-      "18550201"
-    ],
-    "description": "",
-    "page": "3",
-    "session": "002",
-    "tiff_filename": "00330003.tif",
-    "volume": "033"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 35"
-    ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "033",
-    "dates": [
-      "18550119",
-      "18550201"
-    ],
-    "description": "",
-    "page": "4",
-    "session": "002",
-    "tiff_filename": "00340004.tif",
-    "volume": "033"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 35"
-    ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "033",
-    "dates": [
-      "18550119",
-      "18550201"
-    ],
-    "description": "",
-    "page": "5",
-    "session": "002",
-    "tiff_filename": "00350005.tif",
     "volume": "033"
   },
   {
@@ -681,9 +589,13 @@
       "18550130"
     ],
     "description": "Agreeably to notice, Mr. Badger asked and obtained leave to bring in the following bill; which was read twice and referred to the Committee on Military Affairs. Reported without amendment. Joint Resolution Authorizing the Secretary of War to sell a portion of the site of the arsenal at Fayetteville, North Carolina, and to purchase other land with the proceeds of such sale.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00360000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00360000.tif",
     "volume": "033"
   },
   {
@@ -701,27 +613,17 @@
       "18550214"
     ],
     "description": "Agreeably to notice, Mr. Gwin asked and obtained leave to bring in the following bill; which was read twice and referred to the Committee on Commerce. Reported with an amendment, viz: add the words printed in italics. Joint Resolution In relation to manifests in certain cases.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00370000.tif",
-    "volume": "033"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 41"
+    "pages": [
+      {
+        "image": "00370000.tif",
+        "page": 1
+      },
+      {
+        "image": "00380002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "033",
-    "dates": [
-      "18550213",
-      "18550214"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00380002.tif",
     "volume": "033"
   },
   {
@@ -739,9 +641,13 @@
       "18550224"
     ],
     "description": "Agreeably to notice, Mr. Seward asked and obtained leave to bring in the following joint resolution; which was read twice and referred to the Committee on Foreign Relations. Reported without amendment. Joint Resolution Authorizing the Secretary of the Treasury to settle the claim of Alfred G. Benson on the principles of equity and justice.",
-    "page": "",
+    "pages": [
+      {
+        "image": "00390000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00390000.tif",
     "volume": "033"
   },
   {
@@ -759,27 +665,17 @@
       "18550228"
     ],
     "description": "Agreeably to notice, Mr. Seward asked and obtained leave to bring in the following joint resolution; which was read twice and referred to the Committee on Foreign Relations. Reported with amendments, viz: Strike out all after the enacting clause and insert what follows printed in italics, and amend the title to read: A joint resolution requiring the Secretary of the Treasury to ascertain the value of certain powder destroyed by order of Commander George N. Hollins, of the navy of the United States, and to pay the value thereof to the person to whom it belonged. Accompanied by a report (No. 548.) Joint Resolution To authorize the payment to William H. De Forrest of the sum of twelve thousand dollars, for a quantity of powder destroyed at Punta Arenas.",
-    "page": "",
-    "session": "002",
-    "tiff_filename": "00400000.tif",
-    "volume": "033"
-  },
-  {
-    "bill_numbers": [
-      "S.R. 46"
+    "pages": [
+      {
+        "image": "00400000.tif",
+        "page": 1
+      },
+      {
+        "image": "00410002.tif",
+        "page": 2
+      }
     ],
-    "chamber": "s",
-    "collection": "llsr",
-    "committees": [],
-    "congress": "033",
-    "dates": [
-      "18550222",
-      "18550228"
-    ],
-    "description": "",
-    "page": "2",
     "session": "002",
-    "tiff_filename": "00410002.tif",
     "volume": "033"
   },
   {
@@ -796,9 +692,13 @@
       "18550222"
     ],
     "description": "Mr. Brodhead, from the Committee of Claims, submitted a report (No. 537) accompanied by the following bill; which was read and passed to a second reading. Joint Resolution For the relief of Hall Neilson. Whereas, by a contract or agreement entered into in August, eighteen hundred and forty-one, between the Solicitor of the Treasury and Hall Neilson, by which the latter executed four several bonds of one thousand five hundred dollars each, payable to the United States, with interest, for the purchase of a certain piece of land, the property of the United States, near Vincennes, Indiana, and whereas, the title to said land soon after became the subject of litigation, by which it has been rendered unavailable to the present time:",
-    "page": "",
+    "pages": [
+      {
+        "image": "00420000.tif",
+        "page": 1
+      }
+    ],
     "session": "002",
-    "tiff_filename": "00420000.tif",
     "volume": "033"
   }
 ]
