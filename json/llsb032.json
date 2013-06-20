@@ -11449,24 +11449,6 @@
     ],
     "chamber": "s",
     "collection": "llsb",
-    "committees": [],
-    "congress": "032",
-    "dates": [
-      "18520219",
-      "18520310"
-    ],
-    "description": "",
-    "page": "2",
-    "session": "001",
-    "tiff_filename": "06240002.tif",
-    "volume": "032"
-  },
-  {
-    "bill_numbers": [
-      "S. 232"
-    ],
-    "chamber": "s",
-    "collection": "llsb",
     "committees": [
       "Committee on Commerce"
     ],
@@ -11479,6 +11461,24 @@
     "page": "",
     "session": "001",
     "tiff_filename": "06230000.tif",
+    "volume": "032"
+  },
+  {
+    "bill_numbers": [
+      "S. 232"
+    ],
+    "chamber": "s",
+    "collection": "llsb",
+    "committees": [],
+    "congress": "032",
+    "dates": [
+      "18520219",
+      "18520310"
+    ],
+    "description": "",
+    "page": "2",
+    "session": "001",
+    "tiff_filename": "06240002.tif",
     "volume": "032"
   },
   {
