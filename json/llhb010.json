@@ -8,10 +8,10 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18271218",
-      "18281219"
+      "1827-12-18",
+      "1828-12-19"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Reprinted by order of the House of Representatives. Mr. Floyd, from the Select Committee to which the subject had been referred, reported the following bill: A Bill To authorize the occupation of Oregon river.",
     "pages": [
@@ -28,8 +28,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -40,10 +40,10 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18271218",
-      "18281223"
+      "1827-12-18",
+      "1828-12-23"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House on the state of the Union. Reprinted by order of the House of Representatives. Mr. Floyd, from the Select Committee, to which the subject had been referred, reported the following bill: A Bill To authorize the occupation of the Oregon River.",
     "pages": [
@@ -64,8 +64,8 @@
         "page": 4
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -76,9 +76,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281224"
+      "1828-12-24"
     ],
     "description": "The bill to authorize the occupation of the Oregon river, being under consideration in Committee of the Whole House on the state of the Union, Mr. Drayton submitted the following as an amendment of the same: Strike out all after the enacting words, except the last section, and in lieu thereof, insert",
     "pages": [
@@ -91,8 +91,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -103,9 +103,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281211"
+      "1828-12-11"
     ],
     "description": "Read and committed to the Committee of the Whole House, to which said Bill is committed. Mr. Crocket submitted the following, which, when the Bill H. R. No. 27, ''to amend an act, entitled an act to authorize the State of Tennessee to issue grants and perfect titles, to certain lands therein described, and to settle the claims to vacant and unappropriated lands in the same,'' passed 18th April, 1806, comes up for consideration, he will move as an Amendment. Strike out all, after the enacting words in the first section, and insert the following:",
     "pages": [
@@ -118,8 +118,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -128,9 +128,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281211"
+      "1828-12-11"
     ],
     "description": "",
     "pages": [
@@ -139,8 +139,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -149,9 +149,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290105"
+      "1829-01-05"
     ],
     "description": "Amendment, Intended to be proposed by Mr. Bell, to the Bill to amend and explain ''An act to authorize the State of Tennessee to issue grants and perfect titles to certain lands therein described, and to settle the claims to the vacant and unappropriated lands within the same,'' passed 18th April, 1806. Strike out all except the title of the Bill, and insert the following:",
     "pages": [
@@ -164,8 +164,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -174,9 +174,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290121"
+      "1829-01-21"
     ],
     "description": "January 21, received.--January 22, read, and passed to a second reading. An Act To continue the present mode of supplying the Army of the United States, and for other purposes, appertaining to the same.",
     "pages": [
@@ -189,8 +189,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -202,10 +202,10 @@
       "Committee of the Whole House",
       "Committee on Roads and Canals"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18280102",
-      "18281213"
+      "1828-01-02",
+      "1828-12-13"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Reprinted by order of the House of Representatives. Mr. Mercer, from the Committee on Roads and Canals, reported the following bill: A Bill For the preservation and repair of the Cumberland Road.",
     "pages": [
@@ -234,8 +234,8 @@
         "page": 6
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -244,10 +244,10 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18280114",
-      "18281215"
+      "1828-01-14",
+      "1828-12-15"
     ],
     "description": "Reprinted by order of the House of Representatives. Submitted by Mr. Buchanan, as an amendment to the bill for the preservation and repair of the Cumberland Road, to be considered when that bill shall be taken up by the House.",
     "pages": [
@@ -260,8 +260,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -270,9 +270,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290209"
+      "1829-02-09"
     ],
     "description": "Ordered to be printed. Amendment Proposed by Mr. Vance, to the Amendment proposed by Mr. Buchanan, to the bill [No. 42,] ''to provide for the preservation and repair of the Cumberland Road.'' To come in as the 4th Section.",
     "pages": [
@@ -281,8 +281,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -291,9 +291,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290219"
+      "1829-02-19"
     ],
     "description": "Read, and passed to a second reading. An Act For the preservation and repair of the Cumberland Road.",
     "pages": [
@@ -326,8 +326,8 @@
         "page": 7
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -339,10 +339,10 @@
       "Committee of the Whole House",
       "Committee on Commerce"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18280103",
-      "18281210"
+      "1828-01-03",
+      "1828-12-10"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Reprinted by order of the House of Representatives. Passed through the Committee of the Whole House without amendment, and postponed until Monday next. Mr. Cambreleng, from the Committee on Commerce, to which was referred the petition of sundry sugar refiners, reported the following bill: A Bill Allowing an additional drawback on sugar refined in the United States, and exported therefrom.",
     "pages": [
@@ -351,8 +351,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -361,9 +361,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290115"
+      "1829-01-15"
     ],
     "description": "Ordered to be printed. ''A bill granting certain quarter sections of land to the Territory of Florida, and directing the manner in which the quarter sections heretofore reserved shall be disposed of, and for other purposes.'' Amendment To be proposed by Mr. Sevier.",
     "pages": [
@@ -372,8 +372,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -385,10 +385,10 @@
       "Committee of the Whole House",
       "Committee on the Territories"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18280115",
-      "18281209"
+      "1828-01-15",
+      "1828-12-09"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House on the state of the Union. Reprinted, by order of the House of Representatives, with amendments. [Note.--The parts to be stricken out are printed in brackets--the amendments in italics. Mr. Strong, from the Committee on the Territories, to which the subject had been referred, reported the following bill: A Bill Establishing the Territorial Government of Huron.",
     "pages": [
@@ -437,8 +437,8 @@
         "page": 11
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -449,9 +449,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290121"
+      "1829-01-21"
     ],
     "description": "January 21, received.--January 22, read twice, and referred to the Committee on the Judiciary. An Act Establishing the Territorial Government of Huron.",
     "pages": [
@@ -500,8 +500,8 @@
         "page": 11
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -510,9 +510,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290121"
+      "1829-01-21"
     ],
     "description": "January 21, received.--January 22, read, and passed to a second reading. An Act To cede to the State of South Carolina the jurisdiction over, and the title to, a certain tract of land, called Mount Dearborn, in the said State.",
     "pages": [
@@ -525,8 +525,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -537,9 +537,9 @@
     "committees": [
       "Committee on Roads and Canals"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290120"
+      "1829-01-20"
     ],
     "description": "January 20, received.--January 21, Read twice, and referred to the Committee on Roads and Canals. An Act Authorizing a subscription of stock in the Washington Turnpike Road Company.",
     "pages": [
@@ -556,8 +556,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -569,9 +569,9 @@
       "Committee of the Whole House",
       "Committee on the Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18280205"
+      "1828-02-05"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House on the state of the Union. Mr. Duncan, from the Committee on the Public Lands, to which the subject had been referred, reported the following bill: A Bill To graduate the price of the Public Lands, to make donations thereof to actual settlers, and to cede the refuse to the States in which they lie, upon equitable terms.",
     "pages": [
@@ -612,8 +612,8 @@
         "page": 9
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -624,9 +624,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290113"
+      "1829-01-13"
     ],
     "description": "Committed to the Committee of the Whole House to which the said bill is committed. Mr. Isacks submitted the following, which, when the bill to graduate the price of the public lands, to make donations thereof to actual settlers, and to cede the refuse to the States in which they lie, upon equitable terms, comes up for consideration, he will move as an amendment to the same:",
     "pages": [
@@ -639,8 +639,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -652,10 +652,10 @@
       "Committee of the Whole House",
       "Committee of Ways and Means"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18280218",
-      "18290112"
+      "1828-02-18",
+      "1829-01-12"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Reprinted by order of the House of Representatives. Mr. McDuffie, from the Committee of Ways and Means, to which the subject had been referred, reported the following bill: A Bill To equalize and reduce the duties on imported teas.",
     "pages": [
@@ -668,8 +668,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -678,9 +678,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290119"
+      "1829-01-19"
     ],
     "description": "Read, and passed to a second reading. An Act For the relief of Augustus Aspinwall.",
     "pages": [
@@ -689,8 +689,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -699,9 +699,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290119"
+      "1829-01-19"
     ],
     "description": "Read, and passed to a second reading. An Act For the relief of Samuel Chesnut.",
     "pages": [
@@ -710,8 +710,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -722,9 +722,9 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290119"
+      "1829-01-19"
     ],
     "description": "Read twice, and referred to the Committee of Claims. An Act For the relief of Joshua Foltz.",
     "pages": [
@@ -733,8 +733,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -745,9 +745,9 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290119"
+      "1829-01-19"
     ],
     "description": "Read twice, and referred to the Committee of Claims. An Act For the relief of William Morrisson.",
     "pages": [
@@ -756,8 +756,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -766,9 +766,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290119"
+      "1829-01-19"
     ],
     "description": "Read, and passed to a second reading. An Act For the relief of Robert L. Kennon.",
     "pages": [
@@ -777,8 +777,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -787,9 +787,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290126"
+      "1829-01-26"
     ],
     "description": "An Act To remit the duties imposed upon certain articles imported for the use of the Theological Seminary and Kenyon College, in Ohio.",
     "pages": [
@@ -798,8 +798,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -808,9 +808,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290126"
+      "1829-01-26"
     ],
     "description": "An Act For the relief of Charles A. Burnett.",
     "pages": [
@@ -819,8 +819,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -829,9 +829,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290126"
+      "1829-01-26"
     ],
     "description": "An Act For the relief of John F. Ohl.",
     "pages": [
@@ -840,8 +840,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -850,9 +850,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290126"
+      "1829-01-26"
     ],
     "description": "An Act For the relief of Riddle, Becktill, and Headington.",
     "pages": [
@@ -861,8 +861,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -871,9 +871,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290126"
+      "1829-01-26"
     ],
     "description": "An Act For the relief of Tandy Walker.",
     "pages": [
@@ -882,8 +882,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -892,9 +892,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290126"
+      "1829-01-26"
     ],
     "description": "An Act For the relief of William R. Maddox.",
     "pages": [
@@ -903,8 +903,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -913,9 +913,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290126"
+      "1829-01-26"
     ],
     "description": "An Act For the relief of the representatives of James A. Harper, deceased.",
     "pages": [
@@ -924,8 +924,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -934,9 +934,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290126"
+      "1829-01-26"
     ],
     "description": "An Act For the relief of Thomas Hunt.",
     "pages": [
@@ -945,8 +945,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -957,9 +957,9 @@
     "committees": [
       "Committee on Military Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290202"
+      "1829-02-02"
     ],
     "description": "Read twice, and referred to the Committee on Military Affairs. An Act For the relief of Richard Harris and Nimrod Farrow.",
     "pages": [
@@ -968,8 +968,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -978,9 +978,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290126"
+      "1829-01-26"
     ],
     "description": "An Act For the relief of John Heard, junior, surviving assignee of Amasa Davis, junior.",
     "pages": [
@@ -989,8 +989,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -999,9 +999,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290126"
+      "1829-01-26"
     ],
     "description": "An Act For the relief of the legal representatives of John Guest, deceased.",
     "pages": [
@@ -1010,8 +1010,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1020,9 +1020,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290127"
+      "1829-01-27"
     ],
     "description": "Received. An Act For the relief of Richard Eppes.",
     "pages": [
@@ -1031,8 +1031,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1041,9 +1041,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290126"
+      "1829-01-26"
     ],
     "description": "An Act For the relief of Archibald W. Hamilton.",
     "pages": [
@@ -1052,8 +1052,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1064,9 +1064,9 @@
     "committees": [
       "Committee on Finance"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290202"
+      "1829-02-02"
     ],
     "description": "Read twice, and referred to the Committee on Finance. An Act For the relief of Benedict Flaget, Bishop of Bardstown.",
     "pages": [
@@ -1075,8 +1075,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1087,9 +1087,9 @@
     "committees": [
       "Committee on Military Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290202"
+      "1829-02-02"
     ],
     "description": "Read twice and referred to the Committee on Military Affairs. An Act For the relief of the legal representatives of Joseph Jeans, deceased.",
     "pages": [
@@ -1098,8 +1098,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1108,9 +1108,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290209"
+      "1829-02-09"
     ],
     "description": "Received. An Act For the relief of Francis Preston.",
     "pages": [
@@ -1123,8 +1123,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1133,9 +1133,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290209"
+      "1829-02-09"
     ],
     "description": "Received. An Act For the indemnity of William Stewart.",
     "pages": [
@@ -1144,8 +1144,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1154,9 +1154,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290209"
+      "1829-02-09"
     ],
     "description": "Received. An Act For the relief of Robertson and Barnwell.",
     "pages": [
@@ -1165,8 +1165,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1177,9 +1177,9 @@
     "committees": [
       "Committee on Naval Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290119"
+      "1829-01-19"
     ],
     "description": "Read twice, and referred to the Committee on Naval Affairs. An Act To provide an exploring expedition to the Pacific Ocean and South Seas.",
     "pages": [
@@ -1188,8 +1188,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1200,9 +1200,9 @@
     "committees": [
       "Committee on Naval Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290223"
+      "1829-02-23"
     ],
     "description": "Mr. Hayne, from the Committee on Naval Affairs, to whom was referred the bill, entitled ''An act to provide for an Exploring Expedition to the Pacific Ocean and South Seas,'' reported it, with the following Amendment.",
     "pages": [
@@ -1215,8 +1215,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1225,9 +1225,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290209"
+      "1829-02-09"
     ],
     "description": "Received. An Act For the relief of Jeremiah Walker, of the State of Louisiana.",
     "pages": [
@@ -1236,8 +1236,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1248,9 +1248,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290216"
+      "1829-02-16"
     ],
     "description": "Read, and passed to a second reading.--February 17th, read a second time, and referred to the Committee on Public Lands. An Act For the relief of Wallace Robinson.",
     "pages": [
@@ -1263,8 +1263,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1275,9 +1275,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "19290216"
+      "1929-02-16"
     ],
     "description": "Read, and passed to a second reading. February 17, read second time and referred to the Committee on Public Lands. An Act To compensate the Register and Receiver at Augusta, Mississippi, for services performed in Mobile.",
     "pages": [
@@ -1286,8 +1286,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1298,9 +1298,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290216"
+      "1829-02-16"
     ],
     "description": "Read twice, and referred to the Committee on Public Lands. An Act Setting apart the battle ground of Tippecanoe, as a burial ground.",
     "pages": [
@@ -1309,8 +1309,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1321,9 +1321,9 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290216"
+      "1829-02-16"
     ],
     "description": "Read, and passed to a second reading. February 17, read second time, and referred to the Committee on Claims. An Act For the relief of John Gates, jun.",
     "pages": [
@@ -1332,8 +1332,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1344,9 +1344,9 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290216"
+      "1829-02-16"
     ],
     "description": "Read twice, and referred to the Committee of Claims. An Act For the relief of Mayor and City Council of Baltimore.",
     "pages": [
@@ -1355,8 +1355,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1367,9 +1367,9 @@
     "committees": [
       "Committee on Private Land Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290216"
+      "1829-02-16"
     ],
     "description": "Read and passed to a second reading. February 17, read second time, and referred to the Committee on Private Land Claims. An Act For the relief of the heirs and legal representatives of Lewis Clarke, deceased.",
     "pages": [
@@ -1378,8 +1378,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1390,9 +1390,9 @@
     "committees": [
       "Committee on Private Land Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290216"
+      "1829-02-16"
     ],
     "description": "Read and passed to a second reading.--February 17.--Read second time, and referred to the Committee on Private Land Claims. An Act For the benefit of Elijah L. Clarke, of Louisiana.",
     "pages": [
@@ -1401,8 +1401,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1413,9 +1413,9 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290216"
+      "1829-02-16"
     ],
     "description": "Read twice, and referred to the Committee of Claims. An Act For the relief of the State of Pennsylvania.",
     "pages": [
@@ -1424,8 +1424,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1436,9 +1436,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290216"
+      "1829-02-16"
     ],
     "description": "Read, and passed to a second reading.--February 17, read second time, and referred to the Committee on Public Lands. An Act In favor of Richard W. Steele.",
     "pages": [
@@ -1447,8 +1447,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1459,9 +1459,9 @@
     "committees": [
       "Committee on Military Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290216"
+      "1829-02-16"
     ],
     "description": "Read twice, and referred to the Committee on Military Affairs. An Act For the relief of Lewis Schrack.",
     "pages": [
@@ -1470,8 +1470,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1482,9 +1482,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290216"
+      "1829-02-16"
     ],
     "description": "Read twice, and referred to the Committee on Public Lands. An Act For the relief of Jared E. Groce, of the State of Alabama.",
     "pages": [
@@ -1493,8 +1493,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1505,9 +1505,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290216"
+      "1829-02-16"
     ],
     "description": "Read, and passed to a second reading.--February 17.--Read second time, and referred to Committee on Public Lands. An Act Allowing compensation to certain Registers of Land Offices and Receivers of Public Moneys, for extra services in the Territory of Arkansas.",
     "pages": [
@@ -1520,8 +1520,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1532,9 +1532,9 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290216"
+      "1829-02-16"
     ],
     "description": "Read, and passed to a second reading.--February 17, read second time, and referred to the Committee of Claims. An Act For the relief of Joel Byington.",
     "pages": [
@@ -1543,8 +1543,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1555,9 +1555,9 @@
     "committees": [
       "Committee on Pensions"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290216"
+      "1829-02-16"
     ],
     "description": "Read twice, and referred to the Committee on Pensions. An Act For the relief of William Tipton.",
     "pages": [
@@ -1566,8 +1566,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1578,9 +1578,9 @@
     "committees": [
       "Committee on Pensions"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290216"
+      "1829-02-16"
     ],
     "description": "Read twice, and referred to the Committee on Pensions. An Act For the relief of the legal representatives of James Davenport, deceased.",
     "pages": [
@@ -1589,8 +1589,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1601,9 +1601,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281209"
+      "1828-12-09"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House, to-morrow. A Bill To authorize the appointment of a Surveyor for the Virginia Military District within the State of Ohio.",
     "pages": [
@@ -1620,8 +1620,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1632,9 +1632,9 @@
     "committees": [
       "Committee on Ways and Means"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281010"
+      "1828-10-10"
     ],
     "description": "Read twice, and ordered to be engrossed, and read the third time to-morrow. Mr. McDuffie, from the Committee of Ways and Means, to which was referred the petition of John B. Lemaitre, junior reported the following bill: A Bill For the relief of John B. Lemaitre, junior.",
     "pages": [
@@ -1643,8 +1643,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1656,9 +1656,9 @@
       "Committee of the Whole House",
       "Committee of Ways and Means"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281210"
+      "1828-12-10"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Dwight, from the Committee of Ways and Means, to which was referred the case of William J. Quincy and Charles E. Quincy, reported the following bill: A Bill For the relief of William J. Quincy and Charles E. Quincy.",
     "pages": [
@@ -1667,8 +1667,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1680,9 +1680,9 @@
       "Committee of the Whole House",
       "Committee on the Territories"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18280510"
+      "1828-05-10"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Strong, from the Committee on the Territories, reported the following bill: A Bill For ascertaining the latitude of the southerly bend or extreme of Lake Michigan, and of certain other points, for the purpose, thereafter, of fixing the true northern boundary lines of the States of Ohio, Indiana, and Illinois.",
     "pages": [
@@ -1699,8 +1699,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1711,9 +1711,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290224"
+      "1829-02-24"
     ],
     "description": "Read twice, and referred to the Committee on the Judiciary. An Act For ascertaining the latitude of the southerly bend or extreme of Lake Michigan, and of certain other points, for the purpose, thereafter, of fixing the true northern boundary lines of the States of Ohio and Illinois.",
     "pages": [
@@ -1730,8 +1730,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1743,9 +1743,9 @@
       "Committee of the Whole House",
       "Committee of Ways and Means"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281210"
+      "1828-12-10"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Verplanck, from the Committee of Ways and Means, to which the subject had been referred, reported the following bill: A Bill To refund the moiety of the forfeiture upon the schooner Volant.",
     "pages": [
@@ -1754,8 +1754,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1767,9 +1767,9 @@
       "Committee of the Whole House",
       "Committee of Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281210"
+      "1828-12-10"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Whittlesey, from the Committee of Claims, to which was referred the petition of William Otis, reported the following bill: A Bill For the relief of William Otis.",
     "pages": [
@@ -1778,8 +1778,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1791,9 +1791,9 @@
       "Committee of the Whole House",
       "Committee on Naval Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281211"
+      "1828-12-11"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Hoffman, from the Committee on Naval Affairs, to which was referred the petition of Elizabeth Mays, reported the following bill: A Bill For the relief of Elizabeth Mays.",
     "pages": [
@@ -1802,8 +1802,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1815,9 +1815,9 @@
       "Committee of the Whole House",
       "Committee on Military Pensions"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281212"
+      "1828-12-12"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Mitchell, of Tennessee, from the Committee on Military Pensions, to which the subject had been referred, reported the following bill: A Bill For the relief of sundry Revolutionary and other Officers and Soldiers, and for other purposes.",
     "pages": [
@@ -1854,8 +1854,8 @@
         "page": 8
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1866,9 +1866,9 @@
     "committees": [
       "Committee on Pensions"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290119"
+      "1829-01-19"
     ],
     "description": "Read twice, and referred to the Committee on Pensions. An Act For the relief of sundry Revolutionary and other Officers and Soldiers, and for other purposes.",
     "pages": [
@@ -1905,8 +1905,8 @@
         "page": 8
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1917,9 +1917,9 @@
     "committees": [
       "Committee on Pensions"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290210"
+      "1829-02-10"
     ],
     "description": "Mr. Marks, from the Committee on Pensions, to whom was referred the bill from the House of Representatives, entitled ''An act for the relief of sundry Revolutionary and other Officers and Soldiers, and for other purposes,'' report the same with the following Amendments:",
     "pages": [
@@ -1936,8 +1936,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1946,9 +1946,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281212"
+      "1828-12-12"
     ],
     "description": "Ordered to engrossed for Monday next. A Bill To preserve from injury and waste the school lands in the Territory of Arkansas.",
     "pages": [
@@ -1957,8 +1957,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1970,9 +1970,9 @@
       "Committee of the Whole House",
       "Committee of Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281212"
+      "1828-12-12"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Whittlesey, from the Committee of Claims, to which was referred the petition of Richard Biddle, administrator of John Wilkins, reported the following bill: A Bill For the relief of Richard Biddle, administrator of John Wilkins, Jr. formerly Quartermaster General of the Army of the United States.",
     "pages": [
@@ -1981,8 +1981,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -1994,9 +1994,9 @@
       "Committee of the Whole House",
       "Committee on Private Lands Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281212"
+      "1828-12-12"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Sterigere, from the Committee on Private Lands Claims, to which was referred the petition of Matthis Roll, reported the following bill: A Bill For the relief of Matthias Roll.",
     "pages": [
@@ -2005,8 +2005,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2018,9 +2018,9 @@
       "Committee of the Whole House",
       "Committee on Indian Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281215"
+      "1828-12-15"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Smith, of Indiana, from the Committee on Indian Affairs, to which was referred the petition of Cecille Boyer and Angelia Cutaw, reported the following bill: A Bill For the relief of Cecille Boyer, and the children of Muta-ma-go-quo, all of Indian descent.",
     "pages": [
@@ -2029,8 +2029,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2042,9 +2042,9 @@
       "Committee of the Whole House",
       "Committee on the Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281215"
+      "1828-12-15"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Jennings, from the Committee on the Public Lands, to which was referred the petition of Elijah Carr, reported the following bill: A Bill For the relief of Elijah Carr.",
     "pages": [
@@ -2053,8 +2053,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2066,9 +2066,9 @@
       "Committee of the Whole House",
       "Committee on Military Pensions"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281216"
+      "1828-12-16"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Mitchell, of Tennessee, from the Committee on Military Pensions, to which the subject had been referred, reported the following bill: A Bill To amend an act, entitled ''An act to provide for certain persons engaged in the land and naval service of the United States in the Revolutionary war,'' and the several acts made in amendment thereof, and for other purposes.",
     "pages": [
@@ -2093,8 +2093,8 @@
         "page": 5
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2103,9 +2103,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290226"
+      "1829-02-26"
     ],
     "description": "Read twice, and ordered to lie on the table. An Act To amend an act, entitled ''An act to provide for certain persons engaged in the land and naval service of the United States, in the Revolutionary war,'' and the several acts made in amendment thereof, and for other purposes.",
     "pages": [
@@ -2130,8 +2130,8 @@
         "page": 5
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2143,9 +2143,9 @@
       "Committee of the Whole House",
       "Committee of Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281217"
+      "1828-12-17"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Whittlesey, from the Committee of Claims, to which was referred the case of Nathaniel B. Wood, reported the following bill: A Bill For the relief of Nathaniel B. Wood.",
     "pages": [
@@ -2154,8 +2154,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2167,9 +2167,9 @@
       "Committee of the Whole House",
       "Committee on Revolutionary Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281219"
+      "1828-12-19"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Wolf, from the Committee on Revolutionary Claims, to which the subject had been referred, reported the following bill: A Bill To revive and continue in force, for a limited time, the act entitled ''An act authorizing the payment of certain Certificates.''",
     "pages": [
@@ -2178,8 +2178,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2191,9 +2191,9 @@
       "Committee of the Whole House",
       "Committee on the Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281219"
+      "1828-12-19"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Isacks, from the Committee on the Public Lands, to which the subject had been referred, reported the following bill: A Bill Allowing to certain persons in the Territory of Florida the right of pre-emption.",
     "pages": [
@@ -2206,8 +2206,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2219,9 +2219,9 @@
       "Committee of the Whole House",
       "Committee on the Militia"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281219"
+      "1828-12-19"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House on the state of the Union. Mr. Thompson, from the Committee on the Militia, to which the subject had been referred, reported the following bill: A Bill Requiring and providing for the publication and distribution of a certain number of copies of an abstract of infantry tactics, including exercises and manoeuveres of light infantry and riflemen, and for other purposes.",
     "pages": [
@@ -2238,8 +2238,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2251,9 +2251,9 @@
       "Committee of the Whole House",
       "Committee on the Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281222"
+      "1828-12-22"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to which is committed the ''bill to authorize those persons who have relinquished lands under the provisions of the several acts for the relief of purchasers of public land, to purchase the same at private sale, at a fixed price.'' Mr. Isacks, from the Committee on the Public Lands, to which the subject had been referred, reported the following bill: A Bill To amend an act, entitled ''An act to grant certain relinquished and unappropriated lands to the State of Alabama, for the purpose of improving the navigation of the Tennessee, Coosa, Cahawba, and Black Warrior rivers, approved the twenty-third day of May, one thousand eight hundred and twenty-eight.",
     "pages": [
@@ -2266,8 +2266,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2279,9 +2279,9 @@
       "Committee of the Whole House",
       "Committee on the Judiciary"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281222"
+      "1828-12-22"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. P. P. Barbour from the Committee on the Judiciary, to which the subject had been referred, reported the following bill: A Bill Releasing the lien of the United States, upon a part of the land of Benjamin Owens, in Anne Arundel county, State of Maryland, to the Trustees of Mount Zion meeting-house, in said county and State.",
     "pages": [
@@ -2290,8 +2290,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2300,9 +2300,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281222"
+      "1828-12-22"
     ],
     "description": "Ordered to be engrossed for to-morrow. A Bill To authorize the citizens of Arkansas Territory to elect certain officers.",
     "pages": [
@@ -2315,8 +2315,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2328,9 +2328,9 @@
       "Committee of the Whole House",
       "Committee on Naval Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281222"
+      "1828-12-22"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to which is committed the bill for the relief of Elizabeth Mays. Mr. Ripley, from the Committee on Naval Affairs, to which was referred the petition of abigail Appleton, reported the following bill: A Bill For the relief of Abigail Appleton.",
     "pages": [
@@ -2339,8 +2339,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2352,9 +2352,9 @@
       "Committee of the Whole House",
       "Committee on the Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281222"
+      "1828-12-22"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Vinton, from the Committee on the Public Lands, to which the subject had been referred, reported the following bill: A Bill To amend the act, entitled ''An act for the relief of purchasers of public lands that have reverted for non-payment of the purchase money.''",
     "pages": [
@@ -2367,8 +2367,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2381,9 +2381,9 @@
       "Committee on Private Land Claims",
       "Committee of the Board of Trustees"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281222"
+      "1828-12-22"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Bates, of Missouri, from the Committee on Private Land Claims, to which was referred the petition of a Committee of the Board of Trustees for the regulation of schools in the town of St. Louis, reported the following bill: A Bill To vest the title of certain lots of ground in the Board of Trustees for the regulation of schools in the town of St. Louis.",
     "pages": [
@@ -2396,8 +2396,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2409,9 +2409,9 @@
       "Committee of the whole House",
       "Committee on Private Land Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281222"
+      "1828-12-22"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Bates, of Missouri, from the Committee on Private Land Claims, to which the case of Peter P. M'Cormack had been referred, reported the following bill: A Bill For the relief of Peter P. M'Cormack.",
     "pages": [
@@ -2424,8 +2424,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2437,9 +2437,9 @@
       "Committee of the Whole House",
       "Committee of Ways and Means"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281222"
+      "1828-12-22"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. McDuffie, from the Committee of Ways and Means, to which the subject had been referred, reported the following bill: A Bill Making an appropriations to pay the claims of certain citizens of Louisiana and Mississippi, formerly inhabitants of West Florida.",
     "pages": [
@@ -2448,8 +2448,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2461,9 +2461,9 @@
       "Committee of the Whole House",
       "Committee of Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281222"
+      "1828-12-22"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Whittlesey, from the Committee of Claims, to which was referred the petition of Luther Chapin, reported the following bill: A Bill For the relief of Luther Chapin.",
     "pages": [
@@ -2472,8 +2472,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2484,9 +2484,9 @@
     "committees": [
       "Committee on Commerce"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281223"
+      "1828-12-23"
     ],
     "description": "Read twice, and ordered to be engrossed, and read the third time to-morrow. Mr. Cambreleng, from the Committee on Commerce, to which the subject had been referred, reported the following bill: A Bill To establish a Port of Entry at Magnolia, in Florida.",
     "pages": [
@@ -2495,8 +2495,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2508,9 +2508,9 @@
       "Committee of the Whole House",
       "Committee on Naval Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281224"
+      "1828-12-24"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Hoffman, from the Committee on Naval Affairs, to which the subject had been referred, reported the following bill: A Bill For increasing the pay of the Captains and Masters Commandant in the Navy of the United States.",
     "pages": [
@@ -2519,8 +2519,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2532,9 +2532,9 @@
       "Committee of the Whole House",
       "Committee of Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281224"
+      "1828-12-24"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. McCoy, from the Committee of Claims, to which was referred the petition of John Long, reported the following bill: A Bill For the relief of John Long.",
     "pages": [
@@ -2543,8 +2543,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2556,9 +2556,9 @@
       "Committee of the Whole House",
       "Committee of Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281224"
+      "1828-12-24"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Whittlesey, from the Committee of Claims, reported the following bill: A Bill For the relief of Thomas Wheatley.",
     "pages": [
@@ -2567,8 +2567,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2580,9 +2580,9 @@
       "Committee of the Whole House",
       "Committee of Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281224"
+      "1828-12-24"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. McIntire, from the Committee of Claims, to which was referred the petition of Theophilus Cooksey, reported the following bill: A Bill For the relief of Theophilus Cooksey.",
     "pages": [
@@ -2591,8 +2591,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2604,9 +2604,9 @@
       "Committee of the Whole House",
       "Committee on Private Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281229"
+      "1828-12-29"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Buckner, from the Committee on Private Land Claims, to which the subject had been referred, reported the following bill: A Bill For the relief of the heirs of Colonel John Ellis, deceased.",
     "pages": [
@@ -2619,8 +2619,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2632,9 +2632,9 @@
       "Committee of the Whole House",
       "Committee on Private Land Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281228"
+      "1828-12-28"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Buckner, from the Committee on Private Land Claims, to which was referred the petition of the heirs of Joseph Pierce, reported the following bill: A Bill For the relief of Joseph Pierce and Company.",
     "pages": [
@@ -2643,8 +2643,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2656,9 +2656,9 @@
       "Committee of the Whole House",
       "Committee on Private Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281229"
+      "1828-12-29"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Clark, of New York, from the Committee of Claims, to which was referred the case of King and Thurbur, reported the following bill: A Bill For the relief of Ezra Thurbur, and the legal representatives of Gideon King.",
     "pages": [
@@ -2667,8 +2667,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2680,9 +2680,9 @@
       "Committee of the Whole House",
       "Committee on the Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281229"
+      "1828-12-29"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Gurley, from the Committee on Public Lands, reported the following bill: A Bill For the relief of Hyacinth Bernard.",
     "pages": [
@@ -2691,8 +2691,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2704,9 +2704,9 @@
       "Committee of the Whole House",
       "Committee on Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281229"
+      "1828-12-29"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Gurley, from the Committee on the Public Lands, reported the following bill: A Bill For the relief of the heirs and legal representatives of Antonio Bonnabel, deceased.",
     "pages": [
@@ -2715,8 +2715,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2728,9 +2728,9 @@
       "Committee of the Whole House",
       "Committee on Roads and Canals"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281229"
+      "1828-12-29"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Mercer, from the Committee on Roads and Canals, reported the following bill: A Bill To incorporate the Alexandria Canal Company.",
     "pages": [
@@ -2811,8 +2811,8 @@
         "page": 19
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2824,9 +2824,9 @@
       "Committee of the Whole House",
       "Committee on Naval Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281230"
+      "1828-12-30"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Bartlett, from the Committee on Naval Affairs, to which was referred the case of Amos Binney, reported the following bill: A Bill For the relief of Amos Binney.",
     "pages": [
@@ -2835,8 +2835,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2848,9 +2848,9 @@
       "Committee of the Whole House",
       "Committee of Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281231"
+      "1828-12-31"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to which is committed the bill [No. 334] for the relief of Thomas Wheatley. Mr. Whittlesey from the Committee of Claims, reported the following bill: A Bill For the relief of Orson Sparks and John Watson.",
     "pages": [
@@ -2859,8 +2859,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2869,9 +2869,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281231"
+      "1828-12-31"
     ],
     "description": "Ordered to be engrossed for to-morrow. A Bill To allow further time to complete the issuing and locating of Military Land Warrants.",
     "pages": [
@@ -2880,8 +2880,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2893,9 +2893,9 @@
       "Committee of the Whole House",
       "Committee of Ways and Means"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281231"
+      "1828-12-31"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Sprague, from the Committee of Ways and Means, to which the subject had been referred, reported the following bill: A Bill To repeal the tonnage duties upon ships and vessels of the United States, and upon certain foreign vessels.",
     "pages": [
@@ -2908,8 +2908,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2921,9 +2921,9 @@
       "Committee of the Whole House",
       "Committee on Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281231"
+      "1828-12-31"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Duncan, from the Committee on the Public Lands, to which the subject had been referred, reported the following bill: A Bill To authorize the President to appoint a Superintendent and Receiver at the Fever river lead mines, and for other purposes.",
     "pages": [
@@ -2944,8 +2944,8 @@
         "page": 4
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2957,9 +2957,9 @@
       "Committee of the Whole House",
       "Committee of Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281231"
+      "1828-12-31"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Ramsay, from the Committee of Claims, to which was referred the case of Samuel Dubose, administrator of Elias D. Dick, reported the following bill: A Bill For the relief of Samuel Dubose, administrator of Elias D. Dick, deceased.",
     "pages": [
@@ -2972,8 +2972,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -2985,9 +2985,9 @@
       "Committee of the Whole House",
       "Committee on Private Land Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281231"
+      "1828-12-31"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Buckner, from the Committee on Private Land Claims, to which was referred the petition of George P. Frost, reported the following bill: A Bill For the benefit of George P. Frost, of Rochester, and State of New York.",
     "pages": [
@@ -2996,8 +2996,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3009,9 +3009,9 @@
       "Committee of the Whole House",
       "Committee on Private Land Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281231"
+      "1828-12-31"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House, to which is committed the bill for the relief of the heirs of Philip Renaut. Mr. Blake, from the Committee on Private Land Claims, to which was referred the petition of the heirs of John Pierre Landerau, reported the following bill: A Bill For the relief of the heirs of John Pierre Landerau, deceased.",
     "pages": [
@@ -3020,8 +3020,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3033,9 +3033,9 @@
       "Committee of the Whole House",
       "Committee on the Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281231"
+      "1828-12-31"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Vinton, from Committee on the Public Lands, to which was referred the petition of Ebenezer Cooley, reported the following bill: A Bill For the relief of Ebenezer Cooley, of Louisiana.",
     "pages": [
@@ -3044,8 +3044,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3057,9 +3057,9 @@
       "Committee of the Whole House",
       "Committee of Ways and Means"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281231"
+      "1828-12-31"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. McDuffie, from the Committee of Ways and Means, to which was referred the case of Wilson and Hallett, merchants, of Mobile, reported the following bill: A Bill For the relief of Wilson and Hallett, merchants, of Mobile.",
     "pages": [
@@ -3068,8 +3068,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3081,9 +3081,9 @@
       "Committee of the Whole House",
       "Committee of Ways and Means"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18281231"
+      "1828-12-31"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. McDuffie, from the Committee of Ways and Means, to which was referred the case of Nathaniel Blake, reported the following bill: A Bill For the relief of Nathaniel Blake.",
     "pages": [
@@ -3092,8 +3092,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3105,9 +3105,9 @@
       "Committee of the Whole House",
       "Committee on the Judiciary"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290102"
+      "1829-01-02"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House on the third Monday of January, instant. Mr. P. P. Barbour, from the Committee on the Judiciary, to which the subject had been referred, reported the following bill: A Bill Concerning the Supreme Court of the United States.",
     "pages": [
@@ -3116,8 +3116,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3129,9 +3129,9 @@
       "Committee of the Whole House",
       "Committee on Military Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290102"
+      "1829-01-02"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House on the state of the Union. Mr. Drayton, from the Committee on Military Affairs, to which was referred the claim of the State of Massachusetts for services of her militia during the late war, reported the following bill: A Bill To authorize the payment of the claim of the State of Massachusetts for certain services of her militia during the late war.",
     "pages": [
@@ -3140,8 +3140,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3153,9 +3153,9 @@
       "Committee of the Whole House",
       "Committee of Ways and Means"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290102"
+      "1829-01-02"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Verplanck, from the Committee of Ways and Means, reported the following bill: A Bill For the relief of David Rogers and Sons.",
     "pages": [
@@ -3164,8 +3164,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3177,9 +3177,9 @@
       "Committee of the Whole House",
       "Committee on the Mint Establishment"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290105"
+      "1829-01-05"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House on the state of the Union. Mr. Sergeant, from the Committee on the Mint Establishment, to which the subject had been referred, reported the following bill: A Bill To provide for the support and extension of the Mint Establishment of the United States.",
     "pages": [
@@ -3188,8 +3188,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3201,9 +3201,9 @@
       "Committee of the Whole House",
       "Committee on the Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290109"
+      "1829-01-09"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Vinton, from the Committee on the Public Lands, to which had been referred the petition of James Porlier, and of A. Gardipier, et. al., reported the following bill: A Bill Confirming the claims of James Porlier and others to certain lands therein named.",
     "pages": [
@@ -3220,8 +3220,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3232,9 +3232,9 @@
     "committees": [
       "Committee on the Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290109"
+      "1829-01-09"
     ],
     "description": "Read twice, and ordered to be engrossed, and read the third time to-morrow. Mr. Vinton, from the Committee on the Public Lands, to which was referred the case of Gabriel Godfroy, and of John Baptiste Beaugraud, reported the following bill: A Bill For the relief of Gabriel Godfroy and John Baptiste Beaugraud.",
     "pages": [
@@ -3243,8 +3243,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3255,9 +3255,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290109"
+      "1829-01-09"
     ],
     "description": "Read twice, and ordered to be engrossed, and read the third time to-morrow. Mr. P. P. Barbour, from the Committee on the Judiciary, to which was referred the petition of John Rowlett, reported the following bill: A Bill Explanatory of ''An act to continue a copyright to John Rowlett.''",
     "pages": [
@@ -3266,8 +3266,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3279,9 +3279,9 @@
       "Committee of the Whole House",
       "Committee on the Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290109"
+      "1829-01-09"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House to which is committed the bill allowing persons in the Territory of Florida the right of pre-emption. Mr. Isacks, from the Committee on the Public Lands, to which the subject had been referred, reported the following bill: A Bill To amend the law allowing donations of land to certain settlers in the Territory of Arkansas.",
     "pages": [
@@ -3294,8 +3294,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3307,9 +3307,9 @@
       "Committee of the Whole House",
       "Committee of Ways and Means"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290112"
+      "1829-01-12"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House on the state of the Union. Mr. McDuffie, from the Committee of Ways and Means, to which the subject had been referred, reported the following bill: A Bill Imposing regulations on sales at auction, for the further protection of the revenue.",
     "pages": [
@@ -3330,8 +3330,8 @@
         "page": 4
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3342,9 +3342,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290112"
+      "1829-01-12"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House to which the said bill is committed. Mr. Johnson, of New York, submitted the following, which when the bill imposing regulations on sales at auction, and for the further protection of the revenue, shall be taken up for consideration, he will move as an amendment of the same:",
     "pages": [
@@ -3393,8 +3393,8 @@
         "page": 11
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3406,9 +3406,9 @@
       "Committee of the Whole House",
       "Committee of Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290112"
+      "1829-01-12"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. McCoy, from the Committee of Claims, to which was referred the case of Jacob Wilderman, reported the following bill A Bill For the relief of Jacob Wilderman.",
     "pages": [
@@ -3417,8 +3417,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3430,9 +3430,9 @@
       "Committee of the Whole House",
       "Committee on the Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290112"
+      "1829-01-12"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Shepperd, from the Committee on the Public Lands, to which the subject had been referred, reported the following bill: A Bill Relinquishing the right of the United States to certain Indian reservations in the State of Alabama.",
     "pages": [
@@ -3441,8 +3441,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3453,9 +3453,9 @@
     "committees": [
       "Committee of the Whole House on the state of the Union"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290112"
+      "1829-01-12"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House on the state of the Union. Mr. Storrs, from the Select Committee to which the subject had been referred, reported the following bill: A Bill To provide for taking the fifth census of enumeration of the inhabitants of the United States.",
     "pages": [
@@ -3512,8 +3512,8 @@
         "page": 13
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3522,9 +3522,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290221"
+      "1829-02-21"
     ],
     "description": "Ordered to be printed. Mr. Storrs proposed the following Amendment: Add to the bill the following:",
     "pages": [
@@ -3533,8 +3533,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3546,9 +3546,9 @@
       "Committee of the Whole House",
       "Committee on the Judiciary"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290113"
+      "1829-01-13"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Bell, from the Committee on the Judiciary, to which was referred the case of Francis Tennille, reported the following bill: A Bill For the relief of the heirs of Francis Tennille, deceased.",
     "pages": [
@@ -3557,8 +3557,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3570,9 +3570,9 @@
       "Committee of the Whole House",
       "Committee on the Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290114"
+      "1829-01-14"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Hunt, from the Committee on the Public Lands, to which was referred the case of Amos Howe, reported the following bill: A Bill For the relief of Amos Howe and others.",
     "pages": [
@@ -3585,8 +3585,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3598,9 +3598,9 @@
       "Committee of the Whole House",
       "Committee of Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290114"
+      "1829-01-14"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Clark, of New York, from the Committee of Claims, to which was referred the case of Hubert La Croix, reported the following bill: A Bill For the relief of Hubert la Croix.",
     "pages": [
@@ -3609,8 +3609,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3622,9 +3622,9 @@
       "Committee of the Whole House on the state of the Union",
       "Committee on Retrenchment"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290115"
+      "1829-01-15"
     ],
     "description": "Read twice, and committed to the Committee of the whole House on the state of the Union. Mr. Hamilton, from the Committee on Retrenchment, to which the subject had been referred, reported the following bill: A Bill To amend the several acts regulating the intercourse with the Indian tribes.",
     "pages": [
@@ -3637,8 +3637,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3650,9 +3650,9 @@
       "Committee of the Whole House on the state of the Union",
       "Committee on Retrenchment"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290115"
+      "1829-01-15"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Hamilton, from the Committee on Retrenchment, to which the subject had been referred, reported the following bill: A Bill To provide for the selection of assistant and other Clerks of the Senate and House of Representatives.",
     "pages": [
@@ -3665,8 +3665,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3678,9 +3678,9 @@
       "Committee of the Whole House",
       "Committee on Roads and Canals"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290115"
+      "1829-01-15"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Mercer, from the Committee on Roads and Canals, to which the subject had been referred, reported the following bill: A Bill To amend the charter of the Chesapeake and Ohio Canal Company, and for other purposes.",
     "pages": [
@@ -3697,8 +3697,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3709,9 +3709,9 @@
     "committees": [
       "Committee on Roads and Canals"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290115"
+      "1829-01-15"
     ],
     "description": "Mr. Mercer, from the Committee on Roads and Canals, submitted the following as Amendments To the ''bill to amend the charter of the Chesapeake and Ohio Canal Company, and for other purposes.''",
     "pages": [
@@ -3720,8 +3720,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3732,9 +3732,9 @@
     "committees": [
       "Committee for the District of Columbia"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290116"
+      "1829-01-16"
     ],
     "description": "Read twice, and ordered to be engrossed, and read the third time to-morrow. Mr. Alexander, from the Committee for the District of Columbia, to which the subject had been referred, reported the following bill: A Bill To exempt the fire companies of Washington, Alexandria, and Georgetown from military duty, and for other purposes.",
     "pages": [
@@ -3747,8 +3747,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3759,9 +3759,9 @@
     "committees": [
       "Committee on the Territories"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290116"
+      "1829-01-16"
     ],
     "description": "Read twice, and ordered to be engrossed and read the third time to-morrow. Mr. Strong, from the Committee on the Territories, to which was referred the case of Thomas f. Cornell, reported the following bill: A Bill For the relief of Thomas F. Cornell.",
     "pages": [
@@ -3770,8 +3770,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3783,9 +3783,9 @@
       "Committee of the Whole House",
       "Committee on Naval Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290116"
+      "1829-01-16"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Miller, from the Committee on Naval Affairs, to which was referred the petition of Alexander Claxton, reported the following bill: A Bill For the relief of Alexander Claxton.",
     "pages": [
@@ -3798,8 +3798,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3810,9 +3810,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290116"
+      "1829-01-16"
     ],
     "description": "Read twice, and laid upon the table. Mr. P. P. Barbour, from the Committee on the Judiciary, to which the subject had been referred, reported the following bill: A Bill In addition to the act, entitled ''An Act to provide for the sale of lands conveyed to the United States, in certain cases, and for other purposes,'' passed the twenty-sixth day of May, one thousand eight hundred and twenty-four.",
     "pages": [
@@ -3825,8 +3825,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3838,9 +3838,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee of Ways and Means"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290116"
+      "1829-01-16"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. McDuffie, from the Committee of Ways and Means, to which was referred the case of A. J. Lewis, reported the following bill: A Bill To exempt merchandise imported under certain circumstances from the operation of the act of the nineteenth May, eighteen hundred and twenty-eight, entitled, ''An act in alteration of the several acts imposing duties on imports.''",
     "pages": [
@@ -3853,8 +3853,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3866,9 +3866,9 @@
       "Committee of the Whole House on the state of the Union",
       "Committee on Retrenchment"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290116"
+      "1829-01-16"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Wickliffe, from the Committee on Retrenchment, to which the subject had been referred, reported the following bill: A Bill To amend the several acts regulating the publishing of the acts of Congress.",
     "pages": [
@@ -3881,8 +3881,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3891,9 +3891,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290116"
+      "1829-01-16"
     ],
     "description": "Mr. Richardson submitted the following, which when the ''bill to amend the several acts regulating the publishing the acts of Congress'' shall be taken up for consideration, he will move as an Amendment. Strike out the proviso in that bill, and add the following:",
     "pages": [
@@ -3902,8 +3902,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3915,9 +3915,9 @@
       "Committee of the Whole House on the state of the Union",
       "Committee on Retrenchment"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290116"
+      "1829-01-16"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Hamilton, from the Committee on Retrenchment, to which the subject had been referred, reported the following bill: A Bill Directing the mode of printing and distributing the acts of Congress, and other public documents.",
     "pages": [
@@ -3930,8 +3930,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3943,9 +3943,9 @@
       "Committee of the Whole House",
       "Committee of Ways and Means"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290119"
+      "1829-01-19"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Dwight, from the Committee of Ways and Means, to which was referred the petition of J. W. Hollister, reported the following bill: A Bill For the relief of J. W. Hollister and others.",
     "pages": [
@@ -3954,8 +3954,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3967,9 +3967,9 @@
       "Committee of the Whole House",
       "Committee on Commerce"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290119"
+      "1829-01-19"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Cambreleng, from the Committee on Commerce, to which was referred the case of Andrew Wilson, reported the following bill: A Bill For the relief of Andrew Wilson.",
     "pages": [
@@ -3978,8 +3978,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -3991,9 +3991,9 @@
       "Committee of the Whole House on the state of the Union",
       "Committee of Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290119"
+      "1829-01-19"
     ],
     "description": "Read twice, and committed to the committee of the Whole House on the state of the Union. Mr. Clark, of New York, from the Committee of Claims, to which had been referred the petition of Medare Conture, reported the following bill: A Bill For the relief of the legal representatives of John Baptiste Conture, deceased.",
     "pages": [
@@ -4006,8 +4006,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4019,9 +4019,9 @@
       "Committee of the Whole House",
       "Committee of Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290119"
+      "1829-01-19"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Whittlesey, from the Committee of Claims, to which was referred the case of Cread Glover, reported the following bill: A Bill For the relief of Cread Glover.",
     "pages": [
@@ -4030,8 +4030,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4043,9 +4043,9 @@
       "Committee of the Whole House",
       "Committee on Agriculture"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290119"
+      "1829-01-19"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Martindale, from the Committee on Agriculture, to which the subject had been referred, reported the following bill: A Bill To authorize the Secretary of War to sell the public land at Greenbush, in the State of New York, for the purposes therein mentioned.",
     "pages": [
@@ -4062,8 +4062,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4075,9 +4075,9 @@
       "Committee of the Whole House",
       "Committee on the Territories"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290120"
+      "1829-01-20"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Strong, from the Committee on the Territories, to which the subject was referred, reported the following bill: A Bill To continue the western boundary line of Arkansas south, to the southern limits of the Territory.",
     "pages": [
@@ -4086,8 +4086,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4099,9 +4099,9 @@
       "Committee of the Whole House on the state of the Union",
       "Committee on Military Pensions"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290120"
+      "1829-01-20"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Lecompte, from the Committee on Military Pensions, to which was referred the case of Major John Cunningham, reported the following bill: A Bill For the relief of Major John Cunningham.",
     "pages": [
@@ -4110,8 +4110,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4123,9 +4123,9 @@
       "Committee of the Whole House",
       "Committee on Foreign Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290121"
+      "1829-01-21"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Everett, from the Committee on Foreign Affairs, to which the subject had been referred, reported the following bill: A Bill For the relief of the inhabitants of the Territory of Florida.",
     "pages": [
@@ -4138,8 +4138,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4151,9 +4151,9 @@
       "Committee of the Whole House",
       "Committee on the Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290121"
+      "1829-01-21"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Duncan, from the Committee on the Public Lands, to which was referred the petition of the Trustees of Shawneetown, reported the following bill: A Bill For the relief of the citizens of Shawneetown",
     "pages": [
@@ -4162,8 +4162,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4175,9 +4175,9 @@
       "Committee of the Whole House",
       "Committee on Commerce"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290121"
+      "1829-01-21"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Cambreleng, from the Committee on Commerce, to which was referred the petition of Thomas Shiverick, reported the following bill: A Bill For the relief of Thomas Shiverick.",
     "pages": [
@@ -4186,8 +4186,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4199,9 +4199,9 @@
       "Committee of the Whole House on the state of the Union",
       "Committee of Ways and Means"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290121"
+      "1829-01-21"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. McDuffie, from the Committee of Ways and Means, reported the following bill: A Bill Making additional appropriations for the military service of the United States for the year one thousand eight hundred and twenty-nine.",
     "pages": [
@@ -4222,8 +4222,8 @@
         "page": 4
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4234,9 +4234,9 @@
     "committees": [
       "Committee on Finance"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290223"
+      "1829-02-23"
     ],
     "description": "Read twice, and referred to the Committee on Finance. Making additional appropriations for the Military Service of the United States, for the year one thousand eight hundred and twenty-nine.",
     "pages": [
@@ -4261,8 +4261,8 @@
         "page": 5
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4274,9 +4274,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee on Retrenchment"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290122"
+      "1829-01-22"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Hamilton, from the Committee on Retrenchment, reported the following bill: A Bill To regulate the allowance of forage to officers of the Army.",
     "pages": [
@@ -4285,8 +4285,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4298,9 +4298,9 @@
       "Committee of the Whole House",
       "Committee on the Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290122"
+      "1829-01-22"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Jennings, from the Committee on the Public Lands, to which the subject had been referred, reported the following bill: A Bill Supplemental to an act, entitled ''An act to authorize the State of Indiana to open a canal through the public lands, to connect the navigation of the rivers Wabash and the Miami of Lake Erie.",
     "pages": [
@@ -4309,8 +4309,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4322,9 +4322,9 @@
       "Committee of the Whole House",
       "Committee on Foreign Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290123"
+      "1829-01-23"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Everett, from the Committee on Foreign Affairs, to which was referred the case of Samuel Sitgreaves, reported the following bill: A Bill For the settlement of the accounts of Samuel Sitgreaves.",
     "pages": [
@@ -4333,8 +4333,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4346,9 +4346,9 @@
       "Committee of the Whole House on the state of the Union",
       "Committee on Retrenchment"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290123"
+      "1829-01-23"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Rivers, from the Committee on Retrenchment, reported the following bill: A Bill To prohibit the use of secret service money in time of peace, and for other purposes.",
     "pages": [
@@ -4361,8 +4361,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4374,9 +4374,9 @@
       "Committee of the Whole House",
       "Committee on Revolutionary Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290124"
+      "1829-01-24"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Wingate, from the Committee on Revolutionary Claims, to which had been referred the petition of George Concklin and William Warner, executors of Joseph Falconer, reported the following bill: A Bill For the relief of the heirs or legal representatives of Joseph Falconer, deceased.",
     "pages": [
@@ -4389,8 +4389,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4401,9 +4401,9 @@
     "committees": [
       "Committee on the Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290126"
+      "1829-01-26"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Isacks, from the Committee on the Public Lands, to which was referred the case of Nancy Dolan, reported the following bill: A Bill For the relief of Nancy Dolan.",
     "pages": [
@@ -4412,8 +4412,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4425,9 +4425,9 @@
       "Committee of the Whole House",
       "Committee on Commerce"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290128"
+      "1829-01-28"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Newton, from the Committee on Commerce, reported the following bill: A Bill Making appropriations for building light-houses and beacons, and placing buoys, and for improving harbors and directing surveys.",
     "pages": [
@@ -4460,8 +4460,8 @@
         "page": 7
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4472,9 +4472,9 @@
     "committees": [
       "Committee on Commerce"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290224"
+      "1829-02-24"
     ],
     "description": "Read twice, and referred to the Committee on Commerce. An Act Making appropriations for building light-houses and beacons, and placing buoys, and for improving harbors, and directing surveys.",
     "pages": [
@@ -4515,8 +4515,8 @@
         "page": 9
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4528,9 +4528,9 @@
       "Committee of the Whole House",
       "Committee on the Post Office and Post Roads"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290128"
+      "1829-01-28"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. M'Kean, from the Committee on the Post Office and Post Roads, to which had been referred the case of Johnson goodwill, reported the following bill: A Bill For the relief of Johnson Goodwill.",
     "pages": [
@@ -4539,8 +4539,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4552,9 +4552,9 @@
       "Committee of the Whole House",
       "Committee of Ways and Means"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290128"
+      "1829-01-28"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. McDuffie, from the Committee of Ways and Means, to which was referred the case of Henry H. Tuckerman, reported the following bill: A Bill For the relief of Henry H. Tuckerman.",
     "pages": [
@@ -4563,8 +4563,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4576,9 +4576,9 @@
       "Committee of the Whole House on the state of the Union",
       "Committee of Ways and Means"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290128"
+      "1829-01-28"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. McDuffie, from the Committee of Ways and Means, reported the following bill: A Bill Making additional appropriations for certain fortifications of the United States for the year one thousand eight hundred and twenty-nine.",
     "pages": [
@@ -4591,8 +4591,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4603,9 +4603,9 @@
     "committees": [
       "Committee on Finance"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290223"
+      "1829-02-23"
     ],
     "description": "Read twice, and referred to the Committee on Finance. An Act Making additional appropriations for certain fortifications of the United States, for the year one thousand eight hundred and twenty-nine.",
     "pages": [
@@ -4618,8 +4618,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4631,9 +4631,9 @@
       "Committee of the Whole House",
       "Committee on Commerce"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290128"
+      "1829-01-28"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Cambreleng, from the Committee on Commerce, reported the following bill: A Bill To amend an act, entitled ''An act to prohibit the importation of slaves into any port or place within the jurisdiction of the United States, from and after the first day of January, in the year of our Lord one thousand eight hundred and eight,'' passed second of March, one thousand eight hundred and seven.",
     "pages": [
@@ -4646,8 +4646,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4659,9 +4659,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee on Retrenchment"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290128"
+      "1829-01-28"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Hamilton from the Committee on Retrenchment, reported the following bill: A Bill To regulate the compensation of the Members of Congress, to establish a uniform rule for the computation of their mileage, and for other purposes",
     "pages": [
@@ -4678,8 +4678,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4691,9 +4691,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee on Military Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290129"
+      "1829-01-29"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Vance, from the Committee on Military Affairs, reported the following bill: A Bill To abolish the office of the Major General, and to regulate brevet rank in the Army of the United States.",
     "pages": [
@@ -4706,8 +4706,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4719,9 +4719,9 @@
       "Committee of the Whole House",
       "Committee for the District of Columbia"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290129"
+      "1829-01-29"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Alexander, from the Committee for the District of Columbia, to which the subject had been referred, reported the following bill: A Bill Concerning the importation of slaves into the District of Columbia, and for other purposes.",
     "pages": [
@@ -4746,8 +4746,8 @@
         "page": 5
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4759,9 +4759,9 @@
       "Committee of the Whole House",
       "Committee on the Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290129"
+      "1829-01-29"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Isacks, from the Committee on the Public Lands, to which the subject had been referred, reported the following bill: A Bill Further to extend the laws providing for the extinguishment of the debt due to the United States by the purchasers of public lands.",
     "pages": [
@@ -4770,8 +4770,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4783,9 +4783,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee on Retrenchment"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290130"
+      "1829-01-30"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Hamilton, from the Committee on Retrenchment, reported the following bill: A Bill To organize a board for the settlement of claims against the Government, to increase the duties of the Attorney General, and for other purposes.",
     "pages": [
@@ -4806,8 +4806,8 @@
         "page": 4
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4819,9 +4819,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee on Military Pension"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290130"
+      "1829-01-30"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Long, from the Committee on Military Pensions, to which the subject had been referred, reported the following bill: A Bill For the relief of surviving widows of certain commissioned and non-commissioned officers, musicians, and privates, in the Army of the Revolution.",
     "pages": [
@@ -4834,8 +4834,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4847,9 +4847,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee on Naval Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290131"
+      "1829-01-31"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Miller, from the Committee on Naval Affairs, to which the subject had been referred, reported the following bill: A Bill For the relief of the Navy hospital fund.",
     "pages": [
@@ -4858,8 +4858,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4871,9 +4871,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee on Indian Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290202"
+      "1829-02-02"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Carson, from the Committee on Indian Affairs, to which the subject had been referred, reported the following bill: A Bill Authorizing the President of the United States to extinguish the title to certain Indian reservations of land within the State of North Carolina.",
     "pages": [
@@ -4882,8 +4882,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4894,9 +4894,9 @@
     "committees": [
       "Committee on the Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290202"
+      "1829-02-02"
     ],
     "description": "Read twice, and ordered to be engrossed, and read the third time to-morrow. Mr. Isacks, from the Committee on the Public Lands, to which was referred certain resolutions of the Trustees of the University of Michigan, reported the following bill: A Bill To authorize the exchange of certain lots of land between the University of Michigan Territory and Martin Baum and others.",
     "pages": [
@@ -4909,8 +4909,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4921,9 +4921,9 @@
     "committees": [
       "Committee of the Whole House on the State of the Union"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290202"
+      "1829-02-02"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Van Rensselaer, from the Select Committee to which was referred the petition of the heirs of Robert Fulton, deceased, reported the following bill: A Bill For the relief of the orphan children of the late Robert Fulton.",
     "pages": [
@@ -4932,8 +4932,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4945,9 +4945,9 @@
       "Committee of the Whole House",
       "Committee on the Post Office and Post Roads"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290203"
+      "1829-02-03"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. M'Kean, from the Committee on the Post Office and Post Roads, reported the following bill: A Bill Amendatory to the act to reduce into one the several acts establishing the regulating the Post Office establishment.",
     "pages": [
@@ -4956,8 +4956,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4969,9 +4969,9 @@
       "Committee of the Whole House",
       "Committee on Military Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290203"
+      "1829-02-03"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Buck, from the Committee on Military Affairs, to which was referred the petition of James D. Cobb, reported the following bill: A Bill For the relief of James D. Cobb.",
     "pages": [
@@ -4980,8 +4980,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -4993,9 +4993,9 @@
       "Committee of the Whole House",
       "Committee on Commerce"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290204"
+      "1829-02-04"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. De Graff, from the Committee on Commerce, to which the subject had been refereed, reported the following bill: A Bill For the relief of sundry owners of vessels sunk for the defence of Baltimore.",
     "pages": [
@@ -5008,8 +5008,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5021,9 +5021,9 @@
       "Committee of the Whole House",
       "Committee on the Public Buildings"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290204"
+      "1829-02-04"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Van Rensselaer, from the Committee on the Public Buildings, to which the subject had been referred, reported the following bill: A Bill Making appropriations for the Public Buildings and other purposes.",
     "pages": [
@@ -5036,8 +5036,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5048,9 +5048,9 @@
     "committees": [
       "Committee on the District of Columbia"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290226"
+      "1829-02-26"
     ],
     "description": "Read twice, and referred to the Committee on the District of Columbia. An Act Making appropriations for the Public Buildings and other purposes",
     "pages": [
@@ -5063,8 +5063,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5076,9 +5076,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee on the Militia"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290204"
+      "1829-02-04"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Thompson, of Georgia, from the Committee on the Militia, reported the following bill: A Bill To provide more effectually for the national defence, by organizing, arming, and establishing a uniform militia throughout the United States, and to provide for the discipline thereof.",
     "pages": [
@@ -5159,8 +5159,8 @@
         "page": 19
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5172,9 +5172,9 @@
       "Committee of the Whole House",
       "Committee on Commerce"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290205"
+      "1829-02-05"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House to which is committed the bill [No. 379] for the relief of Andrew Wilson. Mr. Cambreleng, from the Committee on Commerce, reported the following bill: A Bill For the relief of Henry Dickins and others.",
     "pages": [
@@ -5183,8 +5183,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5195,9 +5195,9 @@
     "committees": [
       "Committee for the District of Columbia"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290205"
+      "1829-02-05"
     ],
     "description": "Read twice, and ordered to be engrossed and read the third time to-morrow. Mr. Ingersoll, from the Committee for the District of Columbia, reported the following bill: A Bill To suppress Lotteries and prevent the sale of Lottery ticket within the District of Columbia.",
     "pages": [
@@ -5210,8 +5210,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5223,9 +5223,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee on Roads and Canals"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290205"
+      "1829-02-05"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Mercer, from the Committee on Roads and Canals, to which the subject had been referred, reported the following bill: A Bill Authorizing a subscription to the stock of the Chesapeake and Delaware Canal Company.",
     "pages": [
@@ -5234,8 +5234,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5247,9 +5247,9 @@
       "Committee of the Whole House",
       "Committee on Roads and Canals"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290205"
+      "1829-02-05"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Stewart, from the Committee on Roads and Canals, reported the following bill: A Bill Authorizing the construction of a road from the mouth of Cache or White river to Helena, on the Mississippi.",
     "pages": [
@@ -5258,8 +5258,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5271,9 +5271,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee on Retrenchment"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290205"
+      "1829-02-05"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Hamilton, from the Committee on Retrenchment, reported the following bill: A Bill Providing for the reduction of the interest on the United States' six per cent. stocks, and for the redemption thereof.",
     "pages": [
@@ -5294,8 +5294,8 @@
         "page": 4
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5307,9 +5307,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee of Ways and Means"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290205"
+      "1829-02-05"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. McDuffie, from the Committee of Ways and Means, reported the following bill: A Bill Making additional appropriations for the support of the Navy of the United States for the year one thousand eight hundred and twenty-nine.",
     "pages": [
@@ -5330,8 +5330,8 @@
         "page": 4
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5342,9 +5342,9 @@
     "committees": [
       "Committee on Finance"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290223"
+      "1829-02-23"
     ],
     "description": "Read twice, and referred to the Committee on Finance. An Act Making additional appropriations for the support of the Navy of the United States, for the year one thousand eight hundred and twenty-nine.",
     "pages": [
@@ -5365,8 +5365,8 @@
         "page": 4
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5378,9 +5378,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee of Ways and Means"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290205"
+      "1829-02-05"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. McDuffie, from the Committee of Ways and Means, reported the following bill: A Bill Making additional appropriations for the payment of the Revolutionary and other pensioners of the United States for the year one thousand eight hundred and twenty-nine.",
     "pages": [
@@ -5389,8 +5389,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5401,9 +5401,9 @@
     "committees": [
       "Committee on Pensions"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290223"
+      "1829-02-23"
     ],
     "description": "Read twice, and referred to the Committee on Pensions. An Act Making additional appropriations for the payment of the Revolutionary and other pensioners of the United States, for the year one thousand eight hundred and twenty-nine.",
     "pages": [
@@ -5416,8 +5416,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5428,9 +5428,9 @@
     "committees": [
       "Committee on Commerce"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290207"
+      "1829-02-07"
     ],
     "description": "Read twice, and ordered to be engrossed, and read the third time on Monday next. Mr. Newton, from the Committee on Commerce, to which the subject had been referred, reported the following bill: A Bill To authorize Surveyors, under the direction of the Secretary of the Treasury, to enrol and license ships or vessels to be employed in the coasting trade and fisheries.",
     "pages": [
@@ -5439,8 +5439,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5451,9 +5451,9 @@
     "committees": [
       "Committee on Territories"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290207"
+      "1829-02-07"
     ],
     "description": "Read twice, and ordered to be engrossed and read the third time on Monday next. Mr. Strong, from the Committee on the Territories, to which the subject that been referred, reported the following bill: A Bill To amend an act, entitled ''An act to allow the citizens of the Territory of Michigan to elect the members of their Legislative Council, and for other purposes,'' Approved 29th January, 1827.",
     "pages": [
@@ -5470,8 +5470,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5483,9 +5483,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee on Military Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290207"
+      "1829-02-07"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Drayton, from the Committee on Military Affairs, reported the following bill: A Bill Making appropriations for the erection and completion of certain Forts, Barracks, and Quarters; for the completion of the Military Road from the Matanawcook river to Mars Hill, and for other purposes.",
     "pages": [
@@ -5502,8 +5502,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5514,9 +5514,9 @@
     "committees": [
       "Committee on Military Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290224"
+      "1829-02-24"
     ],
     "description": "Read twice, and referred to the Committee on Military Affairs. An Act Making appropriations for the erection and completion of certain Barracks, and Quarters, and for other purposes.",
     "pages": [
@@ -5529,8 +5529,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5542,9 +5542,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee on Military Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290207"
+      "1829-02-07"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Drayton, from the Committee on Military Affairs, reported the following bill: A Bill For the protection of the people of Arkansas, and of the States bordering upon the Indian settlements towards Mexico and the Rocky Mountains.",
     "pages": [
@@ -5561,8 +5561,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5574,9 +5574,9 @@
       "Committee of the Whole House",
       "Committee on the Post Office and Post Roads"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290207"
+      "1829-02-07"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Yancey, from the Committee on the Post Office and Post Roads, to which the subject had been referred, reported the following bill: A Bill Appropriating a sum of money for the repair of the post road between Jackson and Columbus, in the State of Mississippi.",
     "pages": [
@@ -5585,8 +5585,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5598,9 +5598,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee on Retrenchment"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290207"
+      "1829-02-07"
     ],
     "description": "Read twice, and committed to the Committee of the whole House on the state of the Union, to which is committed the bill [H. R. No. 404] to organize a Board for the settlement of claims against the Government, to increase the duties of the Attorney General, and for other purposes. Mr. Hamilton, from the Committee on Retrenchment, reported the following bill: A Bill To abolish the offices of Second Comptroller and that of one of the Auditors of the Ware Department, and to regulate the duties of certain other offices.",
     "pages": [
@@ -5613,8 +5613,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5626,9 +5626,9 @@
       "Committee of the Whole House",
       "Committee on Foreign Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290210"
+      "1829-02-10"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Everett, from the Committee on Foreign Affairs, to which was referred the case of Alexander Scott, reported the following bill: A Bill For the relief of Alexander Scott.",
     "pages": [
@@ -5637,8 +5637,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5649,9 +5649,9 @@
     "committees": [
       "Committee on Military Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290211"
+      "1829-02-11"
     ],
     "description": "Read, and postponed until Monday next. Mr. Drayton, from the Committee on Military Affairs, to which had been referred the petition of William Jacocks, reported the following bill: A Bill For the relief of William Jacocks.",
     "pages": [
@@ -5660,8 +5660,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5672,9 +5672,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290211"
+      "1829-02-11"
     ],
     "description": "Read twice, and ordered to be engrossed, and read the third time to-morrow. Mr. P. P. Banbour, from the Committee on the Judiciary, to which the subject had been referred, reported the following bill: A Bill Changing the time of holding the terms of the District Court of the United States for the State of Mississippi.",
     "pages": [
@@ -5683,8 +5683,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5696,9 +5696,9 @@
       "Committee of the Whole House",
       "Committee on Foreign Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290211"
+      "1829-02-11"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Everett, from the Committee on Foreign Affairs, to which was referred the petition of Bowie and Kurtz, and others, owners of the ship Alleghany, reported the following bill: A Bill For the relief of the owners of the ship Alleghany.",
     "pages": [
@@ -5707,8 +5707,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5720,9 +5720,9 @@
       "Committee of the Whole House",
       "Committee of Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290211"
+      "1829-02-11"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Whittlesey, from the Committee of Claims, to which the subject had been referred, reported the following bill: A Bill For the relief of the Churchwardens of Elizabeth City parish, in the State of Virginia.",
     "pages": [
@@ -5731,8 +5731,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5744,9 +5744,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee of Ways and Means"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290211"
+      "1829-02-11"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Dwigth, from the Committee of Ways and Means, reported the following bill: A Bill Making additional appropriations for the support of Government for the year one thousand eight hundred and twenty-nine.",
     "pages": [
@@ -5835,8 +5835,8 @@
         "page": 21
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5847,9 +5847,9 @@
     "committees": [
       "Committee on Finance"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290223"
+      "1829-02-23"
     ],
     "description": "Read twice, and referred to the Committee on Finance. An Act Making additional appropriations for the support of Government for the year one thousand eight hundred and twenty-nine.",
     "pages": [
@@ -5942,8 +5942,8 @@
         "page": 22
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5955,9 +5955,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee of Ways and Means"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290212"
+      "1829-02-12"
     ],
     "description": "Read twice, and committed to the Committee of the whole House on the state of the Union. Mr. McDuffie, from the Committee of Ways and Means, reported the following bill: A Bill Making appropriations for continuing the road from Detroit to Chicago, for completing and repairing piers, for the improvement of certain harbors, and for making examinations and surveys.",
     "pages": [
@@ -5974,8 +5974,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -5986,9 +5986,9 @@
     "committees": [
       "Committee on Commerce"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290223"
+      "1829-02-23"
     ],
     "description": "Read twice, and referred to the Committee on Commerce. An Act Making appropriations for continuing the road from Detroit to Chicago, for completing and repairing piers, for the improvement of certain harbors, and for making examinations and surveys.",
     "pages": [
@@ -6005,8 +6005,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6017,9 +6017,9 @@
     "committees": [
       "Committee on Revolutionary Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290212"
+      "1829-02-12"
     ],
     "description": "Read twice, and ordered to be engrossed, and read the third time to morrow. Mr. Wolf, from the Committee on Revolutionary Claims, to which was referred the petition of Judah Alden, reported the following bill: A Bill For the relief of Judah Alden.",
     "pages": [
@@ -6028,8 +6028,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6040,9 +6040,9 @@
     "committees": [
       "Committee of the Whole House on the State of the Union"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290212"
+      "1829-02-12"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Rivas, from the Select Committee to which was referred the case of James Monroe, reported the following bill: A Bill For the relief of James Monroe.",
     "pages": [
@@ -6051,8 +6051,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6064,9 +6064,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee of Ways and Means"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290213"
+      "1829-02-13"
     ],
     "description": "Read twice, and committed to the Committee of the whole House on the state of the Union. Mr. McDuffie, from the Committee of Ways and Means, reported the following bill: A Bill Making appropriations for the Indian Department, for the year one thousand eight hundred and twenty-nine.",
     "pages": [
@@ -6079,8 +6079,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6091,9 +6091,9 @@
     "committees": [
       "Committee on Indian Affair"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290223"
+      "1829-02-23"
     ],
     "description": "Read twice, and referred to the Committee on Indian Affairs. An Act Making appropriations for the Indian Department, for the year one thousand eight hundred and twenty-nine.",
     "pages": [
@@ -6106,8 +6106,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6119,9 +6119,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee of Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290213"
+      "1829-02-13"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Clarke, of New York, from the Committee of Claims, reported the following bill: A Bill For the relief of Gabriel Godfroy.",
     "pages": [
@@ -6134,8 +6134,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6147,9 +6147,9 @@
       "Committee of the Whole House",
       "Committee of Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290213"
+      "1829-02-13"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Clark, of New York, from the Committee of Claims, reported the following bill: A Bill For the relief of John Baptiste Jerome.",
     "pages": [
@@ -6162,8 +6162,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6175,9 +6175,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee on Military Pensions"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290313"
+      "1829-03-13"
     ],
     "description": "Read twice, and committed to the Committee of the whole House on the state of the Union. Mr. Forward, from the Committee on Military Pensions, reported the following bill: A Bill For the relief of sundry revolutionary and other officers and soldiers.",
     "pages": [
@@ -6194,8 +6194,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6207,9 +6207,9 @@
       "Committee on Pensions",
       "Committee on Military Pensions"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290224"
+      "1829-02-24"
     ],
     "description": "Read twice, and referred to the Committee on Pensions. Mr. Forward, from the Committee on Military Pensions, reported the following bill: A Bill For the relief of sundry revolutionary and other officers and soldiers.",
     "pages": [
@@ -6230,8 +6230,8 @@
         "page": 4
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6242,9 +6242,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290213"
+      "1829-02-13"
     ],
     "description": "Read, and laid upon the table. Mr. P. P. Barbour, from the Committee on the Judiciary, reported the following bill: A Bill Authorizing the appointment of a Marshal for the Northern District of Alabama.",
     "pages": [
@@ -6253,8 +6253,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6265,9 +6265,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290216"
+      "1829-02-16"
     ],
     "description": "Read twice, and ordered to be engrossed, and read the third time to morrow. Mr. P. P. Barbour, from the Committee on the Judiciary, reported the following bill: A Bill For the relief of Adolph Heilbronn and Samuel B. Barrell.",
     "pages": [
@@ -6280,8 +6280,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6292,9 +6292,9 @@
     "committees": [
       "Committee on Private Land Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290216"
+      "1829-02-16"
     ],
     "description": "Read twice, and ordered to be engrossed, and read the third time to-morrow. Mr. Buckner, from the Committee on Private Land Claims, to which was referred the case of Jacob Remf, reported the following bill: A Bill For the relief of Jacob Remf, otherwise called Jacob Kemf.",
     "pages": [
@@ -6307,8 +6307,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6320,9 +6320,9 @@
       "Committee of the Whole House",
       "Committee on Naval Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290217"
+      "1829-02-17"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Hoffman, from the Committee on Naval Affairs, to which was referred the case of Henry Eckford, reported the following bill: A Bill For the relief of Henry Eckford.",
     "pages": [
@@ -6335,8 +6335,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6348,9 +6348,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee on Naval Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290317"
+      "1829-03-17"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Hoffman, from the Committee on Naval Affairs, to which the subject had been referred, reported the following bill: A Bill Respecting the Privateer Pension Fund, and the pensions of invalids and widows chargeable thereon.",
     "pages": [
@@ -6367,8 +6367,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6380,9 +6380,9 @@
       "Committee of the Whole House",
       "Committee on the Judiciary"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290217"
+      "1829-02-17"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Storrs, from the Committee on the Judiciary, to which was referred the case of the representatives of Eratus Granger, reported the following bill: A Bill For the relief of the representatives of Erastus Granger, deceased.",
     "pages": [
@@ -6391,8 +6391,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6404,9 +6404,9 @@
       "Committee of the Whole House",
       "Committee on Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290217"
+      "1829-02-17"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Gurley, from the Committee on Public Lands, to which was referred the case of Josiah Barker, reported the following bill: A Bill For the relief of Josiah Barker, of Louisiana.",
     "pages": [
@@ -6415,8 +6415,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6428,9 +6428,9 @@
       "Committee of the Whole House",
       "Committee on Naval Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290217"
+      "1829-02-17"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House to which is committed the bill for the relief of Amos Binney. Mr. Bartlett, from the Committee on Naval Affairs, to which was referred the case of William P. Zantzinger, reported the following bill: A Bill For the relief of William P. Zantzinger.",
     "pages": [
@@ -6439,8 +6439,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6452,9 +6452,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee on Indian Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290218"
+      "1829-02-18"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. McLean, from the Committee on Indian Affairs, to which the subject had been referred, reported the following bill: A Bill To aid the various Indian tribes in their removal to the country west of Mississippi.",
     "pages": [
@@ -6463,8 +6463,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6476,9 +6476,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee on Private Land Claims"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290218"
+      "1829-02-18"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Buckner, from the Committee on Private Land Claims, to which the subject had been referred, reported the following bill: A Bill To quiet the titles of certain purchasers of lands between the lines of Ludlow and Roberts, in the State of Ohio.",
     "pages": [
@@ -6491,8 +6491,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6504,9 +6504,9 @@
       "Committee of the Whole House",
       "Committee on Military Pensions"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290218"
+      "1829-02-18"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Lawrence, from the Committee on Military Pensions, to which was referred the case of James Royal, reported the following bill: A Bill For the relief of James Royal.",
     "pages": [
@@ -6515,8 +6515,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6527,9 +6527,9 @@
     "committees": [
       "Committee on Military Pensions"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290220"
+      "1829-02-20"
     ],
     "description": "Read twice, and postponed until Tuesday next. Mr. Markell, from the Committee on Military Pensions, to which was referred the case of James Soyers, reported the following bill: A Bill To amend ''An act for the relief of certain surviving officers and soldiers of the army of the Revolution.''",
     "pages": [
@@ -6538,8 +6538,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6551,9 +6551,9 @@
       "Committee of the Whole House",
       "Committee on Military Pensions"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290220"
+      "1829-02-20"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Forward, from the Committee on Military Pensions, reported the following bill: A Bill For the relief of General Simon Kenton.",
     "pages": [
@@ -6562,8 +6562,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6574,9 +6574,9 @@
     "committees": [
       "Committee on Commerce"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290223"
+      "1829-02-23"
     ],
     "description": "Read twice, and ordered to be engrossed, and read the third time to-morrow. Mr. Cambreleng, from the Committee on Commerce, reported the following bill: A Bill To repeal an act entitled ''An act to establish the District of Blakely.''",
     "pages": [
@@ -6585,8 +6585,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6598,9 +6598,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee on the Public Lands"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290224"
+      "1829-02-24"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Isacks, from the Committee on the Public Lands, to which the subject had been referred, reported the following bill: A Bill Granting to the State of Louisiana a quantity of the public lands within the same, for the construction of a canal between the Mississippi river and Lake Ponchartrain.",
     "pages": [
@@ -6621,8 +6621,8 @@
         "page": 4
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6634,9 +6634,9 @@
       "Committee of the Whole House",
       "Committee on Roads and Canals"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290224"
+      "1829-02-24"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Mercer, from the Committee on Roads and Canals, to which the subject had been referred, reported the following bill: A Bill Authorizing a subscription to the stock of the South Carolina Canal and Rail Road Company.",
     "pages": [
@@ -6649,8 +6649,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6661,9 +6661,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290225"
+      "1829-02-25"
     ],
     "description": "Read twice, and ordered to be engrossed, and read the third time to morrow. Mr. Storrs, from the Committee on the Judiciary, to which was referred the case of William Hayman and William C. Lipscomb, reported the following bill: A Bill For the relief of William Hayman and William C. Lipscomb, Executors of the last will of Catharine Redman, late of Georgetown, in the District of Columbia, deceased.",
     "pages": [
@@ -6672,8 +6672,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6685,9 +6685,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee of Ways and Means"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290225"
+      "1829-02-25"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Dwight, from the Committee of Ways and Means, reported the following bill: A Bill To enable the President to hold a treaty with the Winnebagoes for the purchase of the lead mine country, and for other purposes.",
     "pages": [
@@ -6700,8 +6700,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6713,9 +6713,9 @@
       "Committee of the Whole House on the State of the Union",
       "Committee of Ways and Means"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290225"
+      "1829-02-25"
     ],
     "description": "Read twice, and committed to the Committee of the Whole House on the state of the Union. Mr. Dwight, from the Committee of Ways and Means, reported the following bill: A Bill Making appropriations for carrying into effect certain treaties with the Indian tribes, and for holding a treaty with the Pattawatimas.",
     "pages": [
@@ -6736,8 +6736,8 @@
         "page": 4
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6749,9 +6749,9 @@
       "Committee of the Whole House",
       "Committee on Military Pensions"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290227"
+      "1829-02-27"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Bates, of Massachusetts, from the Committee on Military Pensions, to which, was referred the case of Jason Warner, administrator of William Ferguson, deceased, reported the following bill: For the relief of Jason Warner, administrator on the estate of William Ferguson, deceased.",
     "pages": [
@@ -6760,8 +6760,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6773,9 +6773,9 @@
       "Committee of the Whole House",
       "Committee on Foreign Affairs"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290228"
+      "1829-02-28"
     ],
     "description": "Read twice, and committed to a Committee of the Whole House to-morrow. Mr. Everett, from the Committee on Foreign Affairs, to which was referred the petition of John Burnham, reported the following bill: A Bill For the relief of Captain John Burnham.",
     "pages": [
@@ -6784,8 +6784,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   },
   {
     "bill_numbers": [
@@ -6796,9 +6796,9 @@
     "committees": [
       "Committee on Military Pensions"
     ],
-    "congress": "020",
+    "congress": 20,
     "dates": [
-      "18290302"
+      "1829-03-02"
     ],
     "description": "Read, and laid upon the table. Mr. Markell, from the Committee on Military Pensions, to which was referred the case of Stephen Olney, reported the following bill: A Bill For the relief of Captain Stephen Olney.",
     "pages": [
@@ -6807,7 +6807,7 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "010"
+    "session": 2,
+    "volume": 10
   }
 ]

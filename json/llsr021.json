@@ -8,9 +8,9 @@
     "committees": [
       "Joint Committee on the Library"
     ],
-    "congress": "021",
+    "congress": 21,
     "dates": [
-      "18300517"
+      "1830-05-17"
     ],
     "description": "Mr. Woodbury, from the Joint Committee on the Library, reported the following resolution; which was read; and passed to a second reading: A Joint Resolution Relative to the re-printing of certain documents.",
     "pages": [
@@ -19,8 +19,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "021"
+    "session": 1,
+    "volume": 21
   },
   {
     "bill_numbers": [
@@ -31,9 +31,9 @@
     "committees": [
       "Committee on Roads and Canals"
     ],
-    "congress": "021",
+    "congress": 21,
     "dates": [
-      "18310211"
+      "1831-02-11"
     ],
     "description": "Mr. Hendricks, from the Committee on Roads and Canals, reported the following resolution; which was read, and passed to a second reading: Joint Resolution On the subject of the Cumberland road.",
     "pages": [
@@ -42,7 +42,7 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "021"
+    "session": 2,
+    "volume": 21
   }
 ]

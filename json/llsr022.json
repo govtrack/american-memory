@@ -8,9 +8,9 @@
     "committees": [
       "Committee on Finance"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320213"
+      "1832-02-13"
     ],
     "description": "Mr. Smith, from the Committee on Finance, reported the following resolution; which was read, and passed to a second reading: Joint Resolution To authorize the Secretary of the Navy to allow interest in certain cases.",
     "pages": [
@@ -19,7 +19,7 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "022"
+    "session": 1,
+    "volume": 22
   }
 ]

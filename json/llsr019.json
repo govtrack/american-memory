@@ -6,9 +6,9 @@
     "chamber": "s",
     "collection": "llsr",
     "committees": [],
-    "congress": "019",
+    "congress": 19,
     "dates": [
-      "18260124"
+      "1826-01-24"
     ],
     "description": "Mr. Bell, from the Joint Committee, appointed on the subject, reported the following Resolution; which was read, and passed to a second reading: Joint Resolution To provide for the care and preservation of the Capitol, and Capitol Square, in the City of Washington.",
     "pages": [
@@ -21,7 +21,7 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "019"
+    "session": 1,
+    "volume": 19
   }
 ]

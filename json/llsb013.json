@@ -8,10 +8,10 @@
     "committees": [
       "Committee on Pensions"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311208",
-      "18311215"
+      "1831-12-08",
+      "1831-12-15"
     ],
     "description": "Read twice, and referred to the Committee on Pensions. Reported with an amendment, to wit:--add section five. A Bill Supplementary to the ''Act for the relief of certain surviving officers and soldiers of the revolution.''",
     "pages": [
@@ -28,8 +28,8 @@
         "page": 3
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -40,10 +40,10 @@
     "committees": [
       "Committee on Military Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311215",
-      "18320104"
+      "1831-12-15",
+      "1832-01-04"
     ],
     "description": "Agreeably to notice given, Mr. Smith asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Military Affairs. Reported without amendment. A Bill Providing for the organization of the Ordnance Department.",
     "pages": [
@@ -56,8 +56,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -68,10 +68,10 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311219",
-      "18320103"
+      "1831-12-19",
+      "1832-01-03"
     ],
     "description": "Agreeably to notice, Mr. Chambers asked and obtained leave to bring in the following bill, which was read twice, and referred to the Committee on the Judiciary. Reported without amendment. A Bill Providing for the final settlement of the claims of States for interest on advances to the United States, made during the last war.",
     "pages": [
@@ -84,8 +84,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -96,11 +96,11 @@
     "committees": [
       "Committee on Military Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311220",
-      "18311221",
-      "18311227"
+      "1831-12-20",
+      "1831-12-21",
+      "1831-12-27"
     ],
     "description": "Agreeably to notice given, Mr. Benton asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read a second time and referred to the Committee on Military Affairs. Reported without amendment. A Bill To authorize the mounting and equipment of a part of the army of the United States.",
     "pages": [
@@ -113,8 +113,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -125,11 +125,11 @@
     "committees": [
       "Committee on Military Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311220",
-      "18311221",
-      "18311227"
+      "1831-12-20",
+      "1831-12-21",
+      "1831-12-27"
     ],
     "description": "Agreeably to notice, Mr. Smith asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read second time, and referred to Committee on Military Affairs. Reported without amendment. A Bill Providing for the armament of the fortifications.",
     "pages": [
@@ -138,8 +138,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -150,9 +150,9 @@
     "committees": [
       "Committee on the District of Columbia"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311220"
+      "1831-12-20"
     ],
     "description": "Mr. Chambers, from the Committee on the District of Columbia, reported the following bill, which was read, and passed to a second reading. A Bill To alter the bridge and draw over the Potomac river, in the District of Columbia.",
     "pages": [
@@ -169,8 +169,8 @@
         "page": 3
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -179,10 +179,10 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311220",
-      "18320126"
+      "1831-12-20",
+      "1832-01-26"
     ],
     "description": "Agreeably to notice given, Mr. Wilkins asked and obtained leave to bring in the following bill; which was read twice, and referred to a Select Committee, to consist of Mr. Wilkins, Mr. Webster, Mr. Chambers, Mr. Brown, and Mr. Dudley. Reported with the following amendments, to wit: The parts to be stricken out within brackets, and those to be added in italics. A Bill To provide for the satisfaction of claims due to certain American citizens, for spoliations committed on their commerce prior to the thirtieth day of September, one thousand eight hundred.",
     "pages": [
@@ -211,8 +211,8 @@
         "page": 6
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -223,9 +223,9 @@
     "committees": [
       "Committee on Private Land Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311221"
+      "1831-12-21"
     ],
     "description": "Mr. Kane, from the Committee on Private Land Claims, reported the following bill; which was read, and passed to a second reading: A Bill Confirming to Joshua Kennedy, his claim to a tract of land in the city of Mobile.",
     "pages": [
@@ -238,8 +238,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -250,9 +250,9 @@
     "committees": [
       "Committee on Indian Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311221"
+      "1831-12-21"
     ],
     "description": "Mr. White, from the Committee on Indian Affairs, reported the following bill; which was read, and passed to a second reading: A Bill To enable the President to extinguish Indian title within the State of Indiana.",
     "pages": [
@@ -261,8 +261,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -273,9 +273,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311222"
+      "1831-12-22"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Dixon Spears.",
     "pages": [
@@ -288,8 +288,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -300,10 +300,10 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311222",
-      "18311229"
+      "1831-12-22",
+      "1831-12-29"
     ],
     "description": "Agreeably to notice given, Mr. King asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Public Lands. Reported without amendment. A Bill For the relief of John Proctor.",
     "pages": [
@@ -312,8 +312,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -322,10 +322,10 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311222",
-      "18320420"
+      "1831-12-22",
+      "1832-04-20"
     ],
     "description": "Agreeably to notice given, Mr. Poindexter asked and obtained leave to bring in the following bill; which was read twice, and referred to a Select Committee, to consist of Mr. Poindexter, Mr. Clay, Mr. Tyler, Mr. Hayne, and Mr. Webster. Reported without amendment. A Bill Concerning Martha Randolph, daughter and only surviving child of Thomas Jefferson, deceased.",
     "pages": [
@@ -338,8 +338,8 @@
         "page": 3
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -350,9 +350,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311223"
+      "1831-12-23"
     ],
     "description": "Mr. Hayne, from the Committee on the Judiciary, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of John H. Harrison.",
     "pages": [
@@ -361,8 +361,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -373,9 +373,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311223"
+      "1831-12-23"
     ],
     "description": "Mr. Marcy, from the Committee on the Judiciary, reported the following bill; which was read, and passed to a second reading: A Bill To amend an act, entitled ''An act for the relief of George Johnston,'' passed second March, one thousand eight hundred and thirty-one.",
     "pages": [
@@ -384,8 +384,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -396,9 +396,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311223"
+      "1831-12-23"
     ],
     "description": "Mr. Marcy, from the Committee on the Judiciary, reported the following bill; which was read, and passed to a second reading: A Bill To revise and continue in force an act, entitled ''An act to provide for the Reports of the Decisions of the Supreme Court of the United States.''",
     "pages": [
@@ -407,8 +407,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -419,11 +419,11 @@
     "committees": [
       "Committee on the Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311223",
-      "18311227",
-      "18320112"
+      "1831-12-23",
+      "1831-12-27",
+      "1832-01-12"
     ],
     "description": "Agreeably to notice given, Mr. Benton, asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read a second time, and referred to the Committee on the Public Lands. Reported with the following amendments, to wit: First, strike out ''seventy-five'' in eleventh line of the second section, and insert ''fifty.'' Secondly, strike, out the third section. Thirdly, strike out the fifth section. A Bill To reduce the price of a portion of the public lands heretofore in market, and to grant a preference to actual settlers.",
     "pages": [
@@ -440,8 +440,8 @@
         "page": 3
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -452,10 +452,10 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311223",
-      "18320110"
+      "1831-12-23",
+      "1832-01-10"
     ],
     "description": "Agreeably to notice given, Mr. Johnston asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee of Claims. Reported with an amendment, to wit: Strike out that part included within brackets, and insert what follows in italics. A Bill For the relief of Don Carlos Dehault Delassus.",
     "pages": [
@@ -468,8 +468,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -480,9 +480,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311223"
+      "1831-12-23"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill Supplementary to the several laws for the sale of Public Lands.",
     "pages": [
@@ -495,8 +495,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -507,9 +507,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311227"
+      "1831-12-27"
     ],
     "description": "Mr. Robinson, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill To authorize the State of Illinois to sell twenty thousand acres of the saline lands in said State.",
     "pages": [
@@ -518,8 +518,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -530,9 +530,9 @@
     "committees": [
       "Committee on Pensions"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311227"
+      "1831-12-27"
     ],
     "description": "Mr. Foot, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Joseph Chamberlain.",
     "pages": [
@@ -541,8 +541,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -553,9 +553,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311227"
+      "1831-12-27"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill Supplementary to an act to grant preemption rights to settlers on public lands.",
     "pages": [
@@ -564,8 +564,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -576,11 +576,11 @@
     "committees": [
       "Committee on Finance"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311227",
-      "18311228",
-      "18320105"
+      "1831-12-27",
+      "1831-12-28",
+      "1832-01-05"
     ],
     "description": "Agreeably to notice given, Mr. Bibb asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read second time, and referred to the Committee on Finance. Reported with the following amendment, to wit, add section 2, in italics. A Bill For the relief of Benedict Joseph Flaget.",
     "pages": [
@@ -589,8 +589,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -601,9 +601,9 @@
     "committees": [
       "Committee on Private Land Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311228"
+      "1831-12-28"
     ],
     "description": "Mr. Kane, from the Committee on Private Land Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Hartwell Vick, of the State of Mississippi.",
     "pages": [
@@ -612,8 +612,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -624,10 +624,10 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311228",
-      "18320106"
+      "1831-12-28",
+      "1832-01-06"
     ],
     "description": "Agreeably to notice given, Mr. Tyler asked and obtained leave, to bring in the following bill, which wag read twice, and referred to the Committee of Claims. Reported without amendment. A Bill For the relief of John J. Jacob.",
     "pages": [
@@ -636,8 +636,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -648,9 +648,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311228"
+      "1831-12-28"
     ],
     "description": "Mr. Hanna, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill To establish an additional Land Office in the State of Indiana.",
     "pages": [
@@ -663,8 +663,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -675,9 +675,9 @@
     "committees": [
       "Committee on the Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320113"
+      "1832-01-13"
     ],
     "description": "Mr. Boon, from the Committee on the Public Lands, to which was referred, the bill from the Senate, entitled ''An act to establish an additional land office in the State of Indiana,'' reported the same with an Amendment: Strike out from the word ''the,'' seventh line, first section, to the word ''provided,'' in the fifteenth line, same section, inserted in brackets; and in lieu thereof, insert what follows, printed in italics. An Act To establish an additional land office in the State of Indiana.",
     "pages": [
@@ -690,8 +690,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -702,10 +702,10 @@
     "committees": [
       "Committee on the Post Office and Post Roads"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311228",
-      "18320104"
+      "1831-12-28",
+      "1832-01-04"
     ],
     "description": "Agreeably to notice given, Mr. King asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on the Post Office and Post Roads. Reported without amendment. A Bill To authorize the laying out and constructing a road from Line Creek to the Chatahooche, and for repairing the road on which the mail is now transported.",
     "pages": [
@@ -718,8 +718,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -730,11 +730,11 @@
     "committees": [
       "Committee on Manufactures"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311229",
-      "18311230",
-      "18320319"
+      "1831-12-29",
+      "1831-12-30",
+      "1832-03-19"
     ],
     "description": "Agreeably to notice given, Mr. Benton asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read the second time, and referred to the Committee on Manufactures. Reported without amendment, accompanied by a special report. A Bill To abolish the duty on Alum Salt.",
     "pages": [
@@ -743,8 +743,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -755,9 +755,9 @@
     "committees": [
       "Committee on Finance"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311230"
+      "1831-12-30"
     ],
     "description": "Mr. Smith, from the Committee on Finance, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of John Brickwood Taylor.",
     "pages": [
@@ -766,8 +766,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -778,9 +778,9 @@
     "committees": [
       "Committee on Naval Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311230"
+      "1831-12-30"
     ],
     "description": "Mr. Hayne, from the Committee on Naval Affairs, reported the following bill; which was read, and passed to a second reading: A Bill Regulating the duties, and providing for the compensation of Pursers in the Navy.",
     "pages": [
@@ -801,8 +801,8 @@
         "page": 4
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -813,10 +813,10 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18311230",
-      "18320112"
+      "1831-12-30",
+      "1832-01-12"
     ],
     "description": "Agreeably to notice, Mr. Johnston asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Public Lands. Reported without amendment. A Bill To authorize the inhabitants of the State of Louisiana to enter the back lands.",
     "pages": [
@@ -833,8 +833,8 @@
         "page": 3
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -845,9 +845,9 @@
     "committees": [
       "Committee on Naval Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320103"
+      "1832-01-03"
     ],
     "description": "Mr. Hayne, from the Committee on Naval Affairs, reported the following bill; which was read, and passed to a second reading: A Bill To provide for the distribution of the duties of the Commissioners of the Navy, and for other purposes.",
     "pages": [
@@ -868,8 +868,8 @@
         "page": 4
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -880,9 +880,9 @@
     "committees": [
       "Committee on Naval Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320103"
+      "1832-01-03"
     ],
     "description": "Mr. Hayne, from the Committee on Naval Affairs, reported the following bill; which was read, and passed to a second reading: A Bill Concerning Navy Agents.",
     "pages": [
@@ -895,8 +895,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -907,10 +907,10 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320103",
-      "18320123"
+      "1832-01-03",
+      "1832-01-23"
     ],
     "description": "Agreeably to notice given, Mr. Bibb asked and obtained leave, to bring in the following bill; which was read twice, and referred to the Committee on the Judiciary. Reported without amendment. A Bill For the relief of the sureties of Amos Edwards.",
     "pages": [
@@ -919,8 +919,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -931,10 +931,10 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320103",
-      "18320228"
+      "1832-01-03",
+      "1832-02-28"
     ],
     "description": "Agreeably to notice given, Mr. Bibb asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on the Judiciary. Reported without amendment. A Bill For the relief of George E. Tingle.",
     "pages": [
@@ -943,8 +943,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -955,9 +955,9 @@
     "committees": [
       "Committee on Military Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320104"
+      "1832-01-04"
     ],
     "description": "Mr. Kane, from the Committee on Military Affairs, reported the following bill, which was read, and passed to a second reading: A Bill For the relief of the personal representatives of Col. John Laurens.",
     "pages": [
@@ -974,8 +974,8 @@
         "page": 3
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -986,9 +986,9 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320104"
+      "1832-01-04"
     ],
     "description": "Mr. Ruggles, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Heman Allen.",
     "pages": [
@@ -997,8 +997,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1009,9 +1009,9 @@
     "committees": [
       "Committee on Naval Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320104"
+      "1832-01-04"
     ],
     "description": "Mr. Hayne, from the Committee on Naval Affairs, reported the following bill, which was read, and passed to a second reading: A Bill To establish the office of Surgeon General of the Navy.",
     "pages": [
@@ -1024,8 +1024,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1036,9 +1036,9 @@
     "committees": [
       "Committee on Military Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320104"
+      "1832-01-04"
     ],
     "description": "Mr. Benton, from the Committee on Military Affairs, reported the following bill; which was read, and passed to a second reading: A Bill For the erection of barracks, quarters, and storehouses, and the purchase of a site, in the vicinity of New Orleans.",
     "pages": [
@@ -1047,8 +1047,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1059,11 +1059,11 @@
     "committees": [
       "Committee on Manufactures"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320104",
-      "18320105",
-      "18320207"
+      "1832-01-04",
+      "1832-01-05",
+      "1832-02-07"
     ],
     "description": "Agreeably to notice given, Mr. Benton asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read second time, and referred to the Committee on Manufactures. Reported without amendment. A Bill To reduce the duties on Indian blankets, and certain other Indian goods.",
     "pages": [
@@ -1076,8 +1076,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1088,9 +1088,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320105"
+      "1832-01-05"
     ],
     "description": "Mr. Ellis, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of the legal representatives of Peter, Catharine, and Charles Surget.",
     "pages": [
@@ -1103,8 +1103,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1115,9 +1115,9 @@
     "committees": [
       "Committee on Private Land Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320105"
+      "1832-01-05"
     ],
     "description": "Mr. Kane, from the Committee on Private Land Claims, reported the following bill; which was read, and passed to a second reading: A Bill Confirming the claim of Maria Holliday to a tract of land in Louisiana.",
     "pages": [
@@ -1126,8 +1126,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1138,9 +1138,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320105"
+      "1832-01-05"
     ],
     "description": "Mr. Ellis, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Jefferson College, in the State of Mississippi.",
     "pages": [
@@ -1149,8 +1149,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1161,9 +1161,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320105"
+      "1832-01-05"
     ],
     "description": "Agreeably to notice given, Mr. Hayne asked and obtained leave, to bring in the following bill, which was read twice, and referred to the Committee on the Judiciary. Reported without amendment. A Bill For the relief of the representatives of Elias Earle, deceased.",
     "pages": [
@@ -1172,8 +1172,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1184,9 +1184,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320105"
+      "1832-01-05"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of John Brahan and John Read.",
     "pages": [
@@ -1199,8 +1199,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1211,9 +1211,9 @@
     "committees": [
       "Committee on Finance"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320105"
+      "1832-01-05"
     ],
     "description": "Mr. Johnston, from the Committee on Finance, reported the following bill, which was read, and passed to a second reading: A Bill For the relief of James W. Zachary.",
     "pages": [
@@ -1222,8 +1222,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1234,9 +1234,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320105"
+      "1832-01-05"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill Authorizing the relinquishment of the sixteenth sections, granted for the use of schools, and the entry of other lands in lieu thereof.",
     "pages": [
@@ -1245,8 +1245,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1257,9 +1257,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320109"
+      "1832-01-09"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill To grant a township of land to the French College of St. Louis.",
     "pages": [
@@ -1268,8 +1268,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1280,9 +1280,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320110"
+      "1832-01-10"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill Granting to the Territory of Arkansas, one thousand acres of land, for the erection of a court-house and jail at Little Rock.",
     "pages": [
@@ -1291,8 +1291,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1303,9 +1303,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320110"
+      "1832-01-10"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill Granting to Middleton McKay, a section of land in lieu of the reservation given him by the treaty of Dancing Rabbit creek.",
     "pages": [
@@ -1314,8 +1314,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1326,9 +1326,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320110"
+      "1832-01-10"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill Supplemental to the act ''granting the right of pre-emption to settlers on the public lands,'' approved the twenty-ninth day of May, eighteen hundred and thirty.",
     "pages": [
@@ -1341,8 +1341,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1353,9 +1353,9 @@
     "committees": [
       "Committee on Indian Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320110"
+      "1832-01-10"
     ],
     "description": "Mr. White, from the Committee on Indian Affairs, reported the following bill, which was read, and passed to a second reading: A Bill To provide for the payment of Joshua Kennedy, of Alabama, for the losses sustained by him by the destruction of his property, in the year one thousand eight hundred and thirteen, by the hostile Creek Indians, in consequence of its having been occupied as a fort or garrison by the troops of the United States.",
     "pages": [
@@ -1364,8 +1364,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1376,10 +1376,10 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320111",
-      "18320418"
+      "1832-01-11",
+      "1832-04-18"
     ],
     "description": "Agreeably to notice given, Mr. King asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee of Claims. Reported without amendment. A Bill For the relief of Benjamin S. Smoot.",
     "pages": [
@@ -1392,8 +1392,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1404,10 +1404,10 @@
     "committees": [
       "Committee on Private Land Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320112",
-      "18320119"
+      "1832-01-12",
+      "1832-01-19"
     ],
     "description": "Agreeably to notice given, Mr. Ellis asked and obtained leave, to bring in the following bill; which was read twice, and referred to the Committee on Private Land Claims. Reported without amendment. A Bill For the relief of Elizabeth Magruder, of Mississippi.",
     "pages": [
@@ -1416,8 +1416,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1428,9 +1428,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320113"
+      "1832-01-13"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill Granting a lot of ground to the town of Columbus, for the abutment of a bridge over the Chatahoochee river.",
     "pages": [
@@ -1439,8 +1439,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1451,9 +1451,9 @@
     "committees": [
       "Committee on Roads and Canals"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320116"
+      "1832-01-16"
     ],
     "description": "Mr. Hendricks, from the Committee on Roads and Canals, reported the following bill; which was read, and passed to a second reading: A Bill For the continuation of the Cumberland road in the States of Ohio, Indiana, and Illinois.",
     "pages": [
@@ -1466,8 +1466,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1478,9 +1478,9 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320116"
+      "1832-01-16"
     ],
     "description": "Mr. Ruggles, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of John Brunson.",
     "pages": [
@@ -1489,8 +1489,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1501,9 +1501,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320118"
+      "1832-01-18"
     ],
     "description": "Mr. Hayne, from the Committee on the Judiciary, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Thomas L. Winthrop and others, Directors of an association called the New England Mississippi Land Company.",
     "pages": [
@@ -1512,8 +1512,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1524,10 +1524,10 @@
     "committees": [
       "Committee on Roads and Canals"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320118",
-      "18320120"
+      "1832-01-18",
+      "1832-01-20"
     ],
     "description": "Agreeably to notice given, Mr. Robinson asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Roads and Canals. Reported without amendment. A Bill To amend an act, entitled ''An act to grant a quantity of land to the State of Illinois, for the purpose of aiding in opening a canal to connect the waters of the Illinois river with those of Lake Michigan.''",
     "pages": [
@@ -1536,8 +1536,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1548,9 +1548,9 @@
     "committees": [
       "Committee on the Library of Congress"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320119"
+      "1832-01-19"
     ],
     "description": "Mr. Robbins, from the Committee on the Library of Congress, reported the following bill; which was read, and passed to a second reading: A Bill Providing for the purchase of one hundred copies of the American Annual Register.",
     "pages": [
@@ -1559,8 +1559,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1571,9 +1571,9 @@
     "committees": [
       "Committee on Finance"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320119"
+      "1832-01-19"
     ],
     "description": "Mr. Marcy, from the Committee on Finance, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Abiah Warren, and others.",
     "pages": [
@@ -1582,8 +1582,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1594,9 +1594,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320119"
+      "1832-01-19"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Thomas Dennis.",
     "pages": [
@@ -1605,8 +1605,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1617,9 +1617,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320120"
+      "1832-01-20"
     ],
     "description": "Mr. Marcy, from the Committee on the Judiciary, reported the following bill; which was read, and passed to a second reading: A Bill To increase and improve the Law Department of the Library of Congress.",
     "pages": [
@@ -1632,8 +1632,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1644,9 +1644,9 @@
     "committees": [
       "Committee on Finance"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320123"
+      "1832-01-23"
     ],
     "description": "Mr. Smith, from the Committee on Finance, reported the following bill; which was read, and passed to a second reading: A Bill To exempt merchandise imported under certain circumstances, from the operation of the act of the nineteenth of May, one thousand eight hundred and twenty-eight, entitled ''An act in alteration of the several acts imposing duties on imports.''",
     "pages": [
@@ -1659,8 +1659,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1671,9 +1671,9 @@
     "committees": [
       "Committee on Finance"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320328"
+      "1832-03-28"
     ],
     "description": "Mr. Smith, from the Committee on Finance, to which was recommitted the bill to exempt merchandise imported under certain circumstances from the operation of the act of the nineteenth of May, eighteen hundred and twenty-eight, entitled ''An act in alteration of the several acts imposing duties on imports,'' reported the same with the following Amendment: Strike out all after the enacting clause, and insert--",
     "pages": [
@@ -1682,8 +1682,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1694,9 +1694,9 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320123"
+      "1832-01-23"
     ],
     "description": "Mr. Ruggles, from the Committee of Claims, reported the following bill, which was read, and passed to a second reading: A Bill For the relief of Richard G. Morris.",
     "pages": [
@@ -1705,8 +1705,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1717,9 +1717,9 @@
     "committees": [
       "Committee on Pensions"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320123"
+      "1832-01-23"
     ],
     "description": "Mr. Buckner, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill Granting a pension to William Scott.",
     "pages": [
@@ -1728,8 +1728,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1740,9 +1740,9 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320123"
+      "1832-01-23"
     ],
     "description": "Mr. Ruggles, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Silvia Posner.",
     "pages": [
@@ -1751,8 +1751,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1763,9 +1763,9 @@
     "committees": [
       "Committee on Military Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320123"
+      "1832-01-23"
     ],
     "description": "Mr. Dallas, from the Committee on Military Affairs, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of the officers and soldiers of Fort Delaware.",
     "pages": [
@@ -1774,8 +1774,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1786,9 +1786,9 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320124"
+      "1832-01-24"
     ],
     "description": "Mr. Ruggles, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Joseph Watson.",
     "pages": [
@@ -1797,8 +1797,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1809,9 +1809,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320124"
+      "1832-01-24"
     ],
     "description": "Mr. Grundy, from the Committee on the Judiciary, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Stephen Pleasonton, late Agent of the Treasury.",
     "pages": [
@@ -1820,8 +1820,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1832,9 +1832,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320124"
+      "1832-01-24"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Joseph Elliott.",
     "pages": [
@@ -1843,8 +1843,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1855,9 +1855,9 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320125"
+      "1832-01-25"
     ],
     "description": "Mr. Brown, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Bartholomew Shaumburgh.",
     "pages": [
@@ -1866,8 +1866,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1878,10 +1878,10 @@
     "committees": [
       "Committee on Private Land Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320125",
-      "18320330"
+      "1832-01-25",
+      "1832-03-30"
     ],
     "description": "Agreeably to notice given, Mr. Hayne asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Private Land Claims. Reported without amendment. A Bill For the relief of Elihu Hall Bay, and others, confirming grants to lands in the district west of Pearl river, derived from the British Government of West Florida, and not subsequently granted by Spain or the United States.",
     "pages": [
@@ -1894,8 +1894,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1904,9 +1904,9 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320606"
+      "1832-06-06"
     ],
     "description": "The bill for the relief of Elihu Hall Bay, and others, confirming lands in the district west of Pearl river, derived from the British Government of West Florida, and not subsequently granted by Spain or the United States, being under consideration, Mr. Hayne proposed the following Amendment. Strike out all after the enacting clause, and insert--",
     "pages": [
@@ -1919,8 +1919,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1931,9 +1931,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320125"
+      "1832-01-25"
     ],
     "description": "Mr. Marcy, from the Committee on the Judiciary, reported the following bill; which was read, and passed to a second reading: A Bill To authorize the Judges of the courts of the United States to take bail of the claimants of property seized, and perform other acts, in vacation.",
     "pages": [
@@ -1946,8 +1946,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1958,9 +1958,9 @@
     "committees": [
       "Committee on Pensions"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320126"
+      "1832-01-26"
     ],
     "description": "Mr. Foot, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Ransom Mix.",
     "pages": [
@@ -1969,8 +1969,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -1981,9 +1981,9 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320126"
+      "1832-01-26"
     ],
     "description": "Mr. Naudain, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Christopher Brooks.",
     "pages": [
@@ -1992,8 +1992,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2004,11 +2004,11 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320126",
-      "18320131",
-      "18320217"
+      "1832-01-26",
+      "1832-01-31",
+      "1832-02-17"
     ],
     "description": "Agreeably to notice given, Mr. Chambers asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read the second time, and referred to the Committee on the Judiciary. Reported without amendment. A Bill For the relief of the sureties of George Brown, deceased, late collector of internal duties and direct tax for the first district in the State of Maryland.",
     "pages": [
@@ -2017,8 +2017,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2029,9 +2029,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320127"
+      "1832-01-27"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill Providing for the appointment of a Recorder of the General Land Office, and prescribing the mode by which patents for public lands shall be executed, granted, and issued.",
     "pages": [
@@ -2044,8 +2044,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2056,9 +2056,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320626"
+      "1832-06-26"
     ],
     "description": "Mr. King, from the Committee on Public Lands, to whom was recommitted the ''Bill for the appointment of a Recorder of the General Land Office, and prescribing the mode by which patents for public lands shall be executed, granted, and issued,'' with the amendment made thereto in Senate, reported that the said amendment as follows in [brackets] be stricken out, and that which follows in italics be inserted in lieu thereof. Amendment.",
     "pages": [
@@ -2071,8 +2071,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2083,9 +2083,9 @@
     "committees": [
       "Committee on Finance"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320130"
+      "1832-01-30"
     ],
     "description": "Mr. Marcy, from the Committee on Finance, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of John F. Lewis.",
     "pages": [
@@ -2094,8 +2094,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2104,9 +2104,9 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320509"
+      "1832-05-09"
     ],
     "description": "Mr. Silsbee offered the following amendment to the bill for the relief of John F. Lewis: Amendment. Strike out all after the enacting clause, and insert as follows:",
     "pages": [
@@ -2119,8 +2119,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2131,9 +2131,9 @@
     "committees": [
       "Committee on Naval Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320130"
+      "1832-01-30"
     ],
     "description": "Mr. Hayne, from the Committee on Naval Affairs, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of William Nelson, administrator of the estate of Andrew Nelson, deceased.",
     "pages": [
@@ -2142,8 +2142,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2154,9 +2154,9 @@
     "committees": [
       "Committee on the Library"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320130"
+      "1832-01-30"
     ],
     "description": "Mr. Robbins, from the Committee on the Library, reported the following bill, which was read, and passed to a second reading: A Bill Providing for the publication of a stereotype edition of the Laws.",
     "pages": [
@@ -2165,8 +2165,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2177,9 +2177,9 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320130"
+      "1832-01-30"
     ],
     "description": "Mr. Moore, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Edward Lewis.",
     "pages": [
@@ -2188,8 +2188,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2200,9 +2200,9 @@
     "committees": [
       "Committee on Military Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320130"
+      "1832-01-30"
     ],
     "description": "Mr. Benton, from the Committee on Military Affairs, reported the following bill; which was read, and passed to a second reading: A Bill To provide for liquidating and paying certain claims of the State of Virginia.",
     "pages": [
@@ -2219,8 +2219,8 @@
         "page": 3
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2231,11 +2231,11 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320130",
-      "18320131",
-      "18320206"
+      "1832-01-30",
+      "1832-01-31",
+      "1832-02-06"
     ],
     "description": "Read, and passed to a second reading. Read the second time, and referred to the Committee on Public Lands. Reported without amendment. A Bill To amend the act relinquishing the reversionary interest of the United States to certain Indian reservations.",
     "pages": [
@@ -2244,8 +2244,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2256,9 +2256,9 @@
     "committees": [
       "Committee on Private Land Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320130"
+      "1832-01-30"
     ],
     "description": "Mr. Ruggles, from the Committee on Private Land Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of the legal representatives of Arnold Henry Dohrman, deceased.",
     "pages": [
@@ -2267,8 +2267,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2279,9 +2279,9 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320131"
+      "1832-01-31"
     ],
     "description": "Mr. Naudain, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Augustine Taney.",
     "pages": [
@@ -2290,8 +2290,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2302,9 +2302,9 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320131"
+      "1832-01-31"
     ],
     "description": "Mr. Ruggles, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Guy W. Smith.",
     "pages": [
@@ -2313,8 +2313,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2325,11 +2325,11 @@
     "committees": [
       "Committee on Roads and Canals"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320202",
-      "18320203",
-      "18320214"
+      "1832-02-02",
+      "1832-02-03",
+      "1832-02-14"
     ],
     "description": "Agreeably to notice, Mr. Smith asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read the second time, and referred to the Committee on Roads and Canals. Reported with an amendment; to wit: Add section three, in italics. A Bill Authorizing a subscription of stock in the Baltimore and Ohio Railroad Company.",
     "pages": [
@@ -2342,8 +2342,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2354,9 +2354,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320202"
+      "1832-02-02"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill To establish the number of Clerks, and fix their compensation, in the General Land Office.",
     "pages": [
@@ -2369,8 +2369,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2381,9 +2381,9 @@
     "committees": [
       "Committee on Pensions"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320202"
+      "1832-02-02"
     ],
     "description": "Mr. Sprague, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Abijah Crane.",
     "pages": [
@@ -2392,8 +2392,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2404,9 +2404,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320202"
+      "1832-02-02"
     ],
     "description": "Mr. Grundy, from the Committee on the Judiciary, reported the following bill, which was read, and passed to a second reading: A Bill For the relief of the executors of James Roddey, deceased.",
     "pages": [
@@ -2415,8 +2415,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2427,9 +2427,9 @@
     "committees": [
       "Committee on Finance"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320203"
+      "1832-02-03"
     ],
     "description": "Mr. Silsbee, from the Committee on Finance, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of John and Benjamin Welles.",
     "pages": [
@@ -2438,8 +2438,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2450,9 +2450,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320206"
+      "1832-02-06"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Elias Rector.",
     "pages": [
@@ -2461,8 +2461,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2473,9 +2473,9 @@
     "committees": [
       "Committee on Indian Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320206"
+      "1832-02-06"
     ],
     "description": "Mr. White, from the Committee on Indian Affairs, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of William Wayne Wells, of the State of Indiana.",
     "pages": [
@@ -2484,8 +2484,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2496,9 +2496,9 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320207"
+      "1832-02-07"
     ],
     "description": "Mr. Bell, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Samuel May.",
     "pages": [
@@ -2507,8 +2507,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2519,9 +2519,9 @@
     "committees": [
       "Committee on Private Land Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320207"
+      "1832-02-07"
     ],
     "description": "Mr. Prentiss, from the Committee on Private Land Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Nathaniel A. Ware.",
     "pages": [
@@ -2534,8 +2534,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2546,9 +2546,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320207"
+      "1832-02-07"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Elgira Debrill and Sophy Hancock.",
     "pages": [
@@ -2557,8 +2557,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2569,9 +2569,9 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320208"
+      "1832-02-08"
     ],
     "description": "Mr. Naudain, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of the heirs and legal representatives of Edward Barry, deceased.",
     "pages": [
@@ -2580,8 +2580,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2592,9 +2592,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320208"
+      "1832-02-08"
     ],
     "description": "Mr. Robinson, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill To extend the right of pre-emption to the settlers of township five north, one west of the third principal meridian in Illinois.",
     "pages": [
@@ -2603,8 +2603,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2615,9 +2615,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320209"
+      "1832-02-09"
     ],
     "description": "Mr. Tipton, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill To authorize the Legislature of the State of Indiana, to sell and convey certain lands granted to said State, for the use of the people thereof.",
     "pages": [
@@ -2630,8 +2630,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2642,9 +2642,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320209"
+      "1832-02-09"
     ],
     "description": "Mr. Ellis, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Will. Howze and George B. Dameron, of Mississippi.",
     "pages": [
@@ -2653,8 +2653,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2665,10 +2665,10 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320209",
-      "18320214"
+      "1832-02-09",
+      "1832-02-14"
     ],
     "description": "Agreeably to notice given, Mr. King asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Public Lands. Reported with an amendment; namely: Strike out [twenty-nine,] in the second section, and insert thirty. A Bill To authorize the sale of lands reserved from sale at Fort Jackson, in the State of Alabama.",
     "pages": [
@@ -2677,8 +2677,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2689,11 +2689,11 @@
     "committees": [
       "Committee on Military Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320210",
-      "18320214",
-      "18320306"
+      "1832-02-10",
+      "1832-02-14",
+      "1832-03-06"
     ],
     "description": "Agreeably to notice given, Mr. Benton asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read a second time, and referred to the Committee on Military Affairs. Reported without amendment. A Bill To enable the Secretary at War to release the title of the United States to fort Gansevoort, in the harbor of New York.",
     "pages": [
@@ -2702,8 +2702,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2714,9 +2714,9 @@
     "committees": [
       "Committee on Private Land Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320213"
+      "1832-02-13"
     ],
     "description": "Mr. Naudain, from the Committee on Private Land Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Elizabeth Scott, only surviving child, and heir at law, of Captain William Blackwell, deceased.",
     "pages": [
@@ -2725,8 +2725,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2737,9 +2737,9 @@
     "committees": [
       "Committee on Roads and Canals"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320214"
+      "1832-02-14"
     ],
     "description": "Mr. Hendricks, from the Committee on Roads and Canals, reported the following bill; which was read, and passed to a second reading: A Bill Declaring the assent of Congress to the acts of the General Assemblies of Pennsylvania and Maryland, hereinafter recited.",
     "pages": [
@@ -2820,8 +2820,8 @@
         "page": 19
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2832,9 +2832,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320214"
+      "1832-02-14"
     ],
     "description": "Mr. Marcy, from the Committee on the Judiciary, reported the following bill; which was read, and passed to a second reading: A Bill To alter the times of holding the district court of the United States for the State of Illinois.",
     "pages": [
@@ -2843,8 +2843,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2855,9 +2855,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320214"
+      "1832-02-14"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill Allowing office rent to the Registers and Receivers of the several land offices.",
     "pages": [
@@ -2866,8 +2866,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2878,9 +2878,9 @@
     "committees": [
       "Committee on Private Land Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320215"
+      "1832-02-15"
     ],
     "description": "Mr. Kane, from the Committee on Private Land Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the final adjustment of private land claims in Missouri.",
     "pages": [
@@ -2897,8 +2897,8 @@
         "page": 3
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2909,9 +2909,9 @@
     "committees": [
       "Committee on Private Land Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320215"
+      "1832-02-15"
     ],
     "description": "Mr. Kane, from the Committee on Private Land Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Pierre Leglize.",
     "pages": [
@@ -2920,8 +2920,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2932,9 +2932,9 @@
     "committees": [
       "Committee on Pensions"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320216"
+      "1832-02-16"
     ],
     "description": "Mr. Foot, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of certain applicants for pensions.",
     "pages": [
@@ -2943,8 +2943,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2955,9 +2955,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320221"
+      "1832-02-21"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill, which was read, and passed to a second reading: A Bill For the relief of Walter Cockburn.",
     "pages": [
@@ -2966,8 +2966,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -2978,9 +2978,9 @@
     "committees": [
       "Committee on Military Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320223"
+      "1832-02-23"
     ],
     "description": "Mr. Troup, from the Committee on Military Affairs, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of William A. Tennille.",
     "pages": [
@@ -2989,8 +2989,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3001,9 +3001,9 @@
     "committees": [
       "Committee on Military Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320223"
+      "1832-02-23"
     ],
     "description": "Mr. Benton, from the Committee on Military Affairs, reported the following bill; which was read, and passed to a second reading: A Bill To repeal so much of the laws relative to Brevet Rank, as authorize the President to confer that rank on officers, and who shall have served ten years in any one grade.",
     "pages": [
@@ -3012,8 +3012,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3024,9 +3024,9 @@
     "committees": [
       "Committee on Military Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320223"
+      "1832-02-23"
     ],
     "description": "Mr. Benton, from the Committee on Military Affairs, reported the following bill; which was read, and passed to a second reading: A Bill To increase the number of Surgeons and Assistant Surgeons in the Army of the United States.",
     "pages": [
@@ -3035,8 +3035,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3047,9 +3047,9 @@
     "committees": [
       "Committee on Commerce"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320224"
+      "1832-02-24"
     ],
     "description": "Mr. Forsyth, from the Committee on Commerce, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Elizabeth Scott, assignee of Alexander Scott, junior.",
     "pages": [
@@ -3058,8 +3058,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3070,9 +3070,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320224"
+      "1832-02-24"
     ],
     "description": "Mr. Robinson, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of William Dickson.",
     "pages": [
@@ -3085,8 +3085,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3097,9 +3097,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320224"
+      "1832-02-24"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Timothy Risley.",
     "pages": [
@@ -3108,8 +3108,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3120,9 +3120,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320224"
+      "1832-02-24"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Anthony M. Menter and John Brantley.",
     "pages": [
@@ -3135,8 +3135,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3147,9 +3147,9 @@
     "committees": [
       "Committee on Indian Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320227"
+      "1832-02-27"
     ],
     "description": "Mr. White, from the Committee on Indian Affairs, reported the following bill; which was read, and passed to a second reading: A Bill To provide for the appointment of a Commissioner of Indian Affairs, and for other purposes.",
     "pages": [
@@ -3162,8 +3162,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3174,9 +3174,9 @@
     "committees": [
       "Committee on Pensions"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320227"
+      "1832-02-27"
     ],
     "description": "Mr. Foot, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Bradford Steele.",
     "pages": [
@@ -3185,8 +3185,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3197,10 +3197,10 @@
     "committees": [
       "Committee on Commerce"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320228",
-      "18320508"
+      "1832-02-28",
+      "1832-05-08"
     ],
     "description": "Agreeably to notice given, Mr. Hayne asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Commerce. Reported without amendment. A Bill Extending further the right of debenture to the port of Key West, and altering the limits of the district of Key West.",
     "pages": [
@@ -3213,8 +3213,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3225,10 +3225,10 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320229",
-      "18320307"
+      "1832-02-29",
+      "1832-03-07"
     ],
     "description": "Agreeably to notice given, Mr. Clay asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Public Lands. Reported without amendment. A Bill For the encouragement of Augusta College, in Kentucky.",
     "pages": [
@@ -3237,8 +3237,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3249,9 +3249,9 @@
     "committees": [
       "Committee on Pensions"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320301"
+      "1832-03-01"
     ],
     "description": "Mr. Sprague, from the Committee on Pensions, reported the following bill, which was read, and passed to a second reading: A Bill For the relief of John Blake.",
     "pages": [
@@ -3260,8 +3260,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3272,11 +3272,11 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320301",
-      "18320302",
-      "18320412"
+      "1832-03-01",
+      "1832-03-02",
+      "1832-04-12"
     ],
     "description": "Agreeably to notice given, Mr. Kane asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read the second time, and referred to the Committee on the Judiciary. Reported without amendment. Strike out the parts included within brackets, and insert the parts printed in italics. A Bill To authorize and empower the Secretary of War to enter into a compromise to secure to the United States a title, in fee simple, to an island in the State of Delaware, upon which Fort Delaware has been erected.",
     "pages": [
@@ -3289,8 +3289,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3299,9 +3299,9 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320531"
+      "1832-05-31"
     ],
     "description": "The bill to release from duty, iron prepared for, and actually laid on railways or inclined planes, being under consideration, Mr. Hayne offered the following as an additional section:",
     "pages": [
@@ -3310,8 +3310,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3322,9 +3322,9 @@
     "committees": [
       "Committee on Private Land Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320302"
+      "1832-03-02"
     ],
     "description": "Mr. Kane, from the Committee on Private Land Claims, reported the following bill, which was read, and passed to a second reading: A Bill For the relief of John F. Girod, of Louisiana.",
     "pages": [
@@ -3337,8 +3337,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3349,9 +3349,9 @@
     "committees": [
       "Committee on Private Land Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320302"
+      "1832-03-02"
     ],
     "description": "Mr. Kane, from the Committee on Private Land Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of the legal representatives of Peter Celestino Walker and John Peter Walker, deceased, and of Joseph Walker, of the State of Mississippi.",
     "pages": [
@@ -3364,8 +3364,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3376,9 +3376,9 @@
     "committees": [
       "Committee on Pensions"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320302"
+      "1832-03-02"
     ],
     "description": "Mr. Sprague, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Daniel Burr.",
     "pages": [
@@ -3387,8 +3387,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3399,9 +3399,9 @@
     "committees": [
       "Committee on Pensions"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320302"
+      "1832-03-02"
     ],
     "description": "Mr. Sprague, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Daniel Wyman.",
     "pages": [
@@ -3410,8 +3410,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3422,9 +3422,9 @@
     "committees": [
       "Committee on Finance"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320305"
+      "1832-03-05"
     ],
     "description": "Mr. Smith, from the Committee on Finance, reported the following bill; which was read, and passed to a second reading: A Bill To revive and continue in force, ''An act authorizing the payment of certain certificates,'' approved seventh May, one thousand eight hundred and twenty-two.",
     "pages": [
@@ -3433,8 +3433,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3445,9 +3445,9 @@
     "committees": [
       "Committee on Military Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320305"
+      "1832-03-05"
     ],
     "description": "Mr. Benton, from the Committee on Military Affairs, reported the following bill; which was read, and passed to a second reading: A Bill To organize the Corps of Topographical Engineers.",
     "pages": [
@@ -3456,8 +3456,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3468,9 +3468,9 @@
     "committees": [
       "Committee on Indian Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320305"
+      "1832-03-05"
     ],
     "description": "Mr. White, from the Committee on Indian Affairs, reported the following bill; which was read, and passed to a second reading: A Bill To authorize the Secretary of War to adjust and pay to Benjamin Murphy, of Arkansas, the value of his corn, cattle, and hogs, taken by the Cherokee Indians in the month of December, one thousand eight hundred and twenty-eight.",
     "pages": [
@@ -3479,8 +3479,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3491,9 +3491,9 @@
     "committees": [
       "Committee on Military Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320306"
+      "1832-03-06"
     ],
     "description": "Mr. Benton, from the Committee on Military Affairs, reported the following bill; which was read, and passed to a second reading: A Bill To increase and regulate the pay of the Medical Staff of the Army.",
     "pages": [
@@ -3506,8 +3506,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3518,9 +3518,9 @@
     "committees": [
       "Committee on Pensions"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320307"
+      "1832-03-07"
     ],
     "description": "Mr. Sprague, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Samuel Andrews.",
     "pages": [
@@ -3529,8 +3529,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3541,9 +3541,9 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320309"
+      "1832-03-09"
     ],
     "description": "Mr. Naudain, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Henry Waller.",
     "pages": [
@@ -3552,8 +3552,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3564,9 +3564,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320309"
+      "1832-03-09"
     ],
     "description": "Mr. Marcy, from the Committee on the Judiciary, reported the following bill, which was read, and passed to a second reading: A Bill Supplementary to the acts to promote the progress of the useful Arts.",
     "pages": [
@@ -3579,8 +3579,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3591,9 +3591,9 @@
     "committees": [
       "Committee on Pensions"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320312"
+      "1832-03-12"
     ],
     "description": "Mr. Sprague, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Andrew Cushman.",
     "pages": [
@@ -3602,8 +3602,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3614,9 +3614,9 @@
     "committees": [
       "Committee on Pensions"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320312"
+      "1832-03-12"
     ],
     "description": "Mr. Sprague, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of James Clark.",
     "pages": [
@@ -3625,8 +3625,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3637,9 +3637,9 @@
     "committees": [
       "Committee on Pensions"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320312"
+      "1832-03-12"
     ],
     "description": "Mr. Sprague, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Stephen G. Peabody.",
     "pages": [
@@ -3648,8 +3648,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3658,9 +3658,9 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320313"
+      "1832-03-13"
     ],
     "description": "Mr. Dallas, from the select committee appointed on the memorial of the Bank of the United States, praying a renewal of its charter, reported the following bill; which was read, and passed to a second reading: A Bill To modify and continue the act, entitled ''An act to incorporate the subscribers to the Bank of the United States.''",
     "pages": [
@@ -3681,8 +3681,8 @@
         "page": 4
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3691,9 +3691,9 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320602"
+      "1832-06-02"
     ],
     "description": "Reported to the Senate with amendments. The parts stricken out are included within [brackets,] and those inserted are printed in italics. A Bill To modify and continue the act, entitled ''An act to incorporate the subscribers to the Bank of the United States.",
     "pages": [
@@ -3722,8 +3722,8 @@
         "page": 6
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3732,9 +3732,9 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320526"
+      "1832-05-26"
     ],
     "description": "Amendment To be proposed by Mr. Webster to the ''bill to modify and continue the charter of the Bank of the United States.''",
     "pages": [
@@ -3743,8 +3743,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3753,9 +3753,9 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320526"
+      "1832-05-26"
     ],
     "description": "Amendment To be proposed by Mr. Moore to the bill to modify and continue the charter of the Bank of the United States.",
     "pages": [
@@ -3764,8 +3764,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3774,9 +3774,9 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320601"
+      "1832-06-01"
     ],
     "description": "The bill to modify and continue the act, entitled ''An act to incorporate the subscribers to the Bank of the United States,'' being under consideration, Mr. Benton proposed thereto the following Amendments.",
     "pages": [
@@ -3789,8 +3789,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3801,10 +3801,10 @@
     "committees": [
       "Committee on the District of Columbia"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320313",
-      "18320412"
+      "1832-03-13",
+      "1832-04-12"
     ],
     "description": "Agreeably to notice given, Mr. Chambers asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on the District of Columbia. Reported without amendment. A Bill For the improvement of Pennsylvania Avenue, in the city of Washington.",
     "pages": [
@@ -3817,8 +3817,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3829,9 +3829,9 @@
     "committees": [
       "Committee on the District of Columbia"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320313"
+      "1832-03-13"
     ],
     "description": "Mr. Tyler, from the Committee on the District of Columbia, reported the following bill, which was read, and passed to a second reading: A Bill For the benefit of Saint Vincent's Female Orphan Asylum of the city of Washington, under the direction of the ''Sisters of Charity.''",
     "pages": [
@@ -3844,8 +3844,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3856,9 +3856,9 @@
     "committees": [
       "Committee for the District of Columbia"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320313"
+      "1832-03-13"
     ],
     "description": "Mr. Chamber, from the Committee for the District of Columbia, reported the following bill; which was read, and passed to a second reading: A Bill Granting certain city lots to the corporation of the Columbian College, for the purposes therein mentioned.",
     "pages": [
@@ -3871,8 +3871,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3883,9 +3883,9 @@
     "committees": [
       "Committee on Naval Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320313"
+      "1832-03-13"
     ],
     "description": "Mr. Hayne, from the Committee on Naval Affairs, reported the following bill; which was read, and passed to a second reading: A Bill Concerning certain officers of the Marine Corps.",
     "pages": [
@@ -3894,8 +3894,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3906,9 +3906,9 @@
     "committees": [
       "Committee on Naval Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320313"
+      "1832-03-13"
     ],
     "description": "Mr. Hayne, from the Committee on Naval Affairs, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Thomas Holdup Stevens, and others.",
     "pages": [
@@ -3917,8 +3917,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3929,9 +3929,9 @@
     "committees": [
       "Committee on Pensions"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320314"
+      "1832-03-14"
     ],
     "description": "Mr. Foot, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Alexander Naismith.",
     "pages": [
@@ -3940,8 +3940,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3950,9 +3950,9 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320320"
+      "1832-03-20"
     ],
     "description": "Mr. Ewing, from the Select Committee appointed on the subject, reported the following bill; which was read, and passed to a second reading: A Bill To provide for the taking of certain observations preparatory to the adjustment of the northern boundary line of the State of Ohio.",
     "pages": [
@@ -3961,8 +3961,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3973,9 +3973,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320320"
+      "1832-03-20"
     ],
     "description": "Mr. Ellis, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill Making appropriations to employ additional clerks in the Surveyor General's offices in Mississippi and Missouri.",
     "pages": [
@@ -3984,8 +3984,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -3996,11 +3996,11 @@
     "committees": [
       "Committee on Roads and Canals"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320320",
-      "18320321",
-      "18320328"
+      "1832-03-20",
+      "1832-03-21",
+      "1832-03-28"
     ],
     "description": "Agreeably to notice Mr. Benton asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read the second time, and referred to the Committee on Roads and Canals. Reported with the following amendment, viz. After ''Missouri,'' insert Mississippi and Louisiana. A Bill To grant to the State of Missouri a certain quantity of land for purposes of internal improvement.",
     "pages": [
@@ -4013,8 +4013,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4025,9 +4025,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320322"
+      "1832-03-22"
     ],
     "description": "Mr.Tipton, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill To amend an act entitled ''An act for the relief of purchasers of the public lands that have reverted for non-payment of the purchase money, passed twenty-third day of May, one thousand eight hundred and twenty-eight.",
     "pages": [
@@ -4044,8 +4044,8 @@
         "page": 3
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4056,9 +4056,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320322"
+      "1832-03-22"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill To create the office of Surveyor of Public Lands for the Territory of Arkansas.",
     "pages": [
@@ -4071,8 +4071,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4083,11 +4083,11 @@
     "committees": [
       "Committee on Roads and Canals"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320323",
-      "18320326",
-      "18320403"
+      "1832-03-23",
+      "1832-03-26",
+      "1832-04-03"
     ],
     "description": "Read, and passed to a second reading. Read a second time, and referred to the Committee on Roads and Canals. Reported without amendment. A Bill For the improvement of the Mail Road between Louisville and St. Louis.",
     "pages": [
@@ -4096,8 +4096,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4108,11 +4108,11 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320326",
-      "18320328",
-      "18320330"
+      "1832-03-26",
+      "1832-03-28",
+      "1832-03-30"
     ],
     "description": "Agreeably to notice given, Mr. Dudley asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read the second time, and referred to the Committee of Claims. Reported without amendment. For the relief of Gertrude Gates.",
     "pages": [
@@ -4125,8 +4125,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4137,9 +4137,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320326"
+      "1832-03-26"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill Granting a township of land to each of the States of Indiana, Illinois, Missouri, Mississippi, and Alabama.",
     "pages": [
@@ -4148,8 +4148,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4160,9 +4160,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320329"
+      "1832-03-29"
     ],
     "description": "Mr. Ellis, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill To remove the Surveyor General's Office south of Tennessee.",
     "pages": [
@@ -4171,8 +4171,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4183,9 +4183,9 @@
     "committees": [
       "Committee on Manufactures"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320330"
+      "1832-03-30"
     ],
     "description": "Mr. Dickerson, from the Committee on Manufactures, reported, in part, the following bill; which was read twice, and laid on the table. A Bill To repeal, in part, the duties on Imports.",
     "pages": [
@@ -4202,8 +4202,8 @@
         "page": 3
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4212,9 +4212,9 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320611"
+      "1832-06-11"
     ],
     "description": "Mr. Dickerson proposed that the ''bill to repeal, in part, the duties on imports,'' be amended as follows, viz. Sec. 1. Line seven--from the word ''coffee,'' strike out to the end of the section, as included within brackets, and insert what follows in italics: An explanation of which is contained in the lines following the same, also within brackets and in brevier type. Amendment.",
     "pages": [
@@ -4235,8 +4235,8 @@
         "page": 4
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4245,9 +4245,9 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320611"
+      "1832-06-11"
     ],
     "description": "Amendment intended to be proposed by Mr. Tazewell to the ''bill to repeal, in part, the duties on imports,'' viz. Strike out all after the enacting clause, and insert the following: Amendment.",
     "pages": [
@@ -4308,8 +4308,8 @@
         "page": 14
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4320,9 +4320,9 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320402"
+      "1832-04-02"
     ],
     "description": "Mr. Bell, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of the heirs of Thomas Davenport.",
     "pages": [
@@ -4331,8 +4331,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4343,9 +4343,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320402"
+      "1832-04-02"
     ],
     "description": "Mr. Ellis, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill To create new land offices in the late Choctaw purchase, and for the more convenient organization of the land districts in the State of Mississippi.",
     "pages": [
@@ -4366,8 +4366,8 @@
         "page": 4
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4378,9 +4378,9 @@
     "committees": [
       "Committee on Military Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320404"
+      "1832-04-04"
     ],
     "description": "Mr. Benton, from the Committee on Military Affairs, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of the administratrix of Captain Paschal Hickman.",
     "pages": [
@@ -4389,8 +4389,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4401,9 +4401,9 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320411"
+      "1832-04-11"
     ],
     "description": "Mr. Brown, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Parish Carter.",
     "pages": [
@@ -4412,8 +4412,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4424,9 +4424,9 @@
     "committees": [
       "Committee on Commerce"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320411"
+      "1832-04-11"
     ],
     "description": "Mr. Forsyth, from the Committee on Commerce, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of J. and W. Lippincott & Co.",
     "pages": [
@@ -4435,8 +4435,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4447,11 +4447,11 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320411",
-      "18320412",
-      "18320419"
+      "1832-04-11",
+      "1832-04-12",
+      "1832-04-19"
     ],
     "description": "Agreeably to notice given, Mr. Johnston asked and obtained leave to bring in the following bill; which was read, and passed to a second reading. Read a second time, and referred to the Committee on Public Lands. Reported without amendment. A Bill To authorize the payment of the five per centum of the nett proceeds of the sales of the lands of the United States in the State of Louisiana.",
     "pages": [
@@ -4460,8 +4460,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4472,10 +4472,10 @@
     "committees": [
       "Committee on Roads and Canals"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320412",
-      "18320424"
+      "1832-04-12",
+      "1832-04-24"
     ],
     "description": "Agreeably to notice given, Mr. Poindexter asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Roads and Canals. Reported without amendment. A Bill Authorizing the President of the United States to cause a road to be opened from Helena to the mouth of Cache river, in the Territory of Arkansas.",
     "pages": [
@@ -4484,8 +4484,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4496,9 +4496,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320412"
+      "1832-04-12"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Jacob C. Jordan.",
     "pages": [
@@ -4507,8 +4507,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4519,10 +4519,10 @@
     "committees": [
       "Committee on Roads and Canals"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320413",
-      "18320424"
+      "1832-04-13",
+      "1832-04-24"
     ],
     "description": "Agreeably to notice given, Mr. Johnston asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Roads and Canals. Reported with the following amendments, viz.--The parts to be stricken out included within [brackets,] and those to be inserted printed in italics. A Bill Supplementary to the act authorizing the Territory of Florida to open canals between Chipola river and St. Andrew's bay, and from Matanzas to Halifax river, in said Territory, approved March second, one thousand eight hundred and thirty-two.",
     "pages": [
@@ -4539,8 +4539,8 @@
         "page": 3
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4551,9 +4551,9 @@
     "committees": [
       "Committee on Military Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320413"
+      "1832-04-13"
     ],
     "description": "Mr. Benton, from the Committee on Military Affairs, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Elizabeth Scott, daughter of the late Captain William Blackwell.",
     "pages": [
@@ -4562,8 +4562,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4574,9 +4574,9 @@
     "committees": [
       "Committee on Foreign Relations"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320416"
+      "1832-04-16"
     ],
     "description": "Mr. Forsyth, from the Committee on Foreign Relations, reported the following bill; which was read twice, and laid on the table: A Bill To exempt the vessels of Portugal from the payment of duties on tonnage.",
     "pages": [
@@ -4585,8 +4585,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4597,9 +4597,9 @@
     "committees": [
       "Committee on Manufactures"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320416"
+      "1832-04-16"
     ],
     "description": "Mr. Clay, from the Committee on Manufactures, to whom the subject was referred by a resolution of the Senate of the twenty-second ultimo, reported the following bill; which was read, and laid on the table. A Bill To appropriate, for a limited time, the proceeds of the sales of the Public Lands of the United States.",
     "pages": [
@@ -4616,8 +4616,8 @@
         "page": 3
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4626,9 +4626,9 @@
     "chamber": "s",
     "collection": "llsb",
     "committees": [],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320620"
+      "1832-06-20"
     ],
     "description": "Amendments. The bill to appropriate, for a limited time, the proceeds of the sales of the public lands of the United States, being under consideration, Mr. Poindexter gave notice that he would, when the amendment reported to the bill should be disposed of, propose to add to the bill the following sections:",
     "pages": [
@@ -4641,8 +4641,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4653,9 +4653,9 @@
     "committees": [
       "Committee on Pensions"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320416"
+      "1832-04-16"
     ],
     "description": "Mr. Buckner, from the Committee on Pensions, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of George W. Howard.",
     "pages": [
@@ -4664,8 +4664,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4676,11 +4676,11 @@
     "committees": [
       "Committee on the District of Columbia"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320503",
-      "18320504",
-      "18320530"
+      "1832-05-03",
+      "1832-05-04",
+      "1832-05-30"
     ],
     "description": "Agreeably to notice given, Mr. Chambers asked and obtained leave to bring in the following bill; which was read, and passed to a second reading: Read a second time, and referred to the Committee on the District of Columbia. Reported with an amendment, viz. Strike out all the first section, after the enacting clause, and insert what follows the same in italics. A Bill Granting certain lots, and parts of lots, to the Washington City Orphan Asylum.",
     "pages": [
@@ -4693,8 +4693,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4705,9 +4705,9 @@
     "committees": [
       "Committee on Military Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320417"
+      "1832-04-17"
     ],
     "description": "Mr. Dallas, from the Committee on Military Affairs, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Joseph Du Commun.",
     "pages": [
@@ -4716,8 +4716,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4728,10 +4728,10 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320418",
-      "18320427"
+      "1832-04-18",
+      "1832-04-27"
     ],
     "description": "Agreeably to notice given, Mr. Dallas asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on the Judiciary. Reported with the following amendment, viz. Strike out the first section, after the enacting clause, and insert what follows, in italics. A Bill Supplementary to an act, entitled ''An act more effectually to provide for the punishment of certain crimes against the United States, and for other purposes,'' passed on the third day of March, one thousand eight hundred and twenty-five.",
     "pages": [
@@ -4748,8 +4748,8 @@
         "page": 3
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4760,10 +4760,10 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320424",
-      "18320501"
+      "1832-04-24",
+      "1832-05-01"
     ],
     "description": "Agreeably to notice given, Mr. Frelinghuysen asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on the Judiciary. Reported without amendment. A Bill To authorize the Secretary of the Treasury to compromise with the Trustee of the late firm of Thomas H. Smith and Son, and their securities, the claims of the United States upon the said firm and their securities.",
     "pages": [
@@ -4772,8 +4772,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4784,9 +4784,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320424"
+      "1832-04-24"
     ],
     "description": "Mr. Hayne, from the Committee on the Judiciary, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of the legal representatives of the late Thomas Chapman, formerly Collector of the port of Georgetown, South Carolina.",
     "pages": [
@@ -4795,8 +4795,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4807,9 +4807,9 @@
     "committees": [
       "Committee on the District of Columbia"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320425"
+      "1832-04-25"
     ],
     "description": "Mr. Chambers, from the Committee on the District of Columbia, reported the following bill, which was read, and passed to a second reading: A Bill To extend the period to which the charter of the Provident Association of Clerks was limited.",
     "pages": [
@@ -4818,8 +4818,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4830,9 +4830,9 @@
     "committees": [
       "Committee on Military Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320426"
+      "1832-04-26"
     ],
     "description": "Mr. Dallas, from the Committee on Military Affairs, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of the heirs and representatives of the late General William Macpherson, of the revolutionary army.",
     "pages": [
@@ -4841,8 +4841,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4853,9 +4853,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320427"
+      "1832-04-27"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Samuel Smith, Lynn Mac Ghee, and Semoier, Creek Indians.",
     "pages": [
@@ -4864,8 +4864,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4876,9 +4876,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320430"
+      "1832-04-30"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill Authorizing the Secretary of the Treasury to make additional compensation to the Register and Receiver of the land office at Tallahassee, Florida.",
     "pages": [
@@ -4887,8 +4887,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4899,9 +4899,9 @@
     "committees": [
       "Committee of Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320501"
+      "1832-05-01"
     ],
     "description": "Mr. Ruggles, from the Committee of Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of James Taylor, of Kentucky.",
     "pages": [
@@ -4910,8 +4910,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4922,9 +4922,9 @@
     "committees": [
       "Committee on Manufactures"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320501"
+      "1832-05-01"
     ],
     "description": "Mr. Dickerson, from the Committee on Manufactures, reported the following bill; which was read, and passed to a second reading: A Bill Further to amend the several acts imposing Duties on Imports.",
     "pages": [
@@ -4957,8 +4957,8 @@
         "page": 7
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4969,9 +4969,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320501"
+      "1832-05-01"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill Confirming certain land claims in the district of St. Stephens, in Alabama.",
     "pages": [
@@ -4980,8 +4980,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -4992,9 +4992,9 @@
     "committees": [
       "Committee on Public Lands"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320502"
+      "1832-05-02"
     ],
     "description": "Mr. King, from the Committee on Public Lands, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Susan Marlow.",
     "pages": [
@@ -5003,8 +5003,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -5015,11 +5015,11 @@
     "committees": [
       "Committee on the District of Columbia"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320503",
-      "18320504",
-      "18320530"
+      "1832-05-03",
+      "1832-05-04",
+      "1832-05-30"
     ],
     "description": "Agreeably to notice given, Mr. Chambers asked and obtained leave to bring in the following bill; which was read, and passed to a second reading: Read a second time, and referred to the Committee on the District of Columbia. Reported with an amendment, viz. Strike out all the first section, after the enacting clause, and insert what follows the same in italics. A Bill Granting certain lots, and parts of lots, to the Washington City Orphan Asylum.",
     "pages": [
@@ -5032,8 +5032,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -5044,9 +5044,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320504"
+      "1832-05-04"
     ],
     "description": "Mr. Frelinghuysen, from the Committee on the Judiciary, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Rebecca Blodget, widow of Samuel Blodget, deceased.",
     "pages": [
@@ -5055,8 +5055,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -5067,9 +5067,9 @@
     "committees": [
       "Committee on Indian Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320504"
+      "1832-05-04"
     ],
     "description": "Mr. White, from the Committee on Indian Affairs, reported the following bill; which was read, and passed to a second reading: A Bill Granting to John B. Chandonai a section of land.",
     "pages": [
@@ -5078,8 +5078,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -5090,10 +5090,10 @@
     "committees": [
       "Committee on Private Land Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320510",
-      "18320519"
+      "1832-05-10",
+      "1832-05-19"
     ],
     "description": "Agreeably to notice given, Mr. Waggaman asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Private Land Claims. Reported without amendment. A Bill To enable the heirs and legal representatives of Elisha Winter and Sons to institute proceedings to try the validity of their claims to certain lands.",
     "pages": [
@@ -5126,8 +5126,8 @@
         "page": 7
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -5138,9 +5138,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320514"
+      "1832-05-14"
     ],
     "description": "Mr. Marcy, from the Committee on the Judiciary, reported the following bill; which was read, and passed to a second reading. A Bill To authorize the Secretary of the Treasury to compromise the claim of the United States on the German Bank of Wooster.",
     "pages": [
@@ -5149,8 +5149,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -5161,10 +5161,10 @@
     "committees": [
       "Committee on Post Offices and Post Roads"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320515",
-      "18320519"
+      "1832-05-15",
+      "1832-05-19"
     ],
     "description": "Agreeably to notice given, Mr. Holmes asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Post Offices and Post Roads. Reported without amendment. A Bill To repeal the postage on Newspapers.",
     "pages": [
@@ -5173,8 +5173,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -5185,9 +5185,9 @@
     "committees": [
       "Committee on Roads and Canals"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320518"
+      "1832-05-18"
     ],
     "description": "Mr. Hendricks, from the Committee on Roads and Canals, reported the following bill; which was read, and passed to a second reading: A Bill Supplemental to the act ''Granting certain relinquished and unappropriated lands to the State of Alabama, for the purpose of improving the navigation of the Tennessee, Coosa, Cahaba, and Black Warrior rivers,'' approved the twenty-third day of May, one thousand eight hundred and twenty-eight.",
     "pages": [
@@ -5196,8 +5196,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -5208,9 +5208,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320519"
+      "1832-05-19"
     ],
     "description": "Mr. Frelinghuysen, from the Committee on the Judiciary, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Joseph Nourse.",
     "pages": [
@@ -5219,8 +5219,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -5231,10 +5231,10 @@
     "committees": [
       "Committee on Military Affairs"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320523",
-      "18320607"
+      "1832-05-23",
+      "1832-06-07"
     ],
     "description": "Agreeably to notice given, Mr. Chambers asked and obtained leave to bring in the following bill; which was read twice, and referred to the Committee on Military Affairs. Reported without amendment. A Bill For the relief of the heirs and legal representatives of Lewis Milller, deceased.",
     "pages": [
@@ -5243,8 +5243,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -5255,9 +5255,9 @@
     "committees": [
       "Committee on the Post Office and Post Roads"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320529"
+      "1832-05-29"
     ],
     "description": "Mr. Grundy, from the Committee on the Post Office and Post Roads, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Thomas Rhodes and Jeremiah Austill.",
     "pages": [
@@ -5266,8 +5266,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -5278,9 +5278,9 @@
     "committees": [
       "Committee on Private Land Claims"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320530"
+      "1832-05-30"
     ],
     "description": "Mr. Kane, from the Committee on Private Land Claims, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of the legal representatives of Laurence Milligan, deceased.",
     "pages": [
@@ -5289,8 +5289,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -5301,9 +5301,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320607"
+      "1832-06-07"
     ],
     "description": "Mr. Marcy, from the Committee on the Judiciary, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of the legal representatives of Theodore Brightwell, deceased.",
     "pages": [
@@ -5312,8 +5312,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -5324,9 +5324,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320608"
+      "1832-06-08"
     ],
     "description": "Mr. Marcy, from the Committee on the Judiciary, reported the following bill; which was read, and passed to a second reading: A Bill To amend an act entitled ''An act for the better organization of the district courts of the United States within the State of Alabama,'' approved tenth March, eighteen hundred and twenty-four.",
     "pages": [
@@ -5347,8 +5347,8 @@
         "page": 4
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -5359,9 +5359,9 @@
     "committees": [
       "Committee on the District of Columbia"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320628"
+      "1832-06-28"
     ],
     "description": "Mr. Chambers, from the Committee on the District of Columbia, reported the following bill; which was read, and passed to a second reading: A Bill To erect a Bridge over the Potomac river, at or near Georgetown, in the District of Columbia.",
     "pages": [
@@ -5382,8 +5382,8 @@
         "page": 4
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -5394,9 +5394,9 @@
     "committees": [
       "Committee on Finance"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320630"
+      "1832-06-30"
     ],
     "description": "Mr. Smith, from the Committee on Finance, reported the following bill; which was read, and passed to a second reading: A Bill Concerning Tonnage Duty on Spanish vessels.",
     "pages": [
@@ -5409,8 +5409,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -5421,9 +5421,9 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320709"
+      "1832-07-09"
     ],
     "description": "Mr. Marcy, from the Committee on the Judiciary, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of David Beard.",
     "pages": [
@@ -5432,8 +5432,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   },
   {
     "bill_numbers": [
@@ -5444,9 +5444,9 @@
     "committees": [
       "Committee on Finance"
     ],
-    "congress": "022",
+    "congress": 22,
     "dates": [
-      "18320712"
+      "1832-07-12"
     ],
     "description": "Mr. Smith, from the Committee on Finance, reported the following bill; which was read, and passed to a second reading: A Bill For the relief of Thomas D. Anderson.",
     "pages": [
@@ -5455,7 +5455,7 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "013"
+    "session": 1,
+    "volume": 13
   }
 ]

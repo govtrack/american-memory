@@ -6,9 +6,9 @@
     "chamber": "s",
     "collection": "llsr",
     "committees": [],
-    "congress": "018",
+    "congress": 18,
     "dates": [
-      "18250113"
+      "1825-01-13"
     ],
     "description": "Joint Resolution Directing the Librarian to furnish the several Committee Rooms of Congress with copies of the Laws of the United States.",
     "pages": [
@@ -17,7 +17,7 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "018"
+    "session": 2,
+    "volume": 18
   }
 ]

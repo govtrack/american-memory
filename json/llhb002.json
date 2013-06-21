@@ -8,9 +8,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181124"
+      "1818-11-24"
     ],
     "description": "Read twice and committed to a committee of the whole House on Monday next. A Bill Authorizing the election of a Delegate from the Michigan Territory to the Congress of the United States, and extending the rights of suffrage to the citizens of said territory.",
     "pages": [
@@ -23,8 +23,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -35,9 +35,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181125"
+      "1818-11-25"
     ],
     "description": "Read twice and committed to a committee of the whole House on to-morrow. A Bill For the relief of William T. Nimmo.",
     "pages": [
@@ -46,8 +46,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -58,9 +58,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181126"
+      "1818-11-26"
     ],
     "description": "Read twice and committed to a committee of the whole House on to-morrow. A Bill For the relief of Samuel Walker.",
     "pages": [
@@ -69,8 +69,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -81,9 +81,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181126"
+      "1818-11-26"
     ],
     "description": "Read twice and committed to a committee of the whole House on to-morrow. A Bill Extending the terms of half-pay pensions to the widows and children of certain officers, seamen and marines, who died in the public service.",
     "pages": [
@@ -92,8 +92,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -104,9 +104,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181130"
+      "1818-11-30"
     ],
     "description": "Read and committed to a committee of the whole House to-morrow. A Bill In addition to an act, entitled ''An act to regulate the collection of duties on imports and tonnage, passed the second day of March, one thousand seven hundred and ninety-nine.''",
     "pages": [
@@ -115,8 +115,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -127,9 +127,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181201"
+      "1818-12-01"
     ],
     "description": "Read twice and committed to a committee of the whole House on Friday next. A Bill To prohibit the Choctaw tribe of Indians from settling or hunting on the lands of the United States, west of the Mississippi.",
     "pages": [
@@ -142,8 +142,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -154,9 +154,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181202"
+      "1818-12-02"
     ],
     "description": "Read twice, and committed to a committee of the whole House on Monday next. A Bill Authorizing the establishment of a National Armoury.",
     "pages": [
@@ -169,8 +169,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -181,9 +181,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181204"
+      "1818-12-04"
     ],
     "description": "Read twice, and committed to a committee of the whole House on Monday next. A Bill For the relief of Philip C.S. Barbour.",
     "pages": [
@@ -196,8 +196,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -206,9 +206,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181204"
+      "1818-12-04"
     ],
     "description": "Read twice and ordered to lie upon the table. A Bill For the final adjustment of certain land claims in the state of Louisiana and territory of Missouri.",
     "pages": [
@@ -253,8 +253,8 @@
         "page": 10
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -265,9 +265,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181207"
+      "1818-12-07"
     ],
     "description": "Read twice and committed to a committee of the whole House on to-morrow. A Bill For the relief of Jacob Dox.",
     "pages": [
@@ -276,8 +276,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -288,9 +288,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181207"
+      "1818-12-07"
     ],
     "description": "Read twice and committed to a committee of the whole House on to-morrow. A Bill For the relief of Widows and Orphans.",
     "pages": [
@@ -299,8 +299,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -311,9 +311,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181208"
+      "1818-12-08"
     ],
     "description": "Read twice, and committed to a committee of the whole House, on the report of the Secretary of the Treasury, of a plan for the final adjustment and settlement of land claims in the State of Louisiana, and Territory of Missouri. A Bill Supplementary to the several acts for the adjustment of Land Claims in the state of Louisiana and territory of Missouri.",
     "pages": [
@@ -370,8 +370,8 @@
         "page": 13
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -382,9 +382,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181208"
+      "1818-12-08"
     ],
     "description": "Read twice, and committed to a committee of the whole House to-morrow. A Bill To reduce the duties on certain wines, and to declare free of duty, books printed in foreign languages.",
     "pages": [
@@ -401,8 +401,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -413,9 +413,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181211"
+      "1818-12-11"
     ],
     "description": "Read twice, and committed to a committee of the whole House to-morrow. A Bill For the relief of colonel Isaac Clark, and the officers and soldiers under his command, at the time of making an inroad into the country of the enemy during the late war.",
     "pages": [
@@ -424,8 +424,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -436,9 +436,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181211"
+      "1818-12-11"
     ],
     "description": "Read twice, and committed to a committee of the whole House on to-morrow. A Bill Explanatory of the act, entitled ''An act for the final adjustment of land titles in the state of Louisiana and Territory of Missouri.''",
     "pages": [
@@ -447,8 +447,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -459,9 +459,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181211"
+      "1818-12-11"
     ],
     "description": "Read twice, and committed to a committee of the whole House to-morrow. A Bill Explanatory of the act, entitled ''An act for the final adjustment of land titles in the state of Louisiana and Territory of Missouri.''",
     "pages": [
@@ -470,8 +470,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -482,9 +482,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181211"
+      "1818-12-11"
     ],
     "description": "Read twice, and committed to a committee of the whole House, on the bill making provision for the claim of M. Poiry. A Bill Making provision for the claim of M. de Vienne.",
     "pages": [
@@ -493,8 +493,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -505,9 +505,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181214"
+      "1818-12-14"
     ],
     "description": "Read twice and committed to a committee of the whole house to-morrow. A Bill For the relief of John Rice Jones.",
     "pages": [
@@ -516,8 +516,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -528,9 +528,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181214"
+      "1818-12-14"
     ],
     "description": "Read twice, and committed to a committee of the whole House to-morrow. A Bill For the benefit of Thomas Carr and others.",
     "pages": [
@@ -543,8 +543,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -555,9 +555,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181214"
+      "1818-12-14"
     ],
     "description": "Read twice and committed to a committee of the whole House on the bill for the relief of the representatives of Baker and Trouillet. A Bill For the relief of the legal representatives of Alexander Montgomery, deceased.",
     "pages": [
@@ -566,8 +566,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -578,9 +578,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181215"
+      "1818-12-15"
     ],
     "description": "Read twice, and committed to a committee of the whole House on the bill for the relief of Kenzie and Forsyth. A Bill For the relief of John B. C. Lucas, and Clement B. Penrose.",
     "pages": [
@@ -589,8 +589,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -601,9 +601,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181216"
+      "1818-12-16"
     ],
     "description": "Read twice, and committed to a committee of the whole house on Monday next. A Bill Providing for the payment of property lost and destroyed in the Seminole war.",
     "pages": [
@@ -612,8 +612,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -624,9 +624,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181216"
+      "1818-12-16"
     ],
     "description": "Read twice, and committed to a committee of the whole House on Monday next. A Bill For the relief of Harvey Wakefield.",
     "pages": [
@@ -635,8 +635,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -647,9 +647,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181216"
+      "1818-12-16"
     ],
     "description": "Read twice, and committed to a committee of the whole House to-morrow. A Bill Allowing to each noncommissioned officer, musician, and private, in the army of the United States, who were on furlough at the close of the late war with Great Britain, a bounty in land, as in other cases.",
     "pages": [
@@ -658,8 +658,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -670,9 +670,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181216"
+      "1818-12-16"
     ],
     "description": "Read twice, and committed to a committee of the whole House on Monday next. A Bill For the relief of Captain Stanton Sholes.",
     "pages": [
@@ -681,8 +681,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -693,9 +693,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181216"
+      "1818-12-16"
     ],
     "description": "Read twice, and committed to a committee of the whole house on to-morrow. A Bill Granting a donation of land to the state of Illinois, for the Seat of Government of said State.",
     "pages": [
@@ -704,8 +704,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -716,9 +716,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181218"
+      "1818-12-18"
     ],
     "description": "Read twice, and committed to a committee of the whole House on Monday next. A Bill For the relief of Daniel Bickley and Catharine Clark, administratix of John Clark, deceased.",
     "pages": [
@@ -727,8 +727,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -739,9 +739,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181221"
+      "1818-12-21"
     ],
     "description": "Read twice and committed to a committee of the whole House on the ''bill authorizing the people of the Missouri territory, to form a constitution and state government, and for the admission of such state into the Union on an equal footing with the original states.'' A Bill Establishing a separate territorial government in the southern part of the Territory of Missouri.",
     "pages": [
@@ -770,8 +770,8 @@
         "page": 6
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -782,9 +782,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181221"
+      "1818-12-21"
     ],
     "description": "Read twice, and committed to a committee of the whole House to-morrow. A Bill To provide for taking the fourth Census, or enumeration of the Inhabitants of the United States.",
     "pages": [
@@ -829,8 +829,8 @@
         "page": 10
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -841,9 +841,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181221"
+      "1818-12-21"
     ],
     "description": "Read twice, and committed to a committee of the whole House on Monday next. A Bill For the relief of John Wells.",
     "pages": [
@@ -852,8 +852,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -864,9 +864,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181221"
+      "1818-12-21"
     ],
     "description": "Read twice, and committed to a committee of the whole House, to which is committed the bill authorizing the establishment of a national armory. A Bill Respecting the Military Establishment of the United States.",
     "pages": [
@@ -887,8 +887,8 @@
         "page": 4
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -899,9 +899,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181222"
+      "1818-12-22"
     ],
     "description": "Read twice, and committed to a committee of the whole House to-morrow. A Bill Making appropriations for the Military service of the United States for the year eighteen hundred and nineteen.",
     "pages": [
@@ -922,8 +922,8 @@
         "page": 4
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -934,9 +934,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181222"
+      "1818-12-22"
     ],
     "description": "Read twice and committed to a committee of the whole house to-morrow. A Bill For the relief of William Coffin and others.",
     "pages": [
@@ -945,8 +945,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -957,9 +957,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181222"
+      "1818-12-22"
     ],
     "description": "Read twice and committed to a Committee of the whole House, on the Bill to incorporate the Medical Society of the District of Columbia. A Bill To incorporate the Provident Association of Clerks in the Civil Department of the government of the United States, in the District of Columbia.",
     "pages": [
@@ -992,8 +992,8 @@
         "page": 7
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1004,9 +1004,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181223"
+      "1818-12-23"
     ],
     "description": "Read twice and committed to a committee of the whole house to-morrow. A Bill To increase the duty on cotton imported into the United States, and to prohibit the allowance of drawback on the exportation of gun-powder.",
     "pages": [
@@ -1023,8 +1023,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1035,9 +1035,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181224"
+      "1818-12-24"
     ],
     "description": "Read twice, and committed to a committee of the whole House, to which is committed the bill granting a donation of land to the state of Illinois, &c. A Bill Supplementary to ''An act to enable the people of the Indiana Territory to form a constitution and state government, and for the admission of such state into the Union on an equal footing with the original states.''",
     "pages": [
@@ -1046,8 +1046,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1058,9 +1058,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181224"
+      "1818-12-24"
     ],
     "description": "Read twice, and committed to a committee of the whole House on Monday next. A Bill For the relief of Hannah Ring, and Luther Frink.",
     "pages": [
@@ -1069,8 +1069,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1081,9 +1081,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181228"
+      "1818-12-28"
     ],
     "description": "Read twice, and committed to a committee of the whole House on Monday next. A Bill For the relief of Ezra Child.",
     "pages": [
@@ -1092,8 +1092,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1104,9 +1104,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181228"
+      "1818-12-28"
     ],
     "description": "Read twice, and committed to a committee of the whole House on Monday next. A Bill Supplementary to ''An act providing for cases of lost military land warrants and discharges for faithful services,'' and for other purposes.",
     "pages": [
@@ -1115,8 +1115,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1127,9 +1127,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181228"
+      "1818-12-28"
     ],
     "description": "Read twice and committed to a committee of the whole House to which is committed the bill for the relief of Joseph Wheaton. A Bill For the relief of General Robert Swartwout.",
     "pages": [
@@ -1138,8 +1138,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1150,9 +1150,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181218"
+      "1818-12-18"
     ],
     "description": "Read twice, and committed to a committee of the whole house on Monday next. A Bill Making appropriations for the support of the Navy of the United States, for the year eighteen hundred and nineteen.",
     "pages": [
@@ -1165,8 +1165,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1175,9 +1175,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181229"
+      "1818-12-29"
     ],
     "description": "Read and ordered to lie upon the table. A Bill Concerning suits brought on Copy Rights.",
     "pages": [
@@ -1186,8 +1186,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1198,9 +1198,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181229"
+      "1818-12-29"
     ],
     "description": "Read twice, and committed to a committee of the whole House to-morrow. A Bill Concerning Thomas Shields, and others.",
     "pages": [
@@ -1209,8 +1209,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1221,9 +1221,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18181230"
+      "1818-12-30"
     ],
     "description": "Read twice, and committed to a committee of the whole House to-morrow. A Bill For the relief of John Baptist Regnier.",
     "pages": [
@@ -1232,8 +1232,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1244,9 +1244,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190104"
+      "1819-01-04"
     ],
     "description": "Read twice, and committed to a committee of the whole House to-morrow. A Bill Authorizing the payment of a sum of money to Thomas Shields.",
     "pages": [
@@ -1255,8 +1255,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1267,9 +1267,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190104"
+      "1819-01-04"
     ],
     "description": "Read twice and committed to a committee of the whole House tomorrow. A Bill Authorizing the purchase of Live Oak Timber for building small Vessels of War.",
     "pages": [
@@ -1278,8 +1278,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1290,9 +1290,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190104"
+      "1819-01-04"
     ],
     "description": "Read twice, and committed to a committee of the whole House to-morrow. A Bill For the relief of Malcomb Bennett.",
     "pages": [
@@ -1301,8 +1301,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1313,9 +1313,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190105"
+      "1819-01-05"
     ],
     "description": "Read twice and committed to a committee of the whole House tomorrow. A Bill For the relief of John Gooding and James Williams.",
     "pages": [
@@ -1324,8 +1324,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1336,9 +1336,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190105"
+      "1819-01-05"
     ],
     "description": "Read twice and committed to a committee of the whole House to to-morrow. A Bill To authorize the prosecution of suits, in the nature of petitions of right, and information of intrusion in cases in which the United States are concerned.",
     "pages": [
@@ -1359,8 +1359,8 @@
         "page": 4
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1371,9 +1371,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190105"
+      "1819-01-05"
     ],
     "description": "Read twice, and committed to a committee of the whole House to-morrow. A Bill Concerning Navy Agents.",
     "pages": [
@@ -1382,8 +1382,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1394,9 +1394,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190107"
+      "1819-01-07"
     ],
     "description": "Read twice, and committed to a committee of the whole House to-morrow. A Bill Making appropriations for the Public Buildings, for the purchase of a lot of land, and furnishing a supply of water for the use of certain Public Buildings.",
     "pages": [
@@ -1409,8 +1409,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1421,9 +1421,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190107"
+      "1819-01-07"
     ],
     "description": "Read twice and committed to a committee of the whole House to-morrow. A Bill To increase the salaries of the Assistant Postmasters General.",
     "pages": [
@@ -1432,8 +1432,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1442,9 +1442,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190113"
+      "1819-01-13"
     ],
     "description": "Read and ordered to lie upon the table. A Bill To provide for the payment of the pensions of persons under guardianship, to their guardians.",
     "pages": [
@@ -1453,8 +1453,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1465,9 +1465,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190113"
+      "1819-01-13"
     ],
     "description": "Read twice, and committed to a committee of the whole House to which is committed, the report made at the last session by the committee, on the subject of colonizing the free people of color. A Bill In addition to the acts prohibiting the slave trade.",
     "pages": [
@@ -1492,8 +1492,8 @@
         "page": 5
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1504,9 +1504,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190114"
+      "1819-01-14"
     ],
     "description": "Read twice, and committed to a committee of the whole House, to which is committed, the bill to reduce the duties on certain wines, and to declare free of duty, books printed in foreign languages. A Bill Supplementary to, and to amend, the act, entitled ''An act to continue in force an act further to provide for the collection of duties on imports and tonnage, and for other purposes;'' passed the third day of March, one thousand eight hundred and seventeen.",
     "pages": [
@@ -1523,8 +1523,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1535,9 +1535,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190115"
+      "1819-01-15"
     ],
     "description": "Read twice, and committed to a committee of the whole House, to which is committed, the ''Bill to prohibit the Choctaw tribe of Indians, from settling or hunting on the lands of the United States, west of the Mississippi.'' A Bill To authorize the President of the United States, to select such tribes of Indians as he may think best prepared for the change, and to adopt such means as he may judge expedient, in order to civilize the same.",
     "pages": [
@@ -1550,8 +1550,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1562,9 +1562,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190115"
+      "1819-01-15"
     ],
     "description": "Read twice, and committed to a committee of the whole House, to which is committed, the ''Bill to prohibit the Choctaw tribe of Indians, from settling or hunting on the lands of the United States, west of the Mississippi.'' A Bill Providing for the abolition of the existing Indian trading establishments of the United States, and providing for the opening of the trade with the Indians to individuals.",
     "pages": [
@@ -1593,8 +1593,8 @@
         "page": 6
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1605,9 +1605,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190116"
+      "1819-01-16"
     ],
     "description": "Read twice, and committed to a committee of the whole House, to which is committed the ''Bill in addition to the acts prohibiting the slave trade.'' A Bill To provide for delivering up persons held to labor or service in any of the states or territories, who shall escape into any other state or territory.",
     "pages": [
@@ -1644,8 +1644,8 @@
         "page": 8
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1656,9 +1656,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190116"
+      "1819-01-16"
     ],
     "description": "Read twice, and committed to a committee of the whole House, on the State of the Union. A Bill To enforce those provisions of the act, entitled ''An act to incorporate the subscribers to the Bank of the United States,'' which relate to the right of voting for Directors.",
     "pages": [
@@ -1671,8 +1671,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1683,9 +1683,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190118"
+      "1819-01-18"
     ],
     "description": "Read twice, and committed to a committee of the whole House, to-morrow. A Bill Authorizing an equitable settlement of the accounts of the late captain James M' Donald, of the Fourteenth regiment United States fantry.",
     "pages": [
@@ -1694,8 +1694,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1704,9 +1704,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190118"
+      "1819-01-18"
     ],
     "description": "Read twice, and ordered to be engrossed and read a third time, on Thursday next. A Bill Supplementary to the act, entitled ''An act to provide for the prompt settlement of public accounts.''",
     "pages": [
@@ -1719,8 +1719,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1731,9 +1731,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190118"
+      "1819-01-18"
     ],
     "description": "Read twice, and committed to a committee of the whole House, to which is committed the Bill to increase the duty on cotton imported into the United States, &c. &c. A Bill Relative to the Direct Tax and Internal Duties.",
     "pages": [
@@ -1746,8 +1746,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1758,9 +1758,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190118"
+      "1819-01-18"
     ],
     "description": "Read twice, and committed to a committee of the whole House, to which is committed the bill for the relief of P.S. Barbour. A Bill For the relief of James Mackay, of the Missouri Territory.",
     "pages": [
@@ -1769,8 +1769,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1781,9 +1781,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190126"
+      "1819-01-26"
     ],
     "description": "Read twice, and committed to a committee of the whole House, to-morrow. A Bill Supplementary to the Act establishing a Mint.",
     "pages": [
@@ -1796,8 +1796,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1808,9 +1808,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190126"
+      "1819-01-26"
     ],
     "description": "Read twice, and committed to a committee of the whole House, to-morrow. A Bill Making appropriations for the support of government for the year one thousand eight hundred and nineteen.",
     "pages": [
@@ -1879,8 +1879,8 @@
         "page": 16
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1891,9 +1891,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190127"
+      "1819-01-27"
     ],
     "description": "Read twice, and committed to a committee of the whole House, to which is committed the ''Bill for the relief of John Wells.'' A Bill Supplementary to the act, entitled ''An act for the relief of Benjamin Wells.''",
     "pages": [
@@ -1902,8 +1902,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1914,9 +1914,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190130"
+      "1819-01-30"
     ],
     "description": "Read twice, and committed to a committee of the whole House, to which is committed the bill to increase the duty on cotton, imported into the United States, and to prohibit the allowance of drawback on gunpowder exported. A Bill To increase the duties on certain manufactured articles imported into the United States.",
     "pages": [
@@ -1933,8 +1933,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1945,9 +1945,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190203"
+      "1819-02-03"
     ],
     "description": "Read twice, and committed to a committee of the whole House, to-morrow. A Bill For the relief of Ambrose Vasse.",
     "pages": [
@@ -1956,8 +1956,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1968,9 +1968,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190203"
+      "1819-02-03"
     ],
     "description": "Read twice, and committed to a committee of the whole House, to-morrow. A Bill For the relief of James Hughes, of the state of Illinois.",
     "pages": [
@@ -1979,8 +1979,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -1991,9 +1991,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190205"
+      "1819-02-05"
     ],
     "description": "Read twice, and committed to a committee of the whole House, to-morrow. A Bill Concerning Invalid Pensions.",
     "pages": [
@@ -2014,8 +2014,8 @@
         "page": 4
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -2026,9 +2026,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190205"
+      "1819-02-05"
     ],
     "description": "Read twice, and committed to a committee of the whole House to which is committed the bill ''In addition to the act, entitled 'An act to regulate the collection of duties on imports and tonnage,'' passed the second day of March, seventeen hundred and ninety nine. A Bill Further to establish the compensation of the officers employed in the collection of the duties on imports and tonnage, and for other purposes.",
     "pages": [
@@ -2053,8 +2053,8 @@
         "page": 5
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -2065,9 +2065,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190210"
+      "1819-02-10"
     ],
     "description": "Read twice, and committed to a committee of the whole House, to-morrow. A Bill To alter and establish certain Post Roads.",
     "pages": [
@@ -2116,8 +2116,8 @@
         "page": 11
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -2126,9 +2126,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190212"
+      "1819-02-12"
     ],
     "description": "Read, and ordered to lie upon the table. A Bill Freeing from postage, letters and packets to and from certain officers of agricultural societies.",
     "pages": [
@@ -2137,8 +2137,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -2147,9 +2147,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190212"
+      "1819-02-12"
     ],
     "description": "Read the first and second time, and ordered to lie on the table. A Bill In relation to the Banks in the District of Columbia.",
     "pages": [
@@ -2222,8 +2222,8 @@
         "page": 17
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -2234,9 +2234,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190215"
+      "1819-02-15"
     ],
     "description": "Read twice and committed to a committee of the whole House, to which is committed the ''Bill authorizing the establishment of a national armory.'' A Bill For establishing an additional Military Academy, and a Military School of Application.",
     "pages": [
@@ -2253,8 +2253,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -2265,9 +2265,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190215"
+      "1819-02-15"
     ],
     "description": "Read twice, and committed to a committee of the whole House, to-morrow. A Bill Making an appropriation for carrying into effect the provisions of an act, passed on the first day of March, eighteen hundred and seventeen, entitled ''An act making reservation of certain public lands, to supply timber for naval purposes.''",
     "pages": [
@@ -2276,8 +2276,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -2288,9 +2288,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190213"
+      "1819-02-13"
     ],
     "description": "Read twice, and committed to a committee of the whole House, to-morrow. A Bill Supplementary to ''An act to provide for certain persons engaged in the land and naval service of the United States, in the revolutionary war.''",
     "pages": [
@@ -2303,8 +2303,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -2315,9 +2315,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190220"
+      "1819-02-20"
     ],
     "description": "Read twice, and committed to a committee of the whole House, on Monday next. A Bill To amend an act, entitled ''An act regulating the Post Office Establishment,'' passed thirtieth April, one thousand eight hundred and ten.",
     "pages": [
@@ -2330,8 +2330,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -2340,9 +2340,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190222"
+      "1819-02-22"
     ],
     "description": "Read, and ordered to lie upon the table. A Bill In behalf of the Connecticut Asylum for teaching the deaf and dumb.",
     "pages": [
@@ -2351,8 +2351,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   },
   {
     "bill_numbers": [
@@ -2363,9 +2363,9 @@
     "committees": [
       "Committee of the Whole House on the state of the Union"
     ],
-    "congress": "015",
+    "congress": 15,
     "dates": [
-      "18190227"
+      "1819-02-27"
     ],
     "description": "Read twice, and committed to a committee of the whole House on the state of the Union. A Bill To authorize the President of the United States to take possession of East and West Florida, and establish a temporary government therein.",
     "pages": [
@@ -2382,7 +2382,7 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "002"
+    "session": 2,
+    "volume": 2
   }
 ]

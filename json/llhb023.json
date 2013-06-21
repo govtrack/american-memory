@@ -8,9 +8,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18051206"
+      "1805-12-06"
     ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Monday next. A bill, Prohibiting, for a limited time, the Exportation of Arms and Ammunition from the United States.",
     "pages": [
@@ -27,8 +27,8 @@
         "page": 3
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -39,9 +39,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18051211"
+      "1805-12-11"
     ],
     "description": "Read the first and second time, and ordered to be committed to a committee of the whole House on Monday next. A Bill, Supplementary to the ''act making provision for the payment of claims of citizens of the United States on the government of France, the payment of which has been assumed by the United States, by virtue of the convention of the 30th of April, 1803, between the United States and the French republic.''",
     "pages": [
@@ -50,8 +50,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -62,9 +62,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18051212"
+      "1805-12-12"
     ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Tuesday next. A Bill, In addition to ''An act to make provision for persons that have been disabled by known wounds, received in the actual service of the United States, during the revolutionary war.''",
     "pages": [
@@ -81,8 +81,8 @@
         "page": 3
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -93,9 +93,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18051213"
+      "1805-12-13"
     ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House on Monday next. A Bill, Supplementary to the act, entitled ''An act regulating the grants of land appropriated for the refugees from the British provinces of Canada and Nova Scotia.''",
     "pages": [
@@ -104,8 +104,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -117,10 +117,10 @@
       "Committee of the Whole House",
       "Committee of Commerce and Manufactures."
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18051213",
-      "18051216"
+      "1805-12-13",
+      "1805-12-16"
     ],
     "description": "Read the first and second time, and ordered to be committed to a Committee of the whole House, immediately. Same Day. Committee of the whole House reported progress, and bill recommitted to the Committee of Commerce and Manufactures. Report made, read and ordered to be referred to a committee of the whole House, to-morrow. A Bill, For the relief of Theodorick Armistead.",
     "pages": [
@@ -129,8 +129,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -141,9 +141,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18051218"
+      "1805-12-18"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, To revive and continue in force an act, intitled ''An act to suspend, in part, the act intitled an act regulating foreign coins, and for other purposes.''",
     "pages": [
@@ -152,8 +152,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -164,9 +164,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18051218"
+      "1805-12-18"
     ],
     "description": "Read the first and second time, and ordered to be committed to a committee of the whole House on Friday next. A Bill, For establishing rules and articles for the government of the armies of the United States.",
     "pages": [
@@ -295,8 +295,8 @@
         "page": 31
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -307,9 +307,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18051220"
+      "1805-12-20"
     ],
     "description": "Read the first and second time, and ordered to be committed to a committee of the whole House, on Monday next. A Bill, For the relief of Edward Toppan, George Jenkins, and Williams Currier.",
     "pages": [
@@ -318,8 +318,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -330,9 +330,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18051220"
+      "1805-12-20"
     ],
     "description": "Read the first and second time, and ordered to be committed to a committee of the whole House, on Thursday next. A Bill, To extend the time for taking the oath and giving bond in cases of drawback, and for other purposes.",
     "pages": [
@@ -345,8 +345,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -357,9 +357,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18051223"
+      "1805-12-23"
     ],
     "description": "Read the first and second time, and ordered to be committed to a committee of the whole House, on Wednesday next. A Bill, To provide for light-houses in Long-Island sound, and to declare Rozbury, in the state of Massachusetts, to be a port of delivery.",
     "pages": [
@@ -372,8 +372,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -384,9 +384,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18051230"
+      "1805-12-30"
     ],
     "description": "Read the first and second time, and ordered to be committed to a committee of the whole House, on Thursday next. A Bill, Extending the powers of the surveyor general to the territory of Louisiana, and for other purposes.",
     "pages": [
@@ -403,8 +403,8 @@
         "page": 3
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -415,9 +415,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18051230"
+      "1805-12-30"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Thursday next. An Act, To regulate the laying out and making a road from Cumberland, in the state of Maryland, to the state of Ohio.",
     "pages": [
@@ -438,8 +438,8 @@
         "page": 4
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -450,9 +450,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060102"
+      "1806-01-02"
     ],
     "description": "Read the first and second time, and ordered to be committed to a committee of the whole House, to-morrow. A Bill, For the relief of the governor, secretary and judges, of the late territory of the United States, north-west of the river Ohio.",
     "pages": [
@@ -461,8 +461,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -473,9 +473,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060102"
+      "1806-01-02"
     ],
     "description": "Read the first and second time, and ordered to be committed to a committee of the whole House, on Tuesday next. A Bill, To extend jurisdiction in certain cases to the state judges and state courts.",
     "pages": [
@@ -484,8 +484,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -496,9 +496,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060106"
+      "1806-01-06"
     ],
     "description": "Read the first and second time, and ordered to be committed to a committee of the whole House, to-morrow. A Bill, Authorising a detachment from the militia of the United States.",
     "pages": [
@@ -511,8 +511,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -523,9 +523,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060106"
+      "1806-01-06"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Thursday next. A Bill, To repeal the act to authorise the receipt of evidences of the public debt, in payment for the lands of the United States, and for other purposes, relative to the public debt.",
     "pages": [
@@ -538,8 +538,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -550,9 +550,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060108"
+      "1806-01-08"
     ],
     "description": "Read the first and second time, and ordered to be committed to a committee of the whole House, on Monday next. A Bill, Declaring the consent of congress to an act of the state of South Carolina, passed on the twenty-first day of December, in the year of our Lord one thousand eight hundred and four, so fast as the same relates to authorising the city council of Charleston to impose and collect a duty on the tonnage of vessels from foreign ports.",
     "pages": [
@@ -561,8 +561,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -573,9 +573,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060108"
+      "1806-01-08"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, Relating to bonds given by marshals.",
     "pages": [
@@ -588,8 +588,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -600,9 +600,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060108"
+      "1806-01-08"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, A Bill, Supplementary to an act, entitled, an act to regulate and fix the compensation of the officers of the senate and house of representatives.",
     "pages": [
@@ -611,8 +611,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -623,9 +623,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060109"
+      "1806-01-09"
     ],
     "description": "Read the first and second time, and ordered to be committed to a committee of the whole House, on Tuesday next. A Bill, In addition to an act, intituled ''An act supplementary to the act providing for a naval peace establishment; and for other purposes.''",
     "pages": [
@@ -638,8 +638,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -650,9 +650,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060116"
+      "1806-01-16"
     ],
     "description": "Read the first and second time, and ordered to be committed to a committee of the whole House, on Monday next. A Bill, To incorporate the trustees of the Presbyterian Congregation of Georgetown, and for other purposes.",
     "pages": [
@@ -677,8 +677,8 @@
         "page": 5
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -689,9 +689,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060116"
+      "1806-01-16"
     ],
     "description": "Read the first and second time, and ordered to be committed to a committee of the whole House, to-morrow. A Bill, Making an additional appropriation, to supply the deficiency in the appropriation for the naval service, during the year 1805.",
     "pages": [
@@ -700,8 +700,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -712,9 +712,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060124"
+      "1806-01-24"
     ],
     "description": "Read the first and second time, and ordered to be committed to a committee of the whole House, on Monday next. A Bill, To extend the time for taking the oath, and giving bond in cases of drawback; and for other purposes.",
     "pages": [
@@ -727,8 +727,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -739,9 +739,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060127"
+      "1806-01-27"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, Laying a duty on slaves imported into the United States.",
     "pages": [
@@ -750,8 +750,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -762,9 +762,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060127"
+      "1806-01-27"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Wednesday next. A Bill, Declaring the consent of congress to an act of the state of Pennsylvania, intituled ''An act to empower the board of wardens for the port of Philadelphia, to collect a certain duty on tonnage, for the purposes therein mentioned.''",
     "pages": [
@@ -773,8 +773,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -785,9 +785,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060128"
+      "1806-01-28"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, Declaring the assent of congress to an act of the general assembly of the state of North Carolina.",
     "pages": [
@@ -796,8 +796,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -808,9 +808,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060130"
+      "1806-01-30"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, For altering the time for holding the circuit court in the district of North-Carolina.",
     "pages": [
@@ -819,8 +819,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -831,9 +831,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060203"
+      "1806-02-03"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. An Act, Making a further appropriation for the support of a library.",
     "pages": [
@@ -842,8 +842,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -854,9 +854,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060205"
+      "1806-02-05"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Wednesday next. A Bill, Removing the limitation to the right of suffrage in the Mississippi territory, and empowering the legislature thereof to increase the number of representatives in the general assembly by a given ratio to that of the electors.",
     "pages": [
@@ -869,8 +869,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -881,9 +881,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060205"
+      "1806-02-05"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, Making an appropriation for the payment of witnesses, and other expenses, on the impeachment of Samuel Chase.",
     "pages": [
@@ -892,8 +892,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -904,9 +904,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060210"
+      "1806-02-10"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Wednesday next. A Bill, Declaring the town of Jersey, in the state of New Jersey, to be a port of delivery; and for erecting a light-house on Wood Island, or Fletcher,s neck, in the state of Massachusetts.",
     "pages": [
@@ -919,8 +919,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -931,9 +931,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060210"
+      "1806-02-10"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, For the relief of the governor, judges and secretary, of the Indiana territory.",
     "pages": [
@@ -942,8 +942,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -954,9 +954,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060212"
+      "1806-02-12"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Friday next. A Bill, Authorizing the erection of a bridge over the river Potomac, within the district of Columbia.",
     "pages": [
@@ -1001,8 +1001,8 @@
         "page": 10
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1013,9 +1013,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060214"
+      "1806-02-14"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Wednesday next. A Bill, For imposing a tax of ten dollars on all slaves hereafter imported into the United States.",
     "pages": [
@@ -1032,8 +1032,8 @@
         "page": 3
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1044,9 +1044,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060218"
+      "1806-02-18"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, For the relief of John M'Fadon and Francis Johonnot.",
     "pages": [
@@ -1055,8 +1055,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1067,9 +1067,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060218"
+      "1806-02-18"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, For the relief of Philip Nicklin and Robert Eaglesfield Griffith.",
     "pages": [
@@ -1078,8 +1078,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1090,9 +1090,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060218"
+      "1806-02-18"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House to-morrow. A Bill, To change the name of the District of Nanjemoy to that of St. Mary's.",
     "pages": [
@@ -1101,8 +1101,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1113,9 +1113,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060218"
+      "1806-02-18"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House on Friday-next. A Bill, To continue in force, and act, entitled, ''An act to authorize the secretary of war to issue land warrants; and for other purposes.''",
     "pages": [
@@ -1124,8 +1124,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1134,9 +1134,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060219"
+      "1806-02-19"
     ],
     "description": "Ordered to be engrossed and read the third time, on Monday next. A Bill, For imposing a tax of ten dollars on all slaves hereafter imported into the United States.",
     "pages": [
@@ -1149,8 +1149,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1161,9 +1161,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060219"
+      "1806-02-19"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, Enabling the president of the United States to make restitution to the government of Denmark for the capture and condemnation of the Danish brigantine called the Henrick and her cargo.",
     "pages": [
@@ -1176,8 +1176,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1188,9 +1188,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060220"
+      "1806-02-20"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, To amend an act, intituled ''An act concerning the library for the use of both Houses of Congress.''",
     "pages": [
@@ -1199,8 +1199,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1211,9 +1211,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060220"
+      "1806-02-20"
     ],
     "description": "Read the first and second time, and ordered to be committed to a committee of the whole House on Monday next. A Bill, Making farther provision for extinguishing the debts due from the United States.",
     "pages": [
@@ -1230,8 +1230,8 @@
         "page": 3
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1242,9 +1242,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060220"
+      "1806-02-20"
     ],
     "description": "Read the first and second time, and ordered to be committed to a committee of the whole House on Monday next. A Bill, Making appropriation for the support of government for the year one thousand eight hundred and six.",
     "pages": [
@@ -1301,8 +1301,8 @@
         "page": 13
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1313,9 +1313,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060221"
+      "1806-02-21"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. An Act, To suspend the commercial intercourse between the United States, and certain parts of the island of St. Domingo.",
     "pages": [
@@ -1332,8 +1332,8 @@
         "page": 3
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1344,9 +1344,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060224"
+      "1806-02-24"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Thursday next. A Bill, For establishing trading houses with the Indian Tribes.",
     "pages": [
@@ -1375,8 +1375,8 @@
         "page": 6
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1387,9 +1387,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060226"
+      "1806-02-26"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Friday next. A Bill, Prescribing the effect, in each state, of the records of judgments and decrees of the courts of record of every other state.",
     "pages": [
@@ -1402,8 +1402,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1414,9 +1414,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060227"
+      "1806-02-27"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, Directing the secretary of the treasury, to cause the coast of North Carolina, between cape Hatteras and cape Fear, to be surveyed.",
     "pages": [
@@ -1425,8 +1425,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1437,9 +1437,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060303"
+      "1806-03-03"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, Authorizing the purchase of certain copies of the journals of congress.",
     "pages": [
@@ -1448,8 +1448,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1460,9 +1460,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060304"
+      "1806-03-04"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, Imposing a duty on all slaves imported into the United States.",
     "pages": [
@@ -1479,8 +1479,8 @@
         "page": 3
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1491,9 +1491,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060306"
+      "1806-03-06"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Thursday next. An Act, For the punishment of counterfeiting the current coin of the United States, and for other purposes.",
     "pages": [
@@ -1510,8 +1510,8 @@
         "page": 3
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1520,9 +1520,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060306"
+      "1806-03-06"
     ],
     "description": "Amendments of the Senate, to the Bill, Intitled ''An Act Relating to Bonds Given by Marshals.'' Read, and committed to Mr. Tallmadge, Mr. Clark, Mr. Hastings, City of Washington; A & G. Way, Printers. 1806.",
     "pages": [
@@ -1531,8 +1531,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1541,9 +1541,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060306"
+      "1806-03-06"
     ],
     "description": "Amendments of the Senate to the bill, intituled, ''An act relating to bonds given by marshals.''",
     "pages": [
@@ -1556,8 +1556,8 @@
         "page": 4
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1568,9 +1568,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060306"
+      "1806-03-06"
     ],
     "description": "Amendments of the Senate, to the Bill, Intituled ''An Act for the Relief of the Governor, Judges, and Secretary, of the Indiana Territory. Read, and committed to a committee of the Whole House, on Monday next. City of Washington; A & G. Way. Printers. 1806",
     "pages": [
@@ -1579,8 +1579,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1589,9 +1589,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060306"
+      "1806-03-06"
     ],
     "description": "Amendments Of the Senate to the bill, intituled ''An act for the relief of the governor, judges, and secretary of the Indiana territory.''",
     "pages": [
@@ -1600,8 +1600,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1612,10 +1612,10 @@
     "committees": [
       "Committee of the Public Lands."
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060317",
-      "18060326"
+      "1806-03-17",
+      "1806-03-26"
     ],
     "description": "Read the first and second time, and committed to the committee of the Public Lands. Report made, and referred to a committee of the whole house, on Saturday next. An Act, To authorize the state of Tennessee to issue grants, and perfect titles to certain lands therein described; and to settle the claims to the vacant and unappropriated lands within the same.",
     "pages": [
@@ -1640,8 +1640,8 @@
         "page": 5
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1652,9 +1652,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060318"
+      "1806-03-18"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, To provide for the adjustment of titles of land in the territory of Michigan, and for other purposes.",
     "pages": [
@@ -1687,8 +1687,8 @@
         "page": 7
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1699,9 +1699,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060321"
+      "1806-03-21"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, For erecting certain light houses in the state of Massachusetts, and for building a beacon, or pier, at Bridgeport, in the state of Connecticut.",
     "pages": [
@@ -1714,8 +1714,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1726,9 +1726,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060321"
+      "1806-03-21"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, Further to alter and establish certain post roads.",
     "pages": [
@@ -1749,8 +1749,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1761,9 +1761,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060321"
+      "1806-03-21"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, To prohibit the importation of certain goods, wares and merchandise.",
     "pages": [
@@ -1788,8 +1788,8 @@
         "page": 5
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1800,9 +1800,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060325"
+      "1806-03-25"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Thursday next. A Bill, To amend, in the cases therein mentioned, the ''act to regulate the collection of duties on imports and tonnage.''",
     "pages": [
@@ -1815,8 +1815,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1827,9 +1827,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060327"
+      "1806-03-27"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, Making appropriations for the support of the military establishment of the United States, for the year one thousand eight hundred and six.",
     "pages": [
@@ -1842,8 +1842,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1854,9 +1854,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060327"
+      "1806-03-27"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, Making appropriation for the support of the navy of the United States during the year one thousand eight hundred and six.",
     "pages": [
@@ -1869,8 +1869,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1881,9 +1881,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060327"
+      "1806-03-27"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Saturday next. A Bill, To prohibit the introduction of slaves into the Mississippi territory, and the territory of Orleans.",
     "pages": [
@@ -1896,8 +1896,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1908,9 +1908,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060328"
+      "1806-03-28"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, For fortifying the ports and harbours of the United States, and for building gun-boats.",
     "pages": [
@@ -1919,8 +1919,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1931,9 +1931,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060328"
+      "1806-03-28"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, Supplementary to an act, entitled ''An act more effectually to provide for the organization of the militia of the district of Columbia.''",
     "pages": [
@@ -1950,8 +1950,8 @@
         "page": 3
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1962,9 +1962,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060328"
+      "1806-03-28"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, Incorporating an institution in the city of Washington, in the district of Columbia, of the education of youth, and the promotion and diffusion of learning and science; and granting to the same certain public lots within the said city.",
     "pages": [
@@ -1977,8 +1977,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -1989,9 +1989,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060329"
+      "1806-03-29"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, Concerning the public grounds within the limits of the city of Washington, in the district of Columbia.",
     "pages": [
@@ -2004,8 +2004,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2016,9 +2016,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060329"
+      "1806-03-29"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to whom was committed on the 18th instant, the ''bill to provide for the adjustment of titles of land in the territory of Michigan, and for other purposes.'' A bill, To amend the act, entitled ''An act to divide the Indiana Territory into two separate governments,'' and for other purposes.",
     "pages": [
@@ -2047,8 +2047,8 @@
         "page": 6
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2059,9 +2059,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060329"
+      "1806-03-29"
     ],
     "description": "Read the first and second time, and committed to the Committee of the whole House, to whom was committed on the 18th instant, the ''bill to provide for the adjustment of titles of land in the territory of Michigan, and for other purposes.'' A Bill, Supplementary to the act intituled ''An act to extend jurisdiction in certain cases to the territorial courts.''",
     "pages": [
@@ -2070,8 +2070,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2082,9 +2082,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060329"
+      "1806-03-29"
     ],
     "description": "Read the first and second time, and committed to the committee of the whole House, on Tuesday next. A Bill Authorizing the proprietors of squares and lots in the city of Washington to have the same subdivided, and admitted to record.",
     "pages": [
@@ -2105,8 +2105,8 @@
         "page": 4
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2117,9 +2117,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060329"
+      "1806-03-29"
     ],
     "description": "Read the first and second time, and committed to the committee of the whole House, on Tuesday next. A Bill, In addition to an act, intituled ''An act regulating the grants of land and providing for the disposal of the lands of the United States, south of the state of Tennessee.''",
     "pages": [
@@ -2144,8 +2144,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2156,9 +2156,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060402"
+      "1806-04-02"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, Supplementary to the act making provision for the payment of claims of citizens of the United States on the government of France.",
     "pages": [
@@ -2167,8 +2167,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2179,9 +2179,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060402"
+      "1806-04-02"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, Supplementary to the act, intituled ''An act making provision for the redemption of the whole of the public debt of the United States.'' Whereas it is desirable to adapt the nature of the provision for the redemption of the public debt to the present circumstances of the United States; which can only be done by a voluntary subscription on the part of the creditors.",
     "pages": [
@@ -2214,8 +2214,8 @@
         "page": 7
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2226,9 +2226,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060404"
+      "1806-04-04"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, Laying a duty on copper therein described.",
     "pages": [
@@ -2237,8 +2237,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2249,9 +2249,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060404"
+      "1806-04-04"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. The committee, to whom was referred a resolution of the 29th March, 1806, have, according to order, had the same under consideration, and beg leave to offer the following bill, as their report: A Bill, Concerning the further safeguard of merchant vessels in the vicinity of the United States.",
     "pages": [
@@ -2264,8 +2264,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2276,9 +2276,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060405"
+      "1806-04-05"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Thursday next. A Bill, Respecting the claims to land in the Indiana territory and state of Ohio.",
     "pages": [
@@ -2295,8 +2295,8 @@
         "page": 3
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2307,9 +2307,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060411"
+      "1806-04-11"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, Making appropriations for carrying into effect certain Indian treaties.",
     "pages": [
@@ -2322,8 +2322,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2334,9 +2334,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060411"
+      "1806-04-11"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, Making appropriations for carrying into effect a treaty between the United States and Chickasaw tribe of Indians",
     "pages": [
@@ -2349,8 +2349,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2361,9 +2361,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060415"
+      "1806-04-15"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, Repealing the acts laying duties on salt, and continuing in force, for a further time, the first section of the act, entitled, ''An act further to protect the commerce and seamen of the United States, against the Barbary powers.''",
     "pages": [
@@ -2376,8 +2376,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2388,9 +2388,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060416"
+      "1806-04-16"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, Adding to and amending the different acts of February twenty-seventh, and March third, eighteen hundred and one, and May third, eighteen hundred and two, ''concerning the district of Columbia,''and the act of March third, eighteen hundred and five, intituled ''An act to amend the charter of George-town.''",
     "pages": [
@@ -2415,8 +2415,8 @@
         "page": 5
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2427,9 +2427,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18060417"
+      "1806-04-17"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. An Act, In addition to the act establishing a mint, and regulating the coins of the United States.",
     "pages": [
@@ -2446,8 +2446,8 @@
         "page": 3
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2458,9 +2458,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18061204"
+      "1806-12-04"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, To suspend the operation of an act, intituled ''An act to prohibit the importation of certain goods, wares and merchandise,'' and to remit the penalties incurred under the same.",
     "pages": [
@@ -2469,8 +2469,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2481,9 +2481,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18061209"
+      "1806-12-09"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Friday next. A Bill, To revive and make permanent ''An act to prescribe the mode of taking evidence in cases of contested election for members of the house of representatives of the United States, and to compel the attendance of witnesses,'' and in addition to the same.",
     "pages": [
@@ -2496,8 +2496,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2508,9 +2508,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18061209"
+      "1806-12-09"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Thursday next. A Bill, Authorizing the erection of a bridge over the river Potomac, with in the district of Columbia.",
     "pages": [
@@ -2563,8 +2563,8 @@
         "page": 12
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2575,9 +2575,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18061215"
+      "1806-12-15"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Wednesday next. A Bill, To prohibit the importation or bringing of slaves into the United States, or the territories thereof, after the thirty-first day of December, 1807.",
     "pages": [
@@ -2598,8 +2598,8 @@
         "page": 4
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2610,9 +2610,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18061216"
+      "1806-12-16"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Friday next. A Bill, To change the name of the district of Nanjemoy to that of St. Mary.",
     "pages": [
@@ -2621,8 +2621,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2633,9 +2633,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18061217"
+      "1806-12-17"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A bill, Supplementary to the act, intituled ''An act regulating the grants of land appropriated for the refugees from the British provinces of Canada and Nova Scotia.''",
     "pages": [
@@ -2644,8 +2644,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2656,9 +2656,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18061218"
+      "1806-12-18"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, To incorporate the trustees of the Baptist church, in the city of Washington.",
     "pages": [
@@ -2679,8 +2679,8 @@
         "page": 4
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2691,9 +2691,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18061218"
+      "1806-12-18"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, Providing for the punishment of certain crimes against the United States.",
     "pages": [
@@ -2710,8 +2710,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2722,9 +2722,9 @@
     "committees": [
       "Committee the of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18061219"
+      "1806-12-19"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, To revive and continue in force an act, intituled ''An act for the relief of the refugees from the British provinces of Canada and Nova Scotia.''",
     "pages": [
@@ -2733,8 +2733,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2743,9 +2743,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070108"
+      "1807-01-08"
     ],
     "description": "Engrossed for a third reading. A Bill, To prohibit the importation or bringing of slaves into the United States, or the territories thereof, after the thirty-first day of December, one thousand eight hundred and seven.",
     "pages": [
@@ -2766,8 +2766,8 @@
         "page": 4
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2778,9 +2778,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18061223"
+      "1806-12-23"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Friday next. A Bill, Making appropriation for the support of the navy of the United States during the year 1807.",
     "pages": [
@@ -2789,8 +2789,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2799,9 +2799,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18061223"
+      "1806-12-23"
     ],
     "description": "",
     "pages": [
@@ -2810,8 +2810,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2822,9 +2822,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18061223"
+      "1806-12-23"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, Making appropriations for the support of the military establishment of the United States, for the year 1807.",
     "pages": [
@@ -2837,8 +2837,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2849,9 +2849,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18061224"
+      "1806-12-24"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, Authorizing the proprietors of squares and lots in the city of Washington, to have the same subdivided, and admitted to record.",
     "pages": [
@@ -2872,8 +2872,8 @@
         "page": 4
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2884,9 +2884,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18061229"
+      "1806-12-29"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Friday next. A Bill, Supplementary to the act intituled ''An act making provision for the redemption of the whole of the public debt of the United States.''",
     "pages": [
@@ -2923,8 +2923,8 @@
         "page": 8
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2935,9 +2935,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18061230"
+      "1806-12-30"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, For the relief of Stephen Kingston.",
     "pages": [
@@ -2946,8 +2946,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2958,9 +2958,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18061231"
+      "1806-12-31"
     ],
     "description": "Read the first and second time, and ordered to be committed to a committee of the whole House, on Friday next. A Bill, For the relief of George Little.",
     "pages": [
@@ -2969,8 +2969,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -2981,9 +2981,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070102"
+      "1807-01-02"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Thursday next. A Bill, For the encouragement of learning, and for the promotion of the useful arts.",
     "pages": [
@@ -3052,8 +3052,8 @@
         "page": 16
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3064,9 +3064,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070105"
+      "1807-01-05"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Thursday next. A Bill, To extend the power of granting writs of injunction to the judges of the district courts of the United States.",
     "pages": [
@@ -3075,8 +3075,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3087,9 +3087,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070105"
+      "1807-01-05"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, For the relief of Anthony Benezet and others.",
     "pages": [
@@ -3098,8 +3098,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3110,9 +3110,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070106"
+      "1807-01-06"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, To provide for surveying the coasts of the United States.",
     "pages": [
@@ -3125,8 +3125,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3137,9 +3137,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070106"
+      "1807-01-06"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, Authorizing the president to lease the public ground in the city of Washington.",
     "pages": [
@@ -3148,8 +3148,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3160,9 +3160,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070107"
+      "1807-01-07"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, Authorizing the president of the United States to accept the service of a number of volunteer companies not exceeding thirty thousand men.",
     "pages": [
@@ -3179,8 +3179,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3191,9 +3191,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070107"
+      "1807-01-07"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Friday next. A Bill, Repealing the acts laying duties on salt, and continuing in force, for a further time, the first section of the act, entitled ''An act further to protect the commerce and seamen of the United States, against the Barbary powers.''",
     "pages": [
@@ -3206,8 +3206,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3218,9 +3218,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070109"
+      "1807-01-09"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Wednesday next. A Bill, To ascertain and provide for the salaries of the judges of the orphans courts, in the district of Columbia.",
     "pages": [
@@ -3229,8 +3229,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3241,9 +3241,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070109"
+      "1807-01-09"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Wednesday next. A Bill, To continue in force, for a further time, an act entitled ''An act to suspend the commercial intercourse between the United States and certain parts of the island of St. Domingo.''",
     "pages": [
@@ -3252,8 +3252,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3264,9 +3264,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070112"
+      "1807-01-12"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, To annex certain shores and waters to the district of Mississippi.",
     "pages": [
@@ -3279,8 +3279,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3291,9 +3291,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070112"
+      "1807-01-12"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, Authorizing the issuing of debentures in certain cases.",
     "pages": [
@@ -3306,8 +3306,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3318,9 +3318,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070112"
+      "1807-01-12"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, For the relief of Edmund Briggs.",
     "pages": [
@@ -3329,8 +3329,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3341,9 +3341,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070112"
+      "1807-01-12"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, To incorporate a company for making a turnpike road from the west end of Mason's causeway, to Alexandria.",
     "pages": [
@@ -3400,8 +3400,8 @@
         "page": 13
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3412,9 +3412,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070112"
+      "1807-01-12"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Wednesday next. A Bill, Authorizing a grant of land for the use of a hospital at Natchez, allowing an additional compensation to the judges of the Mississippi territory, and extending the right of suffrage therein.",
     "pages": [
@@ -3427,8 +3427,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3439,9 +3439,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070113"
+      "1807-01-13"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Thursday next. A Bill, For incorporating the Protestant Episcopal church of the town of Alexandria, in the district of Columbia.",
     "pages": [
@@ -3450,8 +3450,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3460,9 +3460,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070113"
+      "1807-01-13"
     ],
     "description": "",
     "pages": [
@@ -3487,8 +3487,8 @@
         "page": 6
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3499,9 +3499,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070114"
+      "1807-01-14"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Friday next. A Bill, Making provision for the disposal of the public lands, situated between the United States military tract and the Connecticut reserve, and for other purposes.",
     "pages": [
@@ -3518,8 +3518,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3530,9 +3530,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070114"
+      "1807-01-14"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, Authorizing the erection of certain light-houses, and the fixing of stakes, buoys and beacons at certain places therein named.",
     "pages": [
@@ -3549,8 +3549,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3561,9 +3561,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070115"
+      "1807-01-15"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, For the defence of the mouth of the Mississippi, and for the protection of New Orleans, and its dependencies.",
     "pages": [
@@ -3572,8 +3572,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3584,9 +3584,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070116"
+      "1807-01-16"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, Making farther provision for the disposal of the section of land heretofore reserved for the future disposition of congress.",
     "pages": [
@@ -3595,8 +3595,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3607,9 +3607,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070119"
+      "1807-01-19"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Thursday next. A Bill, Prescribing the effect of records of judgments and decrees of courts of one state, in another state.",
     "pages": [
@@ -3622,8 +3622,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3634,9 +3634,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070120"
+      "1807-01-20"
     ],
     "description": "Amendatory. Read the first and second time, and committed to a committee of the whole House, on Friday next. A Bill, To prohibit the importation, or bringing of slaves into the United States, or the territories thereof, after the thirty first day of December next.",
     "pages": [
@@ -3665,8 +3665,8 @@
         "page": 6
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3677,9 +3677,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070121"
+      "1807-01-21"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, For the relief of Edward Weld and Samuel Beebee.",
     "pages": [
@@ -3688,8 +3688,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3700,9 +3700,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070122"
+      "1807-01-22"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, For the relief of the sufferers by fire, in the tow of Portsmouth, New Hampshire.",
     "pages": [
@@ -3715,8 +3715,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3727,9 +3727,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070122"
+      "1807-01-22"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, Providing for the payment of the expense incurred by the military preparations for the defence of the territory of Michigan, against hostile Indians, in the year 1806.",
     "pages": [
@@ -3738,8 +3738,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3750,9 +3750,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070123"
+      "1807-01-23"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, Making compensation to Messrs. Lewis and Clarke and their companions.",
     "pages": [
@@ -3765,8 +3765,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3777,9 +3777,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070127"
+      "1807-01-27"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, Further supplementary to the act, intituled ''An act concerning the district of Columbia.",
     "pages": [
@@ -3788,8 +3788,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3800,9 +3800,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070127"
+      "1807-01-27"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, Supplementary to an act, intituled ''An act more effectually to provide for the organization of the militia of the district of Columbia.''",
     "pages": [
@@ -3819,8 +3819,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3831,9 +3831,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070127"
+      "1807-01-27"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Thursday next. A Bill, Incorporating an institution in the city of Washington, in the district of Columbia, for the education of youth, and the promotion and diffusion of learning and science; and granting to the same certain public lots within the said city.",
     "pages": [
@@ -3850,8 +3850,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3862,9 +3862,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070127"
+      "1807-01-27"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Friday next. A Bill, Making appropriations for carrying into effect a treaty between the United States and Chickasaw tribe of Indians.",
     "pages": [
@@ -3881,8 +3881,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3893,9 +3893,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070128"
+      "1807-01-28"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Friday next. A Bill, Making compensation for extra services to the governor, judges and secretary of the indiana territory.",
     "pages": [
@@ -3904,8 +3904,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3916,9 +3916,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070128"
+      "1807-01-28"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, To extend the time for locating Virginia military warrants, and for returning the surveys thereon to the office of the secretary of the department of war.",
     "pages": [
@@ -3927,8 +3927,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3939,9 +3939,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070129"
+      "1807-01-29"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, For the relief of Stephen Sayre.",
     "pages": [
@@ -3950,8 +3950,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -3962,9 +3962,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070203"
+      "1807-02-03"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Friday next. A Bill, Respecting claims to land in the territories of Orleans and Louisiana.",
     "pages": [
@@ -3993,8 +3993,8 @@
         "page": 6
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4005,9 +4005,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070203"
+      "1807-02-03"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Friday next. A Bill, For the relief of Edward Toppan, William Currier, and George Jenkins.",
     "pages": [
@@ -4016,8 +4016,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4028,9 +4028,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070204"
+      "1807-02-04"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Friday next. A Bill, To provide for the payment of certain expenses incurred in the impeachment of Samuel Chase.",
     "pages": [
@@ -4039,8 +4039,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4051,9 +4051,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070204"
+      "1807-02-04"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, Respecting seizures made under the authority of the United States, and for other purposes.",
     "pages": [
@@ -4066,8 +4066,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4078,9 +4078,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070205"
+      "1807-02-05"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, Making appropriation for finishing the South Wing of the Capitol, and for other purposes.",
     "pages": [
@@ -4089,8 +4089,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4101,9 +4101,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070207"
+      "1807-02-07"
     ],
     "description": "Read the first and second time, and ordered to be committed to a committee of the whole House, on Monday next. A Bill, For fortifying the ports and harbors of the United States.",
     "pages": [
@@ -4112,8 +4112,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4124,9 +4124,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070209"
+      "1807-02-09"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Wednesday next. A Bill, Authorizing vessels from places beyond the cape of Good Hope, to enter at Plymouth; and establishing a port of delivery at Agusta, in the district of Maine.",
     "pages": [
@@ -4135,8 +4135,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4147,9 +4147,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070209"
+      "1807-02-09"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, For the relief of Daniel S. Dexter.",
     "pages": [
@@ -4158,8 +4158,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4170,9 +4170,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070212"
+      "1807-02-12"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Saturday next. A Bill, Authorizing patents to issue for lands located and surveyed, by virtue of certain Virginia resolution warrants.",
     "pages": [
@@ -4185,8 +4185,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4197,9 +4197,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070213"
+      "1807-02-13"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Monday next. A Bill, Supplementary to the act, entitled ''An act to prohibit the importation of certain goods, wares and merchandise.",
     "pages": [
@@ -4212,8 +4212,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4224,9 +4224,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070213"
+      "1807-02-13"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Tuesday next. A Bill, In addition to the act entitled ''An act supplementary to the act entitled 'An act making provision for the redemption of the whole of the public debt of the United States.''",
     "pages": [
@@ -4243,8 +4243,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4255,9 +4255,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070216"
+      "1807-02-16"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, to-morrow. A Bill, To alter and establish certain post-roads, and for other purposes.",
     "pages": [
@@ -4282,8 +4282,8 @@
         "page": 5
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4294,9 +4294,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070216"
+      "1807-02-16"
     ],
     "description": "Read the first and second time, and ordered to be committed to a committee of the whole House, on Wednesday next. A Bill, Making appropriations for the support of government during the year one thousand eight hundred and seven.",
     "pages": [
@@ -4345,8 +4345,8 @@
         "page": 11
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4357,9 +4357,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070216"
+      "1807-02-16"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Wednesday next. A Bill, For the establishment of a turnpike company in the county of Alexandria, ind the district of Columbia.",
     "pages": [
@@ -4404,8 +4404,8 @@
         "page": 10
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4416,9 +4416,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070217"
+      "1807-02-17"
     ],
     "description": "Read the first and second time, and committed to a committee of the whole House, on Saturday next. A Bill, Further to regulate the grants of land, south of the state of Tennessee.",
     "pages": [
@@ -4435,8 +4435,8 @@
         "page": 3
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4447,9 +4447,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070218"
+      "1807-02-18"
     ],
     "description": "Read the first and second time, and referred to a committee of the whole House, on Friday next. A Bill, Allowing an additional compensation to the secretaries and judges of the territories of Indiana, Louisiana and Michigan.",
     "pages": [
@@ -4458,8 +4458,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4470,9 +4470,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070218"
+      "1807-02-18"
     ],
     "description": "Read the first and second time, and referred to a committee of the whole House, to-morrow. A Bill, Authorizing the settlement of the accounts between the United States and William Eaton.",
     "pages": [
@@ -4481,8 +4481,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4493,9 +4493,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070219"
+      "1807-02-19"
     ],
     "description": "Read the first and second time, and referred to a committee of the whole House, to-morrow. A Bill, To explain the act, entitled ''An act fixing the rank and pay of the commanding officer of the corps of marines''",
     "pages": [
@@ -4504,8 +4504,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4516,9 +4516,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070220"
+      "1807-02-20"
     ],
     "description": "Read the first and second time, and referred to a committee of the whole House, to-morrow. A Bill, For the relief of Isaac Briggs.",
     "pages": [
@@ -4527,8 +4527,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4539,9 +4539,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070220"
+      "1807-02-20"
     ],
     "description": "Read the first and second time, and referred to a committee of the whole House, on Monday next. A Bill, For the relief of Rinaldo Johnson.",
     "pages": [
@@ -4550,8 +4550,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4562,9 +4562,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070220"
+      "1807-02-20"
     ],
     "description": "Read the first and second time, and referred to a committee of the whole House, to-morrow. A Bill, In addition to an act, intituled ''An act in addition to an act, intituled ''An act supplementary to the act providing for a naval peace establishment, and for other purposes.''",
     "pages": [
@@ -4573,8 +4573,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4585,9 +4585,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070221"
+      "1807-02-21"
     ],
     "description": "Read the first and second time, and referred to a committee of the whole House, on Monday next. A Bill, For the relief of Oliver Pollock.",
     "pages": [
@@ -4596,8 +4596,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4608,9 +4608,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070224"
+      "1807-02-24"
     ],
     "description": "Read the first and second time, and referred to a committee of the whole House, to-morrow. A Bill, Disapproving of an act passed by the governor and judges of the territory of Michigan, intituled ''An act concerning the bank of Detroit.''",
     "pages": [
@@ -4619,8 +4619,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4631,9 +4631,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070224"
+      "1807-02-24"
     ],
     "description": "Read the first and second time, and referred to a committee of the whole House, to-morrow. A Bill, Authorizing the discharge of Gilbert Drake, from his imprisonment.",
     "pages": [
@@ -4642,8 +4642,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4654,9 +4654,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070224"
+      "1807-02-24"
     ],
     "description": "Read the first and second time, and referred to a committee of the whole House, to-morrow. A Bill, Making appropriations for carrying into effect certain treaties with the Cherokee and Piankeshaw tribes of Indians.",
     "pages": [
@@ -4665,8 +4665,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4677,9 +4677,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070225"
+      "1807-02-25"
     ],
     "description": "Read the first and second time, and referred to a committee of the whole House, to-morrow. A Bill, To amend the act, intitled ''An ac to regulate and fix the compensation of clerks, and to authorize the laying out of certain public roads, and for other purposes.''",
     "pages": [
@@ -4708,8 +4708,8 @@
         "page": 6
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4720,9 +4720,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070227"
+      "1807-02-27"
     ],
     "description": "Read the first and second time, and referred to a committee of the whole House, to-morrow. A Bill, To explain the act, entitled ''An act to prohibit the importation of slaves into any port or place within the jurisdiction of the United States, from and after the first day of January, in the year of our Lord, one thousand eight hundred and eight.''",
     "pages": [
@@ -4735,8 +4735,8 @@
         "page": 2
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -4745,9 +4745,9 @@
     "chamber": "h",
     "collection": "llhb",
     "committees": [],
-    "congress": "009",
+    "congress": 9,
     "dates": [
-      "18070227"
+      "1807-02-27"
     ],
     "description": "An Act, To prohibit the importation of slaves into any port or place within the jurisdiction of the United States, from and after the first day of January, in the year of our Lord one thousand eight hundred and eight.",
     "pages": [
@@ -4756,7 +4756,7 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   }
 ]

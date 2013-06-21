@@ -8,9 +8,9 @@
     "committees": [
       "Committee of the Whole House"
     ],
-    "congress": "026",
+    "congress": 26,
     "dates": [
-      "18400404"
+      "1840-04-04"
     ],
     "description": "Committed to a Committee of the Whole House to-morrow. Mr. Curtis, from the committee to which had been referred the joint resolution of the Senate, No. 1, authorizing the President to cause certain surveys to be made, reported the same without amendment: Joint Resolution Authorizing the President of the United States to cause certain surveys to be made.",
     "pages": [
@@ -19,8 +19,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "026"
+    "session": 1,
+    "volume": 26
   },
   {
     "bill_numbers": [
@@ -31,10 +31,10 @@
     "committees": [
       "Committee on Commerce"
     ],
-    "congress": "026",
+    "congress": 26,
     "dates": [
-      "18391227",
-      "18391230"
+      "1839-12-27",
+      "1839-12-30"
     ],
     "description": "Agreeably to notice, Mr. Norvell asked and obtained leave to bring in the following joint resolution; which was read twice, and referred to the Committee of Commerce. Joint Resolution Authorizing the President of the United States to cause certain surveys to be made.",
     "pages": [
@@ -43,8 +43,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "026"
+    "session": 1,
+    "volume": 26
   },
   {
     "bill_numbers": [
@@ -53,9 +53,9 @@
     "chamber": "s",
     "collection": "llsr",
     "committees": [],
-    "congress": "026",
+    "congress": 26,
     "dates": [
-      "18391230"
+      "1839-12-30"
     ],
     "description": "Introduced on leave, by Mr. Tappan; read, passed to a second reading, and ordered to be printed. Joint Resolution Proposing an amendment to the Constitution of the United States, so as to limit the term of office of the Judges of the Supreme and inferior courts.",
     "pages": [
@@ -64,8 +64,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "026"
+    "session": 1,
+    "volume": 26
   },
   {
     "bill_numbers": [
@@ -76,9 +76,9 @@
     "committees": [
       "Joint Committee on the Library"
     ],
-    "congress": "026",
+    "congress": 26,
     "dates": [
-      "18400305"
+      "1840-03-05"
     ],
     "description": "Mr. Wall, from the Joint Committee on the Library, submitted a Report (No. 251), accompanied by the following joint resolution; which was read, and passed to a second reading. Joint Resolution Authorizing the delivery, to the Librarian of Congress, of eight hundred and ninety copies of the Madison Papers, in fulfilment of a contract with Langtree and O'Sullivan.",
     "pages": [
@@ -87,8 +87,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "026"
+    "session": 1,
+    "volume": 26
   },
   {
     "bill_numbers": [
@@ -99,9 +99,9 @@
     "committees": [
       "Committee on the Post Office and Post Roads"
     ],
-    "congress": "026",
+    "congress": 26,
     "dates": [
-      "18400316"
+      "1840-03-16"
     ],
     "description": "Mr. Robinson, from the Committee on the Post Office and Post Roads, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution To authorize the transmission of certain documents free of postage.",
     "pages": [
@@ -110,8 +110,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "026"
+    "session": 1,
+    "volume": 26
   },
   {
     "bill_numbers": [
@@ -120,9 +120,9 @@
     "chamber": "s",
     "collection": "llsr",
     "committees": [],
-    "congress": "026",
+    "congress": 26,
     "dates": [
-      "18400331"
+      "1840-03-31"
     ],
     "description": "Mr. Linn, from the Select Committee, appointed on the subject, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution To authorize the adoption of measures for the occupation and settlement of the Territory of Oregon.",
     "pages": [
@@ -135,8 +135,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "026"
+    "session": 1,
+    "volume": 26
   },
   {
     "bill_numbers": [
@@ -145,9 +145,9 @@
     "chamber": "s",
     "collection": "llsr",
     "committees": [],
-    "congress": "026",
+    "congress": 26,
     "dates": [
-      "18400309"
+      "1840-03-09"
     ],
     "description": "Mr. Preston, by unanimous consent, asked and obtained leave to introduce the following joint resolution; which was read and passed to a second reading. Joint Resolution Concerning the statue of of Washington, by Greenough.",
     "pages": [
@@ -156,8 +156,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "026"
+    "session": 1,
+    "volume": 26
   },
   {
     "bill_numbers": [
@@ -168,9 +168,9 @@
     "committees": [
       "Committee on the District of Columbia"
     ],
-    "congress": "026",
+    "congress": 26,
     "dates": [
-      "18400414"
+      "1840-04-14"
     ],
     "description": "Mr. Merrick, from the Committee on the District of Columbia, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution Authorizing the purchase, for the use of the United States, of the banking-house of the Bank of Alexandria.",
     "pages": [
@@ -179,8 +179,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "026"
+    "session": 1,
+    "volume": 26
   },
   {
     "bill_numbers": [
@@ -191,9 +191,9 @@
     "committees": [
       "Committee on the Library"
     ],
-    "congress": "026",
+    "congress": 26,
     "dates": [
-      "18400630"
+      "1840-06-30"
     ],
     "description": "Mr. Tappan, from the Committee on the Library, to whom had been recommitted the joint resolution for the relief of Langtree and O'Sullivan, reported the following as a substitute therefor; which was read, and ordered to be printed. Joint Resolution For the relief of Langtree and O'Sullivan.",
     "pages": [
@@ -210,8 +210,8 @@
         "page": 3
       }
     ],
-    "session": "001",
-    "volume": "026"
+    "session": 1,
+    "volume": 26
   },
   {
     "bill_numbers": [
@@ -222,9 +222,9 @@
     "committees": [
       "Committee on the Library"
     ],
-    "congress": "026",
+    "congress": 26,
     "dates": [
-      "18400415"
+      "1840-04-15"
     ],
     "description": "Mr. Tappan, from the Committee on the Library, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution For the relief of Langtree and O'Sullivan.",
     "pages": [
@@ -237,8 +237,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "026"
+    "session": 1,
+    "volume": 26
   },
   {
     "bill_numbers": [
@@ -249,10 +249,10 @@
     "committees": [
       "Committee on Finance"
     ],
-    "congress": "026",
+    "congress": 26,
     "dates": [
-      "18400515",
-      "18400622"
+      "1840-05-15",
+      "1840-06-22"
     ],
     "description": "Mr. Wright, from the Committee on Finance, reported the following joint resolution; which was read and passed to a second reading. Ordered to be reprinted, with the amendments proposed by the Committee on Finance, viz: insert the words printed in italics. Joint Resolution To authorize the Secretary of the Treasury to extend further indulgence to the late deposite banks.",
     "pages": [
@@ -261,8 +261,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "026"
+    "session": 1,
+    "volume": 26
   },
   {
     "bill_numbers": [
@@ -271,10 +271,10 @@
     "chamber": "s",
     "collection": "llsr",
     "committees": [],
-    "congress": "026",
+    "congress": 26,
     "dates": [
-      "18400515",
-      "18400622"
+      "1840-05-15",
+      "1840-06-22"
     ],
     "description": "",
     "pages": [
@@ -283,8 +283,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "026"
+    "session": 1,
+    "volume": 26
   },
   {
     "bill_numbers": [
@@ -293,10 +293,10 @@
     "chamber": "s",
     "collection": "llsr",
     "committees": [],
-    "congress": "026",
+    "congress": 26,
     "dates": [
-      "18400515",
-      "18400622"
+      "1840-05-15",
+      "1840-06-22"
     ],
     "description": "",
     "pages": [
@@ -305,8 +305,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "026"
+    "session": 1,
+    "volume": 26
   },
   {
     "bill_numbers": [
@@ -317,9 +317,9 @@
     "committees": [
       "Committee on Finance"
     ],
-    "congress": "026",
+    "congress": 26,
     "dates": [
-      "18400515"
+      "1840-05-15"
     ],
     "description": "Mr. Wright, from the Committee on Finance, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution To authorize the Secretary of the Treasury to extend further indulgence to the late deposite banks.",
     "pages": [
@@ -332,8 +332,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "026"
+    "session": 1,
+    "volume": 26
   },
   {
     "bill_numbers": [
@@ -344,9 +344,9 @@
     "committees": [
       "Committee on Military Affairs"
     ],
-    "congress": "026",
+    "congress": 26,
     "dates": [
-      "18400518"
+      "1840-05-18"
     ],
     "description": "Mr. Preston, from the Committee on Military Affairs, reported the following joint resolution; which was read and passed to a second reading. Joint Resolution Directing the return to the State of Kentucky of one hundred and ninety-five stand of arms.",
     "pages": [
@@ -355,8 +355,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "026"
+    "session": 1,
+    "volume": 26
   },
   {
     "bill_numbers": [
@@ -367,9 +367,9 @@
     "committees": [
       "Committee on the Library"
     ],
-    "congress": "026",
+    "congress": 26,
     "dates": [
-      "18400520"
+      "1840-05-20"
     ],
     "description": "Mr. Tappan, from the Committee on the Library, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution For the distribution of seven hundred copies of the Digest of Patents.",
     "pages": [
@@ -382,8 +382,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "026"
+    "session": 1,
+    "volume": 26
   },
   {
     "bill_numbers": [
@@ -394,10 +394,10 @@
     "committees": [
       "Committee on Finance"
     ],
-    "congress": "026",
+    "congress": 26,
     "dates": [
-      "18400527",
-      "18400622"
+      "1840-05-27",
+      "1840-06-22"
     ],
     "description": "Agreeably to notice, Mr. Henderson asked and obtained leave to bring in the following joint resolution; which was read twice, and referred to the Committee on Finance. Reported without amendment. Joint Resolution For the relief of the sufferers at Natchez, by the tornado of May seven, eighteen hundred and forty.",
     "pages": [
@@ -406,8 +406,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "026"
+    "session": 1,
+    "volume": 26
   },
   {
     "bill_numbers": [
@@ -416,10 +416,10 @@
     "chamber": "s",
     "collection": "llsr",
     "committees": [],
-    "congress": "026",
+    "congress": 26,
     "dates": [
-      "18400527",
-      "18400622"
+      "1840-05-27",
+      "1840-06-22"
     ],
     "description": "",
     "pages": [
@@ -428,8 +428,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "026"
+    "session": 1,
+    "volume": 26
   },
   {
     "bill_numbers": [
@@ -440,9 +440,9 @@
     "committees": [
       "Committee on the Library"
     ],
-    "congress": "026",
+    "congress": 26,
     "dates": [
-      "18400605"
+      "1840-06-05"
     ],
     "description": "Mr. Preston, from the Committee on the Library, submitted a report (No. 521), accompanied by the following joint resolution; which was read, and passed to a second reading. Joint Resolution Authorizing the exchange of duplicate works in the library of Congress.",
     "pages": [
@@ -451,8 +451,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "026"
+    "session": 1,
+    "volume": 26
   },
   {
     "bill_numbers": [
@@ -463,9 +463,9 @@
     "committees": [
       "Committee on Naval Affairs"
     ],
-    "congress": "026",
+    "congress": 26,
     "dates": [
-      "18400622"
+      "1840-06-22"
     ],
     "description": "Mr. Williams, from the Committee on Naval Affairs, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution To authorize the Secretary of the Navy to purchase repeating rifles and pistols for the use of the navy.",
     "pages": [
@@ -474,8 +474,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "026"
+    "session": 1,
+    "volume": 26
   },
   {
     "bill_numbers": [
@@ -486,10 +486,10 @@
     "committees": [
       "Committee on Finance"
     ],
-    "congress": "026",
+    "congress": 26,
     "dates": [
-      "18400708",
-      "18400714"
+      "1840-07-08",
+      "1840-07-14"
     ],
     "description": "Agreeably to notice, Mr. Henderson asked and obtained leave to introduce the following joint resolution; which was read twice, and referred to the Committee on Finance. Reported without amendment, and recommended to be indefinitely postponed. Joint Resolution For the relief of the West Feliciana Railroad Company.",
     "pages": [
@@ -498,8 +498,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "026"
+    "session": 1,
+    "volume": 26
   },
   {
     "bill_numbers": [
@@ -510,9 +510,9 @@
     "committees": [
       "Committee on Roads and Canals"
     ],
-    "congress": "026",
+    "congress": 26,
     "dates": [
-      "18400711"
+      "1840-07-11"
     ],
     "description": "Mr. Merrick, from the Committee on Roads and Canals, reported the following joint resolution; which was read, and passed to a second reading. Joint Resolution Directing the transfer to the State of Maryland of the stock in the Chesapeake and Ohio Canal, standing in the name of the United States, upon certain conditions.",
     "pages": [
@@ -525,7 +525,7 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "026"
+    "session": 1,
+    "volume": 26
   }
 ]

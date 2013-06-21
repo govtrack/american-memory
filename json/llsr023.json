@@ -8,9 +8,9 @@
     "committees": [
       "Joint Library Committee"
     ],
-    "congress": "023",
+    "congress": 23,
     "dates": [
-      "18340506"
+      "1834-05-06"
     ],
     "description": "Mr. Robbins, from the Joint Library Committee, reported the following resolution; which was read, and passed to a second reading: Joint Resolution To purchase five hundred copies of the History of Congress, by Carey, Lea, and Blanchard.",
     "pages": [
@@ -19,8 +19,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -31,9 +31,9 @@
     "committees": [
       "Joint Library Committee"
     ],
-    "congress": "023",
+    "congress": 23,
     "dates": [
-      "18340506"
+      "1834-05-06"
     ],
     "description": "Mr. Robbins, from the Joint Library Committee, reported the following resolution; which was read, and passed to a second reading: Joint Resolution To supply deficiencies in the reports of the decisions of the Supreme Court, the acts of Congress, the public documents furnished to Judges of Territories and other officers.",
     "pages": [
@@ -42,8 +42,8 @@
         "page": 1
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -54,9 +54,9 @@
     "committees": [
       "Committee on Naval Affairs"
     ],
-    "congress": "023",
+    "congress": 23,
     "dates": [
-      "18340616"
+      "1834-06-16"
     ],
     "description": "Mr. Robbins, from the Committee on Naval Affairs, reported the following resolution; which was read, and passed to a second reading: Joint Resolution Directing the adjustment of the claims of the heirs of the late Robert Fulton.",
     "pages": [
@@ -69,8 +69,8 @@
         "page": 2
       }
     ],
-    "session": "001",
-    "volume": "023"
+    "session": 1,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -81,10 +81,10 @@
     "committees": [
       "Committee on the Library"
     ],
-    "congress": "023",
+    "congress": 23,
     "dates": [
-      "18341215",
-      "18350112"
+      "1834-12-15",
+      "1835-01-12"
     ],
     "description": "Agreeably to notice, Mr. Robbins asked and obtained leave to introduce the following resolution; which was read twice, and referred to the Committee on the Library. Joint Resolution To purchase five hundred copies of the History of Congress, by Carey, Lea, and Blanchard.",
     "pages": [
@@ -93,8 +93,8 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   },
   {
     "bill_numbers": [
@@ -105,11 +105,11 @@
     "committees": [
       "Committee on the Judiciary"
     ],
-    "congress": "023",
+    "congress": 23,
     "dates": [
-      "18350202",
-      "18350203",
-      "18350211"
+      "1835-02-02",
+      "1835-02-03",
+      "1835-02-11"
     ],
     "description": "Introduced, on leave, by Mr. Benton; read, and passed to a second reading. Read a second time, and referred to the Committee on the Judiciary. Committee discharged from the further consideration of this resolution. A Joint Resolution To repeal the resolutions heretofore adopted for the election of public printers.",
     "pages": [
@@ -118,7 +118,7 @@
         "page": 1
       }
     ],
-    "session": "002",
-    "volume": "023"
+    "session": 2,
+    "volume": 23
   }
 ]
