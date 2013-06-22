@@ -14,7 +14,11 @@
     "pages": [
       {
         "image": "00010000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/018/0000/00010000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=018/llsr018.db&recNum=0",
+        "page": null,
+        "record_number": 1,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/018/0000/00010000.gif"
       }
     ],
     "session": 2,

@@ -16,7 +16,11 @@
     "pages": [
       {
         "image": "00010000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/021/0000/00010000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=021/llsr021.db&recNum=0",
+        "page": null,
+        "record_number": 1,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/021/0000/00010000.gif"
       }
     ],
     "session": 1,
@@ -39,7 +43,11 @@
     "pages": [
       {
         "image": "00020000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/021/0000/00020000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=021/llsr021.db&recNum=1",
+        "page": null,
+        "record_number": 2,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/021/0000/00020000.gif"
       }
     ],
     "session": 2,

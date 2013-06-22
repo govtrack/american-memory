@@ -18,7 +18,11 @@
     "pages": [
       {
         "image": "00010000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00010000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=0",
+        "page": null,
+        "record_number": 1,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00010000.gif"
       }
     ],
     "session": 1,
@@ -42,7 +46,11 @@
     "pages": [
       {
         "image": "00020000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00020000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=1",
+        "page": null,
+        "record_number": 2,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00020000.gif"
       }
     ],
     "session": 1,
@@ -66,7 +74,11 @@
     "pages": [
       {
         "image": "00030000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00030000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=2",
+        "page": null,
+        "record_number": 3,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00030000.gif"
       }
     ],
     "session": 1,
@@ -90,7 +102,11 @@
     "pages": [
       {
         "image": "00040000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00040000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=3",
+        "page": null,
+        "record_number": 4,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00040000.gif"
       }
     ],
     "session": 1,
@@ -113,7 +129,11 @@
     "pages": [
       {
         "image": "00050000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00050000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=4",
+        "page": null,
+        "record_number": 5,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00050000.gif"
       }
     ],
     "session": 1,
@@ -137,19 +157,35 @@
     "pages": [
       {
         "image": "00060000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00060000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=5",
+        "page": null,
+        "record_number": 6,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00060000.gif"
       },
       {
         "image": "00070002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00070002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=6",
+        "page": 2,
+        "record_number": 7,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00070002.gif"
       },
       {
         "image": "00080003.tif",
-        "page": 3
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00080003.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=7",
+        "page": 3,
+        "record_number": 8,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00080003.gif"
       },
       {
         "image": "00090004.tif",
-        "page": 4
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00090004.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=8",
+        "page": 4,
+        "record_number": 9,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00090004.gif"
       }
     ],
     "session": 1,
@@ -172,11 +208,19 @@
     "pages": [
       {
         "image": "00100000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00100000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=9",
+        "page": null,
+        "record_number": 10,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00100000.gif"
       },
       {
         "image": "00110002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00110002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=10",
+        "page": 2,
+        "record_number": 11,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00110002.gif"
       }
     ],
     "session": 1,
@@ -199,15 +243,27 @@
     "pages": [
       {
         "image": "00120000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00120000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=11",
+        "page": null,
+        "record_number": 12,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00120000.gif"
       },
       {
         "image": "00130002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00130002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=12",
+        "page": 2,
+        "record_number": 13,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00130002.gif"
       },
       {
         "image": "00140003.tif",
-        "page": 3
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00140003.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=13",
+        "page": 3,
+        "record_number": 14,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00140003.gif"
       }
     ],
     "session": 1,
@@ -231,7 +287,11 @@
     "pages": [
       {
         "image": "00150000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00150000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=14",
+        "page": null,
+        "record_number": 15,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00150000.gif"
       }
     ],
     "session": 1,
@@ -255,7 +315,11 @@
     "pages": [
       {
         "image": "00160000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00160000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=15",
+        "page": null,
+        "record_number": 16,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00160000.gif"
       }
     ],
     "session": 2,
@@ -278,11 +342,19 @@
     "pages": [
       {
         "image": "00170000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00170000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=16",
+        "page": null,
+        "record_number": 17,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00170000.gif"
       },
       {
         "image": "00180002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00180002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=17",
+        "page": 2,
+        "record_number": 18,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00180002.gif"
       }
     ],
     "session": 1,
@@ -305,11 +377,19 @@
     "pages": [
       {
         "image": "00190000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00190000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=18",
+        "page": null,
+        "record_number": 19,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00190000.gif"
       },
       {
         "image": "00200002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00200002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=19",
+        "page": 2,
+        "record_number": 20,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00200002.gif"
       }
     ],
     "session": 1,
@@ -333,11 +413,19 @@
     "pages": [
       {
         "image": "00210000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00210000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=20",
+        "page": null,
+        "record_number": 21,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00210000.gif"
       },
       {
         "image": "00220002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00220002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=21",
+        "page": 2,
+        "record_number": 22,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00220002.gif"
       }
     ],
     "session": 1,
@@ -363,11 +451,19 @@
     "pages": [
       {
         "image": "00230000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00230000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=22",
+        "page": null,
+        "record_number": 23,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00230000.gif"
       },
       {
         "image": "00240002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00240002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=23",
+        "page": 2,
+        "record_number": 24,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00240002.gif"
       }
     ],
     "session": 1,
@@ -391,11 +487,19 @@
     "pages": [
       {
         "image": "00250000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00250000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=24",
+        "page": null,
+        "record_number": 25,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00250000.gif"
       },
       {
         "image": "00260002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00260002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=25",
+        "page": 2,
+        "record_number": 26,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00260002.gif"
       }
     ],
     "session": 1,
@@ -419,11 +523,19 @@
     "pages": [
       {
         "image": "00270000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00270000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=26",
+        "page": null,
+        "record_number": 27,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00270000.gif"
       },
       {
         "image": "00280002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00280002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=27",
+        "page": 2,
+        "record_number": 28,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00280002.gif"
       }
     ],
     "session": 1,
@@ -446,7 +558,11 @@
     "pages": [
       {
         "image": "00290000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00290000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=28",
+        "page": null,
+        "record_number": 29,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00290000.gif"
       }
     ],
     "session": 1,
@@ -470,7 +586,11 @@
     "pages": [
       {
         "image": "00300000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00300000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=29",
+        "page": null,
+        "record_number": 30,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00300000.gif"
       }
     ],
     "session": 1,
@@ -494,7 +614,11 @@
     "pages": [
       {
         "image": "00310000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00310000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=30",
+        "page": null,
+        "record_number": 31,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00310000.gif"
       }
     ],
     "session": 1,
@@ -517,27 +641,51 @@
     "pages": [
       {
         "image": "00320000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00320000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=31",
+        "page": null,
+        "record_number": 32,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00320000.gif"
       },
       {
         "image": "00330002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00330002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=32",
+        "page": 2,
+        "record_number": 33,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00330002.gif"
       },
       {
         "image": "00340003.tif",
-        "page": 3
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00340003.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=33",
+        "page": 3,
+        "record_number": 34,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00340003.gif"
       },
       {
         "image": "00350004.tif",
-        "page": 4
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00350004.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=34",
+        "page": 4,
+        "record_number": 35,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00350004.gif"
       },
       {
         "image": "00360005.tif",
-        "page": 5
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00360005.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=35",
+        "page": 5,
+        "record_number": 36,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00360005.gif"
       },
       {
         "image": "00370006.tif",
-        "page": 6
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00370006.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=36",
+        "page": 6,
+        "record_number": 37,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00370006.gif"
       }
     ],
     "session": 1,
@@ -560,11 +708,19 @@
     "pages": [
       {
         "image": "00380000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00380000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=37",
+        "page": null,
+        "record_number": 38,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00380000.gif"
       },
       {
         "image": "00390002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00390002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=38",
+        "page": 2,
+        "record_number": 39,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00390002.gif"
       }
     ],
     "session": 1,
@@ -588,15 +744,27 @@
     "pages": [
       {
         "image": "00400000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00400000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=39",
+        "page": null,
+        "record_number": 40,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00400000.gif"
       },
       {
         "image": "00410002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00410002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=40",
+        "page": 2,
+        "record_number": 41,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00410002.gif"
       },
       {
         "image": "00420003.tif",
-        "page": 3
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00420003.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=41",
+        "page": 3,
+        "record_number": 42,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00420003.gif"
       }
     ],
     "session": 1,
@@ -619,7 +787,11 @@
     "pages": [
       {
         "image": "00430000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00430000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=42",
+        "page": null,
+        "record_number": 43,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00430000.gif"
       }
     ],
     "session": 1,
@@ -643,7 +815,11 @@
     "pages": [
       {
         "image": "00440000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00440000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=43",
+        "page": null,
+        "record_number": 44,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00440000.gif"
       }
     ],
     "session": 1,
@@ -667,11 +843,19 @@
     "pages": [
       {
         "image": "00450000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00450000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=44",
+        "page": null,
+        "record_number": 45,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00450000.gif"
       },
       {
         "image": "00460002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00460002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=45",
+        "page": 2,
+        "record_number": 46,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00460002.gif"
       }
     ],
     "session": 2,
@@ -695,7 +879,11 @@
     "pages": [
       {
         "image": "00470000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00470000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=46",
+        "page": null,
+        "record_number": 47,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00470000.gif"
       }
     ],
     "session": 1,
@@ -718,7 +906,11 @@
     "pages": [
       {
         "image": "00480000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00480000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=47",
+        "page": null,
+        "record_number": 48,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00480000.gif"
       }
     ],
     "session": 1,
@@ -742,11 +934,19 @@
     "pages": [
       {
         "image": "00490000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00490000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=48",
+        "page": null,
+        "record_number": 49,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00490000.gif"
       },
       {
         "image": "00500002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00500002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=49",
+        "page": 2,
+        "record_number": 50,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00500002.gif"
       }
     ],
     "session": 1,
@@ -770,7 +970,11 @@
     "pages": [
       {
         "image": "00510000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00510000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=50",
+        "page": null,
+        "record_number": 51,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00510000.gif"
       }
     ],
     "session": 1,
@@ -794,7 +998,11 @@
     "pages": [
       {
         "image": "00520000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00520000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=51",
+        "page": null,
+        "record_number": 52,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00520000.gif"
       }
     ],
     "session": 1,
@@ -818,7 +1026,11 @@
     "pages": [
       {
         "image": "00530000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00530000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=52",
+        "page": null,
+        "record_number": 53,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00530000.gif"
       }
     ],
     "session": 1,
@@ -842,7 +1054,11 @@
     "pages": [
       {
         "image": "00540000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00540000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=53",
+        "page": null,
+        "record_number": 54,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00540000.gif"
       }
     ],
     "session": 1,
@@ -865,11 +1081,19 @@
     "pages": [
       {
         "image": "00550000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00550000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=54",
+        "page": null,
+        "record_number": 55,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00550000.gif"
       },
       {
         "image": "00560002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00560002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=55",
+        "page": 2,
+        "record_number": 56,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00560002.gif"
       }
     ],
     "session": 1,
@@ -892,7 +1116,11 @@
     "pages": [
       {
         "image": "00570000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00570000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=56",
+        "page": null,
+        "record_number": 57,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00570000.gif"
       }
     ],
     "session": 1,
@@ -915,7 +1143,11 @@
     "pages": [
       {
         "image": "00580000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00580000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=57",
+        "page": null,
+        "record_number": 58,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00580000.gif"
       }
     ],
     "session": 1,
@@ -939,7 +1171,11 @@
     "pages": [
       {
         "image": "00590000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00590000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=58",
+        "page": null,
+        "record_number": 59,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00590000.gif"
       }
     ],
     "session": 1,
@@ -962,11 +1198,19 @@
     "pages": [
       {
         "image": "00600000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00600000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=59",
+        "page": null,
+        "record_number": 60,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00600000.gif"
       },
       {
         "image": "00610002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00610002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=60",
+        "page": 2,
+        "record_number": 61,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00610002.gif"
       }
     ],
     "session": 1,
@@ -990,7 +1234,11 @@
     "pages": [
       {
         "image": "00620000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00620000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=61",
+        "page": null,
+        "record_number": 62,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00620000.gif"
       }
     ],
     "session": 1,
@@ -1014,11 +1262,19 @@
     "pages": [
       {
         "image": "00630000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00630000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=62",
+        "page": null,
+        "record_number": 63,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00630000.gif"
       },
       {
         "image": "00640002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00640002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=63",
+        "page": 2,
+        "record_number": 64,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00640002.gif"
       }
     ],
     "session": 1,
@@ -1042,7 +1298,11 @@
     "pages": [
       {
         "image": "00650000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00650000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=64",
+        "page": null,
+        "record_number": 65,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00650000.gif"
       }
     ],
     "session": 1,
@@ -1065,11 +1325,19 @@
     "pages": [
       {
         "image": "00660000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00660000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=65",
+        "page": null,
+        "record_number": 66,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00660000.gif"
       },
       {
         "image": "00670002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00670002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=66",
+        "page": 2,
+        "record_number": 67,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00670002.gif"
       }
     ],
     "session": 1,
@@ -1094,11 +1362,19 @@
     "pages": [
       {
         "image": "00680000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00680000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=67",
+        "page": null,
+        "record_number": 68,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00680000.gif"
       },
       {
         "image": "00690002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00690002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=68",
+        "page": 2,
+        "record_number": 69,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00690002.gif"
       }
     ],
     "session": 1,
@@ -1122,7 +1398,11 @@
     "pages": [
       {
         "image": "00700000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00700000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=69",
+        "page": null,
+        "record_number": 70,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00700000.gif"
       }
     ],
     "session": 2,
@@ -1143,11 +1423,19 @@
     "pages": [
       {
         "image": "00710000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00710000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=70",
+        "page": null,
+        "record_number": 71,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00710000.gif"
       },
       {
         "image": "00720002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00720002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=71",
+        "page": 2,
+        "record_number": 72,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00720002.gif"
       }
     ],
     "session": 1,
@@ -1171,7 +1459,11 @@
     "pages": [
       {
         "image": "00730000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00730000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=72",
+        "page": null,
+        "record_number": 73,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00730000.gif"
       }
     ],
     "session": 2,
@@ -1194,11 +1486,19 @@
     "pages": [
       {
         "image": "00740000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00740000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=73",
+        "page": null,
+        "record_number": 74,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00740000.gif"
       },
       {
         "image": "00750002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00750002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=74",
+        "page": 2,
+        "record_number": 75,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00750002.gif"
       }
     ],
     "session": 1,
@@ -1222,7 +1522,11 @@
     "pages": [
       {
         "image": "00760000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00760000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=75",
+        "page": null,
+        "record_number": 76,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00760000.gif"
       }
     ],
     "session": 1,
@@ -1243,11 +1547,19 @@
     "pages": [
       {
         "image": "00770000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00770000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=76",
+        "page": null,
+        "record_number": 77,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00770000.gif"
       },
       {
         "image": "00780002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00780002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=77",
+        "page": 2,
+        "record_number": 78,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00780002.gif"
       }
     ],
     "session": 1,
@@ -1268,35 +1580,67 @@
     "pages": [
       {
         "image": "00790000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00790000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=78",
+        "page": null,
+        "record_number": 79,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00790000.gif"
       },
       {
         "image": "00800002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00800002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=79",
+        "page": 2,
+        "record_number": 80,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00800002.gif"
       },
       {
         "image": "00810003.tif",
-        "page": 3
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00810003.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=80",
+        "page": 3,
+        "record_number": 81,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00810003.gif"
       },
       {
         "image": "00820004.tif",
-        "page": 4
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00820004.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=81",
+        "page": 4,
+        "record_number": 82,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00820004.gif"
       },
       {
         "image": "00830005.tif",
-        "page": 5
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00830005.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=82",
+        "page": 5,
+        "record_number": 83,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00830005.gif"
       },
       {
         "image": "00840006.tif",
-        "page": 6
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00840006.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=83",
+        "page": 6,
+        "record_number": 84,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00840006.gif"
       },
       {
         "image": "00850007.tif",
-        "page": 7
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00850007.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=84",
+        "page": 7,
+        "record_number": 85,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00850007.gif"
       },
       {
         "image": "00860008.tif",
-        "page": 8
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00860008.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=85",
+        "page": 8,
+        "record_number": 86,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00860008.gif"
       }
     ],
     "session": 2,
@@ -1319,11 +1663,19 @@
     "pages": [
       {
         "image": "00870000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00870000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=86",
+        "page": null,
+        "record_number": 87,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00870000.gif"
       },
       {
         "image": "00880002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00880002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=87",
+        "page": 2,
+        "record_number": 88,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00880002.gif"
       }
     ],
     "session": 2,
@@ -1347,11 +1699,19 @@
     "pages": [
       {
         "image": "00890000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00890000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=88",
+        "page": null,
+        "record_number": 89,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00890000.gif"
       },
       {
         "image": "00900002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00900002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=89",
+        "page": 2,
+        "record_number": 90,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00900002.gif"
       }
     ],
     "session": 2,
@@ -1374,11 +1734,19 @@
     "pages": [
       {
         "image": "00910000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00910000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=90",
+        "page": null,
+        "record_number": 91,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00910000.gif"
       },
       {
         "image": "00920002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00920002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=91",
+        "page": 2,
+        "record_number": 92,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00920002.gif"
       }
     ],
     "session": 2,
@@ -1402,11 +1770,19 @@
     "pages": [
       {
         "image": "00930000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00930000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=92",
+        "page": null,
+        "record_number": 93,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00930000.gif"
       },
       {
         "image": "00940002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00940002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=93",
+        "page": 2,
+        "record_number": 94,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00940002.gif"
       }
     ],
     "session": 2,
@@ -1430,11 +1806,19 @@
     "pages": [
       {
         "image": "00950000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00950000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=94",
+        "page": null,
+        "record_number": 95,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00950000.gif"
       },
       {
         "image": "00960002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00960002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=95",
+        "page": 2,
+        "record_number": 96,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00960002.gif"
       }
     ],
     "session": 2,
@@ -1457,11 +1841,19 @@
     "pages": [
       {
         "image": "00970000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00970000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=96",
+        "page": null,
+        "record_number": 97,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00970000.gif"
       },
       {
         "image": "00980002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00980002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=97",
+        "page": 2,
+        "record_number": 98,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00980002.gif"
       }
     ],
     "session": 2,
@@ -1484,11 +1876,19 @@
     "pages": [
       {
         "image": "00990000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00990000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=98",
+        "page": null,
+        "record_number": 99,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0000/00990000.gif"
       },
       {
         "image": "01000002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01000002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=99",
+        "page": 2,
+        "record_number": 100,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01000002.gif"
       }
     ],
     "session": 2,
@@ -1512,11 +1912,19 @@
     "pages": [
       {
         "image": "01010000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01010000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=100",
+        "page": null,
+        "record_number": 101,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01010000.gif"
       },
       {
         "image": "01020002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01020002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=101",
+        "page": 2,
+        "record_number": 102,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01020002.gif"
       }
     ],
     "session": 2,
@@ -1539,15 +1947,27 @@
     "pages": [
       {
         "image": "01030000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01030000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=102",
+        "page": null,
+        "record_number": 103,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01030000.gif"
       },
       {
         "image": "01040002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01040002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=103",
+        "page": 2,
+        "record_number": 104,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01040002.gif"
       },
       {
         "image": "01050003.tif",
-        "page": 3
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01050003.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=104",
+        "page": 3,
+        "record_number": 105,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01050003.gif"
       }
     ],
     "session": 2,
@@ -1568,11 +1988,19 @@
     "pages": [
       {
         "image": "01060000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01060000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=105",
+        "page": null,
+        "record_number": 106,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01060000.gif"
       },
       {
         "image": "01070002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01070002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=106",
+        "page": 2,
+        "record_number": 107,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01070002.gif"
       }
     ],
     "session": 2,
@@ -1593,7 +2021,11 @@
     "pages": [
       {
         "image": "01080003.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01080003.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=107",
+        "page": null,
+        "record_number": 108,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01080003.gif"
       }
     ],
     "session": 2,
@@ -1617,7 +2049,11 @@
     "pages": [
       {
         "image": "01090000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01090000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=108",
+        "page": null,
+        "record_number": 109,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01090000.gif"
       }
     ],
     "session": 2,
@@ -1638,7 +2074,11 @@
     "pages": [
       {
         "image": "01100000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01100000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=109",
+        "page": null,
+        "record_number": 110,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01100000.gif"
       }
     ],
     "session": 2,
@@ -1659,15 +2099,27 @@
     "pages": [
       {
         "image": "01110000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01110000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=110",
+        "page": null,
+        "record_number": 111,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01110000.gif"
       },
       {
         "image": "01120002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01120002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=111",
+        "page": 2,
+        "record_number": 112,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01120002.gif"
       },
       {
         "image": "01130003.tif",
-        "page": 3
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01130003.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=112",
+        "page": 3,
+        "record_number": 113,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01130003.gif"
       }
     ],
     "session": 2,
@@ -1691,7 +2143,11 @@
     "pages": [
       {
         "image": "01140000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01140000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=113",
+        "page": null,
+        "record_number": 114,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01140000.gif"
       }
     ],
     "session": 2,
@@ -1714,11 +2170,19 @@
     "pages": [
       {
         "image": "01150000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01150000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=114",
+        "page": null,
+        "record_number": 115,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01150000.gif"
       },
       {
         "image": "01160002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01160002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=115",
+        "page": 2,
+        "record_number": 116,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01160002.gif"
       }
     ],
     "session": 2,
@@ -1743,27 +2207,51 @@
     "pages": [
       {
         "image": "01170000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01170000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=116",
+        "page": null,
+        "record_number": 117,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01170000.gif"
       },
       {
         "image": "01180002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01180002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=117",
+        "page": 2,
+        "record_number": 118,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01180002.gif"
       },
       {
         "image": "01190003.tif",
-        "page": 3
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01190003.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=118",
+        "page": 3,
+        "record_number": 119,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01190003.gif"
       },
       {
         "image": "01200004.tif",
-        "page": 4
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01200004.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=119",
+        "page": 4,
+        "record_number": 120,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01200004.gif"
       },
       {
         "image": "01210005.tif",
-        "page": 5
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01210005.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=120",
+        "page": 5,
+        "record_number": 121,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01210005.gif"
       },
       {
         "image": "01220006.tif",
-        "page": 6
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01220006.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=121",
+        "page": 6,
+        "record_number": 122,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01220006.gif"
       }
     ],
     "session": 2,
@@ -1786,11 +2274,19 @@
     "pages": [
       {
         "image": "01230000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01230000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=122",
+        "page": null,
+        "record_number": 123,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01230000.gif"
       },
       {
         "image": "01240002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01240002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=123",
+        "page": 2,
+        "record_number": 124,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01240002.gif"
       }
     ],
     "session": 2,
@@ -1813,11 +2309,19 @@
     "pages": [
       {
         "image": "01250000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01250000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=124",
+        "page": null,
+        "record_number": 125,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01250000.gif"
       },
       {
         "image": "01260002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01260002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=125",
+        "page": 2,
+        "record_number": 126,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01260002.gif"
       }
     ],
     "session": 2,
@@ -1841,7 +2345,11 @@
     "pages": [
       {
         "image": "01270000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01270000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=126",
+        "page": null,
+        "record_number": 127,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01270000.gif"
       }
     ],
     "session": 2,
@@ -1864,7 +2372,11 @@
     "pages": [
       {
         "image": "01280000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01280000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=127",
+        "page": null,
+        "record_number": 128,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01280000.gif"
       }
     ],
     "session": 2,
@@ -1887,7 +2399,11 @@
     "pages": [
       {
         "image": "01290000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01290000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=128",
+        "page": null,
+        "record_number": 129,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01290000.gif"
       }
     ],
     "session": 2,
@@ -1910,11 +2426,19 @@
     "pages": [
       {
         "image": "01300000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01300000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=129",
+        "page": null,
+        "record_number": 130,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01300000.gif"
       },
       {
         "image": "01310002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01310002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=130",
+        "page": 2,
+        "record_number": 131,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01310002.gif"
       }
     ],
     "session": 2,
@@ -1937,11 +2461,19 @@
     "pages": [
       {
         "image": "01320000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01320000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=131",
+        "page": null,
+        "record_number": 132,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01320000.gif"
       },
       {
         "image": "01330002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01330002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=132",
+        "page": 2,
+        "record_number": 133,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01330002.gif"
       }
     ],
     "session": 2,
@@ -1964,7 +2496,11 @@
     "pages": [
       {
         "image": "01340000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01340000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=133",
+        "page": null,
+        "record_number": 134,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01340000.gif"
       }
     ],
     "session": 2,
@@ -1987,7 +2523,11 @@
     "pages": [
       {
         "image": "01350000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01350000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=134",
+        "page": null,
+        "record_number": 135,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01350000.gif"
       }
     ],
     "session": 2,
@@ -2012,19 +2552,35 @@
     "pages": [
       {
         "image": "01360000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01360000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=135",
+        "page": null,
+        "record_number": 136,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01360000.gif"
       },
       {
         "image": "01370002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01370002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=136",
+        "page": 2,
+        "record_number": 137,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01370002.gif"
       },
       {
         "image": "01380003.tif",
-        "page": 3
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01380003.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=137",
+        "page": 3,
+        "record_number": 138,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01380003.gif"
       },
       {
         "image": "01390004.tif",
-        "page": 4
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01390004.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=138",
+        "page": 4,
+        "record_number": 139,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01390004.gif"
       }
     ],
     "session": 2,
@@ -2047,11 +2603,19 @@
     "pages": [
       {
         "image": "01400000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01400000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=139",
+        "page": null,
+        "record_number": 140,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01400000.gif"
       },
       {
         "image": "01410002.tif",
-        "page": 2
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01410002.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=140",
+        "page": 2,
+        "record_number": 141,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01410002.gif"
       }
     ],
     "session": 2,
@@ -2075,7 +2639,11 @@
     "pages": [
       {
         "image": "01420000.tif",
-        "page": 1
+        "large_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01420000.tif",
+        "link": "http://memory.loc.gov/cgi-bin/ampage?collId=llsr&fileName=038/llsr038.db&recNum=141",
+        "page": null,
+        "record_number": 142,
+        "small_image_url": "http://memory.loc.gov/ll/llsr/038/0100/01420000.gif"
       }
     ],
     "session": 2,
